@@ -9,49 +9,49 @@ global.app_bar.account: Cuenta
 global.app_bar.login: Login
 global.app_bar.settings: Ajustes
 global.app_bar.language: Idioma
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
-global.tag.music: Music
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
+global.app_bar.report: 'Reporte {}'
+global.app_bar.categories: Categorías
+global.tag.music: Música
+global.tag.pokemon: Pokémon #KEEP AS IS
+global.tag.soundboard: Tablero de Sonido
+global.tag.moderation: Moderación
 global.tag.minecraft: Minecraft #KEEP AS IS
 global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.fun: Diversión
+global.tag.economy: Economía
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
+global.tag.game: Juegos
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.leveling: Niveles
+global.tag.roleplay: Juego de Rol
+global.tag.logging: Registros
+global.tag.utility: Utilidad
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Multipropósito
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Gráficos más
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.contact: 'Contacto: support@discordbots.app'
+global.footer.info: Discord Bots App no está afiliado con Discord o cualquiera de las listas de Bot soportadas.
 global.login_alert.title: Login
 global.login_alert.cancel.button: Cancelar
 global.login_alert.login.button: Login
-global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn\'t take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
+global.rate_dialog.title: Califica Discord Bots
+global.rate_dialog.subtitle: Si te gusta esta aplicación, por favor toma un momento de tu tiempo para dejar un comentario! Nos ayudaría mucho y no debería tomarte mas de un minuto.
+global.rate_dialog.button.rate: EVALUAR
+global.rate_dialog.button.no_thanks: NO GRACIAS
+global.rate_dialog.button.maybe_later: QUIZÁS DESPUÉS
+view.bot.add.button: AGREGAR
 view.bot.chip.prefix: 'Prefijo: {}'
 view.bot.chip.servers: '{} servidores'
 view.bot.chip.server: '{} servidor'
 view.bot.chip.votes: '{} votos'
 view.bot.chip.vote: '{} voto'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy Id
+view.bot.menu.report: Reportar
+view.bot.menu.copy_id: Copiar ID
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Hide
 view.bot.menu.hide.alert_dialog.title: 'Hide {}'
