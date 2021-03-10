@@ -40,7 +40,7 @@ global.login_alert.title: Login
 global.login_alert.cancel.button: Cancel
 global.login_alert.login.button: Login
 global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn\'t take you more than one minute.
+global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
 global.rate_dialog.button.no_thanks: NO THANKS
 global.rate_dialog.button.maybe_later: MAYBE LATER
@@ -51,7 +51,7 @@ view.bot.chip.server: '{} server'
 view.bot.chip.votes: '{} votes'
 view.bot.chip.vote: '{} vote'
 view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy Id
+view.bot.menu.copy_id: Copy ID
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Hide
 view.bot.menu.hide.alert_dialog.title: 'Hide {}'
