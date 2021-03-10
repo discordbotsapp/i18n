@@ -23,9 +23,9 @@ global.tag.social: Social
 global.tag.fun: Diversión
 global.tag.economy: Economía
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Juegos
+global.tag.game: Juego
 global.tag.meme: Meme
-global.tag.leveling: Niveles
+global.tag.leveling: Nivelando
 global.tag.roleplay: Juego de Rol
 global.tag.logging: Registros
 global.tag.utility: Utilidad
@@ -40,7 +40,7 @@ global.login_alert.title: Login
 global.login_alert.cancel.button: Cancelar
 global.login_alert.login.button: Login
 global.rate_dialog.title: Califica Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
+global.rate_dialog.subtitle: Si te gusta esta aplicación, por favor toma un momento de tu tiempo para dejar un comentario! Nos ayudaría mucho y no debería tomarte mas de un minuto.
 global.rate_dialog.button.rate: EVALUAR
 global.rate_dialog.button.no_thanks: NO GRACIAS
 global.rate_dialog.button.maybe_later: QUIZÁS DESPUÉS
@@ -51,7 +51,7 @@ view.bot.chip.server: '{} servidor'
 view.bot.chip.votes: '{} votos'
 view.bot.chip.vote: '{} voto'
 view.bot.menu.report: Reportar
-view.bot.menu.copy_id: Copy ID
+view.bot.menu.copy_id: Copiar ID
 view.bot.menu.copy_id.snack_bar: Copiado el ID de {}
 view.bot.menu.hide: Ocultar
 view.bot.menu.hide.alert_dialog.title: 'Ocultar {}'
