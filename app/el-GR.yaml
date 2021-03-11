@@ -1,165 +1,165 @@
 ---
 global.title: Discord Bots
-global.navbar.explore: Explore
-global.navbar.top_charts: Top Charts
-global.navbar.account: Account
-global.app_bar.explore: Explore
-global.app_bar.top_charts: Top Charts
-global.app_bar.account: Account
-global.app_bar.login: Login
-global.app_bar.settings: Settings
-global.app_bar.language: Language
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
-global.tag.music: Music
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
+global.navbar.explore: Εξερεύνηση
+global.navbar.top_charts: Κορυφαία Λίστα
+global.navbar.account: Λογαριασμός
+global.app_bar.explore: Εξερεύνηση
+global.app_bar.top_charts: Κορυφαία Λίστα
+global.app_bar.account: Λογαριασμός
+global.app_bar.login: Είσοδος
+global.app_bar.settings: Ρυθμίσεις
+global.app_bar.language: Γλώσσα
+global.app_bar.report: 'Αναφορά {}'
+global.app_bar.categories: Κατηγορίες
+global.tag.music: Μουσική
+global.tag.pokemon: Pokémon #KEEP AS IS
+global.tag.soundboard: Πίνακας Ήχου
+global.tag.moderation: Διαχείριση
 global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
+global.tag.trivia: Τρίβια
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.social: Κοινωνικά
+global.tag.fun: Διασκέδαση
+global.tag.economy: Οικονομία
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
+global.tag.game: Παιχνίδια
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.leveling: Επιπέδων
+global.tag.roleplay: Παιχνίδια Ρόλων
+global.tag.logging: Καταγραφής
+global.tag.utility: Εργαλεία
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Πολλαπλών Χρήσεων
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Login
-global.login_alert.cancel.button: Cancel
-global.login_alert.login.button: Login
-global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
+global.tag.top_charts: Κορυφαία Λίστα
+global.footer.contact: 'Επικοινώνησε: support@discordbots.app'
+global.footer.info: Η εφαρμογή Discord Bots δεν συσχετίζεται με το Discord ή οποιαδήποτε από τις λίστες Discord Bots που υποστηρίζονται.
+global.login_alert.title: Είσοδος
+global.login_alert.cancel.button: Ακύρωση
+global.login_alert.login.button: Είσοδος
+global.rate_dialog.title: Αξιολογήστε το Discord Bots
+global.rate_dialog.subtitle: Αν σας αρέσει η εφαρμογή, παρακαλούμε παραχωρήσετε λίγο από τον χρόνο σας για να την αξιοποιήσετε! Πραγματικά μας βοηθάει και δεν παίρνει πάνω από ένα λεπτό.
+global.rate_dialog.button.rate: ΑΞΙΟΛΟΓΉΣΤΕ
+global.rate_dialog.button.no_thanks: ΌΧΙ ΕΥΧΑΡΙΣΤΏ
+global.rate_dialog.button.maybe_later: ΊΣΩΣ ΑΡΓΌΤΕΡΑ
+view.bot.add.button: ΠΡΟΣΘΉΚΗ
 view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
-view.explore.title: Explore
-view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
-view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.see_all.button: See All
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Support Server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.terms_and_conditions.button: Terms & Conditions
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
-view.account.settings.button: Settings
-view.my_bots.title: My Bots
+view.bot.chip.servers: '{} διακομιστές'
+view.bot.chip.server: '{} διακομιστής'
+view.bot.chip.votes: '{} ψήφοι'
+view.bot.chip.vote: 'Ψήφισε'
+view.bot.menu.report: Αναφορά
+view.bot.menu.copy_id: Αντιγραφή Ταυτότητας
+view.bot.menu.copy_id.snack_bar: Η ταυτότητα του {}'s αντιγράφηκε
+view.bot.menu.hide: Απόκρυψη
+view.bot.menu.hide.alert_dialog.title: Απόκρυψη {}
+view.bot.menu.hide.alert_dialog.text: 'Είστε βέβαιοι ότι θέλετε να κρύψετε {};'
+view.bot.menu.hide.alert_dialog.cancel.button: Ακύρωση
+view.bot.menu.hide.alert_dialog.yes.button: 'Ναι'
+view.bot.website.button: Ιστοσελίδα
+view.bot.support_server.button: Διακομιστής Υποστήριξης
+view.bot.vote.button: Ψηφίστε
+view.bot.favorite.login_alert: Πρέπει να συνδεθείτε για να προσθέσετε αυτό το bot στα αγαπημένα σας.
+view.bot.report.login_alert: Πρέπει να είστε συνδεδεμένοι για να αναφέρετε αυτό το bot.
+view.bot.hide.login_alert: Πρέπει να συνδεθείτε στο λογαριασμό σας για να κρύψετε αυτό το bot.
+view.bot.copy.snackbar: Η ταυτότητα του {}'s αντιγράφηκε
+view.report.report_reason.title: Αιτία Αναφοράς
+view.report.report_reason.hint: Επιλέξτε μια αιτία
+view.report.report_reason.empty: Παρακαλώ επιλέξτε μια αιτία
+view.report.additional_information.title: Πρόσθετες Πληροφορίες
+view.report.additional_information.hint: Εισάγετε τις πρόσθετες λεπτομέρειες εδώ...
+view.report.additional_information.empty: Παρακαλώ επιλέξτε μια αιτία
+view.report.submit.button: Υποβολή
+view.report.report_reason.dropdown.option1: Ακατάλληλο/Περιεχόμενο NSFW
+view.report.report_reason.dropdown.option2: Εκτός σύνδεσης για μεγάλο χρονικό διάστημα
+view.report.report_reason.dropdown.option3: Λανθασμένα χαρακτηριστικά και περιγραφή
+view.report.report_reason.dropdown.option4: Το bot δεν λειτουργεί
+view.report.report_reason.dropdown.option5: Ο σύνδεσμος πρόσκλησης δεν λειτουργεί
+view.report.report_reanos.dropdown.option6: Άλλος λόγος
+view.explore.title: Εξερεύνηση
+view.explore.featured.title: Προτεινόμενα
+view.explore.featured.subtitle: Κορυφαία bots που επαληθεύτηκαν από το Discord
+view.explore.trending.title: Τάσεις
+view.explore.trending.subtitle: Νέα bots που κερδίζουν έλξη γρήγορα
+view.explore.new.title: Καινούρια
+view.explore.new.subtitle: Bot που προστέθηκαν πρόσφατα
+view.explore.most_voted.title: Με τις περισσότερες ψήφους
+view.explore.most_voted.subtitle: Bots με τις περισσότερες ψήφους αυτό το μήνα
+view.explore.see_all.button: Προβολή όλων
+view.explore.categories.title: Εξερεύνηστε τις Κατηγορίες
+view.explore.category.subtitle: Bot στην κατηγορία {}
+view.explore.footer.support_server.button: Διακομιστής Υποστήριξης
+view.explore.footer.bug_report.button: Αναφορά Σφάλματος
+view.explore.footer.terms_and_conditions.button: Όροι & προϋποθέσεις
+view.explore.footer.privacy_policy.button: Πολιτική Απορρήτου
+view.top_charts.most_votes: Με τις περισσότερες ψήφους
+view.top_charts.most_servers: Στους περισσότερους διακομιστές
+view.top_charts.bot.subtitle.servers.plural: '{} διακομιστές'
+view.top_charts.bot.subtitle.votes.plural: '{} ψήφοι'
+view.top_charts.bot.subtitle.servers.singular: '{} διακομιστής'
+view.top_charts.bot.subtitle.votes.singular: 'Ψήφισε'
+view.account.login.guest: Επισκέπτης
+view.account.login.button: Είσοδος με Discord
+view.account.login.error: Παρουσιάστηκε σφάλμα κατά τη σύνδεσή σας. Παρακαλώ προσπαθήστε ξανά.
+view.account.login.error.button: Επιστρέψτε στη σύνδεση
+view.account.my_bots.button: Τα Bots Μου
+view.account.favorites.button: Αγαπημένα
+view.account.add_bot.button: Προσθήκη Bot
+view.account.remove_ads.button: Κατάργηση διαφημίσεων
+view.account.settings.button: Ρυθμίσεις
+view.my_bots.title: Τα Bots Μου
 view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
 view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
+view.favorites.title: Αγαπημένα
 view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
 view.favorites.none: You do not have any favorites
-view.add_bot.title: Add Bot
+view.add_bot.title: Προσθήκη Bot
 view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
-view.settings.language.title: Language
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
-view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: Reprot A Bug
-view.settings.account.title: Account
-view.settings.account.logout.button: Logout
-view.settings.account.logout.alert_dialog.title: Logout
-view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
-view.settings.account.logout.alert_dialog.cancel.button: Cancel
-view.settings.account.logout.alert_dialog.logout.button: Logout
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
-view.settings.data.title: Data
-view.settings.data.about.button: About
-view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
-view.settings.data.terms_and_conditions.button: Terms & Conditions
-view.settings.data.privacy_policy.button: Privacy Policy
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
-view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
+view.add_bot.note: 'Σημείωση: Το bot σας μπορεί να μην εμφανιστεί άμεσα στην εφαρμογή μετά την προσθήκη του σε άλλη λίστα με bot.'
+view.settings.theme.title: Θέμα
+view.settings.theme.system.radio: Συστήματος
+view.settings.theme.dark.radio: Σκοτεινό
+view.settings.theme.light.radio: Φωτεινό
+view.settings.language.title: Γλώσσα
+view.settings.language.placeholder: Επιλέξτε μια γλώσσα
+view.settings.support.title: Υποστήριξη
+view.settings.support.support_server.button: Διακομιστής Υποστήριξης
+view.settings.support.report_a_bug.button: Αναφέρετε ένα Σφάλμα
+view.settings.account.title: Λογαριασμός
+view.settings.account.logout.button: Αποσύνδεση
+view.settings.account.logout.alert_dialog.title: Αποσύνδεση
+view.settings.account.logout.alert_dialog.text: Είστε σίγουροι πως θέλετε να αποσυνδεθείτε;
+view.settings.account.logout.alert_dialog.cancel.button: Ακύρωση
+view.settings.account.logout.alert_dialog.logout.button: Αποσύνδεση
+view.settings.account.delete_account.button: Διαγραφή λογαριασμού
+view.settings.account.delete_account.alert_dialog.title: Διαγραφή λογαριασμού
+view.settings.account.delete_account.alert_dialog.text: Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
+view.settings.account.delete_account.alert_dialog.cancel.button: Ακύρωση
+view.settings.account.delete_account.alert_dialog.yes.button: 'Ναι'
+view.settings.data.title: Δεδομένα
+view.settings.data.about.button: Σχετικά με
+view.settings.data.about.popup.legalese: Πνευματικά δικαιώματα © 2015 Magento. Όλα τα δικαιώματα διατηρούνται.
+view.settings.data.terms_and_conditions.button: Όροι & προϋποθέσεις
+view.settings.data.privacy_policy.button: Πολιτική Απορρήτου
+view.under_maintenance.title: Υπό Συντήρηση
+view.under_maintenance.subtitle: Η εφαρμογή αυτή τη στιγμή βρίσκεται σε συντήρηση και θα είναι ξανά σύντομα. Ελέγξτε τον διακομιστή υποστήριξης για ενημερώσεις.
+view.under_maintenance.retry.button: Επανάληψη
+view.under_maintenance.support_server.button: Διακομιστής Υποστήριξης
+view.no_internet.title: Δεν υπάρχει σύνδεση στο διαδίκτυο
+view.no_internet.subtitle: Δεν βρέθηκε σύνδεση στο internet. Παρακαλώ ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά
+view.no_internet.retry: Επανάληψη
+view.bot.reported.title: Αναφέρθηκε {}
+view.bot.reported.subtitle: 'Έχετε αναφέρει με επιτυχία το {} για τον ακόλουθο λόγο:'
+view.bot.reported.button.okay: Εντάξει
 view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.search.hint: Αναζήτηση...
+view.search.title: Αναζήτηση
+view.search.subtitle.noQuery: Αναζητήστε ένα bot...
+view.search.subtitle.query: Εμφάνιση αποτελεσμάτων αναζήτησης για {}
+view.search.none: Δε βρέθηκαν αποτελέσματα
 view.welcome.title: Discord Bots
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
-view.welcome.login.button: Login with Discord
-view.welcome.skip.button: Skip for Now
+view.welcome.subtitle: Περιηγηθείτε στο {}+ Discord bots! Ξεκινήστε με τη σύνδεση του λογαριασμού σας στο Discord.
+view.welcome.login.button: Είσοδος με Discord
+view.welcome.skip.button: Παράλειψη για την ώρα
