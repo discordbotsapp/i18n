@@ -54,7 +54,7 @@ view.bot.menu.report: Denunciar
 view.bot.menu.copy_id: Copiar ID
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: 'Hide {}'
+view.bot.menu.hide.alert_dialog.title: Hide {}
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Cancelar
 view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
