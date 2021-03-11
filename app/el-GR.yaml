@@ -110,13 +110,13 @@ view.account.add_bot.button: Προσθήκη Bot
 view.account.remove_ads.button: Κατάργηση διαφημίσεων
 view.account.settings.button: Ρυθμίσεις
 view.my_bots.title: Τα Bots Μου
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
+view.my_bots.subtitle: Τα bot που ανήκουν σε εσάς. Μπορείτε να προσθέσετε το δικό σας bot κάνοντας κλικ στο κουμπί Προσθήκη bot στη σελίδα του λογαριασμού. #Keep capitalization consistent
+view.my_bots.none: Δεν σας ανήκει κανένα bot
 view.favorites.title: Αγαπημένα
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
+view.favorites.subtitle: Προσθέστε εδώ τα αγαπημένα σας bots κάνοντας κλικ στο κουμπί καρδιά στη σελίδα ενός bot
+view.favorites.none: Δεν έχετε αγαπημένα
 view.add_bot.title: Προσθήκη Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
+view.add_bot.subtitle: Προσθέστε το bot σας σε μια οποιαδηποτε λίστα bot για να το προσθέσετε αυτόματα στην εφαρμογή.
 view.add_bot.note: 'Σημείωση: Το bot σας μπορεί να μην εμφανιστεί άμεσα στην εφαρμογή μετά την προσθήκη του σε άλλη λίστα με bot.'
 view.settings.theme.title: Θέμα
 view.settings.theme.system.radio: Συστήματος

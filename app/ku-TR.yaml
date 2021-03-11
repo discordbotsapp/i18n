@@ -116,40 +116,40 @@ view.favorites.title: دڵخوازەکان
 view.favorites.subtitle: بۆتی دڵخوازت زیاد بکە بە کرتەکردن لە دوگمەی دڵ لەسەر بەشی ئەو بۆتەی کە بەدڵتە
 view.favorites.none: تۆ هیچ دڵخوازێکت نیە
 view.add_bot.title: زیادکردنی بۆت
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
+view.add_bot.subtitle: زیادکردنی بۆت بۆ لیستی ۳ـیەمی ئاهەنگی بۆت لیست بە ئاوتومایکی بۆ ناو بەرنامەکە.
+view.add_bot.note: 'تێبینی: ڕەنگە بۆتەکەت دەستبەجێ لە بەرنامەکەدا دەرنەکەوێت پاش زیادکردنی بۆتەکەت بۆ لیستەکانی تر'
+view.settings.theme.title: رووکار
+view.settings.theme.system.radio: سیستەم
+view.settings.theme.dark.radio: تاریک
+view.settings.theme.light.radio: رووناک
 view.settings.language.title: زمان
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
+view.settings.language.placeholder: زمانێک هەڵبژێرە
+view.settings.support.title: پشتگیری
 view.settings.support.support_server.button: سێرڤەری پشتگیری
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.report_a_bug.button: ڕاپۆرتکردنی هەڵە
 view.settings.account.title: هەژمار
-view.settings.account.logout.button: Logout
-view.settings.account.logout.alert_dialog.title: Logout
-view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
+view.settings.account.logout.button: دەرچوون
+view.settings.account.logout.alert_dialog.title: دەرچوون
+view.settings.account.logout.alert_dialog.text: ئایا دڵنیایت بۆ دەرچوون?
 view.settings.account.logout.alert_dialog.cancel.button: هەڵوەشاندنەوە
-view.settings.account.logout.alert_dialog.logout.button: Logout
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.logout.alert_dialog.logout.button: دەرچوون
+view.settings.account.delete_account.button: سڕینەوەی ئەژمێر
+view.settings.account.delete_account.alert_dialog.title: سڕینەوەی ئەژمێر
+view.settings.account.delete_account.alert_dialog.text: ئایا دڵنیایت لەوەی دەتەوێت ئەژمێرەکەت بسڕیتەوە? ئەم کردارە ناتوانرێت هەڵوەشرێتەوە.
 view.settings.account.delete_account.alert_dialog.cancel.button: هەڵوەشاندنەوە
 view.settings.account.delete_account.alert_dialog.yes.button: 'بەڵێ'
-view.settings.data.title: Data
-view.settings.data.about.button: About
-view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.data.title: داتا
+view.settings.data.about.button: سەبارەت
+view.settings.data.about.popup.legalese: مافی لەچەپدان و بلاوکردنەوە © ۲٠۲٠ تێتراسیێل هەموو مافەکان پارێزراون.
 view.settings.data.terms_and_conditions.button: مەرجەکان
 view.settings.data.privacy_policy.button: سیاسەتی تایبەتێتی
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.under_maintenance.title: لەژێر پەرەپێدانە
+view.under_maintenance.subtitle: بەرنامەکە لە ئێستادا لە ژێر پەرەپێدانە بەم زووانە دەگەڕێتەوە. تکایە سەردانی سێرڤەری پشتگیری بکە بۆ هەر نوێکاریەک.
+view.under_maintenance.retry.button: دووبارە هەوڵ بدە 
 view.under_maintenance.support_server.button: سێرڤەری پشتگیری
-view.no_internet.title: No Internet Connection
+view.no_internet.title: پەیوەندی ئینتەرنێت نیە
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
+view.no_internet.retry: دووبارە هەوڵ بدە 
 view.bot.reported.title: Reported {}
 view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
 view.bot.reported.button.okay: Okay
