@@ -1,0 +1,161 @@
+---
+global.title: Discord 机器人
+global.navbar.explore: 探险
+global.navbar.top_charts: 热门图标
+global.navbar.account: 户口
+global.app_bar.explore: 探险
+global.app_bar.top_charts: 热门图标
+global.app_bar.account: 户口
+global.app_bar.login: 登入
+global.app_bar.settings: 设置
+global.app_bar.language: 语言
+global.app_bar.report: '投诉 {}'
+global.app_bar.categories: 类别
+global.tag.music: 音乐
+global.tag.pokemon: 宝可梦 #KEEP AS IS
+global.tag.soundboard: 音板
+global.tag.moderation: 管理
+global.tag.minecraft: 我的世界 #KEEP AS IS
+global.tag.trivia: 琐事游戏
+global.tag.fortnite: Fortnite #KEEP AS IS
+global.tag.spotify: Spotify #KEEP AS IS
+global.tag.social: 社交
+global.tag.fun: 趣味
+global.tag.economy: 经济模拟游戏
+global.tag.anime: 动漫 #KEEP AS IS
+global.tag.game: 游戏
+global.tag.meme: 模因
+global.tag.leveling: 等级
+global.tag.roleplay: 角色扮演
+global.tag.logging: 日志记录
+global.tag.utility: 实用
+global.tag.reddit: Reddit #KEEP AS IS
+global.tag.multipurpose: 多用途
+global.tag.twitch: Twitch #KEEP AS IS
+global.tag.crypto: 加密币 #KEEP AS IS
+global.tag.top_charts: 热门图标
+global.footer.contact: '联系: support@discordbots.app'
+global.footer.info: Discord Bots 应用程序不与 Discord 或任何支持的 Discord 机器人列表连接。
+global.login_alert.title: 登入
+global.login_alert.cancel.button: 取消
+global.login_alert.login.button: 登入
+global.rate_dialog.title: 评分 Discord 机器人
+global.rate_dialog.subtitle: 如果你喜欢这个应用，请花一点时间来审阅！
+global.rate_dialog.button.rate: 评分
+global.rate_dialog.button.no_thanks: 不，谢谢
+global.rate_dialog.button.maybe_later: 之后吧
+view.bot.add.button: 添加
+view.bot.chip.prefix: '前缀：{}'
+view.bot.chip.servers: '{} 服务器'
+view.bot.chip.server: '{} 服务器'
+view.bot.chip.votes: '{} 票'
+view.bot.chip.vote: '{} 票'
+view.bot.menu.report: 举报
+view.bot.menu.copy_id: 复制ID
+view.bot.menu.copy_id.snack_bar: 已复制{}的ID
+view.bot.menu.hide: 隐藏
+view.bot.menu.hide.alert_dialog.title: '隐藏 {}'
+view.bot.menu.hide.alert_dialog.text: '您确定要隐藏 {} 吗？'
+view.bot.menu.hide.alert_dialog.cancel.button: 取消
+view.bot.menu.hide.alert_dialog.yes.button: '是'
+view.bot.website.button: 网站
+view.bot.support_server.button: 支援服务器
+view.bot.vote.button: 投票
+view.bot.favorite.login_alert: 您必须登录才能将该机器人添加到您的收藏夹。
+view.bot.report.login_alert: 您必须登录才能报告此机器人。
+view.bot.hide.login_alert: 你必须登录才能隐藏此机器人。
+view.bot.copy.snackbar: 已复制{}的ID
+view.report.report_reason.title: 举报原因
+view.report.report_reason.hint: 选择原因
+view.report.report_reason.empty: 请选择一个原因
+view.report.additional_information.title: 附加信息
+view.report.additional_information.hint: 在此输入更多详细信息...
+view.report.additional_information.empty: 请选择一个原因
+view.report.submit.button: 发送
+view.report.report_reason.dropdown.option1: 不当/ NSFW内容
+view.report.report_reason.dropdown.option2: 长时间离线
+view.report.report_reason.dropdown.option3: 误导性功能和描述
+view.report.report_reason.dropdown.option4: 机器人不可用
+view.report.report_reason.dropdown.option5: 邀請連結無效
+view.report.report_reanos.dropdown.option6: 其它原因
+view.explore.title: 探险
+view.explore.featured.title: 推荐
+view.explore.featured.subtitle: 由 Discord 验证的顶级机器人
+view.explore.trending.title: 热门
+view.explore.trending.subtitle: 正在迅速获得关注的新机器人
+view.explore.new.title: 新
+view.explore.new.subtitle: 最近新增
+view.explore.most_voted.title: 最多票数
+view.explore.most_voted.subtitle: 本月投票最多的机器人
+view.explore.see_all.button: 查看全部
+view.explore.categories.title: 探索类别
+view.explore.category.subtitle: 在 {} 类别中的机器人
+view.explore.footer.support_server.button: 支援服务器
+view.explore.footer.bug_report.button: 错误报告
+view.explore.footer.terms_and_conditions.button: 条款及细则
+view.explore.footer.privacy_policy.button: 隐私政策
+view.top_charts.most_votes: 最多票数
+view.top_charts.most_servers: 最多服务器
+view.top_charts.bot.subtitle.servers.plural: '{} 服务器'
+view.top_charts.bot.subtitle.votes.plural: '{} 票'
+view.top_charts.bot.subtitle.servers.singular: '{} 服务器'
+view.top_charts.bot.subtitle.votes.singular: '{} 票'
+view.account.login.guest: 访客
+view.account.login.button: 用 Discord 登录
+view.account.login.error: 加载时出错。请重试。
+view.account.login.error.button: 返回登录界面
+view.account.my_bots.button: 我的机器人
+view.account.favorites.button: 收藏夹
+view.account.add_bot.button: 添加机器人
+view.account.remove_ads.button: 移除广告
+view.account.settings.button: 设置
+view.my_bots.title: 我的机器人
+view.my_bots.subtitle: 你拥有的机器人。你可以通过点击帐户页面中的“添加机器人”按钮添加你自己的机器人。 #Keep capitalization consistent
+view.my_bots.none: 您没有任何机器人
+view.favorites.title: 收藏夹
+view.favorites.subtitle: 点击机器人页面上的心键将您最喜欢的机器人添加到这里
+view.favorites.none: 您没有任何收藏
+view.add_bot.title: 添加机器人
+view.add_bot.subtitle: 将您的机器人添加到第三方机器人列表中以自动添加到应用中。
+view.add_bot.note: '注意：您的机器人在添加到另一个机器人列表后可能无法立即出现在应用中。'
+view.settings.theme.title: 主题
+view.settings.theme.system.radio: 系统
+view.settings.theme.dark.radio: 夜间模式
+view.settings.theme.light.radio: 亮色模式
+view.settings.language.title: 语言
+view.settings.language.placeholder: 选择语言
+view.settings.support.title: 支援
+view.settings.support.support_server.button: 支援服务器
+view.settings.support.report_a_bug.button: 报告错误
+view.settings.account.title: 户口
+view.settings.account.logout.button: 登出
+view.settings.account.logout.alert_dialog.title: 登出
+view.settings.account.logout.alert_dialog.text: 您确定要退出吗？
+view.settings.account.logout.alert_dialog.cancel.button: 取消
+view.settings.account.logout.alert_dialog.logout.button: 登出
+view.settings.account.delete_account.button: 删除帐户
+view.settings.account.delete_account.alert_dialog.title: 删除帐户
+view.settings.account.delete_account.alert_dialog.text: 您确定要删除您的帐户吗？此操作无法撤消。
+view.settings.account.delete_account.alert_dialog.cancel.button: 取消
+view.settings.account.delete_account.alert_dialog.yes.button: '是'
+view.settings.data.title: 数据
+view.settings.data.about.button: 关于软件
+view.settings.data.about.popup.legalese: 版权所有 © 2020 Tetracyl。保留所有权利。 #KEEP AS IS
+view.settings.data.terms_and_conditions.button: 条款及细则
+view.settings.data.privacy_policy.button: 隐私政策
+view.under_maintenance.title: 维护中
+view.under_maintenance.subtitle: 该应用目前正在维护，将很快返回。请检查支持服务器以获取更新。
+view.under_maintenance.retry.button: 重试
+view.under_maintenance.support_server.button: 支援服务器
+view.no_internet.title: 没有网絡连接
+view.no_internet.subtitle: 无网络连接。请检查您的连接，然后重试。
+view.no_internet.retry: 重试
+view.search.hint: 搜索...
+view.search.title: 搜索
+view.search.subtitle.noQuery: 搜索机器人...
+view.search.subtitle.query: 没有{}的搜索结果
+view.search.none: 未找到任何結果
+view.welcome.title: Discord 机器人
+view.welcome.subtitle: 浏览 {}+ Discord 机器人！登录您的 Discord 帐号就可以开始了。
+view.welcome.login.button: 用 Discord 登录
+view.welcome.skip.button: 暂时跳过

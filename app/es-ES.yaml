@@ -1,0 +1,161 @@
+---
+global.title: Bots de Discord
+global.navbar.explore: Explorar
+global.navbar.top_charts: Gráficos Más
+global.navbar.account: Cuenta
+global.app_bar.explore: Explorar
+global.app_bar.top_charts: Gráficos Más
+global.app_bar.account: Cuenta
+global.app_bar.login: Login
+global.app_bar.settings: Ajustes
+global.app_bar.language: Idioma
+global.app_bar.report: 'Reporte {}'
+global.app_bar.categories: Categorías
+global.tag.music: Música
+global.tag.pokemon: Pokémon #KEEP AS IS
+global.tag.soundboard: Tablero de Sonido
+global.tag.moderation: Moderación
+global.tag.minecraft: Minecraft #KEEP AS IS
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite #KEEP AS IS
+global.tag.spotify: Spotify #KEEP AS IS
+global.tag.social: Social
+global.tag.fun: Diversión
+global.tag.economy: Economía
+global.tag.anime: Anime #KEEP AS IS
+global.tag.game: Juego
+global.tag.meme: Meme
+global.tag.leveling: Nivelando
+global.tag.roleplay: Juego de Rol
+global.tag.logging: Registros
+global.tag.utility: Utilidad
+global.tag.reddit: Reddit #KEEP AS IS
+global.tag.multipurpose: Multipropósito
+global.tag.twitch: Twitch #KEEP AS IS
+global.tag.crypto: Crypto #KEEP AS IS
+global.tag.top_charts: Gráficos Más
+global.footer.contact: 'Contacto: support@discordbots.app'
+global.footer.info: Discord Bots App no está afiliado con Discord o cualquiera de las listas de Bot soportadas.
+global.login_alert.title: Login
+global.login_alert.cancel.button: Cancelar
+global.login_alert.login.button: Login
+global.rate_dialog.title: Califica Discord Bots
+global.rate_dialog.subtitle: Si te gusta esta aplicación, por favor toma un momento de tu tiempo para dejar un comentario! Nos ayudaría mucho y no debería tomarte mas de un minuto.
+global.rate_dialog.button.rate: EVALUAR
+global.rate_dialog.button.no_thanks: NO GRACIAS
+global.rate_dialog.button.maybe_later: QUIZÁS DESPUÉS
+view.bot.add.button: AGREGAR
+view.bot.chip.prefix: 'Prefijo: {}'
+view.bot.chip.servers: '{} servidores'
+view.bot.chip.server: '{} servidor'
+view.bot.chip.votes: '{} votos'
+view.bot.chip.vote: '{} voto'
+view.bot.menu.report: Reportar
+view.bot.menu.copy_id: Copiar ID
+view.bot.menu.copy_id.snack_bar: Copiado el ID de {}
+view.bot.menu.hide: Ocultar
+view.bot.menu.hide.alert_dialog.title: 'Ocultar {}'
+view.bot.menu.hide.alert_dialog.text: '¿Estás seguro que quieres ocultar {}?'
+view.bot.menu.hide.alert_dialog.cancel.button: Cancelar
+view.bot.menu.hide.alert_dialog.yes.button: 'Sí'
+view.bot.website.button: Sitio Web
+view.bot.support_server.button: Servidor de Soporte
+view.bot.vote.button: Votar
+view.bot.favorite.login_alert: Debes iniciar sesión para añadir este bot a tus favoritos.
+view.bot.report.login_alert: Debes iniciar sesión para reportar este bot.
+view.bot.hide.login_alert: Debes iniciar sesión para ocultar este bot.
+view.bot.copy.snackbar: Copiado el ID de {}
+view.report.report_reason.title: Razón del Reporte
+view.report.report_reason.hint: Selecciona una razón
+view.report.report_reason.empty: Por favor selecciona una razón
+view.report.additional_information.title: Información Adicional
+view.report.additional_information.hint: Ingresa detalles adicionales aquí...
+view.report.additional_information.empty: Por favor selecciona una razón
+view.report.submit.button: Enviar
+view.report.report_reason.dropdown.option1: Contenido inapropiado/NSFW
+view.report.report_reason.dropdown.option2: Desconectado por un largo período de tiempo
+view.report.report_reason.dropdown.option3: Características engañosas y descripción
+view.report.report_reason.dropdown.option4: Bot no funciona
+view.report.report_reason.dropdown.option5: Invite link does not work
+view.report.report_reanos.dropdown.option6: Other reason
+view.explore.title: Explorar
+view.explore.featured.title: Destacados
+view.explore.featured.subtitle: Bots de primera que están verificados por Discord
+view.explore.trending.title: Tendencia
+view.explore.trending.subtitle: Bots nuevos que están ganando tracción rápidamente
+view.explore.new.title: Nuevo
+view.explore.new.subtitle: Bots añadidos recientemente
+view.explore.most_voted.title: Más Votados
+view.explore.most_voted.subtitle: Bots con más votos este mes
+view.explore.see_all.button: Ver Todo
+view.explore.categories.title: Explorar Categorías
+view.explore.category.subtitle: Bots in the {} category
+view.explore.footer.support_server.button: Servidor de Soporte
+view.explore.footer.bug_report.button: Bug Report
+view.explore.footer.terms_and_conditions.button: Terms & Conditions
+view.explore.footer.privacy_policy.button: Privacy Policy
+view.top_charts.most_votes: Most Votes
+view.top_charts.most_servers: Most Servers
+view.top_charts.bot.subtitle.servers.plural: '{} servidores'
+view.top_charts.bot.subtitle.votes.plural: '{} votos'
+view.top_charts.bot.subtitle.servers.singular: '{} servidor'
+view.top_charts.bot.subtitle.votes.singular: '{} voto'
+view.account.login.guest: Invitado
+view.account.login.button: Iniciar sesión con Discord
+view.account.login.error: Ocurrió un error al iniciar sesión. Por favor intenta de nuevo.
+view.account.login.error.button: Volver al inicio de sesión
+view.account.my_bots.button: Mis Bots
+view.account.favorites.button: Favoritos
+view.account.add_bot.button: Añadir Bot
+view.account.remove_ads.button: Remove Ads
+view.account.settings.button: Ajustes
+view.my_bots.title: Mis Bots
+view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
+view.my_bots.none: You do not own any bots
+view.favorites.title: Favoritos
+view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
+view.favorites.none: You do not have any favorites
+view.add_bot.title: Añadir Bot
+view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
+view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
+view.settings.theme.title: Tema
+view.settings.theme.system.radio: Sistema
+view.settings.theme.dark.radio: Oscuro
+view.settings.theme.light.radio: Claro
+view.settings.language.title: Idioma
+view.settings.language.placeholder: Escoge un lenguaje
+view.settings.support.title: Support
+view.settings.support.support_server.button: Servidor de Soporte
+view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.account.title: Cuenta
+view.settings.account.logout.button: Cerrar Sesión
+view.settings.account.logout.alert_dialog.title: Cerrar Sesión
+view.settings.account.logout.alert_dialog.text: '¿Estás seguro que quieres cerrar sesión?'
+view.settings.account.logout.alert_dialog.cancel.button: Cancelar
+view.settings.account.logout.alert_dialog.logout.button: Cerrar Sesión
+view.settings.account.delete_account.button: Eliminar Cuenta
+view.settings.account.delete_account.alert_dialog.title: Eliminar Cuenta
+view.settings.account.delete_account.alert_dialog.text: '¿Estás seguro que quieres eliminar tu cuenta? Esta acción no se puede deshacer.'
+view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
+view.settings.account.delete_account.alert_dialog.yes.button: 'Sí'
+view.settings.data.title: Data
+view.settings.data.about.button: About
+view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Todos los derechos reservados. #KEEP AS IS
+view.settings.data.terms_and_conditions.button: Terms & Conditions
+view.settings.data.privacy_policy.button: Privacy Policy
+view.under_maintenance.title: Under Maintenance
+view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
+view.under_maintenance.retry.button: Retry
+view.under_maintenance.support_server.button: Servidor de Soporte
+view.no_internet.title: No Internet Connection
+view.no_internet.subtitle: No internet connection found. Please check your connection then try again
+view.no_internet.retry: Retry
+view.search.hint: Search...
+view.search.title: Search
+view.search.subtitle.noQuery: Search for a bot...
+view.search.subtitle.query: Showing search results for {}
+view.search.none: No Results Found
+view.welcome.title: Bots de Discord
+view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.welcome.login.button: Iniciar sesión con Discord
+view.welcome.skip.button: Skip for Now

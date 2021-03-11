@@ -1,0 +1,9 @@
+files:
+  - source: /app/en-US.yaml
+    translation: /app/%locale%.yaml
+  - source: /website/en-US.yaml
+    translation: /website/%locale%.yaml
+  - source: /google_play/en-US.yaml
+    translation: /google_play/%locale%.yaml
+  - source: /app_store/en-US.yaml
+    translation: /app_store/%locale%.yaml
