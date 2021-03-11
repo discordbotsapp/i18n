@@ -95,7 +95,7 @@ view.explore.footer.bug_report.button: Reportar error
 view.explore.footer.terms_and_conditions.button: Términos y Condiciones
 view.explore.footer.privacy_policy.button: Política de privacidad
 view.top_charts.most_votes: Los más votados
-view.top_charts.most_servers: Most Servers
+view.top_charts.most_servers: Más servidores
 view.top_charts.bot.subtitle.servers.plural: '{} servidores'
 view.top_charts.bot.subtitle.votes.plural: '{} votos'
 view.top_charts.bot.subtitle.servers.singular: '{} servidor'
@@ -107,26 +107,26 @@ view.account.login.error.button: Volver al inicio de sesión
 view.account.my_bots.button: Mis Bots
 view.account.favorites.button: Favoritos
 view.account.add_bot.button: Añadir Bot
-view.account.remove_ads.button: Remove Ads
+view.account.remove_ads.button: Quitar anuncios
 view.account.settings.button: Ajustes
 view.my_bots.title: Mis Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
+view.my_bots.subtitle: Bots de tu propiedad. Puedes añadir tu propio bot haciendo click en el botón "añadir bot" en la pagina de tu cuenta. #Keep capitalization consistent
+view.my_bots.none: No tienes ningún bot
 view.favorites.title: Favoritos
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
+view.favorites.subtitle: Añade tus bots favoritos haciendo click en el botón del corazón en la pagina del bot
+view.favorites.none: No tienes bots favoritos
 view.add_bot.title: Añadir Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
+view.add_bot.subtitle: Agregue su bot a una lista de bots de terceros para agregarlo automáticamente a la aplicación.
+view.add_bot.note: 'Nota: Tu bot puede no aparecer instantáneamente en la aplicación después de añadirlo a otra lista de bots.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistema
 view.settings.theme.dark.radio: Oscuro
 view.settings.theme.light.radio: Claro
 view.settings.language.title: Idioma
 view.settings.language.placeholder: Escoge un lenguaje
-view.settings.support.title: Support
+view.settings.support.title: Soporte
 view.settings.support.support_server.button: Servidor de Soporte
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.report_a_bug.button: Reportar un error
 view.settings.account.title: Cuenta
 view.settings.account.logout.button: Cerrar Sesión
 view.settings.account.logout.alert_dialog.title: Cerrar Sesión
@@ -138,28 +138,28 @@ view.settings.account.delete_account.alert_dialog.title: Eliminar Cuenta
 view.settings.account.delete_account.alert_dialog.text: '¿Estás seguro que quieres eliminar tu cuenta? Esta acción no se puede deshacer.'
 view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sí'
-view.settings.data.title: Data
-view.settings.data.about.button: About
+view.settings.data.title: Datos
+view.settings.data.about.button: Acerca de
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Todos los derechos reservados.
 view.settings.data.terms_and_conditions.button: Términos y Condiciones
 view.settings.data.privacy_policy.button: Política de privacidad
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.under_maintenance.title: En Mantenimiento
+view.under_maintenance.subtitle: La aplicación se encuentra actualmente en mantenimiento y volverá pronto. Consulte el servidor de soporte para obtener actualizaciones.
+view.under_maintenance.retry.button: Reintentar
 view.under_maintenance.support_server.button: Servidor de Soporte
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
+view.no_internet.title: No hay conexión a Internet
+view.no_internet.subtitle: No se encontró conexión a Internet. Comprueba tu conexión y vuelve a intentarlo
+view.no_internet.retry: Reintentar
+view.bot.reported.title: Reportado {}
+view.bot.reported.subtitle: 'Has reportado {} por la siguiente razón:'
+view.bot.reported.button.okay: Aceptar
 view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.search.hint: Buscar...
+view.search.title: Buscar
+view.search.subtitle.noQuery: Busca un bot...
+view.search.subtitle.query: Mostrar resultados de búsqueda para {}
+view.search.none: No se encontraron resultados
 view.welcome.title: Bots de Discord
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.welcome.subtitle: '¡Navega a través de {}+ bots de Discord! Empieza iniciando sesión con tu cuenta de Discord.'
 view.welcome.login.button: Iniciar sesión con Discord
-view.welcome.skip.button: Skip for Now
+view.welcome.skip.button: Omitir por ahora
