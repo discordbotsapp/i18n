@@ -1,9 +1,9 @@
 ---
 global.title: Bots do Discord
-global.navbar.explore: Explore
+global.navbar.explore: Descobrir
 global.navbar.top_charts: Top Charts
 global.navbar.account: Conta
-global.app_bar.explore: Explore
+global.app_bar.explore: Descobrir
 global.app_bar.top_charts: Top Charts
 global.app_bar.account: Conta
 global.app_bar.login: Entrar
@@ -55,11 +55,11 @@ view.bot.menu.copy_id: Copiar ID
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Esconder
 view.bot.menu.hide.alert_dialog.title: Esconder {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
+view.bot.menu.hide.alert_dialog.text: 'Tem certeza que deseja esconder {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Cancelar
 view.bot.menu.hide.alert_dialog.yes.button: 'Sim'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
+view.bot.website.button: Site
+view.bot.support_server.button: Servidor de Suporte
 view.bot.vote.button: Vote
 view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
 view.bot.report.login_alert: You must be logged in to report this bot.
@@ -78,22 +78,22 @@ view.report.report_reason.dropdown.option3: Misleading features and description
 view.report.report_reason.dropdown.option4: Bot não funciona
 view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: Outro motivo
-view.explore.title: Explore
+view.explore.title: Descobrir
 view.explore.featured.title: Destaques
 view.explore.featured.subtitle: Os melhores bots verificados pelo Discord
 view.explore.trending.title: Populares
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: Novos
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
+view.explore.new.subtitle: Bots recém adicionados
+view.explore.most_voted.title: Mais Votados
 view.explore.most_voted.subtitle: Bots with the most votes this month
 view.explore.see_all.button: Ver Todos
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Support Server
+view.explore.categories.title: Descobrir Categorias
+view.explore.category.subtitle: Bots na categoria {}
+view.explore.footer.support_server.button: Servidor de Suporte
 view.explore.footer.bug_report.button: Relatar Erro
-view.explore.footer.terms_and_conditions.button: Terms & Conditions
-view.explore.footer.privacy_policy.button: Privacy Policy
+view.explore.footer.terms_and_conditions.button: Termos e Condições
+view.explore.footer.privacy_policy.button: Políticas de Privacidade
 view.top_charts.most_votes: Mais Votados
 view.top_charts.most_servers: Most Servers
 view.top_charts.bot.subtitle.servers.plural: '{} servidores'
@@ -105,14 +105,14 @@ view.account.login.button: Entrar com o Discord
 view.account.login.error: An error occured while logging you in. Please try again.
 view.account.login.error.button: Go back to login
 view.account.my_bots.button: Meus Bots
-view.account.favorites.button: Favorites
+view.account.favorites.button: Favoritos
 view.account.add_bot.button: Adicionar Bot
 view.account.remove_ads.button: Remover Anúncios
 view.account.settings.button: Configurações
 view.my_bots.title: Meus Bots
 view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
 view.my_bots.none: Você não possui bots
-view.favorites.title: Favorites
+view.favorites.title: Favoritos
 view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
 view.favorites.none: You do not have any favorites
 view.add_bot.title: Adicionar Bot
@@ -125,12 +125,12 @@ view.settings.theme.light.radio: Claro
 view.settings.language.title: Idioma
 view.settings.language.placeholder: Escolha um idioma
 view.settings.support.title: Suporte
-view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.support_server.button: Servidor de Suporte
+view.settings.support.report_a_bug.button: Reportar um Bug
 view.settings.account.title: Conta
 view.settings.account.logout.button: Sair
 view.settings.account.logout.alert_dialog.title: Sair
-view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
+view.settings.account.logout.alert_dialog.text: Tem certeza que deseja sair?
 view.settings.account.logout.alert_dialog.cancel.button: Cancelar
 view.settings.account.logout.alert_dialog.logout.button: Sair
 view.settings.account.delete_account.button: Deletar conta
@@ -139,15 +139,15 @@ view.settings.account.delete_account.alert_dialog.text: Are you sure you want to
 view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sim'
 view.settings.data.title: Data
-view.settings.data.about.button: About
+view.settings.data.about.button: Sobre
 view.settings.data.about.popup.legalese: Direitos Autorais © 2020 Tetracyl. Todos os direitos reservados.
-view.settings.data.terms_and_conditions.button: Terms & Conditions
-view.settings.data.privacy_policy.button: Privacy Policy
+view.settings.data.terms_and_conditions.button: Termos e Condições
+view.settings.data.privacy_policy.button: Políticas de Privacidade
 view.under_maintenance.title: Sob Manutenção
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
+view.under_maintenance.subtitle: O aplicativo está sob manutenção e estará de volta logo. Veja o servidor de suporte para mais informações.
 view.under_maintenance.retry.button: Tentar novamente
-view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: No Internet Connection
+view.under_maintenance.support_server.button: Servidor de Suporte
+view.no_internet.title: Sem Conexão de Internet
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
 view.no_internet.retry: Tentar novamente
 view.bot.reported.title: Denunciou {}
@@ -156,8 +156,8 @@ view.bot.reported.button.okay: Okay
 view.user.bots: Bots
 view.search.hint: Buscar...
 view.search.title: Buscar
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
+view.search.subtitle.noQuery: Procurar por um bot...
+view.search.subtitle.query: Mostrando resultados para {}
 view.search.none: Nenhum Resultado Encontrado
 view.welcome.title: Bots do Discord
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.

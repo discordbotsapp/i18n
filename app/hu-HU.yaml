@@ -1,0 +1,165 @@
+---
+global.title: Discord Bots
+global.navbar.explore: Felfedezés
+global.navbar.top_charts: Top Charts
+global.navbar.account: Fiók
+global.app_bar.explore: Felfedezés
+global.app_bar.top_charts: Top Charts
+global.app_bar.account: Fiók
+global.app_bar.login: Bejelentkezés
+global.app_bar.settings: Beállítások
+global.app_bar.language: Nyelv
+global.app_bar.report: '{} bejelentése'
+global.app_bar.categories: Kategóriák
+global.tag.music: Zene
+global.tag.pokemon: Pokémon #KEEP AS IS
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderációs
+global.tag.minecraft: Minecraft #KEEP AS IS
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite #KEEP AS IS
+global.tag.spotify: Spotify #KEEP AS IS
+global.tag.social: Közösségi
+global.tag.fun: Szórakozás
+global.tag.economy: Pénz
+global.tag.anime: Anime #KEEP AS IS
+global.tag.game: Játék
+global.tag.meme: Mémek
+global.tag.leveling: Szint
+global.tag.roleplay: Szerepjáték
+global.tag.logging: Logolás
+global.tag.utility: Utility
+global.tag.reddit: Reddit #KEEP AS IS
+global.tag.multipurpose: Többcélú
+global.tag.twitch: Twitch #KEEP AS IS
+global.tag.crypto: Kriptovaluta #KEEP AS IS
+global.tag.top_charts: Top Charts
+global.footer.contact: 'Kapcsolat: support@discordbots.app'
+global.footer.info: A Discord Bots App alkalmazés nem áll kapcsolatban a Discorddal vagy bármelyik támogatott Bot listával.
+global.login_alert.title: Bejelentkezés
+global.login_alert.cancel.button: Mégse
+global.login_alert.login.button: Bejelentkezés
+global.rate_dialog.title: Értékelje a Discort Bots alkalmazást
+global.rate_dialog.subtitle: Ha tetszik az alkalmazás, kérünk szánj egy kis időt hogy értékelj minket! Ez sokat segít nekünk és nem tarthat tovább egy percnél.
+global.rate_dialog.button.rate: ÉRTÉKELÉS
+global.rate_dialog.button.no_thanks: KÖSZÖNÖM NEM
+global.rate_dialog.button.maybe_later: TALÁN KÉSŐBB
+view.bot.add.button: HOZZÁAD
+view.bot.chip.prefix: 'Előtag: {}'
+view.bot.chip.servers: '{} szerveren'
+view.bot.chip.server: '{} szerveren'
+view.bot.chip.votes: '{} szavazat'
+view.bot.chip.vote: '{} szavazat'
+view.bot.menu.report: Jelentés
+view.bot.menu.copy_id: ID másolása
+view.bot.menu.copy_id.snack_bar: Másolva a {} ID-ja
+view.bot.menu.hide: Elrejt
+view.bot.menu.hide.alert_dialog.title: Elrejt {}
+view.bot.menu.hide.alert_dialog.text: 'Biztosan el akarja rejteni a következőt? {}'
+view.bot.menu.hide.alert_dialog.cancel.button: Mégse
+view.bot.menu.hide.alert_dialog.yes.button: 'Igen'
+view.bot.website.button: Weboldal
+view.bot.support_server.button: Támogatási szerver
+view.bot.vote.button: Szavazás
+view.bot.favorite.login_alert: Be kell jelentkezned ahhoz hogy botot adhass a kedvenceid közé.
+view.bot.report.login_alert: Be kell jelentkezned ahhoz hogy botot jelenthess.
+view.bot.hide.login_alert: Be kell jelentkezned hogy elrejthesd ezt a botot.
+view.bot.copy.snackbar: Másolva a {} ID-ja
+view.report.report_reason.title: Jelentés oka
+view.report.report_reason.hint: Válasszon egy indokot
+view.report.report_reason.empty: Kérjük válassz egy indokot
+view.report.additional_information.title: További információk
+view.report.additional_information.hint: Adjon meg további részleteket...
+view.report.additional_information.empty: Kérjük válassz egy indokot
+view.report.submit.button: Küldés
+view.report.report_reason.dropdown.option1: Nem megfelelő/NSFW tartalom
+view.report.report_reason.dropdown.option2: Hosszú ideje offline
+view.report.report_reason.dropdown.option3: Félrevezető tulajdonság és információ
+view.report.report_reason.dropdown.option4: A bot nem működik
+view.report.report_reason.dropdown.option5: A meghívó link nem működik
+view.report.report_reanos.dropdown.option6: Egyéb ok
+view.explore.title: Felfedezés
+view.explore.featured.title: Felfedezés
+view.explore.featured.subtitle: Kiváló botok amelyeket a Discord ellenőrzött
+view.explore.trending.title: Népszerű
+view.explore.trending.subtitle: New bots that are gaining traction quickly
+view.explore.new.title: Új
+view.explore.new.subtitle: Utoljára hozzáadott botok
+view.explore.most_voted.title: Legtöbb szavazattal rendelkező
+view.explore.most_voted.subtitle: A legtöbb szavazattal rendelkező botok a hónapban
+view.explore.see_all.button: Összes
+view.explore.categories.title: Kategóriák Felfedezése
+view.explore.category.subtitle: Botok a {} kategóriában
+view.explore.footer.support_server.button: Támogatási szerver
+view.explore.footer.bug_report.button: Hibajelentés
+view.explore.footer.terms_and_conditions.button: Felhasználási feltételek
+view.explore.footer.privacy_policy.button: Adatvédelmi irányelvek
+view.top_charts.most_votes: Legtöbb szavazat
+view.top_charts.most_servers: Most Servers
+view.top_charts.bot.subtitle.servers.plural: '{} szerveren'
+view.top_charts.bot.subtitle.votes.plural: '{} szavazat'
+view.top_charts.bot.subtitle.servers.singular: '{} szerveren'
+view.top_charts.bot.subtitle.votes.singular: '{} szavazat'
+view.account.login.guest: Guest
+view.account.login.button: Login with Discord
+view.account.login.error: An error occured while logging you in. Please try again.
+view.account.login.error.button: Go back to login
+view.account.my_bots.button: My Bots
+view.account.favorites.button: Favorites
+view.account.add_bot.button: Add Bot
+view.account.remove_ads.button: Remove Ads
+view.account.settings.button: Beállítások
+view.my_bots.title: My Bots
+view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
+view.my_bots.none: You do not own any bots
+view.favorites.title: Favorites
+view.favorites.subtitle: Add hozzá a kedvenc botjaidhoz, kattints a szív gombra a bot oldalán
+view.favorites.none: Nincsenek kedvenceid
+view.add_bot.title: Add Bot
+view.add_bot.subtitle: Add hozzá egy harmadik féltől származó bot listához és automatikusan bekerül az appba.
+view.add_bot.note: 'Megjegyzés: Előfordulhat hogy az ön botja nem jelenik meg rögtön amikor hozzáadja egy bot listához.'
+view.settings.theme.title: Téma
+view.settings.theme.system.radio: Rendszer
+view.settings.theme.dark.radio: Sötét
+view.settings.theme.light.radio: Világos
+view.settings.language.title: Nyelv
+view.settings.language.placeholder: Nyelv kiválasztása
+view.settings.support.title: Támogatás
+view.settings.support.support_server.button: Támogatási szerver
+view.settings.support.report_a_bug.button: Hibajelentés
+view.settings.account.title: Fiók
+view.settings.account.logout.button: Kijelentkezés
+view.settings.account.logout.alert_dialog.title: Kijelentkezés
+view.settings.account.logout.alert_dialog.text: Biztos, hogy ki szeretnél jelentkezni?
+view.settings.account.logout.alert_dialog.cancel.button: Mégse
+view.settings.account.logout.alert_dialog.logout.button: Kijelentkezés
+view.settings.account.delete_account.button: Fiók törlése
+view.settings.account.delete_account.alert_dialog.title: Fiók törlése
+view.settings.account.delete_account.alert_dialog.text: Biztosan törölni szeretnéd a fiókot? Ez a művelet nem visszavonható.
+view.settings.account.delete_account.alert_dialog.cancel.button: Mégse
+view.settings.account.delete_account.alert_dialog.yes.button: 'Igen'
+view.settings.data.title: Adatok
+view.settings.data.about.button: Rólunk
+view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Minden jog fenntartva.
+view.settings.data.terms_and_conditions.button: Felhasználási feltételek
+view.settings.data.privacy_policy.button: Adatvédelmi irányelvek
+view.under_maintenance.title: Karbantartás alatt
+view.under_maintenance.subtitle: Az alkalmazás jelenleg karbantartás alatt, nézz vissza hamar. Nézd meg a support szervert frissítésekért.
+view.under_maintenance.retry.button: Újra
+view.under_maintenance.support_server.button: Támogatási szerver
+view.no_internet.title: Nincs internetkapcsolat
+view.no_internet.subtitle: Nem található internetkapcsolat. Kérlek nézd meg a csatlakozásod és próbáld újra
+view.no_internet.retry: Újra
+view.bot.reported.title: Bejelentve {}
+view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
+view.bot.reported.button.okay: Rendben
+view.user.bots: Botok
+view.search.hint: Keresés...
+view.search.title: Keresés
+view.search.subtitle.noQuery: Bot keresése...
+view.search.subtitle.query: A {} keresési eredmények láthatóak
+view.search.none: Nincs találat
+view.welcome.title: Discord Bots
+view.welcome.subtitle: Keressen a {}+ Discord botok között! Kezdje azzal hogy belép a Discord fiókjába.
+view.welcome.login.button: Login with Discord
+view.welcome.skip.button: Most kihagyás
