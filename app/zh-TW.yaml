@@ -80,7 +80,7 @@ view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: 其他原因
 view.explore.title: 探索
 view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
+view.explore.featured.subtitle: 經過Discord驗證的頂級機器人
 view.explore.trending.title: 熱門
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: New
@@ -147,15 +147,15 @@ view.under_maintenance.title: 維護中
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: 請重試
 view.under_maintenance.support_server.button: 支持伺服器
-view.no_internet.title: No Internet Connection
+view.no_internet.title: 沒有網路連線
 view.no_internet.subtitle: 找不到互聯網連接. 請檢查您的連接 然後重試
 view.no_internet.retry: 請重試
 view.search.hint: 正在搜尋...
 view.search.title: 搜尋
 view.search.subtitle.noQuery: 搜尋機器人...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.search.subtitle.query: 顯示下列的搜尋結果：{}
+view.search.none: 找不到結果
 view.welcome.title: Discord 機器人
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
 view.welcome.login.button: 用 Discord 帳號登入
-view.welcome.skip.button: Skip for Now
+view.welcome.skip.button: 先跳過
