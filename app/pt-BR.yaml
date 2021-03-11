@@ -140,7 +140,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
 view.settings.data.title: Data
 view.settings.data.about.button: About
-view.settings.data.about.popup.legalese: Direitos Autorais © 2020 Tetracyl. Todos os direitos reservados. #KEEP AS IS
+view.settings.data.about.popup.legalese: Direitos Autorais © 2020 Tetracyl. Todos os direitos reservados.
 view.settings.data.terms_and_conditions.button: Terms & Conditions
 view.settings.data.privacy_policy.button: Privacy Policy
 view.under_maintenance.title: Under Maintenance
