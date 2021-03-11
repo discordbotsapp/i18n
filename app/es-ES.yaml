@@ -76,8 +76,8 @@ view.report.report_reason.dropdown.option1: Contenido inapropiado/NSFW
 view.report.report_reason.dropdown.option2: Desconectado por un largo período de tiempo
 view.report.report_reason.dropdown.option3: Características engañosas y descripción
 view.report.report_reason.dropdown.option4: Bot no funciona
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reason.dropdown.option5: El enlace de invitación no funciona
+view.report.report_reanos.dropdown.option6: Otra razón
 view.explore.title: Explorar
 view.explore.featured.title: Destacados
 view.explore.featured.subtitle: Bots de primera que están verificados por Discord
@@ -89,12 +89,12 @@ view.explore.most_voted.title: Más Votados
 view.explore.most_voted.subtitle: Bots con más votos este mes
 view.explore.see_all.button: Ver Todo
 view.explore.categories.title: Explorar Categorías
-view.explore.category.subtitle: Bots in the {} category
+view.explore.category.subtitle: Bots en la categoría de {}
 view.explore.footer.support_server.button: Servidor de Soporte
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.terms_and_conditions.button: Terms & Conditions
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
+view.explore.footer.bug_report.button: Reportar error
+view.explore.footer.terms_and_conditions.button: Términos y Condiciones
+view.explore.footer.privacy_policy.button: Política de privacidad
+view.top_charts.most_votes: Los más votados
 view.top_charts.most_servers: Most Servers
 view.top_charts.bot.subtitle.servers.plural: '{} servidores'
 view.top_charts.bot.subtitle.votes.plural: '{} votos'
@@ -141,8 +141,8 @@ view.settings.account.delete_account.alert_dialog.yes.button: 'Sí'
 view.settings.data.title: Data
 view.settings.data.about.button: About
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Todos los derechos reservados.
-view.settings.data.terms_and_conditions.button: Terms & Conditions
-view.settings.data.privacy_policy.button: Privacy Policy
+view.settings.data.terms_and_conditions.button: Términos y Condiciones
+view.settings.data.privacy_policy.button: Política de privacidad
 view.under_maintenance.title: Under Maintenance
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: Retry
