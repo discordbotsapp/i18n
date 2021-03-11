@@ -54,7 +54,7 @@ view.bot.menu.report: Reportar
 view.bot.menu.copy_id: Copiar ID
 view.bot.menu.copy_id.snack_bar: Copiado el ID de {}
 view.bot.menu.hide: Ocultar
-view.bot.menu.hide.alert_dialog.title: 'Ocultar {}'
+view.bot.menu.hide.alert_dialog.title: Ocultar {}
 view.bot.menu.hide.alert_dialog.text: '¿Estás seguro que quieres ocultar {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Cancelar
 view.bot.menu.hide.alert_dialog.yes.button: 'Sí'
@@ -150,6 +150,10 @@ view.under_maintenance.support_server.button: Servidor de Soporte
 view.no_internet.title: No Internet Connection
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
 view.no_internet.retry: Retry
+view.bot.reported.title: Reported {}
+view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
+view.bot.reported.button.okay: Okay
+view.user.bots: Bots
 view.search.hint: Search...
 view.search.title: Search
 view.search.subtitle.noQuery: Search for a bot...
