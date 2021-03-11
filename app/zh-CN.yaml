@@ -1,21 +1,21 @@
 ---
-global.title: Discord Bots
-global.navbar.explore: Explore
-global.navbar.top_charts: Top Charts
-global.navbar.account: Account
-global.app_bar.explore: Explore
-global.app_bar.top_charts: Top Charts
-global.app_bar.account: Account
-global.app_bar.login: Login
-global.app_bar.settings: Settings
-global.app_bar.language: Language
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
-global.tag.music: Music
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
-global.tag.minecraft: Minecraft #KEEP AS IS
+global.title: Discord 机器人
+global.navbar.explore: 探险
+global.navbar.top_charts: 热门图标
+global.navbar.account: 户口
+global.app_bar.explore: 探险
+global.app_bar.top_charts: 热门图标
+global.app_bar.account: 户口
+global.app_bar.login: 登入
+global.app_bar.settings: 设置
+global.app_bar.language: 语言
+global.app_bar.report: '投诉 {}'
+global.app_bar.categories: 类别
+global.tag.music: 音乐
+global.tag.pokemon: 宝可梦 #KEEP AS IS
+global.tag.soundboard: 音板
+global.tag.moderation: 管理
+global.tag.minecraft: 我的世界 #KEEP AS IS
 global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
@@ -26,19 +26,19 @@ global.tag.anime: Anime #KEEP AS IS
 global.tag.game: Game
 global.tag.meme: Meme
 global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.roleplay: 角色扮演
+global.tag.logging: 日志记录
+global.tag.utility: 实用
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: 多用途
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
+global.tag.top_charts: 热门图标
 global.footer.contact: 'Contact: support@discordbots.app'
 global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Login
+global.login_alert.title: 登入
 global.login_alert.cancel.button: Cancel
-global.login_alert.login.button: Login
+global.login_alert.login.button: 登入
 global.rate_dialog.title: Rate Discord Bots
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
@@ -46,25 +46,25 @@ global.rate_dialog.button.no_thanks: NO THANKS
 global.rate_dialog.button.maybe_later: MAYBE LATER
 view.bot.add.button: ADD
 view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
+view.bot.chip.servers: '{} 服务器'
+view.bot.chip.server: '{} 服务器'
+view.bot.chip.votes: '{} 票'
+view.bot.chip.vote: '{} 票'
+view.bot.menu.report: 举报
+view.bot.menu.copy_id: 复制ID
+view.bot.menu.copy_id.snack_bar: 已复制{}的ID
 view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: 'Hide {}'
+view.bot.menu.hide.alert_dialog.title: '隐藏 {}'
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Cancel
 view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
+view.bot.website.button: 网站
+view.bot.support_server.button: 支援服务器
+view.bot.vote.button: 投票
+view.bot.favorite.login_alert: 您必须登录才能将该机器人添加到您的收藏夹。
 view.bot.report.login_alert: You must be logged in to report this bot.
 view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
+view.bot.copy.snackbar: 已复制{}的ID
 view.report.report_reason.title: Reason for Reporting
 view.report.report_reason.hint: Select a reason
 view.report.report_reason.empty: Please select a reason
@@ -78,7 +78,7 @@ view.report.report_reason.dropdown.option3: Misleading features and description
 view.report.report_reason.dropdown.option4: Bot does not work
 view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: Other reason
-view.explore.title: Explore
+view.explore.title: 探险
 view.explore.featured.title: Featured
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
@@ -90,16 +90,16 @@ view.explore.most_voted.subtitle: Bots with the most votes this month
 view.explore.see_all.button: See All
 view.explore.categories.title: Explore Categories
 view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Support Server
+view.explore.footer.support_server.button: 支援服务器
 view.explore.footer.bug_report.button: Bug Report
 view.explore.footer.terms_and_conditions.button: Terms & Conditions
 view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
+view.top_charts.bot.subtitle.servers.plural: '{} 服务器'
+view.top_charts.bot.subtitle.votes.plural: '{} 票'
+view.top_charts.bot.subtitle.servers.singular: '{} 服务器'
+view.top_charts.bot.subtitle.votes.singular: '{} 票'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
@@ -108,7 +108,7 @@ view.account.my_bots.button: My Bots
 view.account.favorites.button: Favorites
 view.account.add_bot.button: Add Bot
 view.account.remove_ads.button: Remove Ads
-view.account.settings.button: Settings
+view.account.settings.button: 设置
 view.my_bots.title: My Bots
 view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
 view.my_bots.none: You do not own any bots
@@ -122,12 +122,12 @@ view.settings.theme.title: Theme
 view.settings.theme.system.radio: System
 view.settings.theme.dark.radio: Dark
 view.settings.theme.light.radio: Light
-view.settings.language.title: Language
+view.settings.language.title: 语言
 view.settings.language.placeholder: Choose a language
 view.settings.support.title: Support
-view.settings.support.support_server.button: Support Server
+view.settings.support.support_server.button: 支援服务器
 view.settings.support.report_a_bug.button: Reprot A Bug
-view.settings.account.title: Account
+view.settings.account.title: 户口
 view.settings.account.logout.button: Logout
 view.settings.account.logout.alert_dialog.title: Logout
 view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
@@ -146,7 +146,7 @@ view.settings.data.privacy_policy.button: Privacy Policy
 view.under_maintenance.title: Under Maintenance
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: Retry
-view.under_maintenance.support_server.button: Support Server
+view.under_maintenance.support_server.button: 支援服务器
 view.no_internet.title: No Internet Connection
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
 view.no_internet.retry: Retry
@@ -155,7 +155,7 @@ view.search.title: Search
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Discord Bots
+view.welcome.title: Discord 机器人
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: Skip for Now
