@@ -1,10 +1,10 @@
 ---
 global.title: دیسکۆرد بۆتس
 global.navbar.explore: گەڕان
-global.navbar.top_charts: Top Charts
+global.navbar.top_charts: هێڵکارییە بەرزەکان
 global.navbar.account: هەژمار
 global.app_bar.explore: گەڕان
-global.app_bar.top_charts: Top Charts
+global.app_bar.top_charts: هێڵکارییە بەرزەکان
 global.app_bar.account: هەژمار
 global.app_bar.login: چوونەژوورەوە
 global.app_bar.settings: رێکخستنەکان
@@ -25,38 +25,38 @@ global.tag.economy: ئابوری
 global.tag.anime: ئەنیمێ #KEEP AS IS
 global.tag.game: یاری
 global.tag.meme: میم
-global.tag.leveling: Leveling
+global.tag.leveling: ئاست
 global.tag.roleplay: ڕۆڵبینین
 global.tag.logging: تۆمارکردن
 global.tag.utility: سوود
 global.tag.reddit: رێدیت #KEEP AS IS
 global.tag.multipurpose: فرەمەبەست
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.tag.twitch: تویچ #KEEP AS IS
+global.tag.crypto: کریپتۆ #KEEP AS IS
+global.tag.top_charts: هێڵکارییە بەرزەکان
+global.footer.contact: 'پەیوەندی: support@discordbots.app'
+global.footer.info: بەرنامەی دیسکۆرد بۆتس سەر بە دیسکۆرد یان هیچ کام لە بۆت لیستەکان پشتگیری کراو نیە.
 global.login_alert.title: چوونەژوورەوە
-global.login_alert.cancel.button: Cancel
+global.login_alert.cancel.button: هەڵوەشاندنەوە
 global.login_alert.login.button: چوونەژوورەوە
-global.rate_dialog.title: Rate Discord Bots
+global.rate_dialog.title: ڕێژەی دیسکۆرد بۆتس
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
 global.rate_dialog.button.no_thanks: NO THANKS
 global.rate_dialog.button.maybe_later: MAYBE LATER
 view.bot.add.button: ADD
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
+view.bot.chip.prefix: 'پێشگر: {}'
+view.bot.chip.servers: 'سێرڤەرەکان {}'
+view.bot.chip.server: 'سێرڤەر {}'
+view.bot.chip.votes: 'دەنگەکان {}'
+view.bot.chip.vote: 'دەنگ {}'
 view.bot.menu.report: Report
 view.bot.menu.copy_id: Copy ID
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Hide
 view.bot.menu.hide.alert_dialog.title: Hide {}
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
+view.bot.menu.hide.alert_dialog.cancel.button: هەڵوەشاندنەوە
 view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
@@ -96,10 +96,10 @@ view.explore.footer.terms_and_conditions.button: Terms & Conditions
 view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
+view.top_charts.bot.subtitle.servers.plural: 'سێرڤەرەکان {}'
+view.top_charts.bot.subtitle.votes.plural: 'دەنگەکان {}'
+view.top_charts.bot.subtitle.servers.singular: 'سێرڤەر {}'
+view.top_charts.bot.subtitle.votes.singular: 'دەنگ {}'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
@@ -131,12 +131,12 @@ view.settings.account.title: هەژمار
 view.settings.account.logout.button: Logout
 view.settings.account.logout.alert_dialog.title: Logout
 view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
-view.settings.account.logout.alert_dialog.cancel.button: Cancel
+view.settings.account.logout.alert_dialog.cancel.button: هەڵوەشاندنەوە
 view.settings.account.logout.alert_dialog.logout.button: Logout
 view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
+view.settings.account.delete_account.alert_dialog.cancel.button: هەڵوەشاندنەوە
 view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
 view.settings.data.title: Data
 view.settings.data.about.button: About
