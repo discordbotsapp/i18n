@@ -148,18 +148,18 @@ view.under_maintenance.subtitle: بەرنامەکە لە ئێستادا لە ژ�
 view.under_maintenance.retry.button: دووبارە هەوڵ بدە 
 view.under_maintenance.support_server.button: سێرڤەری پشتگیری
 view.no_internet.title: پەیوەندی ئینتەرنێت نیە
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
+view.no_internet.subtitle: هیچ گرێدانێکی ئینتەرنێت نەدۆزرایەوە. تکایە گرێدانی خۆت بپشکنە و پاشان دووبارە هەوڵ بدەوە
 view.no_internet.retry: دووبارە هەوڵ بدە 
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
-view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.bot.reported.title: ڕاپۆرتکرا {}
+view.bot.reported.subtitle: 'تۆ بە سەرکەوتوویی ڕاپۆرتت کردووە {} لەبەر ئەم هۆکارە:'
+view.bot.reported.button.okay: باشە
+view.user.bots: بۆتەکان
+view.search.hint: گەڕان...
+view.search.title: گەڕان
+view.search.subtitle.noQuery: گەڕان بە دوای بۆت...
+view.search.subtitle.query: پیشاندانی ئەنجامەکانی گەڕان بۆ {}
+view.search.none: هیچ ئەنجامێک نەدۆزرایەوە
 view.welcome.title: دیسکۆرد بۆتس
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.welcome.subtitle: گەڕان لە نێو {}+ دیسکۆرد بۆتس! دەست پێبکە بە چوونە ژوورەوە بە ئەژمێری دیسکۆرد.
 view.welcome.login.button: چوونە ژوورەوە لەڕێگەی دیسکۆردوە
-view.welcome.skip.button: Skip for Now
+view.welcome.skip.button: بازدان بۆ ئێستا
