@@ -16,7 +16,7 @@ global.tag.pokemon: 寶可夢 #KEEP AS IS
 global.tag.soundboard: Soundboard
 global.tag.moderation: 管理
 global.tag.minecraft: 我的世界 #KEEP AS IS
-global.tag.trivia: Trivia
+global.tag.trivia: 益智遊戲
 global.tag.fortnite: 堡壘之夜 #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: 社交
@@ -41,14 +41,14 @@ global.login_alert.cancel.button: 取消
 global.login_alert.login.button: 登入
 global.rate_dialog.title: 評價Discord 機器人
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
+global.rate_dialog.button.rate: 評價
+global.rate_dialog.button.no_thanks: 不，謝謝
 global.rate_dialog.button.maybe_later: MAYBE LATER
 view.bot.add.button: 添加
 view.bot.chip.prefix: '前綴：{}'
 view.bot.chip.servers: '{} 伺服器'
 view.bot.chip.server: '{} 伺服器'
-view.bot.chip.votes: '{} votes'
+view.bot.chip.votes: '{} 人投票'
 view.bot.chip.vote: '{} 投票'
 view.bot.menu.report: 回報
 view.bot.menu.copy_id: 複製ID
@@ -65,10 +65,10 @@ view.bot.favorite.login_alert: You must be logged in to add this bot to your fav
 view.bot.report.login_alert: You must be logged in to report this bot.
 view.bot.hide.login_alert: 您必須登入才能隱藏機器人
 view.bot.copy.snackbar: 已複製 {} 的ID
-view.report.report_reason.title: Reason for Reporting
+view.report.report_reason.title: 舉報原因
 view.report.report_reason.hint: 選擇原因
 view.report.report_reason.empty: 請輸入原因
-view.report.additional_information.title: Additional Information
+view.report.additional_information.title: 附加資料
 view.report.additional_information.hint: Enter additional details here...
 view.report.additional_information.empty: 請輸入原因
 view.report.submit.button: 提交
@@ -85,8 +85,8 @@ view.explore.trending.title: 熱門
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: New
 view.explore.new.subtitle: 最近新增的機器人
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
+view.explore.most_voted.title: 最高票
+view.explore.most_voted.subtitle: 本月投票最多的機器人
 view.explore.see_all.button: See All
 view.explore.categories.title: Explore Categories
 view.explore.category.subtitle: Bots in the {} category
@@ -94,10 +94,10 @@ view.explore.footer.support_server.button: 支持伺服器
 view.explore.footer.bug_report.button: Bug Report
 view.explore.footer.terms_and_conditions.button: Terms & Conditions
 view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
+view.top_charts.most_votes: 最高票
 view.top_charts.most_servers: Most Servers
 view.top_charts.bot.subtitle.servers.plural: '{} 伺服器'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
+view.top_charts.bot.subtitle.votes.plural: '{} 人投票'
 view.top_charts.bot.subtitle.servers.singular: '{} 伺服器'
 view.top_charts.bot.subtitle.votes.singular: '{} 投票'
 view.account.login.guest: 訪客
@@ -150,6 +150,10 @@ view.under_maintenance.support_server.button: 支持伺服器
 view.no_internet.title: 沒有網路連線
 view.no_internet.subtitle: 找不到互聯網連接. 請檢查您的連接 然後重試
 view.no_internet.retry: 請重試
+view.bot.reported.title: Reported {}
+view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
+view.bot.reported.button.okay: Okay
+view.user.bots: Bots
 view.search.hint: 正在搜尋...
 view.search.title: 搜尋
 view.search.subtitle.noQuery: 搜尋機器人...
