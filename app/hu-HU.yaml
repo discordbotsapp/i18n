@@ -95,27 +95,27 @@ view.explore.footer.bug_report.button: Hibajelentés
 view.explore.footer.terms_and_conditions.button: Felhasználási feltételek
 view.explore.footer.privacy_policy.button: Adatvédelmi irányelvek
 view.top_charts.most_votes: Legtöbb szavazat
-view.top_charts.most_servers: Most Servers
+view.top_charts.most_servers: Legtöbb szerver
 view.top_charts.bot.subtitle.servers.plural: '{} szerveren'
 view.top_charts.bot.subtitle.votes.plural: '{} szavazat'
 view.top_charts.bot.subtitle.servers.singular: '{} szerveren'
 view.top_charts.bot.subtitle.votes.singular: '{} szavazat'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
+view.account.login.guest: Vendég
+view.account.login.button: Bejelentkezés Discorddal
+view.account.login.error: Hiba történt a bejelentkezés során. Kérlek próbáld újra.
+view.account.login.error.button: Vissza a bejelentkezéshez
+view.account.my_bots.button: A botjaim
+view.account.favorites.button: Kedvencek
+view.account.add_bot.button: Bot hozzáadása
+view.account.remove_ads.button: Hirdetések eltávolítása
 view.account.settings.button: Beállítások
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
+view.my_bots.title: A botjaim
+view.my_bots.subtitle: Ezek a botok a tieid. Hozzá tudod adni ha rányomsz a Botok Hozzáadása gombra a Fiók fülön. #Keep capitalization consistent
+view.my_bots.none: Nincsenek botjaid
+view.favorites.title: Kedvencek
 view.favorites.subtitle: Add hozzá a kedvenc botjaidhoz, kattints a szív gombra a bot oldalán
 view.favorites.none: Nincsenek kedvenceid
-view.add_bot.title: Add Bot
+view.add_bot.title: Bot hozzáadása
 view.add_bot.subtitle: Add hozzá egy harmadik féltől származó bot listához és automatikusan bekerül az appba.
 view.add_bot.note: 'Megjegyzés: Előfordulhat hogy az ön botja nem jelenik meg rögtön amikor hozzáadja egy bot listához.'
 view.settings.theme.title: Téma
@@ -161,5 +161,5 @@ view.search.subtitle.query: A {} keresési eredmények láthatóak
 view.search.none: Nincs találat
 view.welcome.title: Discord Bots
 view.welcome.subtitle: Keressen a {}+ Discord botok között! Kezdje azzal hogy belép a Discord fiókjába.
-view.welcome.login.button: Login with Discord
+view.welcome.login.button: Bejelentkezés Discorddal
 view.welcome.skip.button: Most kihagyás
