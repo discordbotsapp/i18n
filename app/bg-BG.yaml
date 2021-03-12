@@ -1,5 +1,5 @@
 ---
-global.title: Дискорд Ботове
+global.title: Discord ботове
 global.navbar.explore: Разгледай
 global.navbar.top_charts: Най добри
 global.navbar.account: Профил
@@ -39,7 +39,7 @@ global.footer.info: Discord Bots App не е свързано със дискр�
 global.login_alert.title: Вход
 global.login_alert.cancel.button: Отказ
 global.login_alert.login.button: Вход
-global.rate_dialog.title: Оцени дискрод ботове
+global.rate_dialog.title: Оцени Дискорд Ботове
 global.rate_dialog.subtitle: Ако харесваш нашето приложение, молим те да отделиш малко време за да го оцениш! Това ни помага много и отнема не повече от 1 минута.
 global.rate_dialog.button.rate: Оценка
 global.rate_dialog.button.no_thanks: Не благодаря
@@ -72,84 +72,84 @@ view.report.additional_information.title: Допълнителната инфо�
 view.report.additional_information.hint: Добави допълнителна информация тук...
 view.report.additional_information.empty: Моля избери причина
 view.report.submit.button: Изпращане
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reason.dropdown.option1: Неподходящо/NSFW съдържание
+view.report.report_reason.dropdown.option2: Извън линия за дълго време
+view.report.report_reason.dropdown.option3: Подвеждащи характеристики и описание
+view.report.report_reason.dropdown.option4: Този бот не работи
+view.report.report_reason.dropdown.option5: Инвайт линка не работи
+view.report.report_reanos.dropdown.option6: Друга причина
 view.explore.title: Разгледай
-view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
-view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.see_all.button: See All
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
+view.explore.featured.title: Препоръчани
+view.explore.featured.subtitle: Първокласни ботове потвърдени от Discord
+view.explore.trending.title: Популярни
+view.explore.trending.subtitle: Нови ботове, които бързо се издигат
+view.explore.new.title: Нови
+view.explore.new.subtitle: Наскоро добавени
+view.explore.most_voted.title: Най-гласувани
+view.explore.most_voted.subtitle: Ботове със най-много гласувания този месец
+view.explore.see_all.button: Виж всички
+view.explore.categories.title: Прегледай категориите
+view.explore.category.subtitle: Ботове във категория {}
 view.explore.footer.support_server.button: Сървър за поддръжка
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.terms_and_conditions.button: Terms & Conditions
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.explore.footer.bug_report.button: Бъг репорт
+view.explore.footer.terms_and_conditions.button: Правила и условия
+view.explore.footer.privacy_policy.button: Поверителност
+view.top_charts.most_votes: Най-гласувани
+view.top_charts.most_servers: Най много сървъри
 view.top_charts.bot.subtitle.servers.plural: '{} Сървъра'
 view.top_charts.bot.subtitle.votes.plural: '{} Гласувания'
 view.top_charts.bot.subtitle.servers.singular: '{} Сървъра'
 view.top_charts.bot.subtitle.votes.singular: '{} Гласувай'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
+view.account.login.guest: Гост
+view.account.login.button: Влез със Discord
+view.account.login.error: Грешка при влизането. Моля опитайте отново.
+view.account.login.error.button: Назад към вход
+view.account.my_bots.button: Мойте ботове
+view.account.favorites.button: Любими
+view.account.add_bot.button: Добави бот
+view.account.remove_ads.button: Премахни реклами
 view.account.settings.button: Настройки
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
-view.add_bot.title: Add Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
+view.my_bots.title: Мойте ботове
+view.my_bots.subtitle: Ботове добавени от теб. Ти можеш да добавиш твой собствен бот, като избереш "Добави бот" във менюто на твоят акаунт. #Keep capitalization consistent
+view.my_bots.none: Ти не притежаваш ботове
+view.favorites.title: Любими
+view.favorites.subtitle: Добави любимите ти ботове тук като просто цъкнеш на бутона сърце във страницата на бота
+view.favorites.none: Ти нямаш любими ботове
+view.add_bot.title: Добави бот
+view.add_bot.subtitle: Добавете вашия бот към списък с ботове на трети страни, за да го добавите автоматично към приложението.
+view.add_bot.note: 'Забележка: Вашият бот може да не се появи незабавно в приложението, след като го добави към друг списък с ботове.'
+view.settings.theme.title: Тема
+view.settings.theme.system.radio: Система
+view.settings.theme.dark.radio: Тъмно
+view.settings.theme.light.radio: Светло
 view.settings.language.title: Език
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
+view.settings.language.placeholder: Избери език
+view.settings.support.title: Поддръжка
 view.settings.support.support_server.button: Сървър за поддръжка
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.report_a_bug.button: Докладвай проблем
 view.settings.account.title: Профил
-view.settings.account.logout.button: Logout
-view.settings.account.logout.alert_dialog.title: Logout
-view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
+view.settings.account.logout.button: Изход
+view.settings.account.logout.alert_dialog.title: Изход
+view.settings.account.logout.alert_dialog.text: Сигурни ли сте че искате да излезете?
 view.settings.account.logout.alert_dialog.cancel.button: Отказ
-view.settings.account.logout.alert_dialog.logout.button: Logout
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.logout.alert_dialog.logout.button: Изход
+view.settings.account.delete_account.button: Изтриване на акаунт
+view.settings.account.delete_account.alert_dialog.title: Изтриване на акаунт
+view.settings.account.delete_account.alert_dialog.text: Наистина ли искате да изтриете вашият акаунт? Това действие не може да бъде отменено.
 view.settings.account.delete_account.alert_dialog.cancel.button: Отказ
 view.settings.account.delete_account.alert_dialog.yes.button: 'Да'
-view.settings.data.title: Data
-view.settings.data.about.button: About
-view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
-view.settings.data.terms_and_conditions.button: Terms & Conditions
-view.settings.data.privacy_policy.button: Privacy Policy
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.settings.data.title: Данни
+view.settings.data.about.button: Относно
+view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Всички права запазени.
+view.settings.data.terms_and_conditions.button: Правила и условия
+view.settings.data.privacy_policy.button: Поверителност
+view.under_maintenance.title: В Поддръжка
+view.under_maintenance.subtitle: В момента приложението е в процес на поддръжка и ще се върне скоро. Моля, проверете сървъра за поддръжка за актуализации.
+view.under_maintenance.retry.button: Опитай пак
 view.under_maintenance.support_server.button: Сървър за поддръжка
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
+view.no_internet.title: Няма интернет връзка
+view.no_internet.subtitle: Не бе установена Интернет връзка. Моля проверете вашата връзка и опитайте пак
+view.no_internet.retry: Опитай пак
 view.bot.reported.title: Reported {}
 view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
 view.bot.reported.button.okay: Okay
@@ -159,7 +159,7 @@ view.search.title: Search
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Дискорд Ботове
+view.welcome.title: Discord ботове
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
-view.welcome.login.button: Login with Discord
+view.welcome.login.button: Влез със Discord
 view.welcome.skip.button: Skip for Now
