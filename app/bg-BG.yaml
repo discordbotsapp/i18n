@@ -32,46 +32,46 @@ global.tag.utility: Полезно
 global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Многофункционални
 global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
+global.tag.crypto: Крипто #KEEP AS IS
 global.tag.top_charts: Най добри
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.contact: 'Връзка: support@discordbots.app'
+global.footer.info: Discord Bots App не е свързано със дискрод или някои други дискорд бот страници.
 global.login_alert.title: Вход
-global.login_alert.cancel.button: Cancel
+global.login_alert.cancel.button: Отказ
 global.login_alert.login.button: Вход
-global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
+global.rate_dialog.title: Оцени дискрод ботове
+global.rate_dialog.subtitle: Ако харесваш нашето приложение, молим те да отделиш малко време за да го оцениш! Това ни помага много и отнема не повече от 1 минута.
+global.rate_dialog.button.rate: Оценка
+global.rate_dialog.button.no_thanks: Не благодаря
+global.rate_dialog.button.maybe_later: По късно
+view.bot.add.button: Добави
+view.bot.chip.prefix: 'Префикс: {}'
+view.bot.chip.servers: '{} Сървъра'
+view.bot.chip.server: '{} Сървъра'
+view.bot.chip.votes: '{} Гласувания'
+view.bot.chip.vote: '{} Гласувай'
+view.bot.menu.report: Докладвай
+view.bot.menu.copy_id: Копиране на ID
+view.bot.menu.copy_id.snack_bar: Копиране на {}'s ID
+view.bot.menu.hide: Скрий
+view.bot.menu.hide.alert_dialog.title: Скрий {}
+view.bot.menu.hide.alert_dialog.text: 'Сигурни ли сте че искате да скриете {}?'
+view.bot.menu.hide.alert_dialog.cancel.button: Отказ
+view.bot.menu.hide.alert_dialog.yes.button: 'Да'
+view.bot.website.button: Уебсайт
+view.bot.support_server.button: Сървър за поддръжка
+view.bot.vote.button: Гласувай
+view.bot.favorite.login_alert: Нужно е да сте влезли във профила си за да добавите този бот във любими.
+view.bot.report.login_alert: Нужно е да сте влезли във профила си за да докладвате този бот.
+view.bot.hide.login_alert: Нужно е да сте влезли във профила си за да скриете този бот.
+view.bot.copy.snackbar: Копиране на {}'s ID
+view.report.report_reason.title: Причина за докладване
+view.report.report_reason.hint: Избери причина
+view.report.report_reason.empty: Моля избери причина
+view.report.additional_information.title: Допълнителната информация
+view.report.additional_information.hint: Добави допълнителна информация тук...
+view.report.additional_information.empty: Моля избери причина
+view.report.submit.button: Изпращане
 view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
 view.report.report_reason.dropdown.option2: Offline for a long period of time
 view.report.report_reason.dropdown.option3: Misleading features and description
@@ -90,16 +90,16 @@ view.explore.most_voted.subtitle: Bots with the most votes this month
 view.explore.see_all.button: See All
 view.explore.categories.title: Explore Categories
 view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Support Server
+view.explore.footer.support_server.button: Сървър за поддръжка
 view.explore.footer.bug_report.button: Bug Report
 view.explore.footer.terms_and_conditions.button: Terms & Conditions
 view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
+view.top_charts.bot.subtitle.servers.plural: '{} Сървъра'
+view.top_charts.bot.subtitle.votes.plural: '{} Гласувания'
+view.top_charts.bot.subtitle.servers.singular: '{} Сървъра'
+view.top_charts.bot.subtitle.votes.singular: '{} Гласувай'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
@@ -125,19 +125,19 @@ view.settings.theme.light.radio: Light
 view.settings.language.title: Език
 view.settings.language.placeholder: Choose a language
 view.settings.support.title: Support
-view.settings.support.support_server.button: Support Server
+view.settings.support.support_server.button: Сървър за поддръжка
 view.settings.support.report_a_bug.button: Reprot A Bug
 view.settings.account.title: Профил
 view.settings.account.logout.button: Logout
 view.settings.account.logout.alert_dialog.title: Logout
 view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
-view.settings.account.logout.alert_dialog.cancel.button: Cancel
+view.settings.account.logout.alert_dialog.cancel.button: Отказ
 view.settings.account.logout.alert_dialog.logout.button: Logout
 view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
+view.settings.account.delete_account.alert_dialog.cancel.button: Отказ
+view.settings.account.delete_account.alert_dialog.yes.button: 'Да'
 view.settings.data.title: Data
 view.settings.data.about.button: About
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
@@ -146,7 +146,7 @@ view.settings.data.privacy_policy.button: Privacy Policy
 view.under_maintenance.title: Under Maintenance
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: Retry
-view.under_maintenance.support_server.button: Support Server
+view.under_maintenance.support_server.button: Сървър за поддръжка
 view.no_internet.title: No Internet Connection
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
 view.no_internet.retry: Retry
