@@ -42,7 +42,7 @@ global.login_alert.login.button: Login
 global.rate_dialog.title: Rate Discord Bots
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
+global.rate_dialog.button.no_thanks: لا شكراً
 global.rate_dialog.button.maybe_later: MAYBE LATER
 view.bot.add.button: ADD
 view.bot.chip.prefix: 'Prefix: {}'
