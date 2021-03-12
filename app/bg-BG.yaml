@@ -1,5 +1,5 @@
 ---
-global.title: Discord ботове
+global.title: Discord Bots
 global.navbar.explore: Разгледай
 global.navbar.top_charts: Най добри
 global.navbar.account: Профил
@@ -150,16 +150,16 @@ view.under_maintenance.support_server.button: Сървър за поддръжк
 view.no_internet.title: Няма интернет връзка
 view.no_internet.subtitle: Не бе установена Интернет връзка. Моля проверете вашата връзка и опитайте пак
 view.no_internet.retry: Опитай пак
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
-view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
-view.welcome.title: Discord ботове
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.bot.reported.title: Докладвано {}
+view.bot.reported.subtitle: 'Ти успешно докладва {} за следната причина:'
+view.bot.reported.button.okay: Добре
+view.user.bots: Ботове
+view.search.hint: Търсене...
+view.search.title: Търсене
+view.search.subtitle.noQuery: Търсене на бот...
+view.search.subtitle.query: Показване на резултати от търсенето за {}
+view.search.none: Не са намерени разултати
+view.welcome.title: Discord Bots
+view.welcome.subtitle: Разгледайте {} + Discord ботове! Започнете, като влезете във вашия акаунт в Discord.
 view.welcome.login.button: Влез със Discord
-view.welcome.skip.button: Skip for Now
+view.welcome.skip.button: Пропускане
