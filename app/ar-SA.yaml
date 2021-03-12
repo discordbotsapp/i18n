@@ -6,13 +6,13 @@ global.navbar.account: Account
 global.app_bar.explore: Explore
 global.app_bar.top_charts: Top Charts
 global.app_bar.account: Account
-global.app_bar.login: Login
+global.app_bar.login: دخول
 global.app_bar.settings: الإعدادات
-global.app_bar.language: Language
+global.app_bar.language: اللغة
 global.app_bar.report: 'Report {}'
 global.app_bar.categories: Categories
-global.tag.music: Music
-global.tag.pokemon: Pokemon #KEEP AS IS
+global.tag.music: الموسيقى
+global.tag.pokemon: بوكيمون #KEEP AS IS
 global.tag.soundboard: Soundboard
 global.tag.moderation: Moderation
 global.tag.minecraft: Minecraft #KEEP AS IS
@@ -20,9 +20,9 @@ global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: Social
-global.tag.fun: Fun
+global.tag.fun: متعة
 global.tag.economy: Economy
-global.tag.anime: Anime #KEEP AS IS
+global.tag.anime: أنيمي #KEEP AS IS
 global.tag.game: لعبة
 global.tag.meme: Meme
 global.tag.leveling: Leveling
@@ -36,20 +36,20 @@ global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Top Charts
 global.footer.contact: 'الاتصال: support@discordbots.app'
 global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Login
+global.login_alert.title: دخول
 global.login_alert.cancel.button: إلغاء
-global.login_alert.login.button: Login
+global.login_alert.login.button: دخول
 global.rate_dialog.title: Rate Discord Bots
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
 global.rate_dialog.button.no_thanks: لا شكراً
 global.rate_dialog.button.maybe_later: MAYBE LATER
 view.bot.add.button: ADD
-view.bot.chip.prefix: 'Prefix: {}'
+view.bot.chip.prefix: 'بادئة: {}'
 view.bot.chip.servers: '{} servers'
 view.bot.chip.server: '{} server'
 view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
+view.bot.chip.vote: '{} تصويت'
 view.bot.menu.report: Report
 view.bot.menu.copy_id: Copy ID
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
@@ -60,13 +60,13 @@ view.bot.menu.hide.alert_dialog.cancel.button: إلغاء
 view.bot.menu.hide.alert_dialog.yes.button: 'نَعَمْ'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
+view.bot.vote.button: تصويت
 view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
 view.bot.report.login_alert: You must be logged in to report this bot.
 view.bot.hide.login_alert: You must be logged in to hide this bot.
 view.bot.copy.snackbar: Copied {}'s ID
 view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
+view.report.report_reason.hint: حدد سبباً
 view.report.report_reason.empty: Please select a reason
 view.report.additional_information.title: Additional Information
 view.report.additional_information.hint: Enter additional details here...
@@ -75,19 +75,19 @@ view.report.submit.button: إرسال
 view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
 view.report.report_reason.dropdown.option2: Offline for a long period of time
 view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
+view.report.report_reason.dropdown.option4: البوت لا يعمل
 view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reanos.dropdown.option6: سبب آخر
 view.explore.title: Explore
 view.explore.featured.title: Featured
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
 view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
+view.explore.new.title: جديد
 view.explore.new.subtitle: Recently added bots
 view.explore.most_voted.title: Most Voted
 view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.see_all.button: See All
+view.explore.see_all.button: عرض الكل
 view.explore.categories.title: Explore Categories
 view.explore.category.subtitle: Bots in the {} category
 view.explore.footer.support_server.button: Support Server
@@ -99,31 +99,31 @@ view.top_charts.most_servers: Most Servers
 view.top_charts.bot.subtitle.servers.plural: '{} servers'
 view.top_charts.bot.subtitle.votes.plural: '{} votes'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
-view.account.login.guest: Guest
+view.top_charts.bot.subtitle.votes.singular: '{} تصويت'
+view.account.login.guest: ضيف
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
 view.account.login.error.button: Go back to login
 view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
+view.account.favorites.button: المفضلات
 view.account.add_bot.button: Add Bot
 view.account.remove_ads.button: Remove Ads
 view.account.settings.button: الإعدادات
 view.my_bots.title: My Bots
 view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
 view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
+view.favorites.title: المفضلات
 view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
+view.favorites.none: ليس لديك أي مفضلات
 view.add_bot.title: Add Bot
 view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
 view.settings.theme.title: Theme
 view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
-view.settings.language.title: Language
-view.settings.language.placeholder: Choose a language
+view.settings.theme.dark.radio: مظلم
+view.settings.theme.light.radio: فاتح
+view.settings.language.title: اللغة
+view.settings.language.placeholder: اختر لغة
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Reprot A Bug
@@ -138,7 +138,7 @@ view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: إلغاء
 view.settings.account.delete_account.alert_dialog.yes.button: 'نَعَمْ'
-view.settings.data.title: Data
+view.settings.data.title: بيانات
 view.settings.data.about.button: About
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
 view.settings.data.terms_and_conditions.button: Terms & Conditions
@@ -152,12 +152,12 @@ view.no_internet.subtitle: No internet connection found. Please check your conne
 view.no_internet.retry: Retry
 view.bot.reported.title: Reported {}
 view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
+view.bot.reported.button.okay: حسناً
 view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
+view.search.hint: بحث...
+view.search.title: بحث
 view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
+view.search.subtitle.query: عرض نتائج البحث عن {}
 view.search.none: No Results Found
 view.welcome.title: Discord Bots
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
