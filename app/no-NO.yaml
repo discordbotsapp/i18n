@@ -28,7 +28,7 @@ global.tag.meme: Meme
 global.tag.leveling: Utjevning
 global.tag.roleplay: Rollespill
 global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.utility: Nytte
 global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Multiformål
 global.tag.twitch: Twitch #KEEP AS IS
@@ -80,30 +80,30 @@ view.report.report_reason.dropdown.option5: Invitasjonslinken virker ikke
 view.report.report_reanos.dropdown.option6: Annen grunn
 view.explore.title: Utforske
 view.explore.featured.title: Utvalgt
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
+view.explore.featured.subtitle: Topp botter som er bekreftet av Discord
 view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
+view.explore.trending.subtitle: Nye boter som henter traksjon raskt
+view.explore.new.title: Ny
+view.explore.new.subtitle: Nylig lagt til botter
+view.explore.most_voted.title: Mest Stemt
+view.explore.most_voted.subtitle: Bots med flest stemmer denne måneden
 view.explore.see_all.button: Vis Alle
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
+view.explore.categories.title: Utforsk kategorier
+view.explore.category.subtitle: Bots i {} kategorien
 view.explore.footer.support_server.button: Støtte Server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.terms_and_conditions.button: Terms & Conditions
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.explore.footer.bug_report.button: Feilrapport
+view.explore.footer.terms_and_conditions.button: Vilkår og Betingelser
+view.explore.footer.privacy_policy.button: Retningslinjer for personvern
+view.top_charts.most_votes: De fleste stemmer
+view.top_charts.most_servers: De fleste servere
 view.top_charts.bot.subtitle.servers.plural: '{} servere'
 view.top_charts.bot.subtitle.votes.plural: '{} stemmer'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
 view.top_charts.bot.subtitle.votes.singular: '{} stemme'
-view.account.login.guest: Guest
+view.account.login.guest: Gjest
 view.account.login.button: Logg inn med Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
+view.account.login.error: Det oppsto en feil under pålogging. Prøv på nytt.
+view.account.login.error.button: Gå tilbake for å logge inn
 view.account.my_bots.button: Mine Bots
 view.account.favorites.button: Favoritter
 view.account.add_bot.button: Legg Til Bot
@@ -111,12 +111,12 @@ view.account.remove_ads.button: Fjern Reklamer
 view.account.settings.button: Innstillinger
 view.my_bots.title: Mine Bots
 view.my_bots.subtitle: Bots eid av deg. Du kan legge til din egen bot ved å klikke på Legg til bot-knappen på kontosiden. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
+view.my_bots.none: Du har ingen botter
 view.favorites.title: Favoritter
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
+view.favorites.subtitle: Legg til favorittrobotene dine her ved å klikke på hjerteknappen på siden til en bot
+view.favorites.none: Du har ingen favoritter
 view.add_bot.title: Legg Til Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
+view.add_bot.subtitle: Legg til boten din i en tredjeparts botliste for automatisk å legge den til i appen.
 view.add_bot.note: 'Merk: Boten din vises kanskje ikke umiddelbart i appen etter å ha lagt den til en annen bot liste.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: System
@@ -141,8 +141,8 @@ view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
 view.settings.data.title: Data
 view.settings.data.about.button: Om
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Alle rettigheter reservert.
-view.settings.data.terms_and_conditions.button: Terms & Conditions
-view.settings.data.privacy_policy.button: Privacy Policy
+view.settings.data.terms_and_conditions.button: Vilkår og Betingelser
+view.settings.data.privacy_policy.button: Retningslinjer for personvern
 view.under_maintenance.title: Under Vedlikehold
 view.under_maintenance.subtitle: Appen er for tiden under vedlikehold og kommer snart tilbake. Sjekk brukerstøtteserveren for oppdateringer.
 view.under_maintenance.retry.button: Prøv på nytt
