@@ -72,7 +72,7 @@ view.report.additional_information.title: 附加信息
 view.report.additional_information.hint: 在此输入更多详细信息...
 view.report.additional_information.empty: 请选择一个原因
 view.report.submit.button: 发送
-view.report.report_reason.dropdown.option1: 不当/ NSFW内容
+view.report.report_reason.dropdown.option1: 不当/NSFW内容
 view.report.report_reason.dropdown.option2: 长时间离线
 view.report.report_reason.dropdown.option3: 误导性功能和描述
 view.report.report_reason.dropdown.option4: 机器人不可用

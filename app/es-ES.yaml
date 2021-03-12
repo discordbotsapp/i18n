@@ -114,7 +114,7 @@ view.my_bots.subtitle: Bots de tu propiedad. Puedes añadir tu propio bot hacien
 view.my_bots.none: No tienes ningún bot
 view.favorites.title: Favoritos
 view.favorites.subtitle: Añade tus bots favoritos haciendo click en el botón del corazón en la pagina del bot
-view.favorites.none: No tienes bots favoritos
+view.favorites.none: No tienes favoritos
 view.add_bot.title: Añadir Bot
 view.add_bot.subtitle: Agregue su bot a una lista de bots de terceros para agregarlo automáticamente a la aplicación.
 view.add_bot.note: 'Nota: Tu bot puede no aparecer instantáneamente en la aplicación después de añadirlo a otra lista de bots.'
@@ -126,7 +126,7 @@ view.settings.language.title: Idioma
 view.settings.language.placeholder: Escoge un lenguaje
 view.settings.support.title: Soporte
 view.settings.support.support_server.button: Servidor de Soporte
-view.settings.support.report_a_bug.button: Reportar un error
+view.settings.support.report_a_bug.button: Reportar un Error
 view.settings.account.title: Cuenta
 view.settings.account.logout.button: Cerrar Sesión
 view.settings.account.logout.alert_dialog.title: Cerrar Sesión
@@ -148,7 +148,7 @@ view.under_maintenance.subtitle: La aplicación se encuentra actualmente en mant
 view.under_maintenance.retry.button: Reintentar
 view.under_maintenance.support_server.button: Servidor de Soporte
 view.no_internet.title: No hay conexión a Internet
-view.no_internet.subtitle: No se encontró conexión a Internet. Comprueba tu conexión y vuelve a intentarlo
+view.no_internet.subtitle: No se ha encontrado conexión a Internet. Por favor, compruebe su conexión y vuelva a intentarlo
 view.no_internet.retry: Reintentar
 view.bot.reported.title: Reportado {}
 view.bot.reported.subtitle: 'Has reportado {} por la siguiente razón:'
@@ -162,4 +162,4 @@ view.search.none: No se encontraron resultados
 view.welcome.title: Bots de Discord
 view.welcome.subtitle: '¡Navega a través de {}+ bots de Discord! Empieza iniciando sesión con tu cuenta de Discord.'
 view.welcome.login.button: Iniciar sesión con Discord
-view.welcome.skip.button: Omitir por ahora
+view.welcome.skip.button: Omitir por Ahora
