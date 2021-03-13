@@ -126,13 +126,13 @@ view.settings.language.title: Idioma
 view.settings.language.placeholder: Escolha um idioma
 view.settings.support.title: Suporte
 view.settings.support.support_server.button: Servidor de Suporte
-view.settings.support.report_a_bug.button: Reportar um Bug
+view.settings.support.report_a_bug.button: Report a Bug
 view.settings.account.title: Conta
-view.settings.account.logout.button: Sair
-view.settings.account.logout.alert_dialog.title: Sair
-view.settings.account.logout.alert_dialog.text: Tem certeza que deseja sair?
-view.settings.account.logout.alert_dialog.cancel.button: Cancelar
-view.settings.account.logout.alert_dialog.logout.button: Sair
+view.settings.account.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.title: Log Out
+view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.alert_dialog.cancel.button: Cancelar
+view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Deletar conta
 view.settings.account.delete_account.alert_dialog.title: Deletar conta
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
