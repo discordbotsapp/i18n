@@ -85,10 +85,10 @@ view.explore.trending.title: Τάσεις
 view.explore.trending.subtitle: Νέα bots που κερδίζουν έλξη γρήγορα
 view.explore.new.title: Καινούρια
 view.explore.new.subtitle: Bot που προστέθηκαν πρόσφατα
-view.explore.most_voted.title: Με τις περισσότερες ψήφους
+view.explore.most_voted.title: Περισσότερες Ψήφοι
 view.explore.most_voted.subtitle: Bots με τις περισσότερες ψήφους αυτό το μήνα
 view.explore.see_all.button: Προβολή όλων
-view.explore.categories.title: Εξερεύνηστε τις Κατηγορίες
+view.explore.categories.title: Κατηγορίες
 view.explore.category.subtitle: Bot στην κατηγορία {}
 view.explore.footer.support_server.button: Διακομιστής Υποστήριξης
 view.explore.footer.bug_report.button: Αναφορά Σφάλματος
