@@ -126,13 +126,13 @@ view.settings.language.title: 语言
 view.settings.language.placeholder: 选择语言
 view.settings.support.title: 支援
 view.settings.support.support_server.button: 支援服务器
-view.settings.support.report_a_bug.button: Report a Bug
+view.settings.support.report_a_bug.button: Reprot A Bug
 view.settings.account.title: 户口
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: 取消
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
+view.settings.account.logout.button: Logout
+view.settings.account.logout.alert_dialog.title: Logout
+view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
+view.settings.account.logout.alert_dialog.cancel.button: 取消
+view.settings.account.logout.alert_dialog.logout.button: Logout
 view.settings.account.delete_account.button: 删除帐户
 view.settings.account.delete_account.alert_dialog.title: 删除帐户
 view.settings.account.delete_account.alert_dialog.text: 您确定要删除您的帐户吗？此操作无法撤消。
