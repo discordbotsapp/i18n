@@ -126,7 +126,7 @@ view.settings.language.title: Език
 view.settings.language.placeholder: Избери език
 view.settings.support.title: Поддръжка
 view.settings.support.support_server.button: Сървър за поддръжка
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Reprot A Bug
 view.settings.account.title: Профил
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
