@@ -126,7 +126,7 @@ view.settings.language.title: Idioma
 view.settings.language.placeholder: Escoge un lenguaje
 view.settings.support.title: Soporte
 view.settings.support.support_server.button: Servidor de Soporte
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.report_a_bug.button: Report A Bug
 view.settings.account.title: Cuenta
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
