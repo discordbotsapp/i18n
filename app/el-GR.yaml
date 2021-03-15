@@ -128,11 +128,11 @@ view.settings.support.title: Υποστήριξη
 view.settings.support.support_server.button: Διακομιστής Υποστήριξης
 view.settings.support.report_a_bug.button: Reprot A Bug
 view.settings.account.title: Λογαριασμός
-view.settings.account.logout.button: Logout
-view.settings.account.logout.alert_dialog.title: Logout
-view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
-view.settings.account.logout.alert_dialog.cancel.button: Ακύρωση
-view.settings.account.logout.alert_dialog.logout.button: Logout
+view.settings.account.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.title: Log Out
+view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.alert_dialog.cancel.button: Ακύρωση
+view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Διαγραφή λογαριασμού
 view.settings.account.delete_account.alert_dialog.title: Διαγραφή λογαριασμού
 view.settings.account.delete_account.alert_dialog.text: Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
