@@ -128,11 +128,11 @@ view.settings.support.title: 技術支援
 view.settings.support.support_server.button: 支持伺服器
 view.settings.support.report_a_bug.button: Reprot A Bug
 view.settings.account.title: 帳號
-view.settings.account.logout.button: Logout
-view.settings.account.logout.alert_dialog.title: Logout
-view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
-view.settings.account.logout.alert_dialog.cancel.button: 取消
-view.settings.account.logout.alert_dialog.logout.button: Logout
+view.settings.account.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.title: Log Out
+view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.alert_dialog.cancel.button: 取消
+view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: 刪除帳號
 view.settings.account.delete_account.alert_dialog.title: 刪除帳號
 view.settings.account.delete_account.alert_dialog.text: 您確定要刪除您的帳戶嗎？此操作無法撤消。
