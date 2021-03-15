@@ -126,13 +126,13 @@ view.settings.language.title: زمان
 view.settings.language.placeholder: زمانێک هەڵبژێرە
 view.settings.support.title: پشتگیری
 view.settings.support.support_server.button: سێرڤەری پشتگیری
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.report_a_bug.button: ڕاپۆرت کردنی کێشە
 view.settings.account.title: هەژمار
-view.settings.account.logout.button: دەرچوون
-view.settings.account.logout.alert_dialog.title: دەرچوون
-view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
-view.settings.account.logout.alert_dialog.cancel.button: هەڵوەشاندنەوە
-view.settings.account.logout.alert_dialog.logout.button: دەرچوون
+view.settings.account.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.title: Log Out
+view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.alert_dialog.cancel.button: هەڵوەشاندنەوە
+view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: سڕینەوەی ئەژمێر
 view.settings.account.delete_account.alert_dialog.title: سڕینەوەی ئەژمێر
 view.settings.account.delete_account.alert_dialog.text: ئایا دڵنیایت لەوەی دەتەوێت ئەژمێرەکەت بسڕیتەوە? ئەم کردارە ناتوانرێت هەڵوەشرێتەوە.
