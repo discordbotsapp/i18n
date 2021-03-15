@@ -126,7 +126,7 @@ view.settings.language.title: 语言
 view.settings.language.placeholder: 选择语言
 view.settings.support.title: 支援
 view.settings.support.support_server.button: 支援服务器
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.report_a_bug.button: Report A Bug
 view.settings.account.title: 户口
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
