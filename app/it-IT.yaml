@@ -128,11 +128,11 @@ view.settings.support.title: Assistenza
 view.settings.support.support_server.button: Server di Assistenza
 view.settings.support.report_a_bug.button: Segnala Un Bug
 view.settings.account.title: Account
-view.settings.account.logout.button: Esci
-view.settings.account.logout.alert_dialog.title: Esci
-view.settings.account.logout.alert_dialog.text: Sei sicuro di voler uscire?
-view.settings.account.logout.alert_dialog.cancel.button: Annulla
-view.settings.account.logout.alert_dialog.logout.button: Esci
+view.settings.account.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.title: Log Out
+view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.alert_dialog.cancel.button: Annulla
+view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Cancella Account
 view.settings.account.delete_account.alert_dialog.title: Cancella Account
 view.settings.account.delete_account.alert_dialog.text: Sei sicuro di voler eliminare il tuo account? Questa azione non potrà essere annullata.
