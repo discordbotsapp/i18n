@@ -126,7 +126,7 @@ view.settings.language.title: Språk
 view.settings.language.placeholder: Velg et språk
 view.settings.support.title: Brukerstøtte
 view.settings.support.support_server.button: Støtte Server
-view.settings.support.report_a_bug.button: Rapport en feil
+view.settings.support.report_a_bug.button: Report A Bug
 view.settings.account.title: Konto
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
