@@ -14,7 +14,7 @@ global.app_bar.categories: جۆرەکان
 global.tag.music: مۆسیقا
 global.tag.pokemon: پۆکیمۆن #KEEP AS IS
 global.tag.soundboard: تەختەی دەنگ
-global.tag.moderation: میانڕەو
+global.tag.moderation: چاودێری
 global.tag.minecraft: ماینکرافت #KEEP AS IS
 global.tag.trivia: تریڤیا
 global.tag.fortnite: فۆرتنایت #KEEP AS IS
@@ -28,7 +28,7 @@ global.tag.meme: میم
 global.tag.leveling: ئاست
 global.tag.roleplay: ڕۆڵبینین
 global.tag.logging: تۆمارکردن
-global.tag.utility: سوود
+global.tag.utility: فەرمانی گشتی
 global.tag.reddit: رێدیت #KEEP AS IS
 global.tag.multipurpose: فرەمەبەست
 global.tag.twitch: تویچ #KEEP AS IS
@@ -128,11 +128,11 @@ view.settings.support.title: پشتگیری
 view.settings.support.support_server.button: سێرڤەری پشتگیری
 view.settings.support.report_a_bug.button: Reprot A Bug
 view.settings.account.title: هەژمار
-view.settings.account.logout.button: Logout
-view.settings.account.logout.alert_dialog.title: Logout
+view.settings.account.logout.button: دەرچوون
+view.settings.account.logout.alert_dialog.title: دەرچوون
 view.settings.account.logout.alert_dialog.text: Are you sure you want to logout?
 view.settings.account.logout.alert_dialog.cancel.button: هەڵوەشاندنەوە
-view.settings.account.logout.alert_dialog.logout.button: Logout
+view.settings.account.logout.alert_dialog.logout.button: دەرچوون
 view.settings.account.delete_account.button: سڕینەوەی ئەژمێر
 view.settings.account.delete_account.alert_dialog.title: سڕینەوەی ئەژمێر
 view.settings.account.delete_account.alert_dialog.text: ئایا دڵنیایت لەوەی دەتەوێت ئەژمێرەکەت بسڕیتەوە? ئەم کردارە ناتوانرێت هەڵوەشرێتەوە.
