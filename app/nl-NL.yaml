@@ -13,50 +13,50 @@ global.app_bar.report: 'Ok dat is echt stom maar goed je moet het er mee doen he
 global.app_bar.categories: Ok
 global.tag.music: Dus wat will je
 global.tag.pokemon: O jezus crisis #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
-global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.soundboard: Alstublieft
+global.tag.moderation: Dank u
+global.tag.minecraft: Meneer #KEEP AS IS
+global.tag.trivia: Mevrouw
+global.tag.fortnite: Hek #KEEP AS IS
+global.tag.spotify: Bek #KEEP AS IS
+global.tag.social: Douw
+global.tag.fun: Mouw
+global.tag.economy: Houw
+global.tag.anime: Enconomie #KEEP AS IS
+global.tag.game: Spel
+global.tag.meme: Meem
+global.tag.leveling: Meme
+global.tag.roleplay: Rollenspel
+global.tag.logging: Registreren
+global.tag.utility: Hulpverlenend
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
+global.tag.multipurpose: Meervoudig
+global.tag.twitch: Heet #KEEP AS IS
+global.tag.crypto: Warm #KEEP AS IS
 global.tag.top_charts: Zie je wel dat ik nederlands kan
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.contact: 'Lauw'
+global.footer.info: Koud.
 global.login_alert.title: Hoi
-global.login_alert.cancel.button: Cancel
+global.login_alert.cancel.button: Miauwt
 global.login_alert.login.button: Hoi
-global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
+global.rate_dialog.title: Reageer
+global.rate_dialog.subtitle: Nee.
+global.rate_dialog.button.rate: Ja
+global.rate_dialog.button.no_thanks: Hoi
+global.rate_dialog.button.maybe_later: Dag
+view.bot.add.button: Morgen
+view.bot.chip.prefix: 'Idioot'
+view.bot.chip.servers: 'Hoer'
+view.bot.chip.server: 'Kleine slet'
+view.bot.chip.votes: 'Seks ding'
+view.bot.chip.vote: 'Baby'
+view.bot.menu.report: Verslag
+view.bot.menu.copy_id: Kopieer
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Hide
 view.bot.menu.hide.alert_dialog.title: Hide {}
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
+view.bot.menu.hide.alert_dialog.cancel.button: Miauwt
 view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
@@ -96,10 +96,10 @@ view.explore.footer.terms_and_conditions.button: Terms & Conditions
 view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
+view.top_charts.bot.subtitle.servers.plural: 'Hoer'
+view.top_charts.bot.subtitle.votes.plural: 'Seks ding'
+view.top_charts.bot.subtitle.servers.singular: 'Kleine slet'
+view.top_charts.bot.subtitle.votes.singular: 'Baby'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
@@ -131,12 +131,12 @@ view.settings.account.title: Kan jij dat ook
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Cancel
+view.settings.account.log_out.alert_dialog.cancel.button: Miauwt
 view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
+view.settings.account.delete_account.alert_dialog.cancel.button: Miauwt
 view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
 view.settings.data.title: Data
 view.settings.data.about.button: About
