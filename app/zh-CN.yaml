@@ -50,14 +50,14 @@ view.bot.chip.servers: '{} 服务器'
 view.bot.chip.server: '{} 服务器'
 view.bot.chip.votes: '{} 票'
 view.bot.chip.vote: '{} 票'
-view.bot.menu.report: 举报
-view.bot.menu.copy_id: 复制ID
+view.bot.menu.report: 报告
+view.bot.menu.copy_id: 副本编号
 view.bot.menu.copy_id.snack_bar: 已复制{}的ID
 view.bot.menu.hide: 隐藏
 view.bot.menu.hide.alert_dialog.title: 隐藏 {}
 view.bot.menu.hide.alert_dialog.text: '您确定要隐藏 {} 吗？'
 view.bot.menu.hide.alert_dialog.cancel.button: 取消
-view.bot.menu.hide.alert_dialog.yes.button: '是'
+view.bot.menu.hide.alert_dialog.yes.button: '是的'
 view.bot.website.button: 网站
 view.bot.support_server.button: 支援服务器
 view.bot.vote.button: 投票
@@ -137,7 +137,7 @@ view.settings.account.delete_account.button: 删除帐户
 view.settings.account.delete_account.alert_dialog.title: 删除帐户
 view.settings.account.delete_account.alert_dialog.text: 您确定要删除您的帐户吗？此操作无法撤消。
 view.settings.account.delete_account.alert_dialog.cancel.button: 取消
-view.settings.account.delete_account.alert_dialog.yes.button: '是'
+view.settings.account.delete_account.alert_dialog.yes.button: '是的'
 view.settings.data.title: 数据
 view.settings.data.about.button: 关于软件
 view.settings.data.about.popup.legalese: 版权所有 © 2020 Tetracyl。保留所有权利。
@@ -152,8 +152,8 @@ view.no_internet.subtitle: 无网络连接。请检查您的连接，然后重�
 view.no_internet.retry: 重试
 view.bot.reported.title: 已报告{}
 view.bot.reported.subtitle: '由于以下原因，您已成功报告{}：'
-view.bot.reported.button.okay: Okay
-view.user.bots: Bots
+view.bot.reported.button.okay: 好的
+view.user.bots: 机器人
 view.search.hint: 搜索...
 view.search.title: 搜索
 view.search.subtitle.noQuery: 搜索机器人...
