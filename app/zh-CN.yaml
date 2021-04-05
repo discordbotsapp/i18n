@@ -126,13 +126,13 @@ view.settings.language.title: 语言
 view.settings.language.placeholder: 选择语言
 view.settings.support.title: 支援
 view.settings.support.support_server.button: 支援服务器
-view.settings.support.report_a_bug.button: Reprot A Bug
+view.settings.support.report_a_bug.button: 报告错误
 view.settings.account.title: 户口
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: 登出
+view.settings.account.log_out.alert_dialog.title: 登出
+view.settings.account.log_out.alert_dialog.text: 您确定要注销吗？
 view.settings.account.log_out.alert_dialog.cancel.button: 取消
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.log_out.button: 登出
 view.settings.account.delete_account.button: 删除帐户
 view.settings.account.delete_account.alert_dialog.title: 删除帐户
 view.settings.account.delete_account.alert_dialog.text: 您确定要删除您的帐户吗？此操作无法撤消。
@@ -150,8 +150,8 @@ view.under_maintenance.support_server.button: 支援服务器
 view.no_internet.title: 没有网絡连接
 view.no_internet.subtitle: 无网络连接。请检查您的连接，然后重试。
 view.no_internet.retry: 重试
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
+view.bot.reported.title: 已报告{}
+view.bot.reported.subtitle: '由于以下原因，您已成功报告{}：'
 view.bot.reported.button.okay: Okay
 view.user.bots: Bots
 view.search.hint: 搜索...
