@@ -1,10 +1,10 @@
 ---
 global.title: Discord Botları
 global.navbar.explore: Keşfet
-global.navbar.top_charts: Top Charts
+global.navbar.top_charts: En İyiler
 global.navbar.account: Hesabım
 global.app_bar.explore: Keşfet
-global.app_bar.top_charts: Top Charts
+global.app_bar.top_charts: En İyiler
 global.app_bar.account: Hesabım
 global.app_bar.login: Giriş Yap
 global.app_bar.settings: Ayarlar
@@ -16,30 +16,30 @@ global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Ses Tahtası
 global.tag.moderation: Moderasyon
 global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
+global.tag.trivia: Bilgi
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.social: Sosyal
+global.tag.fun: Eğlence
+global.tag.economy: Ekonomi
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
+global.tag.game: Oyun
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.leveling: Seviye Atlama
+global.tag.roleplay: Rol Yapma
+global.tag.logging: Kayıt Tutma
+global.tag.utility: Yardımcı Araçlar
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Çok amaçlı
 global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.tag.crypto: Kripto #KEEP AS IS
+global.tag.top_charts: En İyiler
+global.footer.contact: 'İletişim: support@discordbots.app'
+global.footer.info: Discord Bots uygulaması, Discord veya desteklenen Discord Bot sitelerinin herhangi biri ile bağlantılı değildir.
 global.login_alert.title: Giriş Yap
-global.login_alert.cancel.button: Cancel
+global.login_alert.cancel.button: İptal
 global.login_alert.login.button: Giriş Yap
-global.rate_dialog.title: Rate Discord Bots
+global.rate_dialog.title: Discord Bots Uygulamasını Oyla
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
 global.rate_dialog.button.no_thanks: NO THANKS
@@ -56,7 +56,7 @@ view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Hide
 view.bot.menu.hide.alert_dialog.title: Hide {}
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
+view.bot.menu.hide.alert_dialog.cancel.button: İptal
 view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
@@ -131,12 +131,12 @@ view.settings.account.title: Hesabım
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Cancel
+view.settings.account.log_out.alert_dialog.cancel.button: İptal
 view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
+view.settings.account.delete_account.alert_dialog.cancel.button: İptal
 view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
 view.settings.data.title: Data
 view.settings.data.about.button: About
