@@ -1,64 +1,64 @@
 ---
 global.title: Discord Bots
 global.navbar.explore: إستكشاف
-global.navbar.top_charts: Top Charts
-global.navbar.account: Account
+global.navbar.top_charts: أفضل القوائم
+global.navbar.account: الحساب
 global.app_bar.explore: إستكشاف
-global.app_bar.top_charts: Top Charts
-global.app_bar.account: Account
+global.app_bar.top_charts: أفضل القوائم
+global.app_bar.account: الحساب
 global.app_bar.login: دخول
 global.app_bar.settings: الإعدادات
 global.app_bar.language: اللغة
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
+global.app_bar.report: 'الإبلاغ {}'
+global.app_bar.categories: التصنيفات
 global.tag.music: الموسيقى
 global.tag.pokemon: بوكيمون #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
+global.tag.soundboard: لوحات الصوت
+global.tag.moderation: الإشراف
+global.tag.minecraft: ماينكرافت #KEEP AS IS
+global.tag.trivia: تريفيا
+global.tag.fortnite: فورتنيت #KEEP AS IS
+global.tag.spotify: سبوتيفاي #KEEP AS IS
+global.tag.social: وسائل التواصل
 global.tag.fun: متعة
-global.tag.economy: Economy
+global.tag.economy: الاقتصاد
 global.tag.anime: أنيمي #KEEP AS IS
 global.tag.game: لعبة
-global.tag.meme: Meme
-global.tag.leveling: Leveling
+global.tag.meme: ميمات
+global.tag.leveling: المستوى
 global.tag.roleplay: دور اللعاب
 global.tag.logging: تسجيل
-global.tag.utility: Utility
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
-global.tag.twitch: Twitch #KEEP AS IS
+global.tag.utility: الأدوات المساعدة
+global.tag.reddit: ريديت #KEEP AS IS
+global.tag.multipurpose: متعددة الأغراض
+global.tag.twitch: تويتش #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
+global.tag.top_charts: أفضل القوائم
 global.footer.contact: 'الاتصال: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.info: تطبيق ديسكورد بوت غير منتسب إلى ديسكورد أو أي من قوائم بوت ديسكورد مدعومة.
 global.login_alert.title: دخول
 global.login_alert.cancel.button: إلغاء
 global.login_alert.login.button: دخول
-global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
+global.rate_dialog.title: قيّم بوت ديسكورد
+global.rate_dialog.subtitle: إذا كنت تعجبك هذا التطبيق، يرجى أخذ القليل من وقتك لمراجعته! إنها حقا تساعدنا ولا يجب أن تستغرق أكثر من دقيقة واحدة.
+global.rate_dialog.button.rate: تقييم
 global.rate_dialog.button.no_thanks: لا شكراً
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
+global.rate_dialog.button.maybe_later: لاحقا
+view.bot.add.button: أضف
 view.bot.chip.prefix: 'بادئة: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
+view.bot.chip.servers: 'سرفرز'
+view.bot.chip.server: 'سرفرز'
+view.bot.chip.votes: '{} تصويت'
 view.bot.chip.vote: '{} تصويت'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
+view.bot.menu.report: ابلاغ
+view.bot.menu.copy_id: نسخ المعرف
 view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: إخفاء
 view.bot.menu.hide.alert_dialog.title: إخفاء {}
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: إلغاء
 view.bot.menu.hide.alert_dialog.yes.button: 'نَعَمْ'
-view.bot.website.button: Website
+view.bot.website.button: الموقع الإلكتروني
 view.bot.support_server.button: Support Server
 view.bot.vote.button: تصويت
 view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
@@ -96,9 +96,9 @@ view.explore.footer.terms_and_conditions.button: الشروط والأحكام
 view.explore.footer.privacy_policy.button: سياسة الخصوصية
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
+view.top_charts.bot.subtitle.servers.plural: 'سرفرز'
+view.top_charts.bot.subtitle.votes.plural: '{} تصويت'
+view.top_charts.bot.subtitle.servers.singular: 'سرفرز'
 view.top_charts.bot.subtitle.votes.singular: '{} تصويت'
 view.account.login.guest: ضيف
 view.account.login.button: Login with Discord
@@ -127,7 +127,7 @@ view.settings.language.placeholder: اختر لغة
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Report A Bug
-view.settings.account.title: Account
+view.settings.account.title: الحساب
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
