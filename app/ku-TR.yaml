@@ -92,7 +92,7 @@ view.explore.categories.title: گەڕان بە دوای جۆرەکان
 view.explore.category.subtitle: بۆتەکان لە جۆری {}
 view.explore.footer.support_server.button: سێرڤەری پشتگیری
 view.explore.footer.bug_report.button: ڕاگەیاندنی هەڵە
-view.explore.footer.terms_and_conditions.button: مەرجەکان
+view.explore.footer.about.button: سەبارەت
 view.explore.footer.privacy_policy.button: سیاسەتی تایبەتێتی
 view.top_charts.most_votes: دەنگە زۆرەکان
 view.top_charts.most_servers: سێرڤەرە زۆرەکان
@@ -141,7 +141,6 @@ view.settings.account.delete_account.alert_dialog.yes.button: 'بەڵێ'
 view.settings.data.title: داتا
 view.settings.data.about.button: سەبارەت
 view.settings.data.about.popup.legalese: مافی لەچەپدان و بلاوکردنەوە © ۲٠۲٠ تێتراسیێل هەموو مافەکان پارێزراون.
-view.settings.data.terms_and_conditions.button: مەرجەکان
 view.settings.data.privacy_policy.button: سیاسەتی تایبەتێتی
 view.under_maintenance.title: لەژێر پەرەپێدانە
 view.under_maintenance.subtitle: بەرنامەکە لە ئێستادا لە ژێر پەرەپێدانە بەم زووانە دەگەڕێتەوە. تکایە سەردانی سێرڤەری پشتگیری بکە بۆ هەر نوێکاریەک.
