@@ -92,7 +92,7 @@ view.explore.categories.title: Κατηγορίες
 view.explore.category.subtitle: Bot στην κατηγορία {}
 view.explore.footer.support_server.button: Διακομιστής Υποστήριξης
 view.explore.footer.bug_report.button: Αναφορά Σφάλματος
-view.explore.footer.terms_and_conditions.button: Όροι & προϋποθέσεις
+view.explore.footer.about.button: Σχετικά με
 view.explore.footer.privacy_policy.button: Πολιτική Απορρήτου
 view.top_charts.most_votes: Με τις περισσότερες ψήφους
 view.top_charts.most_servers: Στους περισσότερους διακομιστές
@@ -141,7 +141,6 @@ view.settings.account.delete_account.alert_dialog.yes.button: 'Ναι'
 view.settings.data.title: Δεδομένα
 view.settings.data.about.button: Σχετικά με
 view.settings.data.about.popup.legalese: Πνευματικά δικαιώματα © 2015 Magento. Όλα τα δικαιώματα διατηρούνται.
-view.settings.data.terms_and_conditions.button: Όροι & προϋποθέσεις
 view.settings.data.privacy_policy.button: Πολιτική Απορρήτου
 view.under_maintenance.title: Υπό Συντήρηση
 view.under_maintenance.subtitle: Η εφαρμογή αυτή τη στιγμή βρίσκεται σε συντήρηση και θα είναι ξανά σύντομα. Ελέγξτε τον διακομιστή υποστήριξης για ενημερώσεις.

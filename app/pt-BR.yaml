@@ -92,7 +92,7 @@ view.explore.categories.title: Descobrir Categorias
 view.explore.category.subtitle: Bots na categoria {}
 view.explore.footer.support_server.button: Servidor de Suporte
 view.explore.footer.bug_report.button: Relatar Erro
-view.explore.footer.terms_and_conditions.button: Termos e Condições
+view.explore.footer.about.button: Sobre
 view.explore.footer.privacy_policy.button: Políticas de Privacidade
 view.top_charts.most_votes: Mais Votados
 view.top_charts.most_servers: Most Servers
@@ -138,10 +138,9 @@ view.settings.account.delete_account.alert_dialog.title: Deletar conta
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sim'
-view.settings.data.title: Data
+view.settings.data.title: Info
 view.settings.data.about.button: Sobre
 view.settings.data.about.popup.legalese: Direitos Autorais © 2020 Tetracyl. Todos os direitos reservados.
-view.settings.data.terms_and_conditions.button: Termos e Condições
 view.settings.data.privacy_policy.button: Políticas de Privacidade
 view.under_maintenance.title: Sob Manutenção
 view.under_maintenance.subtitle: O aplicativo está sob manutenção e estará de volta logo. Veja o servidor de suporte para mais informações.
