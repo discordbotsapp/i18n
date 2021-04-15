@@ -92,7 +92,7 @@ view.explore.categories.title: Esplora Categorie
 view.explore.category.subtitle: Bots nella categoria {}
 view.explore.footer.support_server.button: Server di Assistenza
 view.explore.footer.bug_report.button: Segnala Bug
-view.explore.footer.terms_and_conditions.button: Termini & Condizioni
+view.explore.footer.about.button: Informazioni
 view.explore.footer.privacy_policy.button: Privacy
 view.top_charts.most_votes: I Più Votati
 view.top_charts.most_servers: In Più Servers
@@ -141,7 +141,6 @@ view.settings.account.delete_account.alert_dialog.yes.button: 'Si'
 view.settings.data.title: Dati
 view.settings.data.about.button: Informazioni
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Tutti i diritti riservati.
-view.settings.data.terms_and_conditions.button: Termini & Condizioni
 view.settings.data.privacy_policy.button: Privacy
 view.under_maintenance.title: In Manutenzione
 view.under_maintenance.subtitle: L'applicazione è attualmente in manutenzione e tornerà presto. Si prega di controllare il server di supporto per eventuali aggiornamenti.
