@@ -14,23 +14,23 @@ global.app_bar.categories: 카테고리
 global.tag.music: 음악
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
+global.tag.moderation: 관리
 global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
+global.tag.trivia: 트리비아
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.social: 소셜
+global.tag.fun: 재미
+global.tag.economy: 경제
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
-global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.game: 게임
+global.tag.meme: 밈
+global.tag.leveling: 레벨링
+global.tag.roleplay: 롤플레잉
+global.tag.logging: 로깅
+global.tag.utility: 유틸리티
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: 다목적
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: 차트
@@ -92,7 +92,7 @@ view.explore.categories.title: 카테고리 탐색하기
 view.explore.category.subtitle: '{} 카테고리에 있는 봇'
 view.explore.footer.support_server.button: 지원 서버
 view.explore.footer.bug_report.button: 버그 신고
-view.explore.footer.about.button: About
+view.explore.footer.about.button: 앱 정보
 view.explore.footer.privacy_policy.button: 개인정보 취급방침
 view.top_charts.most_votes: 최다 득표순
 view.top_charts.most_servers: 최다 서버순
@@ -117,45 +117,45 @@ view.favorites.subtitle: 봇 페이지에 하트 버튼을 클릭해서 즐겨�
 view.favorites.none: 즐겨찾는 봇이 없어요
 view.add_bot.title: 봇 추가하기
 view.add_bot.subtitle: 봇을 타사 봇 목록에 추가해서 앱에 자동으로 추가해봐요.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
+view.add_bot.note: '참고: 타사 봇 목록에 추가한 봇은 앱에서 바로 나타나지 않을 수 있어요.'
+view.settings.theme.title: 테마
+view.settings.theme.system.radio: 시스템 설정에 따라
+view.settings.theme.dark.radio: 어두운 테마
+view.settings.theme.light.radio: 밝은 테마
 view.settings.language.title: 언어
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
+view.settings.language.placeholder: 언어를 선택해주세요
+view.settings.support.title: 지원
 view.settings.support.support_server.button: 지원 서버
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: 버그 제보하기
 view.settings.account.title: 계정
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: 로그아웃하기
+view.settings.account.log_out.alert_dialog.title: 로그아웃하기
+view.settings.account.log_out.alert_dialog.text: 정말로 로그아웃할까요?
 view.settings.account.log_out.alert_dialog.cancel.button: 취소
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.log_out.alert_dialog.log_out.button: 로그아웃하기
+view.settings.account.delete_account.button: 계정 삭제하기
+view.settings.account.delete_account.alert_dialog.title: 계정 삭제하기
+view.settings.account.delete_account.alert_dialog.text: 정말로 이 계정을 삭제할까요? 이 작업은 취소할 수 없어요.
 view.settings.account.delete_account.alert_dialog.cancel.button: 취소
 view.settings.account.delete_account.alert_dialog.yes.button: '계속'
-view.settings.data.title: Info
-view.settings.data.about.button: About
+view.settings.data.title: 세부 사항
+view.settings.data.about.button: 앱 정보
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
 view.settings.data.privacy_policy.button: 개인정보 취급방침
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.under_maintenance.title: 점검중
+view.under_maintenance.subtitle: 이 앱은 현재 점검중이에요. 지원 서버에서 변경 사항을 확인하세요.
+view.under_maintenance.retry.button: 다시 시도
 view.under_maintenance.support_server.button: 지원 서버
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
+view.no_internet.title: 인터넷 연결 없음
+view.no_internet.subtitle: 인터넷 연결이 되어있지 않아요. 연결 상태를 확인한 후 다시 시도하세요
+view.no_internet.retry: 다시 시도
 view.bot.reported.title: '{}봇 신고 완료'
 view.bot.reported.subtitle: '{}봇을 다음의 사유로 신고했어요:'
 view.bot.reported.button.okay: 확인
 view.user.bots: 봇
 view.search.hint: 검색하기...
 view.search.title: 검색
-view.search.subtitle.noQuery: Search for a bot...
+view.search.subtitle.noQuery: 봇을 검색해봐요...
 view.search.subtitle.query: '{}에 대한 검색 결과에요'
 view.search.none: 검색 결과가 없어요
 view.welcome.title: Discord 봇
