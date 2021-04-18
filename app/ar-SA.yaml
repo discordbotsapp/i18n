@@ -149,7 +149,7 @@ view.under_maintenance.support_server.button: Support Server
 view.no_internet.title: No Internet Connection
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
 view.no_internet.retry: اعد المحاولة
-view.bot.reported.title: Reported {}
+view.bot.reported.title: تم الابلاغ {}
 view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
 view.bot.reported.button.okay: حسناً
 view.user.bots: بوتات
