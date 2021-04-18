@@ -138,10 +138,10 @@ view.settings.account.delete_account.alert_dialog.title: Fiók törlése
 view.settings.account.delete_account.alert_dialog.text: Biztosan törölni szeretnéd a fiókot? Ez a művelet nem visszavonható.
 view.settings.account.delete_account.alert_dialog.cancel.button: Mégse
 view.settings.account.delete_account.alert_dialog.yes.button: 'Igen'
-view.settings.data.title: Adatok
-view.settings.data.about.button: Rólunk
-view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. Minden jog fenntartva.
-view.settings.data.privacy_policy.button: Adatvédelmi irányelvek
+view.settings.info.title: Info
+view.settings.info.about.button: Rólunk
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.privacy_policy.button: Adatvédelmi irányelvek
 view.under_maintenance.title: Karbantartás alatt
 view.under_maintenance.subtitle: Az alkalmazás jelenleg karbantartás alatt, nézz vissza hamar. Nézd meg a support szervert frissítésekért.
 view.under_maintenance.retry.button: Újra

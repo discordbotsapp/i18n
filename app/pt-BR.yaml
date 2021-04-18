@@ -138,10 +138,10 @@ view.settings.account.delete_account.alert_dialog.title: Deletar conta
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sim'
-view.settings.data.title: Info
-view.settings.data.about.button: Sobre
-view.settings.data.about.popup.legalese: Direitos Autorais © 2020 Tetracyl. Todos os direitos reservados.
-view.settings.data.privacy_policy.button: Políticas de Privacidade
+view.settings.info.title: Info
+view.settings.info.about.button: Sobre
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.privacy_policy.button: Políticas de Privacidade
 view.under_maintenance.title: Sob Manutenção
 view.under_maintenance.subtitle: O aplicativo está sob manutenção e estará de volta logo. Veja o servidor de suporte para mais informações.
 view.under_maintenance.retry.button: Tentar novamente

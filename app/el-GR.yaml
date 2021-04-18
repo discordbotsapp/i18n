@@ -138,10 +138,10 @@ view.settings.account.delete_account.alert_dialog.title: Διαγραφή λογ
 view.settings.account.delete_account.alert_dialog.text: Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
 view.settings.account.delete_account.alert_dialog.cancel.button: Ακύρωση
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ναι'
-view.settings.data.title: Δεδομένα
-view.settings.data.about.button: Σχετικά με
-view.settings.data.about.popup.legalese: Πνευματικά δικαιώματα © 2015 Magento. Όλα τα δικαιώματα διατηρούνται.
-view.settings.data.privacy_policy.button: Πολιτική Απορρήτου
+view.settings.info.title: Info
+view.settings.info.about.button: Σχετικά με
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.privacy_policy.button: Πολιτική Απορρήτου
 view.under_maintenance.title: Υπό Συντήρηση
 view.under_maintenance.subtitle: Η εφαρμογή αυτή τη στιγμή βρίσκεται σε συντήρηση και θα είναι ξανά σύντομα. Ελέγξτε τον διακομιστή υποστήριξης για ενημερώσεις.
 view.under_maintenance.retry.button: Επανάληψη

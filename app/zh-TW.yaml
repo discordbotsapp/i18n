@@ -138,10 +138,10 @@ view.settings.account.delete_account.alert_dialog.title: 刪除帳號
 view.settings.account.delete_account.alert_dialog.text: 您確定要刪除您的帳戶嗎？此操作無法撤消。
 view.settings.account.delete_account.alert_dialog.cancel.button: 取消
 view.settings.account.delete_account.alert_dialog.yes.button: '確認'
-view.settings.data.title: 數據
-view.settings.data.about.button: 關於
-view.settings.data.about.popup.legalese: 版權所有 © 2020 Tetracyl. 保留所有權利
-view.settings.data.privacy_policy.button: 隱私政策
+view.settings.info.title: Info
+view.settings.info.about.button: 關於
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.privacy_policy.button: 隱私政策
 view.under_maintenance.title: 維護中
 view.under_maintenance.subtitle: 該應用程序目前正在維護中，將很快恢復。 請檢查支持伺服器以獲取更新。
 view.under_maintenance.retry.button: 請重試
