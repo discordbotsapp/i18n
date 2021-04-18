@@ -12,7 +12,7 @@ global.app_bar.language: Език
 global.app_bar.report: 'Докладване'
 global.app_bar.categories: Категории
 global.tag.music: Музика
-global.tag.pokemon: Покемон #KEEP AS IS
+global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Звук
 global.tag.moderation: Модератор
 global.tag.minecraft: Minecraft #KEEP AS IS
@@ -39,7 +39,7 @@ global.footer.info: Discord Bots App не е свързано със дискр�
 global.login_alert.title: Вход
 global.login_alert.cancel.button: Отказ
 global.login_alert.login.button: Вход
-global.rate_dialog.title: Оцени Дискорд Ботове
+global.rate_dialog.title: Оцени Discord Bots
 global.rate_dialog.subtitle: Ако харесваш нашето приложение, молим те да отделиш малко време за да го оцениш! Това ни помага много и отнема не повече от 1 минута.
 global.rate_dialog.button.rate: Оценка
 global.rate_dialog.button.no_thanks: Не благодаря
@@ -161,7 +161,7 @@ view.search.none: Не са намерени разултати
 view.welcome.title: Discord Bots
 view.welcome.subtitle: Разгледайте {} + Discord ботове! Започнете, като влезете във вашия акаунт в Discord.
 view.welcome.login.button: Влез със Discord
-view.welcome.skip.button: Пропускане
+view.welcome.skip.button: Пропусни за сега
 view.remove_ads.title: Премахни реклами
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unkown error occurred while loading the product.
