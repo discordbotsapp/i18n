@@ -15,10 +15,10 @@ global.tag.music: الموسيقى
 global.tag.pokemon: بوكيمون #KEEP AS IS
 global.tag.soundboard: لوحات الصوت
 global.tag.moderation: الإشراف
-global.tag.minecraft: ماينكرافت #KEEP AS IS
+global.tag.minecraft: Minecraft #KEEP AS IS
 global.tag.trivia: تريفيا
-global.tag.fortnite: فورتنيت #KEEP AS IS
-global.tag.spotify: سبوتيفاي #KEEP AS IS
+global.tag.fortnite: Fortnite #KEEP AS IS
+global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: وسائل التواصل
 global.tag.fun: متعة
 global.tag.economy: الاقتصاد
@@ -85,46 +85,46 @@ view.explore.trending.title: Trending
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: جديد
 view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
+view.explore.most_voted.title: الأكثر تصويتاً
+view.explore.most_voted.subtitle: بوتات بأكبر عدد من الأصوات هذا الشهر
 view.explore.see_all.button: عرض الكل
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
+view.explore.categories.title: استكشاف التصنيفات
+view.explore.category.subtitle: البوتات في فئة {}
 view.explore.footer.support_server.button: Support Server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.about.button: About
+view.explore.footer.bug_report.button: تقرير الأخطاء
+view.explore.footer.about.button: حول
 view.explore.footer.privacy_policy.button: سياسة الخصوصية
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.top_charts.most_votes: الأكثر تصويتاً
+view.top_charts.most_servers: أكثر الخوادم
 view.top_charts.bot.subtitle.servers.plural: 'سرفرز'
 view.top_charts.bot.subtitle.votes.plural: '{} تصويت'
 view.top_charts.bot.subtitle.servers.singular: 'سرفرز'
 view.top_charts.bot.subtitle.votes.singular: '{} تصويت'
 view.account.login.guest: ضيف
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
+view.account.login.button: تسجيل الدخول باستخدام ديسكورد
+view.account.login.error: حدث خطأ أثناء تسجيل الدخول. الرجاء المحاولة مرة أخرى.
+view.account.login.error.button: العودة إلى تسجيل الدخول
+view.account.my_bots.button: البوت الخاص بي
 view.account.favorites.button: المفضلات
-view.account.add_bot.button: Add Bot
+view.account.add_bot.button: إضافة بوت
 view.account.remove_ads.button: Remove Ads
 view.account.settings.button: الإعدادات
-view.my_bots.title: My Bots
+view.my_bots.title: البوت الخاص بي
 view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
+view.my_bots.none: لا تملك أي بوتات
 view.favorites.title: المفضلات
 view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
 view.favorites.none: ليس لديك أي مفضلات
-view.add_bot.title: Add Bot
+view.add_bot.title: إضافة بوت
 view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
+view.settings.theme.title: السمة
+view.settings.theme.system.radio: النظام
 view.settings.theme.dark.radio: مظلم
 view.settings.theme.light.radio: فاتح
 view.settings.language.title: اللغة
 view.settings.language.placeholder: اختر لغة
-view.settings.support.title: Support
+view.settings.support.title: مساندة
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Report A Bug
 view.settings.account.title: الحساب
@@ -139,28 +139,28 @@ view.settings.account.delete_account.alert_dialog.text: Are you sure you want to
 view.settings.account.delete_account.alert_dialog.cancel.button: إلغاء
 view.settings.account.delete_account.alert_dialog.yes.button: 'نَعَمْ'
 view.settings.data.title: بيانات
-view.settings.data.about.button: About
+view.settings.data.about.button: حول
 view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
 view.settings.data.privacy_policy.button: سياسة الخصوصية
-view.under_maintenance.title: Under Maintenance
+view.under_maintenance.title: تحت الصيانة
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.under_maintenance.retry.button: اعد المحاولة
 view.under_maintenance.support_server.button: Support Server
 view.no_internet.title: No Internet Connection
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
+view.no_internet.retry: اعد المحاولة
 view.bot.reported.title: Reported {}
 view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
 view.bot.reported.button.okay: حسناً
-view.user.bots: Bots
+view.user.bots: بوتات
 view.search.hint: بحث...
 view.search.title: بحث
-view.search.subtitle.noQuery: Search for a bot...
+view.search.subtitle.noQuery: ابحث عن بوت...
 view.search.subtitle.query: عرض نتائج البحث عن {}
 view.search.none: No Results Found
 view.welcome.title: Discord Bots
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
-view.welcome.login.button: Login with Discord
+view.welcome.login.button: تسجيل الدخول باستخدام ديسكورد
 view.welcome.skip.button: Skip for Now
 view.remove_ads.title: Remove Ads
 view.remove_ads.subtitle: Removes all ads from the app
@@ -168,13 +168,13 @@ view.remove_ads.error.load_product: An unkown error occurred while loading the p
 view.remove_ads.error.verify_purchase: An unkown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Please try again later or join the support server.
 view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have no been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
+view.remove_ads.purchase: اشتري
+view.remove_ads.thank_you.title: شكرا لك على شرائك
+view.remove_ads.thank_you.subtitle: لم تتم إزالة جميع الإعلانات
+view.remove_ads.error.store_problem: كانت هناك مشكلة في المتجر.
+view.remove_ads.error.try_again_later: الرجاء المحاولة مرة أخرى لاحقاً.
+view.remove_ads.error.purchase_not_allowed: هذا الجهاز أو المستخدم غير مسموح له بإجراء الشراء.
+view.remove_ads.error.purchase_invalid: الشراء غير صالح.
 view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
 view.remove_ads.error.product_already_purchased: This product has already been purchased.
 view.remove_ads.error.unkown_error: 'An unkown error occurred: {}.'
