@@ -170,7 +170,7 @@ view.remove_ads.error.try_again: Please try again later or join the support serv
 view.remove_ads.error.join_server: Please join the support server.
 view.remove_ads.purchase: اشتري
 view.remove_ads.thank_you.title: شكرا لك على شرائك
-view.remove_ads.thank_you.subtitle: لم تتم إزالة جميع الإعلانات
+view.remove_ads.thank_you.subtitle: All ads have now been removed
 view.remove_ads.error.store_problem: كانت هناك مشكلة في المتجر.
 view.remove_ads.error.try_again_later: الرجاء المحاولة مرة أخرى لاحقاً.
 view.remove_ads.error.purchase_not_allowed: هذا الجهاز أو المستخدم غير مسموح له بإجراء الشراء.
