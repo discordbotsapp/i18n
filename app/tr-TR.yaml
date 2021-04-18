@@ -138,9 +138,9 @@ view.settings.account.delete_account.alert_dialog.title: Hesabı Sil
 view.settings.account.delete_account.alert_dialog.text: Bu hesabı silmek istediğine emin misin? Bu işlem geri alınamaz.
 view.settings.account.delete_account.alert_dialog.cancel.button: İptal
 view.settings.account.delete_account.alert_dialog.yes.button: 'Evet'
-view.settings.info.title: Info
+view.settings.info.title: Bilgi
 view.settings.info.about.button: Hakkında
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Tüm hakları saklıdır.
 view.settings.info.privacy_policy.button: Gizlilik Politikası
 view.under_maintenance.title: Uygulama Bakımda
 view.under_maintenance.subtitle: Uygulama şu anda bakım aşamasındadır ve yakında erişime açılacaktır. Lütfen daha fazla bilgi için destek sunucusuna katıl.
@@ -163,13 +163,13 @@ view.welcome.subtitle: '{}+ Discord botuna göz at! Discord hesabınla giriş ya
 view.welcome.login.button: Discord ile Giriş Yap
 view.welcome.skip.button: Şimdilik Atla
 view.remove_ads.title: Reklamları Kaldır
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unkown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unkown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
+view.remove_ads.subtitle: Uygulamadaki tüm reklamları kaldırır
+view.remove_ads.error.load_product: Ürün yüklenirken bilinmeyen bir hata oluştu.
+view.remove_ads.error.verify_purchase: Satın alma işlemini doğrularken bilinmeyen bir hata oluştu.
+view.remove_ads.error.try_again: Lütfen daha sonra tekrar dene veya destek sunucusuna katıl.
+view.remove_ads.error.join_server: Lütfen destek sunucumuza katıl.
+view.remove_ads.purchase: Satın Al
+view.remove_ads.thank_you.title: Satın aldığın için teşekkürler
 view.remove_ads.thank_you.subtitle: All ads have no been removed
 view.remove_ads.error.store_problem: There was a problem with the store.
 view.remove_ads.error.try_again_later: Please try again later.
