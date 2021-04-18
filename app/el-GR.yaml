@@ -126,21 +126,21 @@ view.settings.language.title: Γλώσσα
 view.settings.language.placeholder: Επιλέξτε μια γλώσσα
 view.settings.support.title: Υποστήριξη
 view.settings.support.support_server.button: Διακομιστής Υποστήριξης
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Αναφορά Σφάλματος
 view.settings.account.title: Λογαριασμός
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Αποσύνδεση
+view.settings.account.log_out.alert_dialog.title: Αποσύνδεση
+view.settings.account.log_out.alert_dialog.text: Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε;
 view.settings.account.log_out.alert_dialog.cancel.button: Ακύρωση
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.log_out.button: Αποσύνδεση
 view.settings.account.delete_account.button: Διαγραφή λογαριασμού
 view.settings.account.delete_account.alert_dialog.title: Διαγραφή λογαριασμού
 view.settings.account.delete_account.alert_dialog.text: Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
 view.settings.account.delete_account.alert_dialog.cancel.button: Ακύρωση
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ναι'
-view.settings.info.title: Info
+view.settings.info.title: Πληροφορίες
 view.settings.info.about.button: Σχετικά με
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Πνευματικά δικαιώματα © 2020 Tetracyl. Όλα τα δικαιώματα κατοχυρωμένα.
 view.settings.info.privacy_policy.button: Πολιτική Απορρήτου
 view.under_maintenance.title: Υπό Συντήρηση
 view.under_maintenance.subtitle: Η εφαρμογή αυτή τη στιγμή βρίσκεται σε συντήρηση και θα είναι ξανά σύντομα. Ελέγξτε τον διακομιστή υποστήριξης για ενημερώσεις.
@@ -163,21 +163,21 @@ view.welcome.subtitle: Περιηγηθείτε στο {}+ Discord bots! Ξεκ�
 view.welcome.login.button: Είσοδος με Discord
 view.welcome.skip.button: Παράλειψη για την ώρα
 view.remove_ads.title: Κατάργηση διαφημίσεων
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unkown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unkown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unkown_error: 'An unkown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.subtitle: Καταργεί όλες τις διαφημίσεις από την εφαρμογή
+view.remove_ads.error.load_product: Παρουσιάστηκε σφάλμα κατά τη φόρτωση αντικειμένου.
+view.remove_ads.error.verify_purchase: Παρουσιάστηκε σφάλμα κατά την επαλήθευση της αγοράς σας.
+view.remove_ads.error.try_again: Παρακαλώ δοκιμάστε ξανά αργότερα ή εγγραφείτε στο διακομιστή υποστήριξης.
+view.remove_ads.error.join_server: Παρακαλούμε γίνετε μέλος του διακομιστή υποστήριξης.
+view.remove_ads.purchase: Αγορά
+view.remove_ads.thank_you.title: Ευχαριστούμε για την αγορά σας
+view.remove_ads.thank_you.subtitle: Όλες οι διαφημίσεις έχουν πλέον αφαιρεθεί
+view.remove_ads.error.store_problem: Υπήρξε ένα πρόβλημα με τον κατάστημα.
+view.remove_ads.error.try_again_later: Παρακαλούμε δοκιμάστε ξανά αργότερα.
+view.remove_ads.error.purchase_not_allowed: Αυτή η συσκευή ή ο χρήστης δεν επιτρέπεται να κάνει την αγορά.
+view.remove_ads.error.purchase_invalid: Η αγορά δεν είναι έγκυρη.
+view.remove_ads.error.purchase_in_progress: Αυτή η αγορά είναι ήδη σε εξέλιξη. Παρακαλώ περιμένετε.
+view.remove_ads.error.product_already_purchased: Αυτό το προϊόν έχει ήδη αγοραστεί.
+view.remove_ads.error.unkown_error: 'Παρουσιάστηκε ένα σφάλμα: {}.'
+view.remove_ads.error.title: Παρουσιάστηκε ένα Σφάλμα
+view.remove_ads.button.join_server: Μπες στον διακομιστή υποστήριξής μας
 view.remove_ads.button.okay: Εντάξει
