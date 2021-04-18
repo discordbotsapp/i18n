@@ -1,5 +1,5 @@
 ---
-global.title: Bots de Discord
+global.title: Discord Bots
 global.navbar.explore: Explorar
 global.navbar.top_charts: Gráficos Más
 global.navbar.account: Cuenta
@@ -126,13 +126,13 @@ view.settings.language.title: Idioma
 view.settings.language.placeholder: Escoge un lenguaje
 view.settings.support.title: Soporte
 view.settings.support.support_server.button: Servidor de Soporte
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Reportar Un Error
 view.settings.account.title: Cuenta
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Cerrar Sesión
+view.settings.account.log_out.alert_dialog.title: Cerrar Sesión
+view.settings.account.log_out.alert_dialog.text: '¿Estás seguro de que quieres cerrar sesión?'
 view.settings.account.log_out.alert_dialog.cancel.button: Cancelar
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.log_out.button: Cerrar Sesión
 view.settings.account.delete_account.button: Eliminar Cuenta
 view.settings.account.delete_account.alert_dialog.title: Eliminar Cuenta
 view.settings.account.delete_account.alert_dialog.text: '¿Estás seguro que quieres eliminar tu cuenta? Esta acción no se puede deshacer.'
@@ -158,7 +158,7 @@ view.search.title: Buscar
 view.search.subtitle.noQuery: Busca un bot...
 view.search.subtitle.query: Mostrar resultados de búsqueda para {}
 view.search.none: No se encontraron resultados
-view.welcome.title: Bots de Discord
+view.welcome.title: Discord Bots
 view.welcome.subtitle: '¡Navega a través de {}+ bots de Discord! Empieza iniciando sesión con tu cuenta de Discord.'
 view.welcome.login.button: Iniciar sesión con Discord
 view.welcome.skip.button: Omitir por Ahora
