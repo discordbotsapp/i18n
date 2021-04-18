@@ -138,10 +138,10 @@ view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: إلغاء
 view.settings.account.delete_account.alert_dialog.yes.button: 'نَعَمْ'
-view.settings.data.title: بيانات
-view.settings.data.about.button: حول
-view.settings.data.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
-view.settings.data.privacy_policy.button: سياسة الخصوصية
+view.settings.info.title: Info
+view.settings.info.about.button: حول
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.privacy_policy.button: سياسة الخصوصية
 view.under_maintenance.title: تحت الصيانة
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: اعد المحاولة
