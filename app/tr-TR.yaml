@@ -1,5 +1,5 @@
 ---
-global.title: Discord Botları
+global.title: Discord Bots
 global.navbar.explore: Keşfet
 global.navbar.top_charts: En İyiler
 global.navbar.account: Hesabım
@@ -158,7 +158,7 @@ view.search.title: Ara
 view.search.subtitle.noQuery: Bir bot ara...
 view.search.subtitle.query: '{} için sonuçlar gösteriliyor'
 view.search.none: Sonuç Bulunamadı
-view.welcome.title: Discord Botları
+view.welcome.title: Discord Bots
 view.welcome.subtitle: '{}+ Discord botuna göz at! Discord hesabınla giriş yaparak hemen göz atmaya başla.'
 view.welcome.login.button: Discord ile Giriş Yap
 view.welcome.skip.button: Şimdilik Atla
@@ -170,14 +170,14 @@ view.remove_ads.error.try_again: Lütfen daha sonra tekrar dene veya destek sunu
 view.remove_ads.error.join_server: Lütfen destek sunucumuza katıl.
 view.remove_ads.purchase: Satın Al
 view.remove_ads.thank_you.title: Satın aldığın için teşekkürler
-view.remove_ads.thank_you.subtitle: All ads have no been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unkown_error: 'An unkown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.thank_you.subtitle: Tüm reklamlar kaldırıldı
+view.remove_ads.error.store_problem: Market ile ilgili bir sorun oluştu.
+view.remove_ads.error.try_again_later: Lütfen daha sonra tekrar dene.
+view.remove_ads.error.purchase_not_allowed: Bu cihazın veya kullanıcının satın alma işlemi yapmasına izin verilmiyor.
+view.remove_ads.error.purchase_invalid: Satın alma başarısız.
+view.remove_ads.error.purchase_in_progress: Bu satın alma işlemi zaten devam ediyor. Lütfen sabırlı ol.
+view.remove_ads.error.product_already_purchased: Bu ürünü zaten satın almışsın.
+view.remove_ads.error.unkown_error: 'Bilinmeyen bir hata oluştu: {}.'
+view.remove_ads.error.title: Bir Hata Oluştu
+view.remove_ads.button.join_server: Destek Sunucusuna Katıl
 view.remove_ads.button.okay: Tamam
