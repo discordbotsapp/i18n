@@ -164,7 +164,7 @@ view.welcome.login.button: Discord로 로그인
 view.welcome.skip.button: 일단은 건너뛰기
 view.remove_ads.title: 광고 제거하기
 view.remove_ads.subtitle: 앱에서 광고를 삭제하기
-view.remove_ads.error.load_product: 프로그램을 로드하는 동안 오류가 발생했습니다.
+view.remove_ads.error.load_product: 상품을 불러오는 동안 오류가 발생했어요.
 view.remove_ads.error.verify_purchase: 구매를 진행하던 도중 오류가 발생했어요.
 view.remove_ads.error.try_again: 다시 시도하거나 지원 서버를 접속해보세요.
 view.remove_ads.error.join_server: 지원 서버를 접속해 주세요
@@ -174,9 +174,9 @@ view.remove_ads.thank_you.subtitle: 모든 광고가 이제 제거돼요
 view.remove_ads.error.store_problem: 상점에 문제가 발생했어요.
 view.remove_ads.error.try_again_later: 나중에 다시 시도해 주세요.
 view.remove_ads.error.purchase_not_allowed: 이 기기 또는 유저로는 결제를 진행할 수 없어요.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
+view.remove_ads.error.purchase_invalid: 이 결제는 유효하지 않아요.
+view.remove_ads.error.purchase_in_progress: 결제가 이미 진행 중이에요. 잠시만 기다려주세요.
+view.remove_ads.error.product_already_purchased: 이 상품은 이미 결제되었어요.
 view.remove_ads.error.unkown_error: '오류가 발생했어요: {}.'
 view.remove_ads.error.title: 오류가 발생했어요
 view.remove_ads.button.join_server: 지원 서버 접속하기
