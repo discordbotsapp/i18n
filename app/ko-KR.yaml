@@ -68,8 +68,8 @@ view.bot.copy.snackbar: '{}봇의 ID를 복사했어요'
 view.report.report_reason.title: 신고 사유
 view.report.report_reason.hint: 신고 사유 선택하기
 view.report.report_reason.empty: 신고 사유를 선택해주세요
-view.report.additional_information.title: 추가 정보
-view.report.additional_information.hint: 추가적인 정보를 여기에 적어주세요...
+view.report.additional_information.title: 상세 정보
+view.report.additional_information.hint: 상세한 정보를 여기에 적어주세요...
 view.report.additional_information.empty: 신고 사유를 선택해주세요
 view.report.submit.button: 제출
 view.report.report_reason.dropdown.option1: 부적절/성적인 콘텐츠
@@ -104,12 +104,12 @@ view.account.login.guest: 방문자
 view.account.login.button: Discord로 로그인
 view.account.login.error: 로그인하던 도중 오류가 발생했어요. 다시 시도해 주세요.
 view.account.login.error.button: 로그인 페이지로 이동
-view.account.my_bots.button: 나의 봇
+view.account.my_bots.button: 내 봇
 view.account.favorites.button: 즐겨찾기
 view.account.add_bot.button: 봇 추가하기
 view.account.remove_ads.button: 광고 제거하기
 view.account.settings.button: 설정
-view.my_bots.title: 나의 봇
+view.my_bots.title: 내 봇
 view.my_bots.subtitle: 당신이 소유하고 있는 봇의 목록이에요. 계정 페이지에서 봇 추가하기 버튼을 눌러 자신의 봇을 추가할 수 있어요. #Keep capitalization consistent
 view.my_bots.none: 아무런 봇을 소유하고 있지 않아요
 view.favorites.title: 즐겨찾기
@@ -174,10 +174,10 @@ view.remove_ads.thank_you.subtitle: 모든 광고가 이제 제거돼요
 view.remove_ads.error.store_problem: 상점에 문제가 발생했어요.
 view.remove_ads.error.try_again_later: 나중에 다시 시도해 주세요.
 view.remove_ads.error.purchase_not_allowed: 이 기기 또는 유저로는 결제를 진행할 수 없어요.
-view.remove_ads.error.purchase_invalid: 이 결제는 유효하지 않아요.
+view.remove_ads.error.purchase_invalid: 이 결제가 유효하지 않아요.
 view.remove_ads.error.purchase_in_progress: 결제가 이미 진행 중이에요. 잠시만 기다려주세요.
 view.remove_ads.error.product_already_purchased: 이 상품은 이미 결제되었어요.
-view.remove_ads.error.unkown_error: '오류가 발생했어요: {}.'
+view.remove_ads.error.unkown_error: '알 수 없는 오류가 발생했어요: {}.'
 view.remove_ads.error.title: 오류가 발생했어요
 view.remove_ads.button.join_server: 지원 서버 접속하기
 view.remove_ads.button.okay: 확인
