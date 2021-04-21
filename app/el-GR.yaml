@@ -11,6 +11,7 @@ global.app_bar.settings: Ρυθμίσεις
 global.app_bar.language: Γλώσσα
 global.app_bar.report: 'Αναφορά {}'
 global.app_bar.categories: Κατηγορίες
+global.app_bar.remove_ads: Κατάργηση διαφημίσεων
 global.tag.music: Μουσική
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Πίνακας Ήχου
