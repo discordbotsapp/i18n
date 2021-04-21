@@ -44,7 +44,7 @@ global.rate_dialog.subtitle: 이 앱이 마음에 드신다면, 잠시 시간을
 global.rate_dialog.button.rate: 평가하러 가기
 global.rate_dialog.button.no_thanks: 괜찮아요
 global.rate_dialog.button.maybe_later: 나중에 평가할게요
-view.bot.add.button: 추가하기
+view.bot.add.button: 봇 추가하기
 view.bot.chip.prefix: '접두사: {}'
 view.bot.chip.servers: '{}개의 서버'
 view.bot.chip.server: '{}개의 서버'
