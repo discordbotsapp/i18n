@@ -144,11 +144,11 @@ view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights 
 view.settings.info.privacy_policy.button: 개인정보 취급방침
 view.under_maintenance.title: 점검중
 view.under_maintenance.subtitle: 이 앱은 현재 점검중이에요. 지원 서버에서 변경 사항을 확인하세요.
-view.under_maintenance.retry.button: 다시 시도
+view.under_maintenance.retry.button: 다시 시도하기
 view.under_maintenance.support_server.button: 지원 서버 접속하기
 view.no_internet.title: 인터넷 연결 없음
 view.no_internet.subtitle: 인터넷 연결이 되어있지 않아요. 연결 상태를 확인한 후 다시 시도하세요
-view.no_internet.retry: 다시 시도
+view.no_internet.retry: 다시 시도하기
 view.bot.reported.title: '{}봇 신고 완료'
 view.bot.reported.subtitle: '{}봇을 다음의 사유로 신고했어요:'
 view.bot.reported.button.okay: 확인
@@ -163,12 +163,12 @@ view.welcome.subtitle: '{}개가 넘는 Discord 봇을 둘러보세요! Discord 
 view.welcome.login.button: Discord로 로그인
 view.welcome.skip.button: 일단은 건너뛰기
 view.remove_ads.title: 광고 제거하기
-view.remove_ads.subtitle: 앱에서 광고를 삭제하기
+view.remove_ads.subtitle: 앱에서 광고를 삭제해요
 view.remove_ads.error.load_product: 상품을 불러오는 동안 오류가 발생했어요.
 view.remove_ads.error.verify_purchase: 구매를 진행하던 도중 오류가 발생했어요.
 view.remove_ads.error.try_again: 다시 시도하거나 지원 서버를 접속해보세요.
 view.remove_ads.error.join_server: 지원 서버를 접속해 주세요.
-view.remove_ads.purchase: 결제 완료
+view.remove_ads.purchase: 결제하기
 view.remove_ads.thank_you.title: 결제해주셔서 감사합니다
 view.remove_ads.thank_you.subtitle: 모든 광고가 이제 제거돼요
 view.remove_ads.error.store_problem: 상점에 문제가 발생했어요.
