@@ -126,21 +126,21 @@ view.settings.language.title: Език
 view.settings.language.placeholder: Избери език
 view.settings.support.title: Поддръжка
 view.settings.support.support_server.button: Сървър за поддръжка
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Докладване за грешка
 view.settings.account.title: Профил
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Изход
+view.settings.account.log_out.alert_dialog.title: Изход
+view.settings.account.log_out.alert_dialog.text: Сигурни ли сте, че искате да излезете?
 view.settings.account.log_out.alert_dialog.cancel.button: Отказ
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.log_out.button: Изход
 view.settings.account.delete_account.button: Изтриване на акаунт
 view.settings.account.delete_account.alert_dialog.title: Изтриване на акаунт
 view.settings.account.delete_account.alert_dialog.text: Наистина ли искате да изтриете вашият акаунт? Това действие не може да бъде отменено.
 view.settings.account.delete_account.alert_dialog.cancel.button: Отказ
 view.settings.account.delete_account.alert_dialog.yes.button: 'Да'
-view.settings.info.title: Info
+view.settings.info.title: Информация
 view.settings.info.about.button: Относно
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Всички права запазени.
 view.settings.info.privacy_policy.button: Поверителност
 view.under_maintenance.title: В Поддръжка
 view.under_maintenance.subtitle: В момента приложението е в процес на поддръжка и ще се върне скоро. Моля, проверете сървъра за поддръжка за актуализации.
