@@ -11,6 +11,7 @@ global.app_bar.settings: 설정
 global.app_bar.language: 언어
 global.app_bar.report: '{} 봇 신고하기'
 global.app_bar.categories: 카테고리
+global.app_bar.remove_ads: 광고 제거하기
 global.tag.music: 음악
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard

@@ -11,6 +11,7 @@ global.app_bar.settings: Impostazioni
 global.app_bar.language: Lingua
 global.app_bar.report: 'Segnala {}'
 global.app_bar.categories: Categorie
+global.app_bar.remove_ads: Rimuovi Pubblicità
 global.tag.music: Musica
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard

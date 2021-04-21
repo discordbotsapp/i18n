@@ -11,6 +11,7 @@ global.app_bar.settings: Настройки
 global.app_bar.language: Език
 global.app_bar.report: 'Докладване'
 global.app_bar.categories: Категории
+global.app_bar.remove_ads: Премахни реклами
 global.tag.music: Музика
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Звук

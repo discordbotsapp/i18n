@@ -11,6 +11,7 @@ global.app_bar.settings: 设置
 global.app_bar.language: 语言
 global.app_bar.report: '投诉 {}'
 global.app_bar.categories: 类别
+global.app_bar.remove_ads: 移除广告
 global.tag.music: 音乐
 global.tag.pokemon: 宝可梦 #KEEP AS IS
 global.tag.soundboard: 音板

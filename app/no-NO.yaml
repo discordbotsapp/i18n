@@ -11,6 +11,7 @@ global.app_bar.settings: Innstillinger
 global.app_bar.language: Språk
 global.app_bar.report: 'Rapport {}'
 global.app_bar.categories: Kategorier
+global.app_bar.remove_ads: Fjern Reklamer
 global.tag.music: Musikk
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Lydtavle

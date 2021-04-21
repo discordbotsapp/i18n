@@ -11,6 +11,7 @@ global.app_bar.settings: Ayarlar
 global.app_bar.language: Dil
 global.app_bar.report: 'Şikayet Et {}'
 global.app_bar.categories: Kategoriler
+global.app_bar.remove_ads: Reklamları Kaldır
 global.tag.music: Müzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Ses Tahtası

@@ -11,6 +11,7 @@ global.app_bar.settings: الإعدادات
 global.app_bar.language: اللغة
 global.app_bar.report: 'الإبلاغ {}'
 global.app_bar.categories: التصنيفات
+global.app_bar.remove_ads: إزالة الإعلانات
 global.tag.music: الموسيقى
 global.tag.pokemon: بوكيمون #KEEP AS IS
 global.tag.soundboard: لوحات الصوت
