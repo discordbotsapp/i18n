@@ -164,8 +164,8 @@ view.welcome.login.button: Είσοδος με Discord
 view.welcome.skip.button: Παράλειψη για την ώρα
 view.remove_ads.title: Κατάργηση διαφημίσεων
 view.remove_ads.subtitle: Καταργεί όλες τις διαφημίσεις από την εφαρμογή
-view.remove_ads.error.load_product: Παρουσιάστηκε σφάλμα κατά τη φόρτωση αντικειμένου.
-view.remove_ads.error.verify_purchase: Παρουσιάστηκε σφάλμα κατά την επαλήθευση της αγοράς σας.
+view.remove_ads.error.load_product: An unknown error occurred while loading the product.
+view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Παρακαλώ δοκιμάστε ξανά αργότερα ή εγγραφείτε στο διακομιστή υποστήριξης.
 view.remove_ads.error.join_server: Παρακαλούμε γίνετε μέλος του διακομιστή υποστήριξης.
 view.remove_ads.purchase: Αγορά
@@ -177,7 +177,7 @@ view.remove_ads.error.purchase_not_allowed: Αυτή η συσκευή ή ο χ�
 view.remove_ads.error.purchase_invalid: Η αγορά δεν είναι έγκυρη.
 view.remove_ads.error.purchase_in_progress: Αυτή η αγορά είναι ήδη σε εξέλιξη. Παρακαλώ περιμένετε.
 view.remove_ads.error.product_already_purchased: Αυτό το προϊόν έχει ήδη αγοραστεί.
-view.remove_ads.error.unkown_error: 'Παρουσιάστηκε ένα σφάλμα: {}.'
+view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: Παρουσιάστηκε ένα Σφάλμα
 view.remove_ads.button.join_server: Μπες στον διακομιστή υποστήριξής μας
 view.remove_ads.button.okay: Εντάξει

@@ -164,8 +164,8 @@ view.welcome.login.button: تسجيل الدخول باستخدام ديسكور
 view.welcome.skip.button: Skip for Now
 view.remove_ads.title: Remove Ads
 view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unkown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unkown error occurred while verifying your purchase.
+view.remove_ads.error.load_product: An unknown error occurred while loading the product.
+view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Please try again later or join the support server.
 view.remove_ads.error.join_server: Please join the support server.
 view.remove_ads.purchase: اشتري
@@ -177,7 +177,7 @@ view.remove_ads.error.purchase_not_allowed: هذا الجهاز أو المست�
 view.remove_ads.error.purchase_invalid: الشراء غير صالح.
 view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
 view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unkown_error: 'An unkown error occurred: {}.'
+view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: An Error Occurred
 view.remove_ads.button.join_server: Join Support Server
 view.remove_ads.button.okay: حسناً
