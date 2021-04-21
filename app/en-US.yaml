@@ -11,6 +11,7 @@ global.app_bar.settings: Settings
 global.app_bar.language: Language
 global.app_bar.report: 'Report {}'
 global.app_bar.categories: Categories
+global.app_bar.remove_ads: Remove Ads
 global.tag.music: Music
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
