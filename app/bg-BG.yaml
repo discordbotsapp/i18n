@@ -144,11 +144,11 @@ view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Всичк�
 view.settings.info.privacy_policy.button: Поверителност
 view.under_maintenance.title: В Поддръжка
 view.under_maintenance.subtitle: В момента приложението е в процес на поддръжка и ще се върне скоро. Моля, проверете сървъра за поддръжка за актуализации.
-view.under_maintenance.retry.button: Опитай пак
+view.under_maintenance.retry.button: Опитай отново
 view.under_maintenance.support_server.button: Сървър за поддръжка
 view.no_internet.title: Няма интернет връзка
 view.no_internet.subtitle: Не бе установена Интернет връзка. Моля проверете вашата връзка и опитайте пак
-view.no_internet.retry: Опитай пак
+view.no_internet.retry: Опитай отново
 view.bot.reported.title: Докладвано {}
 view.bot.reported.subtitle: 'Ти успешно докладва {} за следната причина:'
 view.bot.reported.button.okay: Добре
@@ -163,21 +163,21 @@ view.welcome.subtitle: Разгледайте {} + Discord ботове! Зап�
 view.welcome.login.button: Влез със Discord
 view.welcome.skip.button: Пропусни за сега
 view.remove_ads.title: Премахни реклами
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unkown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unkown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unkown_error: 'An unkown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.subtitle: Премахване на всички реклами
+view.remove_ads.error.load_product: Възникна грешка при зареждане на продукта.
+view.remove_ads.error.verify_purchase: Възникна грешка при потвърждаването на покупката.
+view.remove_ads.error.try_again: Моля опитай по късно, или влез във съппорт сървъра.
+view.remove_ads.error.join_server: Моля влез във сървъра за поддръжка.
+view.remove_ads.purchase: Купи
+view.remove_ads.thank_you.title: Благодарим ви за вашата покупка
+view.remove_ads.thank_you.subtitle: Всички реклами бяха премахнати
+view.remove_ads.error.store_problem: Възникна проблем със магазина.
+view.remove_ads.error.try_again_later: Моля опитайте отново по-късно.
+view.remove_ads.error.purchase_not_allowed: Това устройство или потребител не може да направи покупка.
+view.remove_ads.error.purchase_invalid: Покупката е невалидна.
+view.remove_ads.error.purchase_in_progress: Тази покупка вече е в ход. Моля, бъдете търпеливи.
+view.remove_ads.error.product_already_purchased: Този продукт вече е закупен.
+view.remove_ads.error.unkown_error: 'Възникна неизвестна грешка: {}.'
+view.remove_ads.error.title: Възникна грешка
+view.remove_ads.button.join_server: Сървър за поддръжка
 view.remove_ads.button.okay: Добре
