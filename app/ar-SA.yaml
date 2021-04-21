@@ -61,9 +61,9 @@ view.bot.menu.hide.alert_dialog.yes.button: 'نَعَمْ'
 view.bot.website.button: الموقع الإلكتروني
 view.bot.support_server.button: خادم الدعم
 view.bot.vote.button: تصويت
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
+view.bot.favorite.login_alert: يجب عليك تسجيل الدخول لإضافة هذا البوت إلى المفضلة لديك.
+view.bot.report.login_alert: يجب عليك تسجيل الدخول للإبلاغ عن هذا البوت.
+view.bot.hide.login_alert: يجب عليك تسجيل الدخول لإخفاء هذا البوت.
 view.bot.copy.snackbar: تم نسخ معرف {}
 view.report.report_reason.title: سبب الإبلاغ
 view.report.report_reason.hint: حدد سبباً
@@ -72,17 +72,17 @@ view.report.additional_information.title: معلومات إضافية
 view.report.additional_information.hint: أدخل تفاصيل إضافية هنا...
 view.report.additional_information.empty: الرجاء تحديد سبب
 view.report.submit.button: إرسال
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
+view.report.report_reason.dropdown.option1: محتويات نادرة/NSFW
+view.report.report_reason.dropdown.option2: بدون اتصال لفترة طويلة من الوقت
+view.report.report_reason.dropdown.option3: ميزات ووصف مضللين
 view.report.report_reason.dropdown.option4: البوت لا يعمل
-view.report.report_reason.dropdown.option5: Invite link does not work
+view.report.report_reason.dropdown.option5: رابط الدعوة لا يعمل
 view.report.report_reanos.dropdown.option6: سبب آخر
 view.explore.title: إستكشاف
 view.explore.featured.title: المتميز
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
-view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
+view.explore.featured.subtitle: أعلى البوتات التي يتم التحقق منها من قبل ديسكورد
+view.explore.trending.title: متداولة
+view.explore.trending.subtitle: روبوتات جديدة تكتسب جذب بسرعة
 view.explore.new.title: جديد
 view.explore.new.subtitle: البوتات المضافة مؤخرا
 view.explore.most_voted.title: الأكثر تصويتاً
@@ -163,10 +163,10 @@ view.welcome.subtitle: تصفح من خلال {}+ ديسكورد! ابدأ بت�
 view.welcome.login.button: تسجيل الدخول باستخدام ديسكورد
 view.welcome.skip.button: تخطي الآن
 view.remove_ads.title: إزالة الإعلانات
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
+view.remove_ads.subtitle: إزالة جميع الإعلانات من التطبيق
+view.remove_ads.error.load_product: حدث خطأ غير معروف أثناء تحميل المنتج.
+view.remove_ads.error.verify_purchase: حدث خطأ غير معروف أثناء التحقق من شرائك.
+view.remove_ads.error.try_again: الرجاء المحاولة مرة أخرى لاحقاً أو الانضمام إلى خادم الدعم.
 view.remove_ads.error.join_server: الرجاء الانضمام إلى خادم الدعم.
 view.remove_ads.purchase: اشتري
 view.remove_ads.thank_you.title: شكرا لك على شرائك
