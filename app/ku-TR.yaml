@@ -11,6 +11,7 @@ global.app_bar.settings: رێکخستنەکان
 global.app_bar.language: زمان
 global.app_bar.report: 'ڕاپۆرت {}'
 global.app_bar.categories: جۆرەکان
+global.app_bar.remove_ads: لابردنی ڕیکلامەکان
 global.tag.music: مۆسیقا
 global.tag.pokemon: پۆکیمۆن #KEEP AS IS
 global.tag.soundboard: تەختەی دەنگ
