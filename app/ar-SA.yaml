@@ -52,25 +52,25 @@ view.bot.chip.votes: '{} تصويت'
 view.bot.chip.vote: '{} تصويت'
 view.bot.menu.report: ابلاغ
 view.bot.menu.copy_id: نسخ المعرف
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
+view.bot.menu.copy_id.snack_bar: تم نسخ معرف {}
 view.bot.menu.hide: إخفاء
 view.bot.menu.hide.alert_dialog.title: إخفاء {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
+view.bot.menu.hide.alert_dialog.text: 'هل أنت متأكد من أنك تريد إخفاء {}؟'
 view.bot.menu.hide.alert_dialog.cancel.button: إلغاء
 view.bot.menu.hide.alert_dialog.yes.button: 'نَعَمْ'
 view.bot.website.button: الموقع الإلكتروني
-view.bot.support_server.button: Support Server
+view.bot.support_server.button: خادم الدعم
 view.bot.vote.button: تصويت
 view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
 view.bot.report.login_alert: You must be logged in to report this bot.
 view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
-view.report.report_reason.title: Reason for Reporting
+view.bot.copy.snackbar: تم نسخ معرف {}
+view.report.report_reason.title: سبب الإبلاغ
 view.report.report_reason.hint: حدد سبباً
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
+view.report.report_reason.empty: الرجاء تحديد سبب
+view.report.additional_information.title: معلومات إضافية
+view.report.additional_information.hint: أدخل تفاصيل إضافية هنا...
+view.report.additional_information.empty: الرجاء تحديد سبب
 view.report.submit.button: إرسال
 view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
 view.report.report_reason.dropdown.option2: Offline for a long period of time
@@ -79,18 +79,18 @@ view.report.report_reason.dropdown.option4: البوت لا يعمل
 view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: سبب آخر
 view.explore.title: إستكشاف
-view.explore.featured.title: Featured
+view.explore.featured.title: المتميز
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: جديد
-view.explore.new.subtitle: Recently added bots
+view.explore.new.subtitle: البوتات المضافة مؤخرا
 view.explore.most_voted.title: الأكثر تصويتاً
 view.explore.most_voted.subtitle: بوتات بأكبر عدد من الأصوات هذا الشهر
 view.explore.see_all.button: عرض الكل
 view.explore.categories.title: استكشاف التصنيفات
 view.explore.category.subtitle: البوتات في فئة {}
-view.explore.footer.support_server.button: Support Server
+view.explore.footer.support_server.button: خادم الدعم
 view.explore.footer.bug_report.button: تقرير الأخطاء
 view.explore.footer.about.button: حول
 view.explore.footer.privacy_policy.button: سياسة الخصوصية
@@ -107,13 +107,13 @@ view.account.login.error.button: العودة إلى تسجيل الدخول
 view.account.my_bots.button: البوت الخاص بي
 view.account.favorites.button: المفضلات
 view.account.add_bot.button: إضافة بوت
-view.account.remove_ads.button: Remove Ads
+view.account.remove_ads.button: إزالة الإعلانات
 view.account.settings.button: الإعدادات
 view.my_bots.title: البوت الخاص بي
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
+view.my_bots.subtitle: البوتات التي تملكها. يمكنك إضافة البوت الخاص بك بالنقر على زر إضافة بوت في صفحة الحساب. #Keep capitalization consistent
 view.my_bots.none: لا تملك أي بوتات
 view.favorites.title: المفضلات
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
+view.favorites.subtitle: أضف البوتات المفضلة لديك هنا بالنقر على زر القلب في صفحة بوت
 view.favorites.none: ليس لديك أي مفضلات
 view.add_bot.title: إضافة بوت
 view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
@@ -125,59 +125,59 @@ view.settings.theme.light.radio: فاتح
 view.settings.language.title: اللغة
 view.settings.language.placeholder: اختر لغة
 view.settings.support.title: مساندة
-view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.support_server.button: خادم الدعم
+view.settings.support.report_a_bug.button: الإبلاغ عن خطأ
 view.settings.account.title: الحساب
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: تسجيل الخروج
+view.settings.account.log_out.alert_dialog.title: تسجيل الخروج
+view.settings.account.log_out.alert_dialog.text: هل أنت متأكد من أنك تريد تسجيل الخروج؟
 view.settings.account.log_out.alert_dialog.cancel.button: إلغاء
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.log_out.alert_dialog.log_out.button: تسجيل الخروج
+view.settings.account.delete_account.button: مسح الحساب
+view.settings.account.delete_account.alert_dialog.title: مسح الحساب
+view.settings.account.delete_account.alert_dialog.text: هل أنت متأكد من أنك تريد حذف حسابك؟ لا يمكن التراجع عن هذا الإجراء.
 view.settings.account.delete_account.alert_dialog.cancel.button: إلغاء
 view.settings.account.delete_account.alert_dialog.yes.button: 'نَعَمْ'
-view.settings.info.title: Info
+view.settings.info.title: معلومات
 view.settings.info.about.button: حول
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: حقوق الطبع والنشر © 2020 Tetracyl. جميع الحقوق محفوظة.
 view.settings.info.privacy_policy.button: سياسة الخصوصية
 view.under_maintenance.title: تحت الصيانة
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: اعد المحاولة
-view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: No Internet Connection
+view.under_maintenance.support_server.button: خادم الدعم
+view.no_internet.title: لا يوجد اتصال بالإنترنت
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
 view.no_internet.retry: اعد المحاولة
 view.bot.reported.title: تم الابلاغ {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
+view.bot.reported.subtitle: 'قمت بالإبلاغ عن {} بنجاح للسبب التالي:'
 view.bot.reported.button.okay: حسناً
 view.user.bots: بوتات
 view.search.hint: بحث...
 view.search.title: بحث
 view.search.subtitle.noQuery: ابحث عن بوت...
 view.search.subtitle.query: عرض نتائج البحث عن {}
-view.search.none: No Results Found
+view.search.none: لا توجد نتائج
 view.welcome.title: Discord Bots
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.welcome.subtitle: تصفح من خلال {}+ ديسكورد! ابدأ بتسجيل الدخول بحسابك في ديسكورد.
 view.welcome.login.button: تسجيل الدخول باستخدام ديسكورد
-view.welcome.skip.button: Skip for Now
-view.remove_ads.title: Remove Ads
+view.welcome.skip.button: تخطي الآن
+view.remove_ads.title: إزالة الإعلانات
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
+view.remove_ads.error.join_server: الرجاء الانضمام إلى خادم الدعم.
 view.remove_ads.purchase: اشتري
 view.remove_ads.thank_you.title: شكرا لك على شرائك
-view.remove_ads.thank_you.subtitle: All ads have now been removed
+view.remove_ads.thank_you.subtitle: تم الآن إزالة جميع الإعلانات
 view.remove_ads.error.store_problem: كانت هناك مشكلة في المتجر.
 view.remove_ads.error.try_again_later: الرجاء المحاولة مرة أخرى لاحقاً.
 view.remove_ads.error.purchase_not_allowed: هذا الجهاز أو المستخدم غير مسموح له بإجراء الشراء.
 view.remove_ads.error.purchase_invalid: الشراء غير صالح.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.error.purchase_in_progress: عملية الشراء هذه قيد التقدم بالفعل. يرجى التحلي بالصبر.
+view.remove_ads.error.product_already_purchased: تم بالفعل شراء هذا المنتج.
+view.remove_ads.error.unknown_error: 'حدث خطأ غير معروف: {}.'
+view.remove_ads.error.title: حصل خطأ
+view.remove_ads.button.join_server: انضم إلى خادم الدعم
 view.remove_ads.button.okay: حسناً
