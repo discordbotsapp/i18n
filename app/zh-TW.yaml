@@ -11,6 +11,7 @@ global.app_bar.settings: 設置
 global.app_bar.language: 語言
 global.app_bar.report: '回報 {}'
 global.app_bar.categories: 類別
+global.app_bar.remove_ads: 刪除廣告
 global.tag.music: 音樂
 global.tag.pokemon: 寶可夢 #KEEP AS IS
 global.tag.soundboard: Soundboard
