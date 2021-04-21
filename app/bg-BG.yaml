@@ -164,8 +164,8 @@ view.welcome.login.button: Влез със Discord
 view.welcome.skip.button: Пропусни за сега
 view.remove_ads.title: Премахни реклами
 view.remove_ads.subtitle: Премахване на всички реклами
-view.remove_ads.error.load_product: Възникна грешка при зареждане на продукта.
-view.remove_ads.error.verify_purchase: Възникна грешка при потвърждаването на покупката.
+view.remove_ads.error.load_product: An unknown error occurred while loading the product.
+view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Моля опитай по късно, или влез във съппорт сървъра.
 view.remove_ads.error.join_server: Моля влез във сървъра за поддръжка.
 view.remove_ads.purchase: Купи
@@ -177,7 +177,7 @@ view.remove_ads.error.purchase_not_allowed: Това устройство или
 view.remove_ads.error.purchase_invalid: Покупката е невалидна.
 view.remove_ads.error.purchase_in_progress: Тази покупка вече е в ход. Моля, бъдете търпеливи.
 view.remove_ads.error.product_already_purchased: Този продукт вече е закупен.
-view.remove_ads.error.unkown_error: 'Възникна неизвестна грешка: {}.'
+view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: Възникна грешка
 view.remove_ads.button.join_server: Сървър за поддръжка
 view.remove_ads.button.okay: Добре
