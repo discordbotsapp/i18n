@@ -139,9 +139,9 @@ view.settings.account.delete_account.alert_dialog.title: Cancella Account
 view.settings.account.delete_account.alert_dialog.text: Sei sicuro di voler eliminare il tuo account? Questa azione non potrà essere annullata.
 view.settings.account.delete_account.alert_dialog.cancel.button: Annulla
 view.settings.account.delete_account.alert_dialog.yes.button: 'Si'
-view.settings.info.title: Info
+view.settings.info.title: Informazioni
 view.settings.info.about.button: Informazioni
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Tutti i diritti riservati.
 view.settings.info.privacy_policy.button: Privacy
 view.under_maintenance.title: In Manutenzione
 view.under_maintenance.subtitle: L'applicazione è attualmente in manutenzione e tornerà presto. Si prega di controllare il server di supporto per eventuali aggiornamenti.
@@ -164,21 +164,21 @@ view.welcome.subtitle: Cerca oltre {}+ bot di Discord! Inizia accedendo con il t
 view.welcome.login.button: Accedi con Discord
 view.welcome.skip.button: Salta per Ora
 view.remove_ads.title: Rimuovi Pubblicità
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.subtitle: Rimuovi tutte le pubblicità
+view.remove_ads.error.load_product: Si è verificato un errore sconosciuto durante il caricamento del prodotto.
+view.remove_ads.error.verify_purchase: Si è verificato un errore sconosciuto durante la verifica dell'acquisto.
+view.remove_ads.error.try_again: Si prega di riprovare più tardi o di unirti al nostro server di supporto.
+view.remove_ads.error.join_server: Unisciti al server di supporto.
+view.remove_ads.purchase: Acquista
+view.remove_ads.thank_you.title: Grazie per il vostro acquisto
+view.remove_ads.thank_you.subtitle: Tutti gli elementi pubblicitari sono stati rimossi
+view.remove_ads.error.store_problem: Si è verificato un problema con il negozio.
+view.remove_ads.error.try_again_later: Riprova più tardi.
+view.remove_ads.error.purchase_not_allowed: Questo dispositivo o utente non è autorizzato ad effettuare l'acquisto.
+view.remove_ads.error.purchase_invalid: Questo acquisto non è valido.
+view.remove_ads.error.purchase_in_progress: Questo acquisto è già in corso. Per favore sii paziente.
+view.remove_ads.error.product_already_purchased: Questo prodotto è stato già acquistato.
+view.remove_ads.error.unknown_error: 'Si è verificato un errore sconosciuto: {}.'
+view.remove_ads.error.title: Si è verificato un errore
+view.remove_ads.button.join_server: Unisciti al Server di Supporto
 view.remove_ads.button.okay: Okay
