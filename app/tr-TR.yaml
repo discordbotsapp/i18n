@@ -50,7 +50,7 @@ view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} sunucu'
 view.bot.chip.server: '{} sunucu'
 view.bot.chip.votes: '{} oy'
-view.bot.chip.vote: '{} Oyla'
+view.bot.chip.vote: '{} Oy'
 view.bot.menu.report: Şikayet Et
 view.bot.menu.copy_id: ID Kopyala
 view.bot.menu.copy_id.snack_bar: '{} Botunun ID''si kopyalandı'
@@ -100,7 +100,7 @@ view.top_charts.most_servers: En Çok Eklenenler
 view.top_charts.bot.subtitle.servers.plural: '{} sunucu'
 view.top_charts.bot.subtitle.votes.plural: '{} oy'
 view.top_charts.bot.subtitle.servers.singular: '{} sunucu'
-view.top_charts.bot.subtitle.votes.singular: '{} Oyla'
+view.top_charts.bot.subtitle.votes.singular: '{} Oy'
 view.account.login.guest: Misafir
 view.account.login.button: Discord ile Giriş Yap
 view.account.login.error: Giriş yapılırken bir hata oluştu. Lütfen tekrar dene.
