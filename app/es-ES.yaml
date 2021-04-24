@@ -141,7 +141,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sí'
 view.settings.info.title: Info
 view.settings.info.about.button: Acerca de
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Derechos de Autor © 2020 Tetracyl. Todos los derechos reservados.
 view.settings.info.privacy_policy.button: Política de Privacidad
 view.under_maintenance.title: En Mantenimiento
 view.under_maintenance.subtitle: La aplicación se encuentra actualmente en mantenimiento y volverá pronto. Consulte el servidor de soporte para obtener actualizaciones.
@@ -164,8 +164,8 @@ view.welcome.subtitle: '¡Navega a través de {}+ bots de Discord! Empieza inici
 view.welcome.login.button: Iniciar sesión con Discord
 view.welcome.skip.button: Omitir por Ahora
 view.remove_ads.title: Quitar Anuncios
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
+view.remove_ads.subtitle: Elimina todos los anuncios de la app
+view.remove_ads.error.load_product: Se ha producido un error desconocido al cargar el producto.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Please try again later or join the support server.
 view.remove_ads.error.join_server: Please join the support server.
