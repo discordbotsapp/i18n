@@ -1,10 +1,10 @@
 ---
 global.title: Discord Bots
 global.navbar.explore: Explorar
-global.navbar.top_charts: Gráficos Más
+global.navbar.top_charts: Los Mejores
 global.navbar.account: Cuenta
 global.app_bar.explore: Explorar
-global.app_bar.top_charts: Gráficos Más
+global.app_bar.top_charts: Los Mejores
 global.app_bar.account: Cuenta
 global.app_bar.login: Login
 global.app_bar.settings: Ajustes
@@ -34,7 +34,7 @@ global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Multipropósito
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Gráficos Más
+global.tag.top_charts: Mejores Bots
 global.footer.contact: 'Contacto: support@discordbots.app'
 global.footer.info: Discord Bots App no está afiliado con Discord o cualquiera de las listas de Bot soportadas.
 global.login_alert.title: Login
@@ -166,19 +166,19 @@ view.welcome.skip.button: Omitir por Ahora
 view.remove_ads.title: Quitar Anuncios
 view.remove_ads.subtitle: Elimina todos los anuncios de la app
 view.remove_ads.error.load_product: Se ha producido un error desconocido al cargar el producto.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.error.verify_purchase: Se ha producido un error desconocido al verificar tu compra.
+view.remove_ads.error.try_again: Por favor intenta mas tarde o únete al servidor de soporte.
+view.remove_ads.error.join_server: Por favor únete al servidor de soporte.
+view.remove_ads.purchase: Comprar
+view.remove_ads.thank_you.title: Gracias por tu compra
+view.remove_ads.thank_you.subtitle: Todos los anuncios han sido removidos
+view.remove_ads.error.store_problem: Se ha producido un error con la tienda.
+view.remove_ads.error.try_again_later: Por favor intenta de nuevo mas tarde.
+view.remove_ads.error.purchase_not_allowed: Este dispositivo o usuario no está autorizado a realizar la compra.
+view.remove_ads.error.purchase_invalid: La compra es invalida.
+view.remove_ads.error.purchase_in_progress: Esta compra ya está en proceso. Por favor, sea paciente.
+view.remove_ads.error.product_already_purchased: Este producto ya fue comprado.
+view.remove_ads.error.unknown_error: 'Ocurrió un error desconocido: {}.'
+view.remove_ads.error.title: Ocurrió un error
+view.remove_ads.button.join_server: Únete al Servidor de Soporte
 view.remove_ads.button.okay: Aceptar
