@@ -68,17 +68,17 @@ view.bot.hide.login_alert: 이 봇을 숨기려면 로그인해야 해요.
 view.bot.copy.snackbar: '{}봇의 ID를 복사했어요'
 view.report.report_reason.title: 신고 사유
 view.report.report_reason.hint: 신고 사유 선택하기
-view.report.report_reason.empty: 신고 사유를 선택해주세요
+view.report.report_reason.empty: 신고 사유를 먼저 선택해주세요
 view.report.additional_information.title: 상세 정보
 view.report.additional_information.hint: 상세한 정보를 여기에 적어주세요...
-view.report.additional_information.empty: 신고 사유를 선택해주세요
-view.report.submit.button: 제출
-view.report.report_reason.dropdown.option1: 부적절/성적인 콘텐츠
-view.report.report_reason.dropdown.option2: 오랫동안 봇이 오프라인 상태
-view.report.report_reason.dropdown.option3: 오해할 수 있는 기능과 설명
+view.report.additional_information.empty: 신고 사유를 먼저 선택해주세요
+view.report.submit.button: 제출하기
+view.report.report_reason.dropdown.option1: 부적절/성적인 콘텐츠가 포함됨
+view.report.report_reason.dropdown.option2: 오랫동안 봇이 오프라인 상태임
+view.report.report_reason.dropdown.option3: 오해할 수 있는 기능과 설명이 포함됨
 view.report.report_reason.dropdown.option4: 봇이 작동하지 않음
 view.report.report_reason.dropdown.option5: 초대 링크가 작동하지 않음
-view.report.report_reanos.dropdown.option6: 기타 사유
+view.report.report_reanos.dropdown.option6: 다른 사유
 view.explore.title: 탐색
 view.explore.featured.title: 추천
 view.explore.featured.subtitle: Discord에 의해 검증된 봇을 만나보세요
@@ -129,11 +129,11 @@ view.settings.support.title: 지원
 view.settings.support.support_server.button: 지원 서버 접속하기
 view.settings.support.report_a_bug.button: 버그 제보하기
 view.settings.account.title: 계정
-view.settings.account.log_out.button: 로그아웃하기
-view.settings.account.log_out.alert_dialog.title: 로그아웃하기
+view.settings.account.log_out.button: 로그아웃
+view.settings.account.log_out.alert_dialog.title: 로그아웃
 view.settings.account.log_out.alert_dialog.text: 정말로 로그아웃할까요?
 view.settings.account.log_out.alert_dialog.cancel.button: 취소
-view.settings.account.log_out.alert_dialog.log_out.button: 로그아웃하기
+view.settings.account.log_out.alert_dialog.log_out.button: 로그아웃
 view.settings.account.delete_account.button: 계정 삭제하기
 view.settings.account.delete_account.alert_dialog.title: 계정 삭제하기
 view.settings.account.delete_account.alert_dialog.text: 정말로 이 계정을 삭제할까요? 이 작업은 취소할 수 없어요.
