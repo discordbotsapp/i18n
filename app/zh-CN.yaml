@@ -51,14 +51,14 @@ view.bot.chip.servers: '{} 服务器'
 view.bot.chip.server: '{} 服务器'
 view.bot.chip.votes: '{} 票'
 view.bot.chip.vote: '{} 票'
-view.bot.menu.report: 报告
-view.bot.menu.copy_id: 副本编号
+view.bot.menu.report: 举报
+view.bot.menu.copy_id: 复制ID
 view.bot.menu.copy_id.snack_bar: 已复制{}的ID
 view.bot.menu.hide: 隐藏
 view.bot.menu.hide.alert_dialog.title: 隐藏 {}
 view.bot.menu.hide.alert_dialog.text: '您确定要隐藏 {} 吗？'
 view.bot.menu.hide.alert_dialog.cancel.button: 取消
-view.bot.menu.hide.alert_dialog.yes.button: '是的'
+view.bot.menu.hide.alert_dialog.yes.button: '是'
 view.bot.website.button: 网站
 view.bot.support_server.button: 支援服务器
 view.bot.vote.button: 投票
@@ -138,7 +138,7 @@ view.settings.account.delete_account.button: 删除帐户
 view.settings.account.delete_account.alert_dialog.title: 删除帐户
 view.settings.account.delete_account.alert_dialog.text: 您确定要删除您的帐户吗？此操作无法撤消。
 view.settings.account.delete_account.alert_dialog.cancel.button: 取消
-view.settings.account.delete_account.alert_dialog.yes.button: '是的'
+view.settings.account.delete_account.alert_dialog.yes.button: '是'
 view.settings.info.title: Info
 view.settings.info.about.button: 关于软件
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
