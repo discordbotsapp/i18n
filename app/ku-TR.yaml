@@ -1,5 +1,5 @@
 ---
-global.title: دیسکۆرد بۆتس
+global.title: Discord Bots
 global.navbar.explore: گەڕان
 global.navbar.top_charts: هێڵکارییە بەرزەکان
 global.navbar.account: هەژمار
@@ -16,10 +16,10 @@ global.tag.music: مۆسیقا
 global.tag.pokemon: پۆکیمۆن #KEEP AS IS
 global.tag.soundboard: تەختەی دەنگ
 global.tag.moderation: چاودێری
-global.tag.minecraft: ماینکرافت #KEEP AS IS
+global.tag.minecraft: Minecraft #KEEP AS IS
 global.tag.trivia: تریڤیا
-global.tag.fortnite: فۆرتنایت #KEEP AS IS
-global.tag.spotify: سپۆتیفای #KEEP AS IS
+global.tag.fortnite: Fortnite #KEEP AS IS
+global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: کۆمەڵ
 global.tag.fun: خۆشی
 global.tag.economy: ئابوری
@@ -30,9 +30,9 @@ global.tag.leveling: ئاست
 global.tag.roleplay: ڕۆڵبینین
 global.tag.logging: تۆمارکردن
 global.tag.utility: فەرمانی گشتی
-global.tag.reddit: رێدیت #KEEP AS IS
+global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: فرەمەبەست
-global.tag.twitch: تویچ #KEEP AS IS
+global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: کریپتۆ #KEEP AS IS
 global.tag.top_charts: هێڵکارییە بەرزەکان
 global.footer.contact: 'پەیوەندی: support@discordbots.app'
@@ -159,7 +159,7 @@ view.search.title: گەڕان
 view.search.subtitle.noQuery: گەڕان بە دوای بۆت...
 view.search.subtitle.query: پیشاندانی ئەنجامەکانی گەڕان بۆ {}
 view.search.none: هیچ ئەنجامێک نەدۆزرایەوە
-view.welcome.title: دیسکۆرد بۆتس
+view.welcome.title: Discord Bots
 view.welcome.subtitle: گەڕان لە نێو {}+ دیسکۆرد بۆتس! دەست پێبکە بە چوونە ژوورەوە بە ئەژمێری دیسکۆرد.
 view.welcome.login.button: چوونە ژوورەوە لەڕێگەی دیسکۆردوە
 view.welcome.skip.button: بازدان بۆ ئێستا
