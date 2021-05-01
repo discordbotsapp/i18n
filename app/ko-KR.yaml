@@ -1,5 +1,5 @@
 ---
-global.title: Discord 봇
+global.title: Discord Bots
 global.navbar.explore: 탐색
 global.navbar.top_charts: 차트
 global.navbar.account: 계정
@@ -47,16 +47,16 @@ global.rate_dialog.button.no_thanks: 괜찮아요
 global.rate_dialog.button.maybe_later: 나중에 평가할게요
 view.bot.add.button: 봇 추가하기
 view.bot.chip.prefix: '접두사: {}'
-view.bot.chip.servers: '{}개의 서버에서 활동중'
-view.bot.chip.server: '{}개의 서버에서 활동중'
-view.bot.chip.votes: '{}표'
-view.bot.chip.vote: '{}표'
+view.bot.chip.servers: '{} 개의 서버에서 활동중'
+view.bot.chip.server: '{} 개의 서버에서 활동중'
+view.bot.chip.votes: '{} 표'
+view.bot.chip.vote: '{} 표'
 view.bot.menu.report: 신고하기
 view.bot.menu.copy_id: ID 복사하기
-view.bot.menu.copy_id.snack_bar: '{}봇의 ID를 복사했어요'
+view.bot.menu.copy_id.snack_bar: '{} 봇의 ID를 복사했어요'
 view.bot.menu.hide: 숨기기
-view.bot.menu.hide.alert_dialog.title: '{}봇 숨기기'
-view.bot.menu.hide.alert_dialog.text: '{}봇을 정말로 숨길까요?'
+view.bot.menu.hide.alert_dialog.title: '{} 봇 숨기기'
+view.bot.menu.hide.alert_dialog.text: '{} 봇을 정말로 숨길까요?'
 view.bot.menu.hide.alert_dialog.cancel.button: 취소
 view.bot.menu.hide.alert_dialog.yes.button: '계속'
 view.bot.website.button: 웹사이트 방문하기
@@ -65,7 +65,7 @@ view.bot.vote.button: 투표하기
 view.bot.favorite.login_alert: 이 봇을 추가하려면 로그인해야 해요.
 view.bot.report.login_alert: 이 봇을 신고하려면 로그인해야 해요.
 view.bot.hide.login_alert: 이 봇을 숨기려면 로그인해야 해요.
-view.bot.copy.snackbar: '{}봇의 ID를 복사했어요'
+view.bot.copy.snackbar: '{} 봇의 ID를 복사했어요'
 view.report.report_reason.title: 신고 사유
 view.report.report_reason.hint: 신고 사유 선택하기
 view.report.report_reason.empty: 신고 사유를 먼저 선택해주세요
@@ -97,10 +97,10 @@ view.explore.footer.about.button: 앱 정보
 view.explore.footer.privacy_policy.button: 개인정보 취급방침
 view.top_charts.most_votes: 최다 득표순
 view.top_charts.most_servers: 최다 서버순
-view.top_charts.bot.subtitle.servers.plural: '{}개의 서버에서 활동중'
-view.top_charts.bot.subtitle.votes.plural: '{}표'
-view.top_charts.bot.subtitle.servers.singular: '{}개의 서버에서 활동중'
-view.top_charts.bot.subtitle.votes.singular: '{}표'
+view.top_charts.bot.subtitle.servers.plural: '{} 개의 서버에서 활동중'
+view.top_charts.bot.subtitle.votes.plural: '{} 표'
+view.top_charts.bot.subtitle.servers.singular: '{} 개의 서버에서 활동중'
+view.top_charts.bot.subtitle.votes.singular: '{} 표'
 view.account.login.guest: 방문자
 view.account.login.button: Discord로 로그인
 view.account.login.error: 로그인하던 도중 오류가 발생했어요. 다시 시도해 주세요.
@@ -150,17 +150,17 @@ view.under_maintenance.support_server.button: 지원 서버 접속하기
 view.no_internet.title: 인터넷 연결 없음
 view.no_internet.subtitle: 인터넷 연결이 되어있지 않아요. 연결 상태를 확인한 후 다시 시도하세요
 view.no_internet.retry: 다시 시도하기
-view.bot.reported.title: '{}봇 신고 완료'
+view.bot.reported.title: '{} 봇 신고 완료'
 view.bot.reported.subtitle: '{}봇을 다음의 사유로 신고했어요:'
 view.bot.reported.button.okay: 확인
 view.user.bots: 봇
 view.search.hint: 검색하기...
 view.search.title: 검색
 view.search.subtitle.noQuery: 봇을 검색해봐요...
-view.search.subtitle.query: '{}에 대한 검색 결과에요'
+view.search.subtitle.query: '{} 에 대한 검색 결과에요'
 view.search.none: 일치하는 검색 결과가 존재하지 않아요
-view.welcome.title: Discord 봇
-view.welcome.subtitle: '{}개가 넘는 Discord 봇을 둘러보세요! Discord 계정과 연결해서 시작할 수 있어요.'
+view.welcome.title: Discord Bots
+view.welcome.subtitle: '{} 개가 넘는 Discord 봇을 둘러보세요! Discord 계정과 연결해서 시작할 수 있어요.'
 view.welcome.login.button: Discord로 로그인
 view.welcome.skip.button: 일단은 건너뛰기
 view.remove_ads.title: 광고 제거하기
