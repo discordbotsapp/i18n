@@ -1,5 +1,5 @@
 ---
-global.title: Discord 機器人
+global.title: Discord Bots
 global.navbar.explore: 探索
 global.navbar.top_charts: 頂部圖表
 global.navbar.account: 帳號
@@ -16,9 +16,9 @@ global.tag.music: 音樂
 global.tag.pokemon: 寶可夢 #KEEP AS IS
 global.tag.soundboard: Soundboard
 global.tag.moderation: 管理
-global.tag.minecraft: 我的世界 #KEEP AS IS
+global.tag.minecraft: Minecraft #KEEP AS IS
 global.tag.trivia: 益智遊戲
-global.tag.fortnite: 堡壘之夜 #KEEP AS IS
+global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: 社交
 global.tag.fun: 娛樂
@@ -159,7 +159,7 @@ view.search.title: 搜尋
 view.search.subtitle.noQuery: 搜尋機器人...
 view.search.subtitle.query: 顯示下列的搜尋結果：{}
 view.search.none: 找不到結果
-view.welcome.title: Discord 機器人
+view.welcome.title: Discord Bots
 view.welcome.subtitle: 通過{} + Discord機器人瀏覽！通過登錄您的Discord帳號來開始
 view.welcome.login.button: 用 Discord 帳號登入
 view.welcome.skip.button: 先跳過
