@@ -47,8 +47,8 @@ global.rate_dialog.button.no_thanks: لا شكراً
 global.rate_dialog.button.maybe_later: لاحقا
 view.bot.add.button: أضف
 view.bot.chip.prefix: 'بادئة: {}'
-view.bot.chip.servers: 'سرفرز {}'
-view.bot.chip.server: 'سرفرز {}'
+view.bot.chip.servers: '{} سرفرز'
+view.bot.chip.server: '{} سرفرز'
 view.bot.chip.votes: '{} تصويت'
 view.bot.chip.vote: '{} تصويت'
 view.bot.menu.report: ابلاغ
@@ -97,9 +97,9 @@ view.explore.footer.about.button: معلومات
 view.explore.footer.privacy_policy.button: سياسة الخصوصية
 view.top_charts.most_votes: الأكثر تصويتاً
 view.top_charts.most_servers: أكثر سرفرز
-view.top_charts.bot.subtitle.servers.plural: 'سرفرز {}'
+view.top_charts.bot.subtitle.servers.plural: '{} سرفرز'
 view.top_charts.bot.subtitle.votes.plural: '{} تصويت'
-view.top_charts.bot.subtitle.servers.singular: 'سرفرز {}'
+view.top_charts.bot.subtitle.servers.singular: '{} سرفرز'
 view.top_charts.bot.subtitle.votes.singular: '{} تصويت'
 view.account.login.guest: ضيف
 view.account.login.button: تسجيل الدخول باستخدام ديسكورد
