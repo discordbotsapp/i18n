@@ -11,7 +11,7 @@ global.app_bar.settings: Beállítások
 global.app_bar.language: Nyelv
 global.app_bar.report: '{} bejelentése'
 global.app_bar.categories: Kategóriák
-global.app_bar.remove_ads: Hirdetések eltávolítása
+global.app_bar.remove_ads: Hirdetések Eltávolítása
 global.tag.music: Zene
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -56,11 +56,11 @@ view.bot.menu.copy_id: ID másolása
 view.bot.menu.copy_id.snack_bar: Másolva a {} ID-ja
 view.bot.menu.hide: Elrejt
 view.bot.menu.hide.alert_dialog.title: Elrejt {}
-view.bot.menu.hide.alert_dialog.text: 'Biztosan el akarja rejteni a következőt? {}'
+view.bot.menu.hide.alert_dialog.text: 'Biztosan el akarja rejteni a következőt {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Mégse
 view.bot.menu.hide.alert_dialog.yes.button: 'Igen'
 view.bot.website.button: Weboldal
-view.bot.support_server.button: Támogatási szerver
+view.bot.support_server.button: Támogatási Szerver
 view.bot.vote.button: Szavazás
 view.bot.favorite.login_alert: Be kell jelentkezned ahhoz hogy botot adhass a kedvenceid közé.
 view.bot.report.login_alert: Be kell jelentkezned ahhoz hogy botot jelenthess.
@@ -91,12 +91,12 @@ view.explore.most_voted.subtitle: A legtöbb szavazattal rendelkező botok a hó
 view.explore.see_all.button: Összes
 view.explore.categories.title: Kategóriák Felfedezése
 view.explore.category.subtitle: Botok a {} kategóriában
-view.explore.footer.support_server.button: Támogatási szerver
+view.explore.footer.support_server.button: Támogatási Szerver
 view.explore.footer.bug_report.button: Hibajelentés
 view.explore.footer.about.button: Rólunk
-view.explore.footer.privacy_policy.button: Adatvédelmi irányelvek
-view.top_charts.most_votes: Legtöbb szavazat
-view.top_charts.most_servers: Legtöbb szerver
+view.explore.footer.privacy_policy.button: Adatvédelmi Irányelvek
+view.top_charts.most_votes: Legtöbb Szavazat
+view.top_charts.most_servers: Legtöbb Szerver
 view.top_charts.bot.subtitle.servers.plural: '{} szerveren'
 view.top_charts.bot.subtitle.votes.plural: '{} szavazat'
 view.top_charts.bot.subtitle.servers.singular: '{} szerveren'
@@ -107,8 +107,8 @@ view.account.login.error: Hiba történt a bejelentkezés során. Kérlek prób�
 view.account.login.error.button: Vissza a bejelentkezéshez
 view.account.my_bots.button: A botjaim
 view.account.favorites.button: Kedvencek
-view.account.add_bot.button: Bot hozzáadása
-view.account.remove_ads.button: Hirdetések eltávolítása
+view.account.add_bot.button: Bot Hozzáadása
+view.account.remove_ads.button: Hirdetések Eltávolítása
 view.account.settings.button: Beállítások
 view.my_bots.title: A botjaim
 view.my_bots.subtitle: Ezek a botok a tieid. Hozzá tudod adni ha rányomsz a Botok Hozzáadása gombra a Fiók fülön. #Keep capitalization consistent
@@ -116,7 +116,7 @@ view.my_bots.none: Nincsenek botjaid
 view.favorites.title: Kedvencek
 view.favorites.subtitle: Add hozzá a kedvenc botjaidhoz, kattints a szív gombra a bot oldalán
 view.favorites.none: Nincsenek kedvenceid
-view.add_bot.title: Bot hozzáadása
+view.add_bot.title: Bot Hozzáadása
 view.add_bot.subtitle: Add hozzá egy harmadik féltől származó bot listához és automatikusan bekerül az appba.
 view.add_bot.note: 'Megjegyzés: Előfordulhat hogy az ön botja nem jelenik meg rögtön amikor hozzáadja egy bot listához.'
 view.settings.theme.title: Téma
@@ -126,7 +126,7 @@ view.settings.theme.light.radio: Világos
 view.settings.language.title: Nyelv
 view.settings.language.placeholder: Nyelv kiválasztása
 view.settings.support.title: Támogatás
-view.settings.support.support_server.button: Támogatási szerver
+view.settings.support.support_server.button: Támogatási Szerver
 view.settings.support.report_a_bug.button: Hibajelentés
 view.settings.account.title: Fiók
 view.settings.account.log_out.button: Kijelentkezés
@@ -134,20 +134,20 @@ view.settings.account.log_out.alert_dialog.title: Kijelentkezés
 view.settings.account.log_out.alert_dialog.text: Biztosan ki szeretnél jelentkezni?
 view.settings.account.log_out.alert_dialog.cancel.button: Mégse
 view.settings.account.log_out.alert_dialog.log_out.button: Kijelentkezés
-view.settings.account.delete_account.button: Fiók törlése
-view.settings.account.delete_account.alert_dialog.title: Fiók törlése
+view.settings.account.delete_account.button: Fiók Törlése
+view.settings.account.delete_account.alert_dialog.title: Fiók Törlése
 view.settings.account.delete_account.alert_dialog.text: Biztosan törölni szeretnéd a fiókot? Ez a művelet nem visszavonható.
 view.settings.account.delete_account.alert_dialog.cancel.button: Mégse
 view.settings.account.delete_account.alert_dialog.yes.button: 'Igen'
 view.settings.info.title: Info
 view.settings.info.about.button: Rólunk
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Adatvédelmi irányelvek
-view.under_maintenance.title: Karbantartás alatt
+view.settings.info.privacy_policy.button: Adatvédelmi Irányelvek
+view.under_maintenance.title: Karbantartás Alatt
 view.under_maintenance.subtitle: Az alkalmazás jelenleg karbantartás alatt, nézz vissza hamar. Nézd meg a support szervert frissítésekért.
 view.under_maintenance.retry.button: Újra
-view.under_maintenance.support_server.button: Támogatási szerver
-view.no_internet.title: Nincs internetkapcsolat
+view.under_maintenance.support_server.button: Támogatási Szerver
+view.no_internet.title: Nincs Internetkapcsolat
 view.no_internet.subtitle: Nem található internetkapcsolat. Kérlek nézd meg a csatlakozásod és próbáld újra
 view.no_internet.retry: Újra
 view.bot.reported.title: Bejelentve {}
@@ -162,8 +162,8 @@ view.search.none: Nincs találat
 view.welcome.title: Discord Bots
 view.welcome.subtitle: Keressen a {}+ Discord botok között! Kezdje azzal hogy belép a Discord fiókjába.
 view.welcome.login.button: Bejelentkezés Discorddal
-view.welcome.skip.button: Most kihagyás
-view.remove_ads.title: Hirdetések eltávolítása
+view.welcome.skip.button: Most Kihagyás
+view.remove_ads.title: Hirdetések Eltávolítása
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
