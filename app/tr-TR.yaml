@@ -111,14 +111,14 @@ view.account.add_bot.button: Bot Ekle
 view.account.remove_ads.button: Reklamları Kaldır
 view.account.settings.button: Ayarlar
 view.my_bots.title: Botlarım
-view.my_bots.subtitle: Sana ait botlar. Hesap sayfasındaki Bot Ekle düğmesine tıklayarak kendi botunu ekleyebilirsin. #Keep capitalization consistent
+view.my_bots.subtitle: Sana ait botlar. Hesabım sayfasındaki Bot Ekle düğmesine tıklayarak kendi botunu ekleyebilirsin. #Keep capitalization consistent
 view.my_bots.none: Herhangi bir bota sahip değilsin
 view.favorites.title: Favorilerim
 view.favorites.subtitle: Bir botun sayfasında bulunan kalp düğmesine tıklayarak, favori botlarını buraya ekleyebilirsin
 view.favorites.none: Herhangi bir favorini botun yok
 view.add_bot.title: Bot Ekle
 view.add_bot.subtitle: Botunu 3. parti bir siteye ekleyersen, botun otamatik olarak uygulamaya da eklenir.
-view.add_bot.note: 'Not: Botunu başka bir bot siteye ekledikten sonra, botun uygulamada hemen gözükmeyebilir.'
+view.add_bot.note: 'Not: Botunu başka bir siteye ekledikten sonra, botun uygulamada hemen gözükmeyebilir.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistem Teması
 view.settings.theme.dark.radio: Karanlık
