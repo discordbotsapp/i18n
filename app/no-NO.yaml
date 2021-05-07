@@ -127,13 +127,13 @@ view.settings.language.title: Språk
 view.settings.language.placeholder: Velg et språk
 view.settings.support.title: Brukerstøtte
 view.settings.support.support_server.button: Støtte Server
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Rapporter en feil
 view.settings.account.title: Konto
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Logg Av
+view.settings.account.log_out.alert_dialog.title: Logg Av
+view.settings.account.log_out.alert_dialog.text: Er du sikker på at du vil logge av?
 view.settings.account.log_out.alert_dialog.cancel.button: Avbryt
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
+view.settings.account.log_out.alert_dialog.log_out.button: Logg Av
 view.settings.account.delete_account.button: Slett konto
 view.settings.account.delete_account.alert_dialog.title: Slett konto
 view.settings.account.delete_account.alert_dialog.text: Er du sikker på at du vil slette kontoen din? Denne handlingen kan ikke angres.
@@ -141,7 +141,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Avbryt
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
 view.settings.info.title: Info
 view.settings.info.about.button: Om
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Alle rettigheter reservert.
 view.settings.info.privacy_policy.button: Retningslinjer for personvern
 view.under_maintenance.title: Under Vedlikehold
 view.under_maintenance.subtitle: Appen er for tiden under vedlikehold og kommer snart tilbake. Sjekk brukerstøtteserveren for oppdateringer.
@@ -164,21 +164,21 @@ view.welcome.subtitle: Bla gjennom {}+ Discord bots! Kom i gang ved å logge inn
 view.welcome.login.button: Logg inn med Discord
 view.welcome.skip.button: Hopp over for nå
 view.remove_ads.title: Fjern Reklamer
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.subtitle: Fjerner alle annonser fra appen
+view.remove_ads.error.load_product: Det oppstod en ukjent feil under innlasting av produktet.
+view.remove_ads.error.verify_purchase: Det oppstod en ukjent feil under kontroll av kjøpet.
+view.remove_ads.error.try_again: Prøv på nytt senere, eller bli med på Støtte Serveren.
+view.remove_ads.error.join_server: Bli med på Støtte Serveren.
+view.remove_ads.purchase: Kjøpe
+view.remove_ads.thank_you.title: Takk for kjøpet
+view.remove_ads.thank_you.subtitle: Alle annonser er nå fjernet
+view.remove_ads.error.store_problem: Det oppstod et problem med butikken.
+view.remove_ads.error.try_again_later: Prøv på nytt senere.
+view.remove_ads.error.purchase_not_allowed: Denne enheten eller brukeren har ikke lov til å foreta kjøpet.
+view.remove_ads.error.purchase_invalid: Kjøpet er ugyldig.
+view.remove_ads.error.purchase_in_progress: Dette kjøpet pågår allerede. Vær tålmodig.
+view.remove_ads.error.product_already_purchased: Dette produktet er allerede kjøpt.
+view.remove_ads.error.unknown_error: 'Det oppstod en ukjent feil: {}.'
+view.remove_ads.error.title: Det oppstod en feil
+view.remove_ads.button.join_server: Koble til Støtte Server
 view.remove_ads.button.okay: Okei
