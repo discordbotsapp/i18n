@@ -167,8 +167,8 @@ view.remove_ads.title: 刪除廣告
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
+view.remove_ads.error.try_again: 請稍後重試或加入支持伺服器
+view.remove_ads.error.join_server: 請加入支持伺服器
 view.remove_ads.purchase: 購買
 view.remove_ads.thank_you.title: 感謝你的消費
 view.remove_ads.thank_you.subtitle: 廣告已被移除
