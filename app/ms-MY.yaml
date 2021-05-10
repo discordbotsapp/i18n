@@ -9,98 +9,98 @@ global.app_bar.account: Akaun
 global.app_bar.login: Log Masuk
 global.app_bar.settings: Tetapan
 global.app_bar.language: Bahasa
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
+global.app_bar.report: 'Melaporkan {}'
+global.app_bar.categories: Kategori
 global.app_bar.remove_ads: Remove Ads
-global.tag.music: Music
+global.tag.music: Muzik
 global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
+global.tag.soundboard: Papan bunyi
 global.tag.moderation: Moderation
 global.tag.minecraft: Minecraft #KEEP AS IS
 global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.social: Sosial
+global.tag.fun: Seronok
+global.tag.economy: Ekonomi
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
+global.tag.game: Permainan
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
+global.tag.leveling: Bertahap
+global.tag.roleplay: Bermain sebagai peranana
 global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.utility: Utiliti
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Pelbagai Guna
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Carta Tertinggi
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.contact: 'Hubungi: support@discordbots.app'
+global.footer.info: Discord Bots App tidak dikaitkan dengan Discord atau mana-mana laman bot untuk Discord yang lain.
 global.login_alert.title: Log Masuk
-global.login_alert.cancel.button: Cancel
+global.login_alert.cancel.button: Batal
 global.login_alert.login.button: Log Masuk
-global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
+global.rate_dialog.title: Nilai Discord Bots
+global.rate_dialog.subtitle: Jika kamu suka aplikasi ini, tolong ambil sedikit daripada masa anda untuk menilaikannya! Ini dapat membantu kami dan ia tidak akan mengambil lebih daripada seminit.
+global.rate_dialog.button.rate: MENILAI
+global.rate_dialog.button.no_thanks: TIDAK MAHU
+global.rate_dialog.button.maybe_later: MUNGKIN NANTI
+view.bot.add.button: MENAMBAH
 view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.bot.chip.servers: '{} pelayan'
+view.bot.chip.server: '{} pelayan'
+view.bot.chip.votes: '{} pengundian'
+view.bot.chip.vote: '{} pengundian'
+view.bot.menu.report: Melaporkan
+view.bot.menu.copy_id: Menyalin ID
+view.bot.menu.copy_id.snack_bar: Anda telah berjaya menyalinkan ID {}
+view.bot.menu.hide: Simpan
+view.bot.menu.hide.alert_dialog.title: Sembunyi {}
+view.bot.menu.hide.alert_dialog.text: 'Adakah anda pasti anda mahu menyembunyikan {}?'
+view.bot.menu.hide.alert_dialog.cancel.button: Batal
+view.bot.menu.hide.alert_dialog.yes.button: 'Ya'
+view.bot.website.button: Laman web
+view.bot.support_server.button: Pelayan Pertolongan
+view.bot.vote.button: Undi
+view.bot.favorite.login_alert: Anda perlu log masuk untuk menambahkan bot ini ke senarai bot kegemaran anda.
+view.bot.report.login_alert: Anda perlu log masuk untuk melaporkan bot ini.
+view.bot.hide.login_alert: Anda perlu log masuk untuk menyembunyikan bot ini.
+view.bot.copy.snackbar: Anda telah berjaya menyalinkan ID {}
+view.report.report_reason.title: Alasan untuk Melaporkan
+view.report.report_reason.hint: Pilih sesuatu sebab
+view.report.report_reason.empty: Tolong pilih satu sebab
+view.report.additional_information.title: Informasi tambahan
+view.report.additional_information.hint: Masukkan informasi tambahan di sini...
+view.report.additional_information.empty: Tolong pilih satu sebab
+view.report.submit.button: Hantar
+view.report.report_reason.dropdown.option1: Kandungan tidak sesuai
+view.report.report_reason.dropdown.option2: Offline untuk masa yang lama
+view.report.report_reason.dropdown.option3: Informasi atau ciri yang tidak betul
+view.report.report_reason.dropdown.option4: Bot tidak berfungsi
+view.report.report_reason.dropdown.option5: Link tidak berfungsi
+view.report.report_reanos.dropdown.option6: Alasan lain
 view.explore.title: Teroka
-view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
+view.explore.featured.title: Berciri
+view.explore.featured.subtitle: Bot yang terbaik dan telah diverifikasi oleh Discord
 view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
+view.explore.trending.subtitle: Bot baharu yang telah menarik tumpuan dengan cepat
+view.explore.new.title: Baharu
+view.explore.new.subtitle: Bot yang baru ditambahkan
+view.explore.most_voted.title: Paling diundikan
 view.explore.most_voted.subtitle: Bots with the most votes this month
 view.explore.see_all.button: See All
 view.explore.categories.title: Explore Categories
 view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Support Server
+view.explore.footer.support_server.button: Pelayan Pertolongan
 view.explore.footer.bug_report.button: Bug Report
 view.explore.footer.about.button: About
 view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
+view.top_charts.bot.subtitle.servers.plural: '{} pelayan'
+view.top_charts.bot.subtitle.votes.plural: '{} pengundian'
+view.top_charts.bot.subtitle.servers.singular: '{} pelayan'
+view.top_charts.bot.subtitle.votes.singular: '{} pengundian'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
@@ -126,19 +126,19 @@ view.settings.theme.light.radio: Light
 view.settings.language.title: Bahasa
 view.settings.language.placeholder: Choose a language
 view.settings.support.title: Support
-view.settings.support.support_server.button: Support Server
+view.settings.support.support_server.button: Pelayan Pertolongan
 view.settings.support.report_a_bug.button: Report A Bug
 view.settings.account.title: Akaun
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Cancel
+view.settings.account.log_out.alert_dialog.cancel.button: Batal
 view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
+view.settings.account.delete_account.alert_dialog.cancel.button: Batal
+view.settings.account.delete_account.alert_dialog.yes.button: 'Ya'
 view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
@@ -146,7 +146,7 @@ view.settings.info.privacy_policy.button: Privacy Policy
 view.under_maintenance.title: Under Maintenance
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: Retry
-view.under_maintenance.support_server.button: Support Server
+view.under_maintenance.support_server.button: Pelayan Pertolongan
 view.no_internet.title: No Internet Connection
 view.no_internet.subtitle: No internet connection found. Please check your connection then try again
 view.no_internet.retry: Retry
