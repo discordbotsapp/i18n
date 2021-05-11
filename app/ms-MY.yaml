@@ -11,7 +11,7 @@ global.app_bar.settings: Tetapan
 global.app_bar.language: Bahasa
 global.app_bar.report: 'Melaporkan {}'
 global.app_bar.categories: Kategori
-global.app_bar.remove_ads: Remove Ads
+global.app_bar.remove_ads: Membuang Iklan
 global.tag.music: Muzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Papan bunyi
@@ -27,7 +27,7 @@ global.tag.anime: Anime #KEEP AS IS
 global.tag.game: Permainan
 global.tag.meme: Meme
 global.tag.leveling: Bertahap
-global.tag.roleplay: Bermain sebagai peranana
+global.tag.roleplay: Bermain sebagai peranan
 global.tag.logging: Logging
 global.tag.utility: Utiliti
 global.tag.reddit: Reddit #KEEP AS IS
@@ -87,98 +87,98 @@ view.explore.trending.subtitle: Bot baharu yang telah menarik tumpuan dengan cep
 view.explore.new.title: Baharu
 view.explore.new.subtitle: Bot yang baru ditambahkan
 view.explore.most_voted.title: Paling diundikan
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.see_all.button: See All
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
+view.explore.most_voted.subtitle: Bot yang mempunyai undian yang paling banyak untuk bulan ini
+view.explore.see_all.button: Nampak Semua
+view.explore.categories.title: Terokai Ketagori
+view.explore.category.subtitle: Bot dalam kategori {}
 view.explore.footer.support_server.button: Pelayan Pertolongan
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.about.button: About
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.explore.footer.bug_report.button: Laporan Gangguan Aplikasi (Bug Report)
+view.explore.footer.about.button: Tentang Kami
+view.explore.footer.privacy_policy.button: Dasar Privasi
+view.top_charts.most_votes: Undian Paling Banyak
+view.top_charts.most_servers: Pelayan Paling Banyak
 view.top_charts.bot.subtitle.servers.plural: '{} pelayan'
 view.top_charts.bot.subtitle.votes.plural: '{} pengundian'
 view.top_charts.bot.subtitle.servers.singular: '{} pelayan'
 view.top_charts.bot.subtitle.votes.singular: '{} pengundian'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
+view.account.login.guest: Tetamu
+view.account.login.button: Log in dengan Discord
+view.account.login.error: Sesuatu masalah telah menimbul apabila anda telah log masuk. Cuba lagi sekali.
+view.account.login.error.button: Balik kepada log masuk
+view.account.my_bots.button: Bot Saya
+view.account.favorites.button: Kegemaran
+view.account.add_bot.button: Tambah Bot
+view.account.remove_ads.button: Membuang Iklan
 view.account.settings.button: Tetapan
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
-view.add_bot.title: Add Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
+view.my_bots.title: Bot Saya
+view.my_bots.subtitle: Bot yang anda miliki. Anda boleh menambah bot anda dengan menggunakan butang Menambah Bot di halaman Akaun. #Keep capitalization consistent
+view.my_bots.none: Anda tidak mempunyai sebarang bot
+view.favorites.title: Kegemaran
+view.favorites.subtitle: Klik pada butang hati untuk menambahkan bot tersebut kepada senarai bot kegemaran anda pada halaman bot tersebut
+view.favorites.none: Anda tidak mempunyai sebarang bot kegemaran
+view.add_bot.title: Tambah Bot
+view.add_bot.subtitle: Tambahkan bot anda ke senarai bot lain untuk menambahkan aplikasi dengan automatik ke dalam aplikasi ini.
+view.add_bot.note: 'Nota: Bot anda tidak akan muncul dalam aplikasi dengan segera selepas menambahkan dalam senarai bot lain.'
+view.settings.theme.title: Tema
+view.settings.theme.system.radio: Sistem
+view.settings.theme.dark.radio: Gelap
+view.settings.theme.light.radio: Terang
 view.settings.language.title: Bahasa
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
+view.settings.language.placeholder: Pilih satu bahasa
+view.settings.support.title: Pertolongan
 view.settings.support.support_server.button: Pelayan Pertolongan
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Melaporkan Sesuatu Kesalahan dalam Aplikasi
 view.settings.account.title: Akaun
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Log Keluar
+view.settings.account.log_out.alert_dialog.title: Log Keluar
+view.settings.account.log_out.alert_dialog.text: Adakah anda pasti anda mahu log keluar?
 view.settings.account.log_out.alert_dialog.cancel.button: Batal
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.log_out.alert_dialog.log_out.button: Log Keluar
+view.settings.account.delete_account.button: Memadam Akaun
+view.settings.account.delete_account.alert_dialog.title: Memadam Akaun
+view.settings.account.delete_account.alert_dialog.text: Adakah anda pasti anda mahu memadam akaun ini? Aksi ini tidak boleh dibatalkan.
 view.settings.account.delete_account.alert_dialog.cancel.button: Batal
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ya'
 view.settings.info.title: Info
-view.settings.info.about.button: About
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Privacy Policy
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.settings.info.about.button: Tentang Kami
+view.settings.info.about.popup.legalese: Hak cipta © 2014 Tetracyl. Semua hak cipta terpelihara.
+view.settings.info.privacy_policy.button: Dasar Privasi
+view.under_maintenance.title: Di Bawah Penyelenggaraan
+view.under_maintenance.subtitle: Aplikasi ini sedang menjalani penyelenggaraan dan akan kembali kemudian. Sila lihat pelayan pertolongan untuk pengumuman.
+view.under_maintenance.retry.button: Cuba lagi
 view.under_maintenance.support_server.button: Pelayan Pertolongan
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
-view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.no_internet.title: Sambungan Internet Diputus
+view.no_internet.subtitle: Tidah sambungan internet. Sila periksa sambungan internet anda dan cuba lagi
+view.no_internet.retry: Cuba lagi
+view.bot.reported.title: '{} Telah Dilaporkan'
+view.bot.reported.subtitle: 'Anda telah berjaya melaporkan {} atas alasan:'
+view.bot.reported.button.okay: Baik
+view.user.bots: Bot
+view.search.hint: Cari...
+view.search.title: Cari
+view.search.subtitle.noQuery: Cari sesuatu bot...
+view.search.subtitle.query: Menunjukkan hasil carian untuk {}
+view.search.none: Tiada Carian Ditemui
 view.welcome.title: Bot Discord
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
-view.welcome.login.button: Login with Discord
-view.welcome.skip.button: Skip for Now
-view.remove_ads.title: Remove Ads
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
-view.remove_ads.button.okay: Okay
+view.welcome.subtitle: Layari {}+ bot Discord! Log masuk dengan akaun Discord anda untuk memulakan carian anda.
+view.welcome.login.button: Log in dengan Discord
+view.welcome.skip.button: Skip untuk Sekarang
+view.remove_ads.title: Membuang Iklan
+view.remove_ads.subtitle: Membuang semua iklan daripada aplikasi ini
+view.remove_ads.error.load_product: Sesuatu masalah tertimbul apabila memuat turun data untuk produk ini.
+view.remove_ads.error.verify_purchase: Sesuatu masalah telah menimbul apabila pembelian anda sedang menjalani verifikasi.
+view.remove_ads.error.try_again: Tolong cuba sebentar lagi atau sertai pelayan pertolongan.
+view.remove_ads.error.join_server: Tolong sertai pelayan pertolongan.
+view.remove_ads.purchase: Membeli
+view.remove_ads.thank_you.title: Terima kasih atas pembelian anda
+view.remove_ads.thank_you.subtitle: Semua iklan telah dikeluarkan
+view.remove_ads.error.store_problem: Terdapat sesuatu masalah dengan kedai ini.
+view.remove_ads.error.try_again_later: Tolong cuba sebentar lagi.
+view.remove_ads.error.purchase_not_allowed: Peranti atau pengguna ini tidak dibenarkan untuk membeli.
+view.remove_ads.error.purchase_invalid: Pembelian ini tidak sah.
+view.remove_ads.error.purchase_in_progress: Pembelian ini sedang dijalankan. Tolong bersabar.
+view.remove_ads.error.product_already_purchased: Produk ini telah dibeli.
+view.remove_ads.error.unknown_error: 'Sesuatu masalah tertimbul: {}.'
+view.remove_ads.error.title: Sesuatu Masalah telah Muncul
+view.remove_ads.button.join_server: Sertai Pelayan Pertolongan
+view.remove_ads.button.okay: Baik
