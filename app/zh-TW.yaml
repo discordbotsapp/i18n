@@ -166,13 +166,13 @@ view.welcome.skip.button: 先跳過
 view.remove_ads.title: 刪除廣告
 view.remove_ads.subtitle: 在應用程序中刪除所有廣告
 view.remove_ads.error.load_product: 載入產品時發生錯誤
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
+view.remove_ads.error.verify_purchase: 驗證您的購買時發生未知錯誤。
 view.remove_ads.error.try_again: 請稍後重試或加入支持伺服器
 view.remove_ads.error.join_server: 請加入支持伺服器
 view.remove_ads.purchase: 購買
 view.remove_ads.thank_you.title: 感謝你的消費
 view.remove_ads.thank_you.subtitle: 廣告已被移除
-view.remove_ads.error.store_problem: There was a problem with the store.
+view.remove_ads.error.store_problem: 商店出現了問題。
 view.remove_ads.error.try_again_later: 請稍後再試
 view.remove_ads.error.purchase_not_allowed: 不允許該設備或用戶進行購買。
 view.remove_ads.error.purchase_invalid: 購買無效
