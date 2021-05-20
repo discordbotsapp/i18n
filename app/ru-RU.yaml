@@ -1,64 +1,64 @@
 ---
-global.title: Боты Discord
-global.navbar.explore: исследовать
+global.title: Discord Bots
+global.navbar.explore: Исследовать
 global.navbar.top_charts: Лучшее
 global.navbar.account: Аккаунт
-global.app_bar.explore: исследовать
+global.app_bar.explore: Исследовать
 global.app_bar.top_charts: Лучшее
 global.app_bar.account: Аккаунт
-global.app_bar.login: Зарегистрироваться 
+global.app_bar.login: Войти
 global.app_bar.settings: Настройки
 global.app_bar.language: Язык
-global.app_bar.report: 'Жалоба'
+global.app_bar.report: 'Пожаловаться на {}'
 global.app_bar.categories: Категории
 global.app_bar.remove_ads: Убрать рекламу
 global.tag.music: Музыка
-global.tag.pokemon: Покемоны #KEEP AS IS
-global.tag.soundboard: Музыка
+global.tag.pokemon: Pokemon #KEEP AS IS
+global.tag.soundboard: Soundboard
 global.tag.moderation: Модерация
-global.tag.minecraft: Майнкрафт #KEEP AS IS
-global.tag.trivia: Пустяки
-global.tag.fortnite: Фортнайт #KEEP AS IS
-global.tag.spotify: Спотифай #KEEP AS IS
-global.tag.social: Социальная
-global.tag.fun: веселье
+global.tag.minecraft: Minecraft #KEEP AS IS
+global.tag.trivia: Викторина
+global.tag.fortnite: Fortnite #KEEP AS IS
+global.tag.spotify: Spotify #KEEP AS IS
+global.tag.social: Социальные
+global.tag.fun: Развлечение
 global.tag.economy: Экономика
 global.tag.anime: Аниме #KEEP AS IS
 global.tag.game: Игра
 global.tag.meme: Мемы
-global.tag.leveling: Уровень
+global.tag.leveling: Уровни
 global.tag.roleplay: Ролевая игра
 global.tag.logging: Логгинг
-global.tag.utility: полезность 
-global.tag.reddit: ' Реддит ' #KEEP AS IS
-global.tag.multipurpose: Мульти
-global.tag.twitch: Твитч #KEEP AS IS
-global.tag.crypto: Крипто #KEEP AS IS
+global.tag.utility: Утилита
+global.tag.reddit: Reddit #KEEP AS IS
+global.tag.multipurpose: Многофункциональный
+global.tag.twitch: Twitch #KEEP AS IS
+global.tag.crypto: Криптовалюта #KEEP AS IS
 global.tag.top_charts: Лучшее
-global.footer.contact: 'Напишите'
-global.footer.info: диссонанс ботов приложение не связан с Discord или любой из списков ботов Discord поддерживается
-global.login_alert.title: Зарегистрироваться 
-global.login_alert.cancel.button: Отменить
-global.login_alert.login.button: Зарегистрироваться 
-global.rate_dialog.title: Дискорд боты
-global.rate_dialog.subtitle: Если вам нравится это приложение потратите немного времени чтобы оценить нас, это очень поможет нам, это займёт не больше одной минуты. 
-global.rate_dialog.button.rate: Оцените
-global.rate_dialog.button.no_thanks: Нет, спасибо 
-global.rate_dialog.button.maybe_later: Возможно позже 
-view.bot.add.button: Добавить
-view.bot.chip.prefix: 'Префикс: {} '
+global.footer.contact: 'Напишите: support@discordbots.app'
+global.footer.info: Discord Bots App не связан с Discord или любым из списков ботов.
+global.login_alert.title: Войти
+global.login_alert.cancel.button: Отмена
+global.login_alert.login.button: Войти
+global.rate_dialog.title: Оценить Discord Bots
+global.rate_dialog.subtitle: Если вам нравится это приложение, пожалуйста, потратите немного времени чтобы оценить нас, это очень поможет нам, это займёт не более одной минуты.
+global.rate_dialog.button.rate: ОЦЕНИТЬ
+global.rate_dialog.button.no_thanks: НЕТ, СПАСИБО
+global.rate_dialog.button.maybe_later: ПОЗЖЕ
+view.bot.add.button: ДОБАВИТЬ
+view.bot.chip.prefix: 'Префикс: {}'
 view.bot.chip.servers: '{} серверов'
-view.bot.chip.server: '{} серверов'
-view.bot.chip.votes: '{} Голосов'
-view.bot.chip.vote: '{} Голосов '
-view.bot.menu.report: Жалоба
+view.bot.chip.server: '{} сервер'
+view.bot.chip.votes: '{} голосов'
+view.bot.chip.vote: '{} голос'
+view.bot.menu.report: Пожаловаться
 view.bot.menu.copy_id: Скопируйте айди
 view.bot.menu.copy_id.snack_bar: ID {} скопирован
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Отменить
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
+view.bot.menu.hide: Скрыть
+view.bot.menu.hide.alert_dialog.title: Скрыть {}
+view.bot.menu.hide.alert_dialog.text: 'Вы уверены, что хотите скрыть {}?'
+view.bot.menu.hide.alert_dialog.cancel.button: Отмена
+view.bot.menu.hide.alert_dialog.yes.button: 'Да'
 view.bot.website.button: Сайт
 view.bot.support_server.button: Сервер поддержки
 view.bot.vote.button: Проголосовать
@@ -75,11 +75,11 @@ view.report.additional_information.empty: Пожалуйста, выберите
 view.report.submit.button: Отправить
 view.report.report_reason.dropdown.option1: Неприемлемое/NSFW содержание
 view.report.report_reason.dropdown.option2: Оффлайн длительное время
-view.report.report_reason.dropdown.option3: Misleading features and description
+view.report.report_reason.dropdown.option3: Заблуждающие особенности и описание
 view.report.report_reason.dropdown.option4: Бот не работает
 view.report.report_reason.dropdown.option5: Ссылка приглашения не работает
 view.report.report_reanos.dropdown.option6: Другая причина
-view.explore.title: исследовать
+view.explore.title: Исследовать
 view.explore.featured.title: Рекомендуемые
 view.explore.featured.subtitle: Лучшие боты, верифицированные Discord
 view.explore.trending.title: Популярное
@@ -98,9 +98,9 @@ view.explore.footer.privacy_policy.button: Политика конфиденци
 view.top_charts.most_votes: Большинство голосов
 view.top_charts.most_servers: Большинство серверов
 view.top_charts.bot.subtitle.servers.plural: '{} серверов'
-view.top_charts.bot.subtitle.votes.plural: '{} Голосов'
-view.top_charts.bot.subtitle.servers.singular: '{} серверов'
-view.top_charts.bot.subtitle.votes.singular: '{} Голосов '
+view.top_charts.bot.subtitle.votes.plural: '{} голосов'
+view.top_charts.bot.subtitle.servers.singular: '{} сервер'
+view.top_charts.bot.subtitle.votes.singular: '{} голос'
 view.account.login.guest: Гость
 view.account.login.button: Войти через Discord
 view.account.login.error: Возникла ошибка при входе. Пожалуйста, попробуйте ещё раз.
@@ -115,70 +115,70 @@ view.my_bots.subtitle: Боты, принадлежащие Вам. Вы мож�
 view.my_bots.none: Вы не владеете ботами
 view.favorites.title: Избранное
 view.favorites.subtitle: Добавьте бота в избранное, нажав на кнопку сердца на странице бота
-view.favorites.none: You do not have any favorites
+view.favorites.none: У Вас нет избранных
 view.add_bot.title: Добавить бота
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
+view.add_bot.subtitle: Добавьте своего бота в список сторонних ботов, чтобы автоматически добавить его в приложение.
+view.add_bot.note: 'Примечание: Ваш бот может появиться не сразу в приложении после добавления его в другой список ботов.'
+view.settings.theme.title: Тема
+view.settings.theme.system.radio: Выбор системы
+view.settings.theme.dark.radio: Тёмная
+view.settings.theme.light.radio: Светлая
 view.settings.language.title: Язык
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
+view.settings.language.placeholder: Выберите язык
+view.settings.support.title: Поддержка
 view.settings.support.support_server.button: Сервер поддержки
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Сообщить об ошибке
 view.settings.account.title: Аккаунт
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Отменить
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Отменить
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
-view.settings.info.title: Info
+view.settings.account.log_out.button: Выйти
+view.settings.account.log_out.alert_dialog.title: Выйти
+view.settings.account.log_out.alert_dialog.text: Вы уверены, что хотите выйти?
+view.settings.account.log_out.alert_dialog.cancel.button: Отмена
+view.settings.account.log_out.alert_dialog.log_out.button: Выйти
+view.settings.account.delete_account.button: Удалить аккаунт
+view.settings.account.delete_account.alert_dialog.title: Удалить аккаунт
+view.settings.account.delete_account.alert_dialog.text: Вы уверены, что хотите удалить Ваш аккаунт? Действие нельзя отменить.
+view.settings.account.delete_account.alert_dialog.cancel.button: Отмена
+view.settings.account.delete_account.alert_dialog.yes.button: 'Да'
+view.settings.info.title: Информация
 view.settings.info.about.button: О нас
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Все права защищены.
 view.settings.info.privacy_policy.button: Политика конфиденциальности
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.under_maintenance.title: Технические работы
+view.under_maintenance.subtitle: В настоящее время в приложении ведутся технические работы и скоро оно будет работать. Пожалуйста, проверьте сервер поддержки на наличие обновлений.
+view.under_maintenance.retry.button: Повторить
 view.under_maintenance.support_server.button: Сервер поддержки
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
-view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
-view.welcome.title: Боты Discord
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.no_internet.title: Нет соединения с Интернетом
+view.no_internet.subtitle: Нет подключения в Интернет. Пожалуйста, проверьте соединение и повторите ещё раз
+view.no_internet.retry: Повторить
+view.bot.reported.title: Отправлена жалоба на {}
+view.bot.reported.subtitle: 'Вы успешно пожаловались на {} по следующей причине:'
+view.bot.reported.button.okay: Окей
+view.user.bots: Боты
+view.search.hint: Поиск...
+view.search.title: Поиск
+view.search.subtitle.noQuery: Поиск бота...
+view.search.subtitle.query: Показаны результаты поиска для {}
+view.search.none: Поиск не дал результатов
+view.welcome.title: Discord Bots
+view.welcome.subtitle: Посмотрите {}+ Discord ботов! Начните со входа в Ваш Discord аккаунт.
 view.welcome.login.button: Войти через Discord
-view.welcome.skip.button: Skip for Now
+view.welcome.skip.button: Пропустить в этот раз
 view.remove_ads.title: Убрать рекламу
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
+view.remove_ads.subtitle: Убирает всю рекламу из приложения
+view.remove_ads.error.load_product: Неизвестная ошибка произошла во время загрузки продукта.
+view.remove_ads.error.verify_purchase: Неизвестная ошибка произошла во время подтверждения покупки.
+view.remove_ads.error.try_again: Пожалуйста, повторите позднее или вступите в сервер поддержки.
+view.remove_ads.error.join_server: Пожалуйста, вступите в сервер поддержки.
+view.remove_ads.purchase: Приобрести
+view.remove_ads.thank_you.title: Спасибо за покупку
+view.remove_ads.thank_you.subtitle: Вся реклама была убрана
+view.remove_ads.error.store_problem: Возникла проблема с магазином.
+view.remove_ads.error.try_again_later: Пожалуйста, попробуйте позднее.
+view.remove_ads.error.purchase_not_allowed: Устройство или пользователь не имеет права совершать покупку.
+view.remove_ads.error.purchase_invalid: Покупка недействительна.
+view.remove_ads.error.purchase_in_progress: Покупка в процессе. Пожалуйста, будьте терпеливы.
+view.remove_ads.error.product_already_purchased: Этот продукт уже был приобретён.
 view.remove_ads.error.unknown_error: 'Произошла неизвестная ошибка: {}.'
 view.remove_ads.error.title: Произошла ошибка
 view.remove_ads.button.join_server: Присоединиться к серверу поддержки
-view.remove_ads.button.okay: Okay
+view.remove_ads.button.okay: Окей
