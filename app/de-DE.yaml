@@ -1,34 +1,34 @@
 ---
 global.title: Discord Bots
-global.navbar.explore: Explore
+global.navbar.explore: Erkunden
 global.navbar.top_charts: Top Charts
 global.navbar.account: Account
-global.app_bar.explore: Explore
+global.app_bar.explore: Erkunden
 global.app_bar.top_charts: Top Charts
 global.app_bar.account: Account
-global.app_bar.login: Login
-global.app_bar.settings: Settings
-global.app_bar.language: Language
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
+global.app_bar.login: Anmelden
+global.app_bar.settings: Einstellungen
+global.app_bar.language: Sprache
+global.app_bar.report: 'Melden {}'
+global.app_bar.categories: Kategorien
 global.app_bar.remove_ads: Remove Ads
-global.tag.music: Music
+global.tag.music: Musik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
 global.tag.moderation: Moderation
 global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
+global.tag.trivia: Wissenswerte
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.social: Soziale Medien
+global.tag.fun: Spaß
+global.tag.economy: Wirtschaft
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
+global.tag.game: Spiel
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
+global.tag.leveling: Leveln
+global.tag.roleplay: Rollenspiel
+global.tag.logging: Protokollierung
 global.tag.utility: Utility
 global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Multipurpose
@@ -37,9 +37,9 @@ global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Top Charts
 global.footer.contact: 'Contact: support@discordbots.app'
 global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Login
+global.login_alert.title: Anmelden
 global.login_alert.cancel.button: Cancel
-global.login_alert.login.button: Login
+global.login_alert.login.button: Anmelden
 global.rate_dialog.title: Rate Discord Bots
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
@@ -79,7 +79,7 @@ view.report.report_reason.dropdown.option3: Misleading features and description
 view.report.report_reason.dropdown.option4: Bot does not work
 view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: Other reason
-view.explore.title: Explore
+view.explore.title: Erkunden
 view.explore.featured.title: Featured
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
@@ -109,7 +109,7 @@ view.account.my_bots.button: My Bots
 view.account.favorites.button: Favorites
 view.account.add_bot.button: Add Bot
 view.account.remove_ads.button: Remove Ads
-view.account.settings.button: Settings
+view.account.settings.button: Einstellungen
 view.my_bots.title: My Bots
 view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
 view.my_bots.none: You do not own any bots
@@ -123,7 +123,7 @@ view.settings.theme.title: Theme
 view.settings.theme.system.radio: System
 view.settings.theme.dark.radio: Dark
 view.settings.theme.light.radio: Light
-view.settings.language.title: Language
+view.settings.language.title: Sprache
 view.settings.language.placeholder: Choose a language
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
