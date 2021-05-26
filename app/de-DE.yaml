@@ -129,42 +129,42 @@ view.settings.support.title: Unterstützung
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Melden sie einen Fehler
 view.settings.account.title: Account
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Ausloggen
+view.settings.account.log_out.alert_dialog.title: Ausloggen
+view.settings.account.log_out.alert_dialog.text: Wollen sie sich wirklich abmelden?
 view.settings.account.log_out.alert_dialog.cancel.button: Abbruch
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.log_out.alert_dialog.log_out.button: Ausloggen
+view.settings.account.delete_account.button: Account Löschen
+view.settings.account.delete_account.alert_dialog.title: Account Löschen
+view.settings.account.delete_account.alert_dialog.text: Sind Sie sicher, dass Sie diesen Account löschen wollen? Diese Aktion kann nicht rückgängig gemacht werden.
 view.settings.account.delete_account.alert_dialog.cancel.button: Abbruch
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
-view.settings.info.title: Info
+view.settings.info.title: Informationen
 view.settings.info.about.button: Über
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Urheberrecht © 2020 Softorino. Alle Rechte vorbehalten.
 view.settings.info.privacy_policy.button: Datenschutz-Bestimmungen
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.under_maintenance.title: Wartungsarbeiten
+view.under_maintenance.subtitle: Die App wird derzeit gewartet und wird bald wieder verfügbar sein. Bitte überprüfen Sie den Support-Server auf Updates.
+view.under_maintenance.retry.button: Erneut versuchen
 view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
+view.no_internet.title: Keine Internetverbindung
+view.no_internet.subtitle: Keine Internetverbidnung. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut
+view.no_internet.retry: Erneut versuchen
+view.bot.reported.title: Gemeldet {}
+view.bot.reported.subtitle: 'Sie haben {} aus folgendem Grund erfolgreich gemeldet:'
 view.bot.reported.button.okay: Okay
 view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.search.hint: Suchen...
+view.search.title: Suchen
+view.search.subtitle.noQuery: Suche für einen Bot...
+view.search.subtitle.query: Zeige Suchergebnisse für {}
+view.search.none: Keine Ergebnisse Gefunden
 view.welcome.title: Discord Bots
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.welcome.subtitle: Durchsuche {}+ Discord Bots! Starte mit deinem Discord Account.
 view.welcome.login.button: Anmelden mit Discord
-view.welcome.skip.button: Skip for Now
+view.welcome.skip.button: Erst einmal überspringen
 view.remove_ads.title: Werbung entfernen
-view.remove_ads.subtitle: Removes all ads from the app
+view.remove_ads.subtitle: Entfernen sie die Werbung von der App
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Please try again later or join the support server.
