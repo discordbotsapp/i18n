@@ -165,20 +165,20 @@ view.welcome.login.button: Anmelden mit Discord
 view.welcome.skip.button: Erst einmal überspringen
 view.remove_ads.title: Werbung entfernen
 view.remove_ads.subtitle: Entfernen sie die Werbung von der App
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.error.load_product: Beim Laden des Produktes ist ein Fehler aufgetreten.
+view.remove_ads.error.verify_purchase: Beim Verifizieren des Kaufs ist ein Fehler aufgetreten.
+view.remove_ads.error.try_again: Bitte versuchen Sie es später noch einmal oder treten Sie dem Support-Server bei.
+view.remove_ads.error.join_server: Bitte treten Sie dem Support-Server bei.
+view.remove_ads.purchase: Kaufen
+view.remove_ads.thank_you.title: Danke für Ihren Einkauf
+view.remove_ads.thank_you.subtitle: Alle Anzeigen wurden entfernt
+view.remove_ads.error.store_problem: Es gab ein Problem im Shop.
+view.remove_ads.error.try_again_later: Bitte versuche es später erneut.
+view.remove_ads.error.purchase_not_allowed: Dieser Gerät oder Benutzer darf den Kauf nicht tätigen.
+view.remove_ads.error.purchase_invalid: Der Kauf ist ungültig.
+view.remove_ads.error.purchase_in_progress: Dieser Kauf ist bereits im Gange. Bitte haben Sie Geduld.
+view.remove_ads.error.product_already_purchased: Dieses Produkt wurde bereits gekauft.
+view.remove_ads.error.unknown_error: 'Ein unbekannter Fehler ist aufgetreten: {}.'
+view.remove_ads.error.title: Ein Fehler ist aufgetreten
+view.remove_ads.button.join_server: Trete unserem Support Server bei
 view.remove_ads.button.okay: Okay
