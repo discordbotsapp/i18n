@@ -53,19 +53,19 @@ view.bot.chip.votes: 'Seks ding'
 view.bot.chip.vote: 'Baby'
 view.bot.menu.report: Verslag
 view.bot.menu.copy_id: Kopieer
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
+view.bot.menu.copy_id.snack_bar: '{}''s ID gekopieerd'
+view.bot.menu.hide: Verberg
+view.bot.menu.hide.alert_dialog.title: Verberg {}
+view.bot.menu.hide.alert_dialog.text: 'Weet je zeker dat je %@ wilt negeren?'
 view.bot.menu.hide.alert_dialog.cancel.button: Miauwt
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
+view.bot.menu.hide.alert_dialog.yes.button: 'Varianten'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
 view.bot.vote.button: Vote
 view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
 view.bot.report.login_alert: You must be logged in to report this bot.
 view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
+view.bot.copy.snackbar: '{}''s ID gekopieerd'
 view.report.report_reason.title: Reason for Reporting
 view.report.report_reason.hint: Select a reason
 view.report.report_reason.empty: Please select a reason
@@ -138,7 +138,7 @@ view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: Miauwt
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
+view.settings.account.delete_account.alert_dialog.yes.button: 'Varianten'
 view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
