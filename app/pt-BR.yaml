@@ -1,10 +1,10 @@
 ---
 global.title: Bots do Discord
 global.navbar.explore: Descobrir
-global.navbar.top_charts: Top Charts
+global.navbar.top_charts: Principais gráficos
 global.navbar.account: Conta
 global.app_bar.explore: Descobrir
-global.app_bar.top_charts: Top Charts
+global.app_bar.top_charts: Principais gráficos
 global.app_bar.account: Conta
 global.app_bar.login: Entrar
 global.app_bar.settings: Configurações
@@ -17,24 +17,24 @@ global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Soundboard
 global.tag.moderation: Moderação
 global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
+global.tag.trivia: Trívia
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
+global.tag.social: Socialização
 global.tag.fun: Diversão
 global.tag.economy: Economia
 global.tag.anime: Anime #KEEP AS IS
 global.tag.game: Jogos
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
+global.tag.leveling: Nivelamento
+global.tag.roleplay: Habilitação
+global.tag.logging: Registrando
 global.tag.utility: Utilidade
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Multi-propósito
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
+global.tag.top_charts: Principais gráficos
 global.footer.contact: 'Contato: support@discordbots.app'
 global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Entrar
