@@ -11,7 +11,7 @@ global.app_bar.settings: Setări
 global.app_bar.language: Limbă
 global.app_bar.report: 'Raportează {}'
 global.app_bar.categories: Categorii
-global.app_bar.remove_ads: Remove Ads
+global.app_bar.remove_ads: Elimină reclamele
 global.tag.music: Muzică
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Panou audio
@@ -56,69 +56,69 @@ view.bot.menu.copy_id: Copiază ID
 view.bot.menu.copy_id.snack_bar: A fost copiat id-ul lui {}
 view.bot.menu.hide: Ascunde
 view.bot.menu.hide.alert_dialog.title: Ascunde {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
+view.bot.menu.hide.alert_dialog.text: 'Sunteţi sigur că doriţi să ascundeţi {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Anulează
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
+view.bot.menu.hide.alert_dialog.yes.button: 'Da'
+view.bot.website.button: Site web
+view.bot.support_server.button: Server de asistență
+view.bot.vote.button: Votează
+view.bot.favorite.login_alert: Trebuie să fii autentificat pentru a adăuga acest bot la favorite.
+view.bot.report.login_alert: Trebuie să fii autentificat pentru a raporta acest bot.
+view.bot.hide.login_alert: Trebuie să fii autentificat pentru a ascunde acest bot.
 view.bot.copy.snackbar: A fost copiat id-ul lui {}
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reason.title: Motivul raportării
+view.report.report_reason.hint: Alege un motiv
+view.report.report_reason.empty: Vă rugăm să selectați un motiv
+view.report.additional_information.title: Informaţii suplimentare
+view.report.additional_information.hint: Introduceți detaliile suplimentare aici...
+view.report.additional_information.empty: Vă rugăm să selectați un motiv
+view.report.submit.button: Trimite
+view.report.report_reason.dropdown.option1: Conținut Innapropriat/NSFW
+view.report.report_reason.dropdown.option2: Offline pentru o lungă perioadă de timp
+view.report.report_reason.dropdown.option3: Caracteristici înșelătoare și descriere
+view.report.report_reason.dropdown.option4: Nu funcţionează
+view.report.report_reason.dropdown.option5: Link-ul de invitație nu funcționează
+view.report.report_reanos.dropdown.option6: Alt motiv
 view.explore.title: Explorează
-view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
-view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.see_all.button: See All
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Support Server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.about.button: About
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.explore.featured.title: Recomandat
+view.explore.featured.subtitle: Boți de top care au fost verificați de Discord
+view.explore.trending.title: În tendințe
+view.explore.trending.subtitle: Roboți noi care câștigă tractiune rapid
+view.explore.new.title: Nou
+view.explore.new.subtitle: Boți adăugați recent
+view.explore.most_voted.title: Cei mai votați
+view.explore.most_voted.subtitle: Boți cu cele mai multe voturi în această lună
+view.explore.see_all.button: Vezi tot
+view.explore.categories.title: Explorează Categorii
+view.explore.category.subtitle: Boți în categoria {}
+view.explore.footer.support_server.button: Server de asistență
+view.explore.footer.bug_report.button: Raportează un bug
+view.explore.footer.about.button: Despre
+view.explore.footer.privacy_policy.button: Politică de Confidenţialitate
+view.top_charts.most_votes: Cele mai multe voturi
+view.top_charts.most_servers: Majoritatea serverelor
 view.top_charts.bot.subtitle.servers.plural: '{} servere'
 view.top_charts.bot.subtitle.votes.plural: '{} voturi'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
 view.top_charts.bot.subtitle.votes.singular: '{} vot'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
+view.account.login.guest: Vizitator
+view.account.login.button: Conectează-te cu Discord
+view.account.login.error: A apărut o eroare la autentificare. Te rugăm să încerci din nou.
+view.account.login.error.button: Mergi înapoi la autentificare
+view.account.my_bots.button: Boții mei
+view.account.favorites.button: Favorite
+view.account.add_bot.button: Adaugă bot
+view.account.remove_ads.button: Elimină reclamele
 view.account.settings.button: Setări
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
-view.add_bot.title: Add Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
+view.my_bots.title: Boții mei
+view.my_bots.subtitle: Bori deținuți de tine. Puteți adăuga propriul robot făcând clic pe butonul Adaugă bot-ul în pagina contului. #Keep capitalization consistent
+view.my_bots.none: Nu deții niciun bot
+view.favorites.title: Favorite
+view.favorites.subtitle: Adaugă roboții tăi favoriți aici făcând clic pe butonul inima de pe pagina unui bot
+view.favorites.none: Nu ai nici un favorit
+view.add_bot.title: Adaugă bot
+view.add_bot.subtitle: Adaugă botul tău la o listă de roboți terți pentru a-l adăuga automat în aplicație.
+view.add_bot.note: 'Notă: bot-ul tău nu poate apărea instantaneu în aplicație după ce l-a adăugat la o altă listă de roboți.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistem
 view.settings.theme.dark.radio: Întunecat
@@ -126,7 +126,7 @@ view.settings.theme.light.radio: Luminos
 view.settings.language.title: Limbă
 view.settings.language.placeholder: Alege o limbă
 view.settings.support.title: Asistență
-view.settings.support.support_server.button: Support Server
+view.settings.support.support_server.button: Server de asistență
 view.settings.support.report_a_bug.button: Raportați o problemă
 view.settings.account.title: Cont
 view.settings.account.log_out.button: Deconectare
@@ -138,15 +138,15 @@ view.settings.account.delete_account.button: Șterge Contul
 view.settings.account.delete_account.alert_dialog.title: Șterge Contul
 view.settings.account.delete_account.alert_dialog.text: Ești sigur că vrei să ștergi acest cont? Această acțiune nu poate fi anulată.
 view.settings.account.delete_account.alert_dialog.cancel.button: Anulează
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
+view.settings.account.delete_account.alert_dialog.yes.button: 'Da'
 view.settings.info.title: Informații
-view.settings.info.about.button: About
+view.settings.info.about.button: Despre
 view.settings.info.about.popup.legalese: Drepturi de autor © 2020 Tetracyl. Toate drepturile rezervate.
-view.settings.info.privacy_policy.button: Privacy Policy
+view.settings.info.privacy_policy.button: Politică de Confidenţialitate
 view.under_maintenance.title: Sub mentenanță
 view.under_maintenance.subtitle: Aplicația este în curs de mentenanță și va reveni în curând. Vă rugăm să verificați serverul de asistență pentru actualizări.
 view.under_maintenance.retry.button: Reîncercați
-view.under_maintenance.support_server.button: Support Server
+view.under_maintenance.support_server.button: Server de asistență
 view.no_internet.title: Nu există conexiune la internet
 view.no_internet.subtitle: Nu s-a găsit nicio conexiune la internet. Verificați conexiunea și apoi încercați din nou
 view.no_internet.retry: Reîncercați
@@ -161,9 +161,9 @@ view.search.subtitle.query: Rezultatele căutării pentru {}
 view.search.none: Nu Au Fost Gasite Rezultate
 view.welcome.title: Boți Discord
 view.welcome.subtitle: Navighează prin {}+ boti pentru discord! Începe conectându-te cu contul tău Discord.
-view.welcome.login.button: Login with Discord
+view.welcome.login.button: Conectează-te cu Discord
 view.welcome.skip.button: Omite pentru moment
-view.remove_ads.title: Remove Ads
+view.remove_ads.title: Elimină reclamele
 view.remove_ads.subtitle: Elimină toate reclamele din aplicație
 view.remove_ads.error.load_product: A aparut o eroare necunoscuta la incarcarea produsului.
 view.remove_ads.error.verify_purchase: A apărut o eroare necunoscută la verificarea achiziției.
