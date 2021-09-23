@@ -13,7 +13,7 @@ global.app_bar.report: 'Пожаловаться на {}'
 global.app_bar.categories: Категории
 global.app_bar.remove_ads: Убрать рекламу
 global.tag.music: Музыка
-global.tag.pokemon: Pokemon #KEEP AS IS
+global.tag.pokemon: Покемон #KEEP AS IS
 global.tag.soundboard: Soundboard
 global.tag.moderation: Модерация
 global.tag.minecraft: Minecraft #KEEP AS IS
@@ -28,7 +28,7 @@ global.tag.game: Игра
 global.tag.meme: Мемы
 global.tag.leveling: Уровни
 global.tag.roleplay: Ролевая игра
-global.tag.logging: Логгинг
+global.tag.logging: Логирование
 global.tag.utility: Утилита
 global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Многофункциональный
@@ -63,7 +63,7 @@ view.bot.website.button: Сайт
 view.bot.support_server.button: Сервер поддержки
 view.bot.vote.button: Проголосовать
 view.bot.favorite.login_alert: Вы должны войти, чтобы добавить бота в избранное.
-view.bot.report.login_alert: Вы должны войти, чтобы зарепортить бота.
+view.bot.report.login_alert: Вы должны войти, чтобы подать жалобу на бота.
 view.bot.hide.login_alert: Вы должны войти, чтобы скрыть бота.
 view.bot.copy.snackbar: ID {} скопирован
 view.report.report_reason.title: Причина жалобы
@@ -104,7 +104,7 @@ view.top_charts.bot.subtitle.votes.singular: '{} голос'
 view.account.login.guest: Гость
 view.account.login.button: Войти через Discord
 view.account.login.error: Возникла ошибка при входе. Пожалуйста, попробуйте ещё раз.
-view.account.login.error.button: На страницу входа
+view.account.login.error.button: Вернуться на страницу входа
 view.account.my_bots.button: Мои боты
 view.account.favorites.button: Избранное
 view.account.add_bot.button: Добавить бота
@@ -120,7 +120,7 @@ view.add_bot.title: Добавить бота
 view.add_bot.subtitle: Добавьте своего бота в список сторонних ботов, чтобы автоматически добавить его в приложение.
 view.add_bot.note: 'Примечание: Ваш бот может появиться не сразу в приложении после добавления его в другой список ботов.'
 view.settings.theme.title: Тема
-view.settings.theme.system.radio: Выбор системы
+view.settings.theme.system.radio: Системная
 view.settings.theme.dark.radio: Тёмная
 view.settings.theme.light.radio: Светлая
 view.settings.language.title: Язык
@@ -148,7 +148,7 @@ view.under_maintenance.subtitle: В настоящее время в прило�
 view.under_maintenance.retry.button: Повторить
 view.under_maintenance.support_server.button: Сервер поддержки
 view.no_internet.title: Нет соединения с Интернетом
-view.no_internet.subtitle: Нет подключения в Интернет. Пожалуйста, проверьте соединение и повторите ещё раз
+view.no_internet.subtitle: Нет подключения к Интернету. Пожалуйста, проверьте соединение и повторите ещё раз
 view.no_internet.retry: Повторить
 view.bot.reported.title: Отправлена жалоба на {}
 view.bot.reported.subtitle: 'Вы успешно пожаловались на {} по следующей причине:'
@@ -162,7 +162,7 @@ view.search.none: Поиск не дал результатов
 view.welcome.title: Discord Bots
 view.welcome.subtitle: Посмотрите {}+ Discord ботов! Начните со входа в Ваш Discord аккаунт.
 view.welcome.login.button: Войти через Discord
-view.welcome.skip.button: Пропустить в этот раз
+view.welcome.skip.button: Пропустить сейчас
 view.remove_ads.title: Убрать рекламу
 view.remove_ads.subtitle: Убирает всю рекламу из приложения
 view.remove_ads.error.load_product: Неизвестная ошибка произошла во время загрузки продукта.
