@@ -168,8 +168,8 @@ view.remove_ads.subtitle: Убирает всю рекламу из прилож
 view.remove_ads.error.load_product: Неизвестная ошибка произошла во время загрузки продукта.
 view.remove_ads.error.verify_purchase: Неизвестная ошибка произошла во время подтверждения покупки.
 view.remove_ads.error.try_again: Пожалуйста, повторите позднее или вступите в сервер поддержки.
-view.remove_ads.error.join_server: Пожалуйста, вступите в сервер поддержки.
-view.remove_ads.purchase: Приобрести
+view.remove_ads.error.join_server: Пожалуйста, вступите на сервер поддержки.
+view.remove_ads.purchase: Купить
 view.remove_ads.thank_you.title: Спасибо за покупку
 view.remove_ads.thank_you.subtitle: Вся реклама была убрана
 view.remove_ads.error.store_problem: Возникла проблема с магазином.
