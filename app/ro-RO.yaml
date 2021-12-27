@@ -88,6 +88,8 @@ view.explore.new.title: Nou
 view.explore.new.subtitle: Boți adăugați recent
 view.explore.most_voted.title: Cei mai votați
 view.explore.most_voted.subtitle: Boți cu cele mai multe voturi în această lună
+view.explore.most_popular.title: Most Popular
+view.explore.most_popular.subtitle: Bots in this most servers
 view.explore.see_all.button: Vezi tot
 view.explore.categories.title: Explorează Categorii
 view.explore.category.subtitle: Boți în categoria {}
