@@ -88,6 +88,8 @@ view.explore.new.title: Neu
 view.explore.new.subtitle: Kürzlich hinzugefügte Bots
 view.explore.most_voted.title: Am meisten gewählt
 view.explore.most_voted.subtitle: Bots mit den meisten Stimmen in diesem Monat
+view.explore.most_popular.title: Most Popular
+view.explore.most_popular.subtitle: Bots in this most servers
 view.explore.see_all.button: Alle sehen
 view.explore.categories.title: Erkunde die Kategororien
 view.explore.category.subtitle: Bots in der Kategorie {}

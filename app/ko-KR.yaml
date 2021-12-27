@@ -88,6 +88,8 @@ view.explore.new.title: 신규
 view.explore.new.subtitle: 최근에 추가된 봇을 만나보세요
 view.explore.most_voted.title: 최다 득표
 view.explore.most_voted.subtitle: 이번 달에 표를 많이 받은 봇을 만나보세요
+view.explore.most_popular.title: Most Popular
+view.explore.most_popular.subtitle: Bots in this most servers
 view.explore.see_all.button: 모두 보기
 view.explore.categories.title: 카테고리 탐색하기
 view.explore.category.subtitle: '{} 카테고리에 있는 봇을 만나보세요'
