@@ -88,8 +88,8 @@ view.explore.new.title: Καινούρια
 view.explore.new.subtitle: Bot που προστέθηκαν πρόσφατα
 view.explore.most_voted.title: Περισσότερες Ψήφοι
 view.explore.most_voted.subtitle: Bots με τις περισσότερες ψήφους αυτό το μήνα
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in this most servers
+view.explore.most_popular.title: Τα πιο δημοφιλή
+view.explore.most_popular.subtitle: Bot στους περισσότερους διακομιστές
 view.explore.see_all.button: Προβολή όλων
 view.explore.categories.title: Κατηγορίες
 view.explore.category.subtitle: Bot στην κατηγορία {}
