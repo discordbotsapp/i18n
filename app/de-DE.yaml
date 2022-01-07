@@ -1,9 +1,9 @@
 ---
-global.title: Discord Bots
-global.navbar.explore: Erkunden
+global.title: Suche Discord Bots
+global.navbar.explore: Entdecken
 global.navbar.top_charts: Top Charts
 global.navbar.account: Account
-global.app_bar.explore: Erkunden
+global.app_bar.explore: Entdecken
 global.app_bar.top_charts: Top Charts
 global.app_bar.account: Account
 global.app_bar.login: Anmelden
@@ -79,7 +79,7 @@ view.report.report_reason.dropdown.option3: Irreführende Merkmale und Beschreib
 view.report.report_reason.dropdown.option4: Bot funktioniert nicht
 view.report.report_reason.dropdown.option5: Einladungslink funktioniert nicht
 view.report.report_reanos.dropdown.option6: Andere Gründe
-view.explore.title: Erkunden
+view.explore.title: Entdecken
 view.explore.featured.title: Vorgestellt
 view.explore.featured.subtitle: Erstklassige Bots, die von Discord verifiziert wurden
 view.explore.trending.title: Beliebt
@@ -88,8 +88,8 @@ view.explore.new.title: Neu
 view.explore.new.subtitle: Kürzlich hinzugefügte Bots
 view.explore.most_voted.title: Am meisten gewählt
 view.explore.most_voted.subtitle: Bots mit den meisten Stimmen in diesem Monat
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in this most servers
+view.explore.most_popular.title: Am Beliebtesten
+view.explore.most_popular.subtitle: Bots in den meisten Servern
 view.explore.see_all.button: Alle sehen
 view.explore.categories.title: Erkunde die Kategororien
 view.explore.category.subtitle: Bots in der Kategorie {}
@@ -161,7 +161,7 @@ view.search.title: Suchen
 view.search.subtitle.noQuery: Suche für einen Bot...
 view.search.subtitle.query: Zeige Suchergebnisse für {}
 view.search.none: Keine Ergebnisse Gefunden
-view.welcome.title: Discord Bots
+view.welcome.title: Suche Discord Bots
 view.welcome.subtitle: Durchsuche {}+ Discord Bots! Starte mit deinem Discord Account.
 view.welcome.login.button: Anmelden mit Discord
 view.welcome.skip.button: Erst einmal überspringen
