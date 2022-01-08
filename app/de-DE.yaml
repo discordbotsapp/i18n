@@ -1,5 +1,5 @@
 ---
-global.title: Suche Discord Bots
+global.title: Discord Bots
 global.navbar.explore: Entdecken
 global.navbar.top_charts: Top Charts
 global.navbar.account: Account
@@ -26,7 +26,7 @@ global.tag.economy: Wirtschaft
 global.tag.anime: Anime #KEEP AS IS
 global.tag.game: Spiel
 global.tag.meme: Meme
-global.tag.leveling: Leveln
+global.tag.leveling: Level
 global.tag.roleplay: Rollenspiel
 global.tag.logging: Protokollierung
 global.tag.utility: Nützlichkeit
@@ -35,29 +35,29 @@ global.tag.multipurpose: Mehrzweck
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Krypto #KEEP AS IS
 global.tag.top_charts: Top Charts
-global.footer.contact: 'Kontaktdaten: support@discordbots.app'
+global.footer.contact: 'Kontakt: support@discordbots.app'
 global.footer.info: Die Discord Bots App ist nicht mit Discord oder einer der unterstützten Discord Bot-Listen verbunden.
 global.login_alert.title: Anmelden
-global.login_alert.cancel.button: Abbruch
+global.login_alert.cancel.button: Abbrechen
 global.login_alert.login.button: Anmelden
 global.rate_dialog.title: Bewerte Discord Bots
-global.rate_dialog.subtitle: Wenn Ihnen diese App gefällt, nehmen Sie sich bitte etwas Zeit, um sie zu überprüfen! Es hilft uns wirklich und sollte nicht länger als eine Minute dauern.
+global.rate_dialog.subtitle: Wenn dir diese App gefällt, nimm dir doch bitte etwas Zeit, um sie zu bewerten! Es hilft uns wirklich sehr und sollte nicht länger als eine Minute dauern.
 global.rate_dialog.button.rate: Bewerten
 global.rate_dialog.button.no_thanks: Nein Danke
-global.rate_dialog.button.maybe_later: Wahrscheinlich später
+global.rate_dialog.button.maybe_later: Vielleicht später
 view.bot.add.button: Hinzufügen
 view.bot.chip.prefix: 'Präfix: {}'
 view.bot.chip.servers: '{} Server'
 view.bot.chip.server: '{} Server'
-view.bot.chip.votes: '{} Abstimmungen'
-view.bot.chip.vote: '{} Abstimmung'
-view.bot.menu.report: Meldung
+view.bot.chip.votes: '{} Stimmen'
+view.bot.chip.vote: '{} Abstimmen'
+view.bot.menu.report: Melden
 view.bot.menu.copy_id: ID kopieren
-view.bot.menu.copy_id.snack_bar: Kopierte {}`s ID
+view.bot.menu.copy_id.snack_bar: '{}`s ID wurde kopiert'
 view.bot.menu.hide: Verstecken
-view.bot.menu.hide.alert_dialog.title: Verstecken {}
+view.bot.menu.hide.alert_dialog.title: Verstecke {}
 view.bot.menu.hide.alert_dialog.text: 'Sind sie sicher, das sie {} verstecken möchten?'
-view.bot.menu.hide.alert_dialog.cancel.button: Abbruch
+view.bot.menu.hide.alert_dialog.cancel.button: Abbrechen
 view.bot.menu.hide.alert_dialog.yes.button: 'Ja'
 view.bot.website.button: Internetseite
 view.bot.support_server.button: Support Server
@@ -65,7 +65,7 @@ view.bot.vote.button: Abstimmung
 view.bot.favorite.login_alert: Sie müssen angemeldet sein, um diesen Bot zu Ihren Favoriten hinzuzufügen.
 view.bot.report.login_alert: Sie müssen angemeldet sein, um diesen Bot zumelden.
 view.bot.hide.login_alert: Sie müssen eingeloggt sein, um den Bot zu verbergen.
-view.bot.copy.snackbar: Kopierte {}`s ID
+view.bot.copy.snackbar: '{}`s ID wurde kopiert'
 view.report.report_reason.title: Grund für die Meldung
 view.report.report_reason.hint: Wählen sie einen Grund
 view.report.report_reason.empty: Bitte wähle einen Grund
@@ -100,9 +100,9 @@ view.explore.footer.privacy_policy.button: Datenschutz-Bestimmungen
 view.top_charts.most_votes: Die meisten Stimmen
 view.top_charts.most_servers: Die meisten Server
 view.top_charts.bot.subtitle.servers.plural: '{} Server'
-view.top_charts.bot.subtitle.votes.plural: '{} Abstimmungen'
+view.top_charts.bot.subtitle.votes.plural: '{} Stimmen'
 view.top_charts.bot.subtitle.servers.singular: '{} Server'
-view.top_charts.bot.subtitle.votes.singular: '{} Abstimmung'
+view.top_charts.bot.subtitle.votes.singular: '{} Abstimmen'
 view.account.login.guest: Gast
 view.account.login.button: Anmelden mit Discord
 view.account.login.error: Beim Anmelden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.
@@ -134,12 +134,12 @@ view.settings.account.title: Account
 view.settings.account.log_out.button: Ausloggen
 view.settings.account.log_out.alert_dialog.title: Ausloggen
 view.settings.account.log_out.alert_dialog.text: Wollen sie sich wirklich abmelden?
-view.settings.account.log_out.alert_dialog.cancel.button: Abbruch
+view.settings.account.log_out.alert_dialog.cancel.button: Abbrechen
 view.settings.account.log_out.alert_dialog.log_out.button: Ausloggen
 view.settings.account.delete_account.button: Account Löschen
 view.settings.account.delete_account.alert_dialog.title: Account Löschen
 view.settings.account.delete_account.alert_dialog.text: Sind Sie sicher, dass Sie diesen Account löschen wollen? Diese Aktion kann nicht rückgängig gemacht werden.
-view.settings.account.delete_account.alert_dialog.cancel.button: Abbruch
+view.settings.account.delete_account.alert_dialog.cancel.button: Abbrechen
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
 view.settings.info.title: Informationen
 view.settings.info.about.button: Über
@@ -161,7 +161,7 @@ view.search.title: Suchen
 view.search.subtitle.noQuery: Suche für einen Bot...
 view.search.subtitle.query: Zeige Suchergebnisse für {}
 view.search.none: Keine Ergebnisse Gefunden
-view.welcome.title: Suche Discord Bots
+view.welcome.title: Discord Bots
 view.welcome.subtitle: Durchsuche {}+ Discord Bots! Starte mit deinem Discord Account.
 view.welcome.login.button: Anmelden mit Discord
 view.welcome.skip.button: Erst einmal überspringen
