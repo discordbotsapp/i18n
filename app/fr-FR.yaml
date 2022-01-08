@@ -11,7 +11,7 @@ global.app_bar.settings: Réglages
 global.app_bar.language: Langue
 global.app_bar.report: 'Signaler'
 global.app_bar.categories: Catégories
-global.app_bar.remove_ads: Remove Ads
+global.app_bar.remove_ads: Enlever la publicité
 global.tag.music: Musique
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -70,55 +70,55 @@ view.report.report_reason.title: Raison du signalement
 view.report.report_reason.hint: Choisis une raison
 view.report.report_reason.empty: Merci de choisir une raison
 view.report.additional_information.title: Informations complémentaires
-view.report.additional_information.hint: Enter additional details here...
+view.report.additional_information.hint: Entrez des détails supplémentaires ici ...
 view.report.additional_information.empty: Merci de choisir une raison
 view.report.submit.button: Envoyer
 view.report.report_reason.dropdown.option1: Contenu inapproprié/NSFW
 view.report.report_reason.dropdown.option2: Hors ligne depuis longtemps
 view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
+view.report.report_reason.dropdown.option4: Le bot ne fonctionne pas
 view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reanos.dropdown.option6: Autre raison
 view.explore.title: Explorez
-view.explore.featured.title: Featured
+view.explore.featured.title: À l'affiche
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
 view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.most_popular.title: Most Popular
+view.explore.new.title: Nouveautés
+view.explore.new.subtitle: Bots récemment ajoutés
+view.explore.most_voted.title: Les plus populaires
+view.explore.most_voted.subtitle: Bots ayant le plus de votes ce mois-ci
+view.explore.most_popular.title: Le plus populaire
 view.explore.most_popular.subtitle: Bots in this most servers
-view.explore.see_all.button: See All
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
+view.explore.see_all.button: Tout Afficher
+view.explore.categories.title: Explorer les catégories
+view.explore.category.subtitle: Bots dans la catégorie {}
 view.explore.footer.support_server.button: Support Server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.about.button: About
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.explore.footer.bug_report.button: Signaler un bogue
+view.explore.footer.about.button: À propos
+view.explore.footer.privacy_policy.button: Politique de Confidentialité
+view.top_charts.most_votes: Les plus populaires
+view.top_charts.most_servers: Sur le plus de serveurs
 view.top_charts.bot.subtitle.servers.plural: 'serveurs'
 view.top_charts.bot.subtitle.votes.plural: '{} votes'
 view.top_charts.bot.subtitle.servers.singular: '{} serveur'
 view.top_charts.bot.subtitle.votes.singular: '{} vote'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
+view.account.login.guest: Invité
+view.account.login.button: Se connecter avec Discord
+view.account.login.error: Une erreur est survenue lors de votre connexion. Veuillez réessayer.
+view.account.login.error.button: Retourner à la page de connexion
+view.account.my_bots.button: Mes Bots
+view.account.favorites.button: Favoris
+view.account.add_bot.button: Ajouter un Bot
+view.account.remove_ads.button: Enlever la publicité
 view.account.settings.button: Réglages
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
-view.add_bot.title: Add Bot
+view.my_bots.title: Mes Bots
+view.my_bots.subtitle: Les robots que vous possédez. Vous pouvez ajouter votre propre bot en cliquant sur le bouton Ajouter un bot dans la page Compte. #Keep capitalization consistent
+view.my_bots.none: Vous ne possédez aucun bot
+view.favorites.title: Favoris
+view.favorites.subtitle: Ajoutez vos robots favoris ici en cliquant sur le bouton cœur sur la page d'un bot
+view.favorites.none: Vous n’avez pas encore de favori
+view.add_bot.title: Ajouter un Bot
 view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
 view.settings.theme.title: Theme
@@ -142,9 +142,9 @@ view.settings.account.delete_account.alert_dialog.text: Are you sure you want to
 view.settings.account.delete_account.alert_dialog.cancel.button: Retour
 view.settings.account.delete_account.alert_dialog.yes.button: 'Oui'
 view.settings.info.title: Info
-view.settings.info.about.button: About
+view.settings.info.about.button: À propos
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Privacy Policy
+view.settings.info.privacy_policy.button: Politique de Confidentialité
 view.under_maintenance.title: Under Maintenance
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
 view.under_maintenance.retry.button: Retry
@@ -163,9 +163,9 @@ view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
 view.welcome.title: Bots Discord
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
-view.welcome.login.button: Login with Discord
+view.welcome.login.button: Se connecter avec Discord
 view.welcome.skip.button: Skip for Now
-view.remove_ads.title: Remove Ads
+view.remove_ads.title: Enlever la publicité
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
@@ -179,8 +179,8 @@ view.remove_ads.error.try_again_later: Please try again later.
 view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
 view.remove_ads.error.purchase_invalid: The purchase is invalid.
 view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.error.product_already_purchased: Cet article a déjà été acheté.
+view.remove_ads.error.unknown_error: 'Une erreur inconnue s''est produite : {}.'
+view.remove_ads.error.title: Une erreur s'est produite
+view.remove_ads.button.join_server: Rejoignez notre serveur de support
 view.remove_ads.button.okay: Okay
