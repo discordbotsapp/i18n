@@ -56,25 +56,25 @@ view.bot.menu.copy_id: Copier l'ID
 view.bot.menu.copy_id.snack_bar: ID de {} copié
 view.bot.menu.hide: Cacher
 view.bot.menu.hide.alert_dialog.title: Masquer {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
+view.bot.menu.hide.alert_dialog.text: 'Êtes-vous sûr de vouloir masquer {} ?'
 view.bot.menu.hide.alert_dialog.cancel.button: Retour
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
+view.bot.menu.hide.alert_dialog.yes.button: 'Oui'
+view.bot.website.button: Site Internet
 view.bot.support_server.button: Support Server
 view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
+view.bot.favorite.login_alert: Vous devez être connecté pour ajouter ce bot à vos favoris.
+view.bot.report.login_alert: Vous devez être connecté pour signaler ce bot.
+view.bot.hide.login_alert: Vous devez être connecté pour masquer ce bot.
 view.bot.copy.snackbar: ID de {} copié
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
+view.report.report_reason.title: Raison du signalement
+view.report.report_reason.hint: Choisis une raison
+view.report.report_reason.empty: Merci de choisir une raison
+view.report.additional_information.title: Informations complémentaires
 view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
+view.report.additional_information.empty: Merci de choisir une raison
+view.report.submit.button: Envoyer
+view.report.report_reason.dropdown.option1: Contenu inapproprié/NSFW
+view.report.report_reason.dropdown.option2: Hors ligne depuis longtemps
 view.report.report_reason.dropdown.option3: Misleading features and description
 view.report.report_reason.dropdown.option4: Bot does not work
 view.report.report_reason.dropdown.option5: Invite link does not work
@@ -140,7 +140,7 @@ view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: Retour
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
+view.settings.account.delete_account.alert_dialog.yes.button: 'Oui'
 view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
