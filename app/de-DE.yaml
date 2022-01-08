@@ -36,7 +36,7 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Krypto #KEEP AS IS
 global.tag.top_charts: Top Charts
 global.footer.contact: 'Kontakt: support@discordbots.app'
-global.footer.info: Die Discord Bots App ist nicht mit Discord oder einer der unterstützten Discord Bot-Listen verbunden.
+global.footer.info: Die Discord Bots App steht nicht mit Discord oder einer der unterstützten Discord Bot-Listen in Verbindung.
 global.login_alert.title: Anmelden
 global.login_alert.cancel.button: Abbrechen
 global.login_alert.login.button: Anmelden
@@ -56,21 +56,21 @@ view.bot.menu.copy_id: ID kopieren
 view.bot.menu.copy_id.snack_bar: '{}`s ID wurde kopiert'
 view.bot.menu.hide: Verstecken
 view.bot.menu.hide.alert_dialog.title: Verstecke {}
-view.bot.menu.hide.alert_dialog.text: 'Sind sie sicher, das sie {} verstecken möchten?'
+view.bot.menu.hide.alert_dialog.text: 'Bist du dir sicher, dass du {} ausblenden möchtest?'
 view.bot.menu.hide.alert_dialog.cancel.button: Abbrechen
 view.bot.menu.hide.alert_dialog.yes.button: 'Ja'
-view.bot.website.button: Internetseite
+view.bot.website.button: Website
 view.bot.support_server.button: Support Server
-view.bot.vote.button: Abstimmung
-view.bot.favorite.login_alert: Sie müssen angemeldet sein, um diesen Bot zu Ihren Favoriten hinzuzufügen.
-view.bot.report.login_alert: Sie müssen angemeldet sein, um diesen Bot zumelden.
-view.bot.hide.login_alert: Sie müssen eingeloggt sein, um den Bot zu verbergen.
+view.bot.vote.button: Abstimmen
+view.bot.favorite.login_alert: Du musst angemeldet sein, um diesen Bot zu deinen Favoriten hinzuzufügen.
+view.bot.report.login_alert: Du musst angemeldet sein, um diesen Bot zu melden.
+view.bot.hide.login_alert: Du musst angemeldet sein, um diesen Bot auszublenden.
 view.bot.copy.snackbar: '{}`s ID wurde kopiert'
 view.report.report_reason.title: Grund für die Meldung
-view.report.report_reason.hint: Wählen sie einen Grund
+view.report.report_reason.hint: Wähle einen Grund
 view.report.report_reason.empty: Bitte wähle einen Grund
 view.report.additional_information.title: Zusätzliche Informationen
-view.report.additional_information.hint: Geben Sie hier weitere Details ein...
+view.report.additional_information.hint: Gib hier weitere Informationen hier an...
 view.report.additional_information.empty: Bitte wähle einen Grund
 view.report.submit.button: Abschicken
 view.report.report_reason.dropdown.option1: Unangemessener / NSFW-Inhalt
@@ -80,23 +80,23 @@ view.report.report_reason.dropdown.option4: Bot funktioniert nicht
 view.report.report_reason.dropdown.option5: Einladungslink funktioniert nicht
 view.report.report_reanos.dropdown.option6: Andere Gründe
 view.explore.title: Entdecken
-view.explore.featured.title: Vorgestellt
+view.explore.featured.title: Hervorgehoben
 view.explore.featured.subtitle: Erstklassige Bots, die von Discord verifiziert wurden
 view.explore.trending.title: Beliebt
 view.explore.trending.subtitle: Neue Bots, die schnell an Fahrt gewinnen
 view.explore.new.title: Neu
 view.explore.new.subtitle: Kürzlich hinzugefügte Bots
-view.explore.most_voted.title: Am meisten gewählt
+view.explore.most_voted.title: Am meisten abgestimmt
 view.explore.most_voted.subtitle: Bots mit den meisten Stimmen in diesem Monat
 view.explore.most_popular.title: Am Beliebtesten
 view.explore.most_popular.subtitle: Bots in den meisten Servern
 view.explore.see_all.button: Alle sehen
-view.explore.categories.title: Erkunde die Kategororien
+view.explore.categories.title: Kategororien durchsuchen
 view.explore.category.subtitle: Bots in der Kategorie {}
 view.explore.footer.support_server.button: Support Server
 view.explore.footer.bug_report.button: Fehler Meldung
 view.explore.footer.about.button: Über
-view.explore.footer.privacy_policy.button: Datenschutz-Bestimmungen
+view.explore.footer.privacy_policy.button: Datenschutzbestimmungen
 view.top_charts.most_votes: Die meisten Stimmen
 view.top_charts.most_servers: Die meisten Server
 view.top_charts.bot.subtitle.servers.plural: '{} Server'
@@ -105,55 +105,55 @@ view.top_charts.bot.subtitle.servers.singular: '{} Server'
 view.top_charts.bot.subtitle.votes.singular: '{} Abstimmen'
 view.account.login.guest: Gast
 view.account.login.button: Anmelden mit Discord
-view.account.login.error: Beim Anmelden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.
-view.account.login.error.button: Gehen Sie zurück zum Login
+view.account.login.error: Beim Anmelden ist ein Fehler aufgetreten. Bitte versuche es erneut.
+view.account.login.error.button: Gehe zurück zum Login
 view.account.my_bots.button: Meine Bots
 view.account.favorites.button: Favoriten
 view.account.add_bot.button: Bot hinzufügen
 view.account.remove_ads.button: Werbung entfernen
 view.account.settings.button: Einstellungen
 view.my_bots.title: Meine Bots
-view.my_bots.subtitle: Bots im Besitz von Ihnen. Sie können Ihren eigenen Bot hinzufügen, indem Sie auf der Seite Konto auf die Schaltfläche Bot hinzufügen klicken. #Keep capitalization consistent
-view.my_bots.none: Sie besitzen keine Bots
+view.my_bots.subtitle: Bots im Besitz von dir. Du kannst deinen eigenen Bot hinzufügen, indem du auf der Seite Konto auf die Schaltfläche Bot hinzufügen klickst. #Keep capitalization consistent
+view.my_bots.none: Du besitzt keine Bots
 view.favorites.title: Favoriten
-view.favorites.subtitle: Fügen Sie hier Ihre Lieblings-Bots hinzu, indem Sie auf der Seite eines Bots auf die Herz-Schaltfläche klicken
-view.favorites.none: Sie haben keine Favoriten
+view.favorites.subtitle: Füge deine Lieblingsbots hier hinzu, indem du auf den Herz-Button auf der Seite eines Bots klickst
+view.favorites.none: Du hast keine Favoriten
 view.add_bot.title: Bot hinzufügen
-view.add_bot.subtitle: Fügen Sie Ihren Bot einer Bot-Liste eines Drittanbieters hinzu, um ihn automatisch zur App hinzuzufügen.
-view.add_bot.note: 'Hinweis: Ihr Bot wird möglicherweise nicht sofort in der App angezeigt, nachdem Sie ihn einer anderen Bot-Liste hinzugefügt haben.'
-view.settings.theme.title: Thema
+view.add_bot.subtitle: Füge deinen Bot einer Bot-Liste eines Drittanbieters hinzu, um ihn automatisch zur App hinzuzufügen.
+view.add_bot.note: 'Hinweis: Dein Bot erscheint möglicherweise nicht sofort in der App, nachdem du ihn zu einer anderen Bot-Liste hinzugefügt hast.'
+view.settings.theme.title: Theme
 view.settings.theme.system.radio: System
 view.settings.theme.dark.radio: Dunkel
 view.settings.theme.light.radio: Hell
 view.settings.language.title: Sprache
-view.settings.language.placeholder: Wählen sie ihre Sprache
-view.settings.support.title: Unterstützung
+view.settings.language.placeholder: Wähle eine Sprache
+view.settings.support.title: Hilfe
 view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: Melden sie einen Fehler
+view.settings.support.report_a_bug.button: Melde einen Fehler
 view.settings.account.title: Account
 view.settings.account.log_out.button: Ausloggen
 view.settings.account.log_out.alert_dialog.title: Ausloggen
-view.settings.account.log_out.alert_dialog.text: Wollen sie sich wirklich abmelden?
+view.settings.account.log_out.alert_dialog.text: Willst du dich wirklich abmelden?
 view.settings.account.log_out.alert_dialog.cancel.button: Abbrechen
 view.settings.account.log_out.alert_dialog.log_out.button: Ausloggen
 view.settings.account.delete_account.button: Account Löschen
 view.settings.account.delete_account.alert_dialog.title: Account Löschen
-view.settings.account.delete_account.alert_dialog.text: Sind Sie sicher, dass Sie diesen Account löschen wollen? Diese Aktion kann nicht rückgängig gemacht werden.
+view.settings.account.delete_account.alert_dialog.text: Willst du deinen Account wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.
 view.settings.account.delete_account.alert_dialog.cancel.button: Abbrechen
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
 view.settings.info.title: Informationen
 view.settings.info.about.button: Über
-view.settings.info.about.popup.legalese: Urheberrecht © 2020 Softorino. Alle Rechte vorbehalten.
-view.settings.info.privacy_policy.button: Datenschutz-Bestimmungen
+view.settings.info.about.popup.legalese: Urheberrecht © 2020 Tetracyl. Alle Rechte vorbehalten.
+view.settings.info.privacy_policy.button: Datenschutzbestimmungen
 view.under_maintenance.title: Wartungsarbeiten
-view.under_maintenance.subtitle: Die App wird derzeit gewartet und wird bald wieder verfügbar sein. Bitte überprüfen Sie den Support-Server auf Updates.
+view.under_maintenance.subtitle: Die App wird derzeit gewartet und wird bald wieder verfügbar sein. Bitte überprüfe den Support-Server auf Updates.
 view.under_maintenance.retry.button: Erneut versuchen
 view.under_maintenance.support_server.button: Support Server
 view.no_internet.title: Keine Internetverbindung
-view.no_internet.subtitle: Keine Internetverbidnung. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut
+view.no_internet.subtitle: Keine Internetverbindung. Bitte überprüfe deine Verbindung und versuche es erneut
 view.no_internet.retry: Erneut versuchen
-view.bot.reported.title: Gemeldet {}
-view.bot.reported.subtitle: 'Sie haben {} aus folgendem Grund erfolgreich gemeldet:'
+view.bot.reported.title: '{} wurde gemeldet'
+view.bot.reported.subtitle: 'Du hast {} aus folgendem Grund erfolgreich gemeldet:'
 view.bot.reported.button.okay: Okay
 view.user.bots: Bots
 view.search.hint: Suchen...
@@ -162,23 +162,23 @@ view.search.subtitle.noQuery: Suche für einen Bot...
 view.search.subtitle.query: Zeige Suchergebnisse für {}
 view.search.none: Keine Ergebnisse Gefunden
 view.welcome.title: Discord Bots
-view.welcome.subtitle: Durchsuche {}+ Discord Bots! Starte mit deinem Discord Account.
+view.welcome.subtitle: Durchsuche {}+ Discord Bots! Logge dich mit deinem Discord Account ein.
 view.welcome.login.button: Anmelden mit Discord
-view.welcome.skip.button: Erst einmal überspringen
+view.welcome.skip.button: Vorerst überspringen
 view.remove_ads.title: Werbung entfernen
-view.remove_ads.subtitle: Entfernen sie die Werbung von der App
+view.remove_ads.subtitle: Entferne alle Werbung der App
 view.remove_ads.error.load_product: Beim Laden des Produktes ist ein Fehler aufgetreten.
 view.remove_ads.error.verify_purchase: Beim Verifizieren des Kaufs ist ein Fehler aufgetreten.
-view.remove_ads.error.try_again: Bitte versuchen Sie es später noch einmal oder treten Sie dem Support-Server bei.
-view.remove_ads.error.join_server: Bitte treten Sie dem Support-Server bei.
+view.remove_ads.error.try_again: Bitte versuche es später noch einmal oder trete dem Support-Server bei.
+view.remove_ads.error.join_server: Bitte trete dem Support-Server bei.
 view.remove_ads.purchase: Kaufen
-view.remove_ads.thank_you.title: Danke für Ihren Einkauf
-view.remove_ads.thank_you.subtitle: Alle Anzeigen wurden entfernt
+view.remove_ads.thank_you.title: Danke für deinen Einkauf
+view.remove_ads.thank_you.subtitle: Alle Werbungen wurden entfernt
 view.remove_ads.error.store_problem: Es gab ein Problem im Shop.
 view.remove_ads.error.try_again_later: Bitte versuche es später erneut.
-view.remove_ads.error.purchase_not_allowed: Dieser Gerät oder Benutzer darf den Kauf nicht tätigen.
+view.remove_ads.error.purchase_not_allowed: Dieses Gerät oder dieser Benutzer darf den Kauf nicht tätigen.
 view.remove_ads.error.purchase_invalid: Der Kauf ist ungültig.
-view.remove_ads.error.purchase_in_progress: Dieser Kauf ist bereits im Gange. Bitte haben Sie Geduld.
+view.remove_ads.error.purchase_in_progress: Dieser Kauf ist bereits im Gange. Bitte habe Geduld.
 view.remove_ads.error.product_already_purchased: Dieses Produkt wurde bereits gekauft.
 view.remove_ads.error.unknown_error: 'Ein unbekannter Fehler ist aufgetreten: {}.'
 view.remove_ads.error.title: Ein Fehler ist aufgetreten
