@@ -70,7 +70,7 @@ view.report.report_reason.title: Grund für die Meldung
 view.report.report_reason.hint: Wähle einen Grund
 view.report.report_reason.empty: Bitte wähle einen Grund
 view.report.additional_information.title: Zusätzliche Informationen
-view.report.additional_information.hint: Gib hier weitere Informationen hier an...
+view.report.additional_information.hint: Gib hier weitere Informationen an...
 view.report.additional_information.empty: Bitte wähle einen Grund
 view.report.submit.button: Abschicken
 view.report.report_reason.dropdown.option1: Unangemessener / NSFW-Inhalt
