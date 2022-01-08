@@ -1,85 +1,85 @@
 ---
-global.title: Bots Discord
-global.navbar.explore: Explorez
-global.navbar.top_charts: Classements
-global.navbar.account: Compte
-global.app_bar.explore: Explorez
-global.app_bar.top_charts: Classements
-global.app_bar.account: Compte
-global.app_bar.login: Connexion
-global.app_bar.settings: Réglages
-global.app_bar.language: Langue
-global.app_bar.report: 'Signaler'
-global.app_bar.categories: Catégories
+global.title: Discord Bots
+global.navbar.explore: Explore
+global.navbar.top_charts: Top Charts
+global.navbar.account: Account
+global.app_bar.explore: Explore
+global.app_bar.top_charts: Top Charts
+global.app_bar.account: Account
+global.app_bar.login: Login
+global.app_bar.settings: Settings
+global.app_bar.language: Language
+global.app_bar.report: 'Report {}'
+global.app_bar.categories: Categories
 global.app_bar.remove_ads: Remove Ads
-global.tag.music: Musique
-global.tag.pokemon: Pokémon #KEEP AS IS
+global.tag.music: Music
+global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
-global.tag.moderation: Modération
+global.tag.moderation: Moderation
 global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Sujets Divers
-global.tag.fortnite: Fornite #KEEP AS IS
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Réseaux Sociaux
-global.tag.fun: Amusement
-global.tag.economy: Économie
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Jeu
-global.tag.meme: Mème
-global.tag.leveling: Changement de niveau
-global.tag.roleplay: Jeu de rôle
-global.tag.logging: Stockage de donné
-global.tag.utility: Outils
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
 global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multifonction
+global.tag.multipurpose: Multipurpose
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Classements
+global.tag.top_charts: Top Charts
 global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: L'application Discord Bots n'est pas affiliée à Discord ou à aucune des listes de robots Discord supportées.
-global.login_alert.title: Connexion
-global.login_alert.cancel.button: Retour
-global.login_alert.login.button: Connexion
-global.rate_dialog.title: Ajouter des bots Discord
-global.rate_dialog.subtitle: Si vous aimez cette application, s'il vous plaît prendre un peu de temps de peu pour nous noter! (Il nous aide vraiment, et il ne devrait pas vous prendre plus d'une minute).
-global.rate_dialog.button.rate: TAUX
-global.rate_dialog.button.no_thanks: NON MERCI
-global.rate_dialog.button.maybe_later: PEUT-ÊTRE PLUS TARD
-view.bot.add.button: AJOUTER
-view.bot.chip.prefix: 'Préfixe:'
-view.bot.chip.servers: 'serveurs'
-view.bot.chip.server: '{} serveur'
+global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.login_alert.title: Login
+global.login_alert.cancel.button: Cancel
+global.login_alert.login.button: Login
+global.rate_dialog.title: Rate Discord Bots
+global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
+global.rate_dialog.button.rate: RATE
+global.rate_dialog.button.no_thanks: NO THANKS
+global.rate_dialog.button.maybe_later: MAYBE LATER
+view.bot.add.button: ADD
+view.bot.chip.prefix: 'Prefix: {}'
+view.bot.chip.servers: '{} servers'
+view.bot.chip.server: '{} server'
 view.bot.chip.votes: '{} votes'
 view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Signaler
-view.bot.menu.copy_id: Copier l'ID
-view.bot.menu.copy_id.snack_bar: ID de {} copié
-view.bot.menu.hide: Cacher
-view.bot.menu.hide.alert_dialog.title: Masquer {}
-view.bot.menu.hide.alert_dialog.text: 'Êtes-vous sûr de vouloir masquer {} ?'
-view.bot.menu.hide.alert_dialog.cancel.button: Retour
-view.bot.menu.hide.alert_dialog.yes.button: 'Oui'
-view.bot.website.button: Site Internet
+view.bot.menu.report: Report
+view.bot.menu.copy_id: Copy ID
+view.bot.menu.copy_id.snack_bar: Copied {}'s ID
+view.bot.menu.hide: Hide
+view.bot.menu.hide.alert_dialog.title: Hide {}
+view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
+view.bot.menu.hide.alert_dialog.cancel.button: Cancel
+view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
+view.bot.website.button: Website
 view.bot.support_server.button: Support Server
 view.bot.vote.button: Vote
-view.bot.favorite.login_alert: Vous devez être connecté pour ajouter ce bot à vos favoris.
-view.bot.report.login_alert: Vous devez être connecté pour signaler ce bot.
-view.bot.hide.login_alert: Vous devez être connecté pour masquer ce bot.
-view.bot.copy.snackbar: ID de {} copié
-view.report.report_reason.title: Raison du signalement
-view.report.report_reason.hint: Choisis une raison
-view.report.report_reason.empty: Merci de choisir une raison
-view.report.additional_information.title: Informations complémentaires
+view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
+view.bot.report.login_alert: You must be logged in to report this bot.
+view.bot.hide.login_alert: You must be logged in to hide this bot.
+view.bot.copy.snackbar: Copied {}'s ID
+view.report.report_reason.title: Reason for Reporting
+view.report.report_reason.hint: Select a reason
+view.report.report_reason.empty: Please select a reason
+view.report.additional_information.title: Additional Information
 view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Merci de choisir une raison
-view.report.submit.button: Envoyer
-view.report.report_reason.dropdown.option1: Contenu inapproprié/NSFW
-view.report.report_reason.dropdown.option2: Hors ligne depuis longtemps
+view.report.additional_information.empty: Please select a reason
+view.report.submit.button: Submit
+view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
+view.report.report_reason.dropdown.option2: Offline for a long period of time
 view.report.report_reason.dropdown.option3: Misleading features and description
 view.report.report_reason.dropdown.option4: Bot does not work
 view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: Other reason
-view.explore.title: Explorez
+view.explore.title: Explore
 view.explore.featured.title: Featured
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
@@ -99,9 +99,9 @@ view.explore.footer.about.button: About
 view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: 'serveurs'
+view.top_charts.bot.subtitle.servers.plural: '{} servers'
 view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} serveur'
+view.top_charts.bot.subtitle.servers.singular: '{} server'
 view.top_charts.bot.subtitle.votes.singular: '{} vote'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
@@ -111,7 +111,7 @@ view.account.my_bots.button: My Bots
 view.account.favorites.button: Favorites
 view.account.add_bot.button: Add Bot
 view.account.remove_ads.button: Remove Ads
-view.account.settings.button: Réglages
+view.account.settings.button: Settings
 view.my_bots.title: My Bots
 view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
 view.my_bots.none: You do not own any bots
@@ -125,22 +125,22 @@ view.settings.theme.title: Theme
 view.settings.theme.system.radio: System
 view.settings.theme.dark.radio: Dark
 view.settings.theme.light.radio: Light
-view.settings.language.title: Langue
+view.settings.language.title: Language
 view.settings.language.placeholder: Choose a language
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Report A Bug
-view.settings.account.title: Compte
+view.settings.account.title: Account
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Retour
+view.settings.account.log_out.alert_dialog.cancel.button: Cancel
 view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Retour
-view.settings.account.delete_account.alert_dialog.yes.button: 'Oui'
+view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
+view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
 view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
@@ -161,7 +161,7 @@ view.search.title: Search
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Bots Discord
+view.welcome.title: Discord Bots
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: Skip for Now
@@ -171,7 +171,7 @@ view.remove_ads.error.load_product: An unknown error occurred while loading the 
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
 view.remove_ads.error.try_again: Please try again later or join the support server.
 view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Acheter
+view.remove_ads.purchase: Purchase
 view.remove_ads.thank_you.title: Thank you for your purchase
 view.remove_ads.thank_you.subtitle: All ads have now been removed
 view.remove_ads.error.store_problem: There was a problem with the store.
