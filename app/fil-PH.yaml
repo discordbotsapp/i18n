@@ -1,11 +1,11 @@
 ---
 global.title: Discord Bots
-global.navbar.explore: Explore
+global.navbar.explore: Tuklasin
 global.navbar.top_charts: Top Charts
-global.navbar.account: Account
-global.app_bar.explore: Explore
+global.navbar.account: Kwenta / Tuos
+global.app_bar.explore: Tuklasin
 global.app_bar.top_charts: Top Charts
-global.app_bar.account: Account
+global.app_bar.account: Kwenta / Tuos
 global.app_bar.login: Login
 global.app_bar.settings: Settings
 global.app_bar.language: Language
@@ -21,13 +21,13 @@ global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.fun: Saya
+global.tag.economy: Ekonomiya
 global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
+global.tag.game: Laro
 global.tag.meme: Meme
 global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
+global.tag.roleplay: Dula / Dula-dulahan
 global.tag.logging: Logging
 global.tag.utility: Utility
 global.tag.reddit: Reddit #KEEP AS IS
@@ -79,7 +79,7 @@ view.report.report_reason.dropdown.option3: Misleading features and description
 view.report.report_reason.dropdown.option4: Bot does not work
 view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: Other reason
-view.explore.title: Explore
+view.explore.title: Tuklasin
 view.explore.featured.title: Featured
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
@@ -130,7 +130,7 @@ view.settings.language.placeholder: Choose a language
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Report A Bug
-view.settings.account.title: Account
+view.settings.account.title: Kwenta / Tuos
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
