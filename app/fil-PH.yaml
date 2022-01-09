@@ -35,10 +35,10 @@ global.tag.multipurpose: Multipurpose
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Top Charts
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.contact: 'Contact: supporta@discordbots.app'
+global.footer.info: Ang Discord Bots App ay hindi kaakibat sa Discord o alinman sa mga Discord Bot Lists na suportado.
 global.login_alert.title: Login
-global.login_alert.cancel.button: Cancel
+global.login_alert.cancel.button: Cancelado
 global.login_alert.login.button: Login
 global.rate_dialog.title: Rate Discord Bots
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
@@ -57,7 +57,7 @@ view.bot.menu.copy_id.snack_bar: Copied {}'s ID
 view.bot.menu.hide: Hide
 view.bot.menu.hide.alert_dialog.title: Hide {}
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
+view.bot.menu.hide.alert_dialog.cancel.button: Cancelado
 view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
@@ -134,12 +134,12 @@ view.settings.account.title: Kwenta / Tuos
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Cancel
+view.settings.account.log_out.alert_dialog.cancel.button: Cancelado
 view.settings.account.log_out.alert_dialog.log_out.button: Log Out
 view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
+view.settings.account.delete_account.alert_dialog.cancel.button: Cancelado
 view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
 view.settings.info.title: Info
 view.settings.info.about.button: About
