@@ -20,7 +20,7 @@ global.tag.minecraft: Minecraft #KEEP AS IS
 global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
+global.tag.social: Sosyal
 global.tag.fun: Saya
 global.tag.economy: Ekonomiya
 global.tag.anime: Anime #KEEP AS IS
@@ -41,38 +41,38 @@ global.login_alert.title: Login
 global.login_alert.cancel.button: Cancelado
 global.login_alert.login.button: Login
 global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
+global.rate_dialog.subtitle: Kung gusto mo ang app na ito, mangyaring maglaan ng kaunting oras upang suriin ito! Talagang nakakatulong ito sa amin at hindi ka dapat tumagal ng higit sa isang minuto.
 global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
+global.rate_dialog.button.no_thanks: SALAMAT NALANG
+global.rate_dialog.button.maybe_later: MAMAYA NALANG
+view.bot.add.button: LAGAY
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} servers'
 view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
+view.bot.chip.votes: '{} mga boto'
+view.bot.chip.vote: '{} boto'
+view.bot.menu.report: Ulat
+view.bot.menu.copy_id: Kopya ID
+view.bot.menu.copy_id.snack_bar: Na kopya {}'s ID
+view.bot.menu.hide: Tago
+view.bot.menu.hide.alert_dialog.title: Tago {}
+view.bot.menu.hide.alert_dialog.text: 'Sigurado ka bang gusto mo itago {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Cancelado
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
+view.bot.menu.hide.alert_dialog.yes.button: 'Oo'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
+view.bot.vote.button: Boto
+view.bot.favorite.login_alert: Dapat kang naka-log in upang idagdag ang bot na ito sa iyong mga paborito.
+view.bot.report.login_alert: Dapat kang naka-log in upang iulat ang bot na ito.
+view.bot.hide.login_alert: Dapat ay naka-log in ka upang itago ang bot na ito.
+view.bot.copy.snackbar: Na kopya {}'s ID
+view.report.report_reason.title: Dahilan ng Pag-uulat
+view.report.report_reason.hint: Dahilan ng Pag-uulat
+view.report.report_reason.empty: Maglagay ng dahilan
+view.report.additional_information.title: Karagdagang Impormasyon
+view.report.additional_information.hint: Maglagay ng mga karagdagang detalye dito...
+view.report.additional_information.empty: Maglagay ng dahilan
+view.report.submit.button: Ipasa
 view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
 view.report.report_reason.dropdown.option2: Offline for a long period of time
 view.report.report_reason.dropdown.option3: Misleading features and description
@@ -100,9 +100,9 @@ view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
 view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
+view.top_charts.bot.subtitle.votes.plural: '{} mga boto'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
+view.top_charts.bot.subtitle.votes.singular: '{} boto'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
@@ -140,7 +140,7 @@ view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: Cancelado
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
+view.settings.account.delete_account.alert_dialog.yes.button: 'Oo'
 view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
