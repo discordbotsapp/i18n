@@ -1,21 +1,21 @@
 ---
 global.title: Discord Bots
 global.navbar.explore: Tuklasin
-global.navbar.top_charts: Top Charts
+global.navbar.top_charts: Top charts
 global.navbar.account: Kwenta / Tuos
 global.app_bar.explore: Tuklasin
-global.app_bar.top_charts: Top Charts
+global.app_bar.top_charts: Top charts
 global.app_bar.account: Kwenta / Tuos
 global.app_bar.login: Login
 global.app_bar.settings: Settings
 global.app_bar.language: Language
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
+global.app_bar.report: 'Ulat {}'
+global.app_bar.categories: Kategorya
 global.app_bar.remove_ads: Remove Ads
-global.tag.music: Music
+global.tag.music: Musika
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
+global.tag.moderation: Namumuno
 global.tag.minecraft: Minecraft #KEEP AS IS
 global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite #KEEP AS IS
@@ -34,7 +34,7 @@ global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Multipurpose
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
+global.tag.top_charts: Top charts
 global.footer.contact: 'Contact: supporta@discordbots.app'
 global.footer.info: Ang Discord Bots App ay hindi kaakibat sa Discord o alinman sa mga Discord Bot Lists na suportado.
 global.login_alert.title: Login
