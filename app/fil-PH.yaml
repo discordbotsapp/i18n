@@ -11,7 +11,7 @@ global.app_bar.settings: Settings
 global.app_bar.language: Language
 global.app_bar.report: 'Ulat {}'
 global.app_bar.categories: Kategorya
-global.app_bar.remove_ads: Remove Ads
+global.app_bar.remove_ads: Tanggalin ang ads
 global.tag.music: Musika
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -91,81 +91,81 @@ view.explore.most_voted.subtitle: Bots na madaming boto ngayon
 view.explore.most_popular.title: Pinaka-sikat
 view.explore.most_popular.subtitle: Bots na nasa madaming server
 view.explore.see_all.button: Tingnan lahat
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
+view.explore.categories.title: Galugarin ang Mga Kategorya
+view.explore.category.subtitle: Bots ay nasa {} kategorya
 view.explore.footer.support_server.button: Support Server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.about.button: About
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.explore.footer.bug_report.button: Ulat ng Bug
+view.explore.footer.about.button: Tungkol sa
+view.explore.footer.privacy_policy.button: Patakaran sa Privacy
+view.top_charts.most_votes: Karamihan sa mga Boto
+view.top_charts.most_servers: Karamihan na Servers
 view.top_charts.bot.subtitle.servers.plural: '{} servers'
 view.top_charts.bot.subtitle.votes.plural: '{} mga boto'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
 view.top_charts.bot.subtitle.votes.singular: '{} boto'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
+view.account.login.guest: Bisita
+view.account.login.button: Mag-login gamit ang Discord
+view.account.login.error: May naganap na error habang nagla-log in ka. Pakisubukang muli.
+view.account.login.error.button: Bumalik para mag log-in
+view.account.my_bots.button: Bots ko
+view.account.favorites.button: Paborito
+view.account.add_bot.button: Magdagdag ng Bot
+view.account.remove_ads.button: Tanggalin ang ads
 view.account.settings.button: Settings
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
-view.add_bot.title: Add Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
+view.my_bots.title: Bots ko
+view.my_bots.subtitle: Mga bot na pagmamay-ari mo. Maaari mong idagdag ang iyong sariling bot sa pamamagitan ng pag-click sa Add Bot button sa pahina ng Account. #Keep capitalization consistent
+view.my_bots.none: Wala kang pagmamay-ari ng anumang mga bot
+view.favorites.title: Paborito
+view.favorites.subtitle: Idagdag ang iyong mga paboritong bot dito sa pamamagitan ng pag-click sa heart button sa page ng bot
+view.favorites.none: Wala kang anumang mga paborito
+view.add_bot.title: Magdagdag ng Bot
+view.add_bot.subtitle: Idagdag ang iyong bot sa isang 3rd party na listahan ng bot upang awtomatikong idagdag ito sa app.
+view.add_bot.note: 'Tandaan: Maaaring hindi agad na lumabas ang iyong bot sa app pagkatapos itong idagdag sa isa pang listahan ng bot.'
+view.settings.theme.title: Tema
+view.settings.theme.system.radio: Sistema
+view.settings.theme.dark.radio: Dilim
+view.settings.theme.light.radio: Ilaw
 view.settings.language.title: Language
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
+view.settings.language.placeholder: Pumili ng wika
+view.settings.support.title: Supporta
 view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: I-report ang isang bug
 view.settings.account.title: Kwenta / Tuos
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Log out
+view.settings.account.log_out.alert_dialog.title: Log out
+view.settings.account.log_out.alert_dialog.text: Sigurado ka bang gusto mong mag-log out?
 view.settings.account.log_out.alert_dialog.cancel.button: Cancelado
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.log_out.alert_dialog.log_out.button: Log out
+view.settings.account.delete_account.button: Tanggalin ang account
+view.settings.account.delete_account.alert_dialog.title: Tanggalin ang account
+view.settings.account.delete_account.alert_dialog.text: Sigurado ka ba na gusto mo tanggalin account mo? ang aksyon na ito ay hindi pwede baguhin.
 view.settings.account.delete_account.alert_dialog.cancel.button: Cancelado
 view.settings.account.delete_account.alert_dialog.yes.button: 'Oo'
 view.settings.info.title: Info
-view.settings.info.about.button: About
+view.settings.info.about.button: Tungkol sa
 view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Privacy Policy
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.settings.info.privacy_policy.button: Patakaran sa Privacy
+view.under_maintenance.title: Nasa Pagpapanatili
+view.under_maintenance.subtitle: Ang app ay kasalukuyang sumasailalim sa pagpapanatili at babalik sa lalong madaling panahon. Mangyaring suriin ang server ng suporta para sa mga update.
+view.under_maintenance.retry.button: Ulitin
 view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
+view.no_internet.title: Walang Koneksyon sa Internet
+view.no_internet.subtitle: Walang nakitang koneksyon sa internet. Pakisuri ang iyong koneksyon pagkatapos ay subukang muli
+view.no_internet.retry: Ulitin
+view.bot.reported.title: Ulat {}
+view.bot.reported.subtitle: 'Matagumpay mong naiulat ang {} para sa sumusunod na dahilan:'
+view.bot.reported.button.okay: Sige
 view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.search.hint: Maghanap...
+view.search.title: Maghanap
+view.search.subtitle.noQuery: Maghanap ng bots...
+view.search.subtitle.query: Pinapakita ang results para sa {}
+view.search.none: Walang resultang nakita
 view.welcome.title: Discord Bots
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
-view.welcome.login.button: Login with Discord
+view.welcome.login.button: Mag-login gamit ang Discord
 view.welcome.skip.button: Skip for Now
-view.remove_ads.title: Remove Ads
+view.remove_ads.title: Tanggalin ang ads
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
@@ -183,4 +183,4 @@ view.remove_ads.error.product_already_purchased: This product has already been p
 view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: An Error Occurred
 view.remove_ads.button.join_server: Join Support Server
-view.remove_ads.button.okay: Okay
+view.remove_ads.button.okay: Sige
