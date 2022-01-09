@@ -73,24 +73,24 @@ view.report.additional_information.title: Karagdagang Impormasyon
 view.report.additional_information.hint: Maglagay ng mga karagdagang detalye dito...
 view.report.additional_information.empty: Maglagay ng dahilan
 view.report.submit.button: Ipasa
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reason.dropdown.option1: Hindi naaangkop/NSFW na nilalaman
+view.report.report_reason.dropdown.option2: Offline sa mahabang panahon
+view.report.report_reason.dropdown.option3: Mapanlinlang na mga tampok at paglalarawan
+view.report.report_reason.dropdown.option4: Hindi gumagana ang bot
+view.report.report_reason.dropdown.option5: Hindi gumagana ang link ng imbitasyon
+view.report.report_reanos.dropdown.option6: Iba pang dahilan
 view.explore.title: Tuklasin
-view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
+view.explore.featured.title: Itinatampok
+view.explore.featured.subtitle: Mga nangungunang bot na na-verify ng Discord
 view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in this most servers
-view.explore.see_all.button: See All
+view.explore.trending.subtitle: Mga bagong bot na mabilis na nakakakuha ng traksyon
+view.explore.new.title: Bago
+view.explore.new.subtitle: Kamakailang idinagdag na mga bot
+view.explore.most_voted.title: Karamihan ang bumoto
+view.explore.most_voted.subtitle: Bots na madaming boto ngayon
+view.explore.most_popular.title: Pinaka-sikat
+view.explore.most_popular.subtitle: Bots na nasa madaming server
+view.explore.see_all.button: Tingnan lahat
 view.explore.categories.title: Explore Categories
 view.explore.category.subtitle: Bots in the {} category
 view.explore.footer.support_server.button: Support Server
