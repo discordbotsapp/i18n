@@ -88,6 +88,8 @@ view.explore.new.title: Ny
 view.explore.new.subtitle: Nylig lagt til botter
 view.explore.most_voted.title: Mest Stemt
 view.explore.most_voted.subtitle: Bots med flest stemmer denne måneden
+view.explore.most_popular.title: Most Popular
+view.explore.most_popular.subtitle: Bots in this most servers
 view.explore.see_all.button: Vis Alle
 view.explore.categories.title: Utforsk kategorier
 view.explore.category.subtitle: Bots i {} kategorien

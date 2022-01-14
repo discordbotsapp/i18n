@@ -88,6 +88,8 @@ view.explore.new.title: جديد
 view.explore.new.subtitle: البوتات المضافة مؤخرا
 view.explore.most_voted.title: الأكثر تصويتاً
 view.explore.most_voted.subtitle: بوتات بأكبر عدد من الأصوات هذا الشهر
+view.explore.most_popular.title: Most Popular
+view.explore.most_popular.subtitle: البوت في معظم هذه السيرفرات
 view.explore.see_all.button: عرض الكل
 view.explore.categories.title: استكشاف التصنيفات
 view.explore.category.subtitle: البوتات في فئة {}
@@ -117,8 +119,8 @@ view.favorites.title: المفضلات
 view.favorites.subtitle: أضف البوتات المفضلة لديك هنا بالنقر على زر القلب في صفحة بوت
 view.favorites.none: ليس لديك أي مفضلات
 view.add_bot.title: إضافة بوت
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
+view.add_bot.subtitle: أضف بوت إلى قائمة بوت طرف ثالث لإضافته تلقائياً إلى التطبيق.
+view.add_bot.note: 'ملاحظة: قد لا يظهر بوت الخاص بك على الفور في التطبيق بعد إضافته إلى قائمة بوت أخرى.'
 view.settings.theme.title: السمة
 view.settings.theme.system.radio: النظام
 view.settings.theme.dark.radio: مظلم
@@ -144,7 +146,7 @@ view.settings.info.about.button: معلومات
 view.settings.info.about.popup.legalese: حقوق الطبع والنشر © 2020 Tetracyl. جميع الحقوق محفوظة.
 view.settings.info.privacy_policy.button: سياسة الخصوصية
 view.under_maintenance.title: تحت الصيانة
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
+view.under_maintenance.subtitle: التطبيق قيد الصيانة حاليا وسوف يعود قريبا. الرجاء التحقق من سيرفر الدعم للحصول على التحديثات.
 view.under_maintenance.retry.button: اعد المحاولة
 view.under_maintenance.support_server.button: خادم الدعم
 view.no_internet.title: لا يوجد اتصال بالإنترنت

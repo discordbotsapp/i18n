@@ -88,6 +88,8 @@ view.explore.new.title: Нови
 view.explore.new.subtitle: Наскоро добавени
 view.explore.most_voted.title: Най-гласувани
 view.explore.most_voted.subtitle: Ботове със най-много гласувания този месец
+view.explore.most_popular.title: Most Popular
+view.explore.most_popular.subtitle: Bots in this most servers
 view.explore.see_all.button: Виж всички
 view.explore.categories.title: Прегледай категориите
 view.explore.category.subtitle: Ботове във категория {}

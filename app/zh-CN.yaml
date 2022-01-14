@@ -88,6 +88,8 @@ view.explore.new.title: 新
 view.explore.new.subtitle: 最近新增
 view.explore.most_voted.title: 最多票数
 view.explore.most_voted.subtitle: 本月投票最多的机器人
+view.explore.most_popular.title: Most Popular
+view.explore.most_popular.subtitle: Bots in this most servers
 view.explore.see_all.button: 查看全部
 view.explore.categories.title: 探索类别
 view.explore.category.subtitle: 在 {} 类别中的机器人
