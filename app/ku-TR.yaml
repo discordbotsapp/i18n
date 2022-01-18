@@ -46,6 +46,11 @@ global.rate_dialog.subtitle: ئەگەر ئەم بەرنامەیەت بەدڵ ب�
 global.rate_dialog.button.rate: ڕێژ
 global.rate_dialog.button.no_thanks: نەخێر سوپاس
 global.rate_dialog.button.maybe_later: لەوانەیە دواتر
+global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.subtitle: Promoted
+global.pop_up_menu_button.remove_ads.button: لابردنی ڕیکلامەکان
+global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.privacy_policy.button: سیاسەتی تایبەتێتی
 view.bot.add.button: زیادکردن
 view.bot.chip.prefix: 'پێشگر: {}'
 view.bot.chip.servers: 'سێرڤەرەکان {}'
@@ -185,3 +190,15 @@ view.remove_ads.error.unknown_error: 'هەڵەیەکی نەناسراو ڕووی
 view.remove_ads.error.title: هەڵەیەک ڕوویدا
 view.remove_ads.button.join_server: جۆینی سەپۆرت سێرڤەرەکە بکە
 view.remove_ads.button.okay: باشە
+view.promote.introduction.promote_your_bot.title: Promote your bot
+view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.how_it_works.title: How it works
+view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
+view.promote.introduction.track_your_ads.title: Track your ads
+view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.get_started.button: Get Started
+view.login.erorr.title: An error occurred while logging you in
+view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.retry.button: دووبارە هەوڵ بدە 
+view.login.error.support_server.button: سێرڤەری پشتگیری
+view.login.logging_in.title: Logging you in
