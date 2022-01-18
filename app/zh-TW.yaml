@@ -46,6 +46,11 @@ global.rate_dialog.subtitle: 如果你喜歡這個應用，請花一點時間來
 global.rate_dialog.button.rate: 評價
 global.rate_dialog.button.no_thanks: 不，謝謝
 global.rate_dialog.button.maybe_later: 以後吧
+global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.subtitle: Promoted
+global.pop_up_menu_button.remove_ads.button: 刪除廣告
+global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.privacy_policy.button: 隱私政策
 view.bot.add.button: 添加
 view.bot.chip.prefix: '前綴：{}'
 view.bot.chip.servers: '{} 伺服器'
@@ -185,3 +190,15 @@ view.remove_ads.error.unknown_error: '發生了未知錯誤。'
 view.remove_ads.error.title: 發生錯誤
 view.remove_ads.button.join_server: 加入支持伺服器
 view.remove_ads.button.okay: 確定
+view.promote.introduction.promote_your_bot.title: Promote your bot
+view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.how_it_works.title: How it works
+view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
+view.promote.introduction.track_your_ads.title: Track your ads
+view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.get_started.button: Get Started
+view.login.erorr.title: An error occurred while logging you in
+view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.retry.button: 請重試
+view.login.error.support_server.button: 支持伺服器
+view.login.logging_in.title: Logging you in
