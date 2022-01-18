@@ -46,6 +46,11 @@ global.rate_dialog.subtitle: Nee.
 global.rate_dialog.button.rate: Ja
 global.rate_dialog.button.no_thanks: Hoi
 global.rate_dialog.button.maybe_later: Dag
+global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.subtitle: Promoted
+global.pop_up_menu_button.remove_ads.button: Remove Ads
+global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.privacy_policy.button: Privacy Policy
 view.bot.add.button: Morgen
 view.bot.chip.prefix: 'Idioot'
 view.bot.chip.servers: 'Hoer'
@@ -185,3 +190,15 @@ view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: An Error Occurred
 view.remove_ads.button.join_server: Join Support Server
 view.remove_ads.button.okay: Okay
+view.promote.introduction.promote_your_bot.title: Promote your bot
+view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.how_it_works.title: How it works
+view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
+view.promote.introduction.track_your_ads.title: Track your ads
+view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.get_started.button: Get Started
+view.login.erorr.title: An error occurred while logging you in
+view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.retry.button: Retry
+view.login.error.support_server.button: Support Server
+view.login.logging_in.title: Logging you in
