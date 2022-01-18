@@ -192,13 +192,13 @@ view.remove_ads.button.join_server: Destek Sunucusuna Katıl
 view.remove_ads.button.okay: Tamam
 view.promote.introduction.promote_your_bot.title: Botunu Tanıt
 view.promote.introduction.promote_your_bot.body: Trafiğini ve sunucu sayısını artırmak için botunuzu uygulama aracılığıyla tanıtın.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.erorr.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.how_it_works.title: Nasıl çalışır?
+view.promote.introduction.how_it_works.body: Botunuzu tanıtmak için keşfet sayfasındaki birçok yerden birini seçin.
+view.promote.introduction.track_your_ads.title: Reklamlarınızı takip edin
+view.promote.introduction.track_your_ads.body: Reklamlarınızın canlı bir pano aracılığıyla nasıl performans gösterdiğini izleyin.
+view.promote.get_started.button: Başla
+view.login.erorr.title: Oturum açarken bir sorun oluştu
+view.login.error.subtitle: Lütfen tekrar deneyin veya oturum açma konusunda yardım almak için aşağıdaki destek sunucusuna katılın.
 view.login.error.retry.button: Tekrar Dene
 view.login.error.support_server.button: Destek Sunucusu
-view.login.logging_in.title: Logging you in
+view.login.logging_in.title: Giriş yapılıyor
