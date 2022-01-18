@@ -46,10 +46,10 @@ global.rate_dialog.subtitle: Bu uygulamayı sevdiysen, lütfen inceleme yazmak i
 global.rate_dialog.button.rate: OYLA
 global.rate_dialog.button.no_thanks: HAYIR TEŞEKKÜRLER
 global.rate_dialog.button.maybe_later: DAHA SONRA
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Botuna Burada Reklam Ver!
+global.promoted_bot.subtitle: Reklam Verildi
 global.pop_up_menu_button.remove_ads.button: Reklamları Kaldır
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Reklam Ver
 global.pop_up_menu_button.privacy_policy.button: Gizlilik Politikası
 view.bot.add.button: EKLE
 view.bot.chip.prefix: 'Prefix: {}'
@@ -95,7 +95,7 @@ view.explore.new.subtitle: Yeni eklenen botlar
 view.explore.most_voted.title: En Çok Oy Alanlar
 view.explore.most_voted.subtitle: Bu ay en çok oy alan botlar
 view.explore.most_popular.title: En Popüler
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.subtitle: En fazla sunucuda bulunan Botlar
 view.explore.see_all.button: Hepsini Gör
 view.explore.categories.title: Kategorileri Keşfet
 view.explore.category.subtitle: '{} kategorisindeki botlar'
@@ -190,8 +190,8 @@ view.remove_ads.error.unknown_error: 'Bilinmeyen bir hata oluştu: {}.'
 view.remove_ads.error.title: Bir Hata Oluştu
 view.remove_ads.button.join_server: Destek Sunucusuna Katıl
 view.remove_ads.button.okay: Tamam
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.promote_your_bot.title: Botunu Tanıt
+view.promote.introduction.promote_your_bot.body: Trafiğini ve sunucu sayısını artırmak için botunuzu uygulama aracılığıyla tanıtın.
 view.promote.introduction.how_it_works.title: How it works
 view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
 view.promote.introduction.track_your_ads.title: Track your ads
