@@ -46,6 +46,11 @@ global.rate_dialog.subtitle: 이 앱이 마음에 드신다면, 잠시 시간을
 global.rate_dialog.button.rate: 평가하러 가기
 global.rate_dialog.button.no_thanks: 괜찮아요
 global.rate_dialog.button.maybe_later: 나중에 평가할게요
+global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.subtitle: Promoted
+global.pop_up_menu_button.remove_ads.button: 광고 제거하기
+global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.privacy_policy.button: 개인정보 취급방침
 view.bot.add.button: 봇 추가하기
 view.bot.chip.prefix: '접두사: {}'
 view.bot.chip.servers: '{} 개의 서버에서 활동중'
@@ -185,3 +190,15 @@ view.remove_ads.error.unknown_error: '알 수 없는 오류가 발생했어요: 
 view.remove_ads.error.title: 오류가 발생했어요
 view.remove_ads.button.join_server: 지원 서버 접속하기
 view.remove_ads.button.okay: 확인
+view.promote.introduction.promote_your_bot.title: Promote your bot
+view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.how_it_works.title: How it works
+view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
+view.promote.introduction.track_your_ads.title: Track your ads
+view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.get_started.button: Get Started
+view.login.erorr.title: An error occurred while logging you in
+view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.retry.button: 다시 시도하기
+view.login.error.support_server.button: 지원 서버 접속하기
+view.login.logging_in.title: Logging you in
