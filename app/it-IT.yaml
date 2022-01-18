@@ -195,10 +195,10 @@ view.promote.introduction.promote_your_bot.body: Promuovi il tuo bot attraverso 
 view.promote.introduction.how_it_works.title: Come funziona
 view.promote.introduction.how_it_works.body: Scegli una dei molti slot nella pagina esplora per promuovere il tuo bot.
 view.promote.introduction.track_your_ads.title: Traccia i tuoi annunci
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.introduction.track_your_ads.body: Monitora come le tue pubblicitá stanno performando tramite una dashboard dal vivo.
 view.promote.get_started.button: Inizia
-view.login.erorr.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.erorr.title: Un errore è accaduto mentre stavi accedendo
+view.login.error.subtitle: Perfavore prova ancora o entra nel server di supporto sotto per aiuto con il login.
 view.login.error.retry.button: Riprova
 view.login.error.support_server.button: Server di Assistenza
-view.login.logging_in.title: Logging you in
+view.login.logging_in.title: Entrando
