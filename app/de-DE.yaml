@@ -46,10 +46,10 @@ global.rate_dialog.subtitle: Wenn dir diese App gefällt, nimm dir doch bitte et
 global.rate_dialog.button.rate: Bewerten
 global.rate_dialog.button.no_thanks: Nein Danke
 global.rate_dialog.button.maybe_later: Vielleicht später
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Werbe für deinen Bot hier!
+global.promoted_bot.subtitle: Beworben
 global.pop_up_menu_button.remove_ads.button: Werbung entfernen
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Werben
 global.pop_up_menu_button.privacy_policy.button: Datenschutzbestimmungen
 view.bot.add.button: Hinzufügen
 view.bot.chip.prefix: 'Präfix: {}'
@@ -95,7 +95,7 @@ view.explore.new.subtitle: Kürzlich hinzugefügte Bots
 view.explore.most_voted.title: Am meisten abgestimmt
 view.explore.most_voted.subtitle: Bots mit den meisten Stimmen in diesem Monat
 view.explore.most_popular.title: Am Beliebtesten
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.subtitle: Bots in den meisten Servern
 view.explore.see_all.button: Alle sehen
 view.explore.categories.title: Kategororien durchsuchen
 view.explore.category.subtitle: Bots in der Kategorie {}
