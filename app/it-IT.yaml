@@ -52,7 +52,7 @@ global.pop_up_menu_button.remove_ads.button: Rimuovi Pubblicità
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: Privacy
 view.bot.add.button: AGGIUNGI
-view.bot.chip.prefix: 'Prefix: {}'
+view.bot.chip.prefix: 'Prefisso: {}'
 view.bot.chip.servers: '{} servers'
 view.bot.chip.server: '{} server'
 view.bot.chip.votes: '{} voti'
@@ -92,10 +92,10 @@ view.explore.trending.title: Di Tendenza
 view.explore.trending.subtitle: Nuovi bot che stanno guadagnando popolarità in fretta
 view.explore.new.title: Nuovi Bot
 view.explore.new.subtitle: Aggiunti di recente
-view.explore.most_voted.title: I più votati
+view.explore.most_voted.title: I più Votati
 view.explore.most_voted.subtitle: Bot con il maggior numero di voti questo mese
 view.explore.most_popular.title: Più Popolare
-view.explore.most_popular.subtitle: Bot nella maggior parte dei server
+view.explore.most_popular.subtitle: Bots in the most servers
 view.explore.see_all.button: Mostra Altro
 view.explore.categories.title: Esplora Categorie
 view.explore.category.subtitle: Bots nella categoria {}
