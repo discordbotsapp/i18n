@@ -46,10 +46,10 @@ global.rate_dialog.subtitle: Dacă îți place această aplicație, te rugăm s�
 global.rate_dialog.button.rate: EVALUEAZĂ
 global.rate_dialog.button.no_thanks: NU MERSI
 global.rate_dialog.button.maybe_later: POATE MAI TARZIU
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Promovează-ți Botul Aici!
+global.promoted_bot.subtitle: Promovat
 global.pop_up_menu_button.remove_ads.button: Elimină reclamele
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Promovează
 global.pop_up_menu_button.privacy_policy.button: Politică de Confidenţialitate
 view.bot.add.button: ADAUGĂ
 view.bot.chip.prefix: 'Prefix-ul: {}'
