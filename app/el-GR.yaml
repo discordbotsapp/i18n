@@ -46,6 +46,11 @@ global.rate_dialog.subtitle: Αν σας αρέσει η εφαρμογή, πα�
 global.rate_dialog.button.rate: ΑΞΙΟΛΟΓΉΣΤΕ
 global.rate_dialog.button.no_thanks: ΌΧΙ ΕΥΧΑΡΙΣΤΏ
 global.rate_dialog.button.maybe_later: ΊΣΩΣ ΑΡΓΌΤΕΡΑ
+global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.subtitle: Promoted
+global.pop_up_menu_button.remove_ads.button: Κατάργηση διαφημίσεων
+global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.privacy_policy.button: Πολιτική Απορρήτου
 view.bot.add.button: ΠΡΟΣΘΉΚΗ
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} διακομιστές'
@@ -185,3 +190,15 @@ view.remove_ads.error.unknown_error: 'Παρουσιάστηκε ένα σφάλ
 view.remove_ads.error.title: Παρουσιάστηκε ένα Σφάλμα
 view.remove_ads.button.join_server: Μπες στον διακομιστή υποστήριξής μας
 view.remove_ads.button.okay: Εντάξει
+view.promote.introduction.promote_your_bot.title: Promote your bot
+view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.how_it_works.title: How it works
+view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
+view.promote.introduction.track_your_ads.title: Track your ads
+view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.get_started.button: Get Started
+view.login.erorr.title: An error occurred while logging you in
+view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.retry.button: Επανάληψη
+view.login.error.support_server.button: Διακομιστής Υποστήριξης
+view.login.logging_in.title: Logging you in

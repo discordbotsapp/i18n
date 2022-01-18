@@ -46,6 +46,11 @@ global.rate_dialog.subtitle: Если вам нравится это прило�
 global.rate_dialog.button.rate: ОЦЕНИТЬ
 global.rate_dialog.button.no_thanks: НЕТ, СПАСИБО
 global.rate_dialog.button.maybe_later: ПОЗЖЕ
+global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.subtitle: Promoted
+global.pop_up_menu_button.remove_ads.button: Убрать рекламу
+global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.privacy_policy.button: Политика конфиденциальности
 view.bot.add.button: ДОБАВИТЬ
 view.bot.chip.prefix: 'Префикс: {}'
 view.bot.chip.servers: '{} серверов'
@@ -185,3 +190,15 @@ view.remove_ads.error.unknown_error: 'Произошла неизвестная 
 view.remove_ads.error.title: Произошла ошибка
 view.remove_ads.button.join_server: Присоединиться к серверу поддержки
 view.remove_ads.button.okay: Окей
+view.promote.introduction.promote_your_bot.title: Promote your bot
+view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.how_it_works.title: How it works
+view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
+view.promote.introduction.track_your_ads.title: Track your ads
+view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.get_started.button: Get Started
+view.login.erorr.title: An error occurred while logging you in
+view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.retry.button: Повторить
+view.login.error.support_server.button: Сервер поддержки
+view.login.logging_in.title: Logging you in
