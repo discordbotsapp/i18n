@@ -133,7 +133,7 @@ view.settings.theme.dark.radio: Σκοτεινό
 view.settings.theme.light.radio: Φωτεινό
 view.settings.language.title: Γλώσσα
 view.settings.language.placeholder: Επιλέξτε μια γλώσσα
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: Βοηθήστε στη μετάφραση της εφαρμογής
 view.settings.support.title: Υποστήριξη
 view.settings.support.support_server.button: Διακομιστής Υποστήριξης
 view.settings.support.report_a_bug.button: Αναφορά Σφάλματος
@@ -189,7 +189,7 @@ view.remove_ads.error.purchase_in_progress: Αυτή η αγορά είναι ή
 view.remove_ads.error.product_already_purchased: Αυτό το προϊόν έχει ήδη αγοραστεί.
 view.remove_ads.error.unknown_error: 'Παρουσιάστηκε ένα σφάλμα: {}.'
 view.remove_ads.error.title: Παρουσιάστηκε ένα Σφάλμα
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
+view.remove_ads.error.not_logging_in: Πρέπει να είστε συνδεμένοι για να αγοράσετε αυτό το προϊόν.
 view.remove_ads.button.join_server: Μπες στον διακομιστή υποστήριξής μας
 view.remove_ads.button.okay: Εντάξει
 view.promote.introduction.promote_your_bot.title: Προωθήστε το bot σας
