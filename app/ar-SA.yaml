@@ -133,6 +133,7 @@ view.settings.theme.dark.radio: مظلم
 view.settings.theme.light.radio: فاتح
 view.settings.language.title: اللغة
 view.settings.language.placeholder: اختر لغة
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: مساندة
 view.settings.support.support_server.button: خادم الدعم
 view.settings.support.report_a_bug.button: الإبلاغ عن خطأ
@@ -188,6 +189,7 @@ view.remove_ads.error.purchase_in_progress: عملية الشراء هذه قي�
 view.remove_ads.error.product_already_purchased: تم بالفعل شراء هذا المنتج.
 view.remove_ads.error.unknown_error: 'حدث خطأ غير معروف: {}.'
 view.remove_ads.error.title: حصل خطأ
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: انضم إلى خادم الدعم
 view.remove_ads.button.okay: حسناً
 view.promote.introduction.promote_your_bot.title: Promote your bot
