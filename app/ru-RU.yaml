@@ -13,6 +13,7 @@ global.app_bar.language: Язык
 global.app_bar.report: 'Пожаловаться на {}'
 global.app_bar.categories: Категории
 global.app_bar.remove_ads: Убрать рекламу
+global.app_bar.promote: Promote
 global.tag.music: Музыка
 global.tag.pokemon: Покемон #KEEP AS IS
 global.tag.soundboard: Soundboard

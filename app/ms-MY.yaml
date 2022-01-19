@@ -13,6 +13,7 @@ global.app_bar.language: Bahasa
 global.app_bar.report: 'Melaporkan {}'
 global.app_bar.categories: Kategori
 global.app_bar.remove_ads: Membuang Iklan
+global.app_bar.promote: Promote
 global.tag.music: Muzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Papan bunyi
