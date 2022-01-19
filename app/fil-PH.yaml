@@ -133,6 +133,7 @@ view.settings.theme.dark.radio: Dilim
 view.settings.theme.light.radio: Ilaw
 view.settings.language.title: Language
 view.settings.language.placeholder: Pumili ng wika
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Supporta
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: I-report ang isang bug
@@ -188,6 +189,7 @@ view.remove_ads.error.purchase_in_progress: Isinasagawa na ang pagbiling ito. Pa
 view.remove_ads.error.product_already_purchased: Ang produktong ito ay nabili na.
 view.remove_ads.error.unknown_error: 'Isang hindi kilalang error ang naganap: {}.'
 view.remove_ads.error.title: May pagkakamaling naganap
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Sumali sa Server ng Suporta
 view.remove_ads.button.okay: Sige
 view.promote.introduction.promote_your_bot.title: Promote your bot

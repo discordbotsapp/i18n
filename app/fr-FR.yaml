@@ -133,6 +133,7 @@ view.settings.theme.dark.radio: Dark
 view.settings.theme.light.radio: Light
 view.settings.language.title: Langue
 view.settings.language.placeholder: Choose a language
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Report A Bug
@@ -188,6 +189,7 @@ view.remove_ads.error.purchase_in_progress: This purchase is already in progress
 view.remove_ads.error.product_already_purchased: Cet article a déjà été acheté.
 view.remove_ads.error.unknown_error: 'Une erreur inconnue s''est produite : {}.'
 view.remove_ads.error.title: Une erreur s'est produite
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Rejoignez notre serveur de support
 view.remove_ads.button.okay: Okay
 view.promote.introduction.promote_your_bot.title: Promote your bot
