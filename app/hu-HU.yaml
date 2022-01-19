@@ -13,6 +13,7 @@ global.app_bar.language: Nyelv
 global.app_bar.report: '{} bejelentése'
 global.app_bar.categories: Kategóriák
 global.app_bar.remove_ads: Hirdetések Eltávolítása
+global.app_bar.promote: Promote
 global.tag.music: Zene
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Soundboard
