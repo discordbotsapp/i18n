@@ -133,6 +133,7 @@ view.settings.theme.dark.radio: Dunkel
 view.settings.theme.light.radio: Hell
 view.settings.language.title: Sprache
 view.settings.language.placeholder: Wähle eine Sprache
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Hilfe
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Melde einen Fehler
@@ -188,6 +189,7 @@ view.remove_ads.error.purchase_in_progress: Dieser Kauf ist bereits im Gange. Bi
 view.remove_ads.error.product_already_purchased: Dieses Produkt wurde bereits gekauft.
 view.remove_ads.error.unknown_error: 'Ein unbekannter Fehler ist aufgetreten: {}.'
 view.remove_ads.error.title: Ein Fehler ist aufgetreten
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Trete unserem Support Server bei
 view.remove_ads.button.okay: Okay
 view.promote.introduction.promote_your_bot.title: Werbe für deinen Bot
