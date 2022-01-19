@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots Discord
 global.navbar.explore: Tuklasin
 global.navbar.top_charts: Top charts
 global.navbar.account: Kwenta / Tuos
@@ -168,7 +168,7 @@ view.search.title: Maghanap
 view.search.subtitle.noQuery: Maghanap ng bots...
 view.search.subtitle.query: Pinapakita ang results para sa {}
 view.search.none: Walang resultang nakita
-view.welcome.title: Discord Bots
+view.welcome.title: Bots Discord
 view.welcome.subtitle: Mag-browse sa {}+ Discord bots! Magsimula sa pamamagitan ng pag-log in gamit ang iyong Discord account.
 view.welcome.login.button: Mag-login gamit ang Discord
 view.welcome.skip.button: Laktawan muna ngayon
