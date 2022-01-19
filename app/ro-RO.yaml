@@ -46,10 +46,10 @@ global.rate_dialog.subtitle: Dacă îți place această aplicație, te rugăm s�
 global.rate_dialog.button.rate: EVALUEAZĂ
 global.rate_dialog.button.no_thanks: NU MERSI
 global.rate_dialog.button.maybe_later: POATE MAI TARZIU
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Promovează-ți Botul Aici!
+global.promoted_bot.subtitle: Promovat
 global.pop_up_menu_button.remove_ads.button: Elimină reclamele
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Promovează
 global.pop_up_menu_button.privacy_policy.button: Politică de Confidenţialitate
 view.bot.add.button: ADAUGĂ
 view.bot.chip.prefix: 'Prefix-ul: {}'
@@ -95,7 +95,7 @@ view.explore.new.subtitle: Boți adăugați recent
 view.explore.most_voted.title: Cei mai votați
 view.explore.most_voted.subtitle: Boți cu cele mai multe voturi în această lună
 view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in this most servers
+view.explore.most_popular.subtitle: Boți frecvent întâlniți
 view.explore.see_all.button: Vezi tot
 view.explore.categories.title: Explorează Categorii
 view.explore.category.subtitle: Boți în categoria {}
@@ -190,15 +190,15 @@ view.remove_ads.error.unknown_error: 'A apărut o eroare necunoscută: {}.'
 view.remove_ads.error.title: A apărut o eroare
 view.remove_ads.button.join_server: Alătură-te serverului de asistență
 view.remove_ads.button.okay: Okay
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.erorr.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: Promovează-ți Botul
+view.promote.introduction.promote_your_bot.body: Promovează-ți botul in aplicația noastră pentru a-ți creștere numărul de servere in mod natural.
+view.promote.introduction.how_it_works.title: Cum funcționează
+view.promote.introduction.how_it_works.body: Alegeți unul dintre multele sloturi de pe pagina de explorare pentru a promova botul pornit.
+view.promote.introduction.track_your_ads.title: Urmărește-ți promovările
+view.promote.introduction.track_your_ads.body: Monitorizează cât de performante sunt anunțurile tale prin website-ul nostru.
+view.promote.get_started.button: Începe
+view.login.erorr.title: A apărut o eroare în timpul autentificării
+view.login.error.subtitle: Te rog să încerci din nou sau alătura-te serverului pentru a obtine ajutor.
 view.login.error.retry.button: Reîncercați
 view.login.error.support_server.button: Server de asistență
-view.login.logging_in.title: Logging you in
+view.login.logging_in.title: Se procesează cererea

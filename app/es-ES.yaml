@@ -46,10 +46,10 @@ global.rate_dialog.subtitle: Si te gusta esta aplicación, por favor toma un mom
 global.rate_dialog.button.rate: EVALUAR
 global.rate_dialog.button.no_thanks: NO GRACIAS
 global.rate_dialog.button.maybe_later: QUIZÁS DESPUÉS
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: '¡Anuncia tu bot aquí!'
+global.promoted_bot.subtitle: Promocionado
 global.pop_up_menu_button.remove_ads.button: Quitar Anuncios
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Anunciar
 global.pop_up_menu_button.privacy_policy.button: Política de Privacidad
 view.bot.add.button: AGREGAR
 view.bot.chip.prefix: 'Prefijo: {}'
@@ -94,8 +94,8 @@ view.explore.new.title: Nuevo
 view.explore.new.subtitle: Bots añadidos recientemente
 view.explore.most_voted.title: Más Votados
 view.explore.most_voted.subtitle: Bots con más votos este mes
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in this most servers
+view.explore.most_popular.title: Más Popular
+view.explore.most_popular.subtitle: Bots en más servidores
 view.explore.see_all.button: Ver Todo
 view.explore.categories.title: Explorar Categorías
 view.explore.category.subtitle: Bots en la categoría de {}
@@ -190,15 +190,15 @@ view.remove_ads.error.unknown_error: 'Ocurrió un error desconocido: {}.'
 view.remove_ads.error.title: Ocurrió un error
 view.remove_ads.button.join_server: Únete al Servidor de Soporte
 view.remove_ads.button.okay: Aceptar
-view.promote.introduction.promote_your_bot.title: Promote your bot
+view.promote.introduction.promote_your_bot.title: Promociona tu bot
 view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
+view.promote.introduction.how_it_works.title: Cómo funciona
 view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
 view.promote.introduction.track_your_ads.title: Track your ads
 view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
+view.promote.get_started.button: Comenzar
 view.login.erorr.title: An error occurred while logging you in
 view.login.error.subtitle: Please try again or join the support server below for help with logging in.
 view.login.error.retry.button: Reintentar
 view.login.error.support_server.button: Servidor de Soporte
-view.login.logging_in.title: Logging you in
+view.login.logging_in.title: Iniciando sesión

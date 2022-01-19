@@ -23,9 +23,9 @@ global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: 社交
 global.tag.fun: 楽しい
-global.tag.economy: Economy
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
+global.tag.economy: 経済
+global.tag.anime: キャラクター #KEEP AS IS
+global.tag.game: ゲーム
 global.tag.meme: Meme
 global.tag.leveling: Leveling
 global.tag.roleplay: Roleplay
@@ -95,7 +95,7 @@ view.explore.new.subtitle: Recently added bots
 view.explore.most_voted.title: Most Voted
 view.explore.most_voted.subtitle: Bots with the most votes this month
 view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in this most servers
+view.explore.most_popular.subtitle: Bots in the most servers
 view.explore.see_all.button: See All
 view.explore.categories.title: Explore Categories
 view.explore.category.subtitle: Bots in the {} category

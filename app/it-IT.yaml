@@ -46,14 +46,14 @@ global.rate_dialog.subtitle: Se ti sta piacendo l'app, dacci un minuto del tuo t
 global.rate_dialog.button.rate: VOTA
 global.rate_dialog.button.no_thanks: NO GRAZIE
 global.rate_dialog.button.maybe_later: MAGARI DOPO
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Pubblicizza Il Tuo Bot Qui!
+global.promoted_bot.subtitle: Promosso
 global.pop_up_menu_button.remove_ads.button: Rimuovi Pubblicità
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Pubblicizza
 global.pop_up_menu_button.privacy_policy.button: Privacy
 view.bot.add.button: AGGIUNGI
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
+view.bot.chip.prefix: 'Prefisso: {}'
+view.bot.chip.servers: '{} server'
 view.bot.chip.server: '{} server'
 view.bot.chip.votes: '{} voti'
 view.bot.chip.vote: '{} voto'
@@ -92,7 +92,7 @@ view.explore.trending.title: Di Tendenza
 view.explore.trending.subtitle: Nuovi bot che stanno guadagnando popolarità in fretta
 view.explore.new.title: Nuovi Bot
 view.explore.new.subtitle: Aggiunti di recente
-view.explore.most_voted.title: I più votati
+view.explore.most_voted.title: I più Votati
 view.explore.most_voted.subtitle: Bot con il maggior numero di voti questo mese
 view.explore.most_popular.title: Più Popolare
 view.explore.most_popular.subtitle: Bot nella maggior parte dei server
@@ -105,7 +105,7 @@ view.explore.footer.about.button: Informazioni
 view.explore.footer.privacy_policy.button: Privacy
 view.top_charts.most_votes: I Più Votati
 view.top_charts.most_servers: In Più Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
+view.top_charts.bot.subtitle.servers.plural: '{} server'
 view.top_charts.bot.subtitle.votes.plural: '{} voti'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
 view.top_charts.bot.subtitle.votes.singular: '{} voto'
@@ -190,15 +190,15 @@ view.remove_ads.error.unknown_error: 'Si è verificato un errore sconosciuto: {}
 view.remove_ads.error.title: Si è verificato un errore
 view.remove_ads.button.join_server: Unisciti al Server di Supporto
 view.remove_ads.button.okay: Okay
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.erorr.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: Promuovi il tuo bot
+view.promote.introduction.promote_your_bot.body: Promuovi il tuo bot attraverso l'app per aumentare il suo traffico e il numero dei server.
+view.promote.introduction.how_it_works.title: Come funziona
+view.promote.introduction.how_it_works.body: Scegli una dei molti slot nella pagina esplora per promuovere il tuo bot.
+view.promote.introduction.track_your_ads.title: Traccia i tuoi annunci
+view.promote.introduction.track_your_ads.body: Monitora come le tue pubblicitá stanno performando tramite una dashboard dal vivo.
+view.promote.get_started.button: Inizia
+view.login.erorr.title: Si è verificato un errore durante l'accesso
+view.login.error.subtitle: Perfavore prova ancora o entra nel server di supporto sotto per aiuto con il login.
 view.login.error.retry.button: Riprova
 view.login.error.support_server.button: Server di Assistenza
-view.login.logging_in.title: Logging you in
+view.login.logging_in.title: Accedendo
