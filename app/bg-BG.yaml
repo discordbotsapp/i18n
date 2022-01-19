@@ -133,6 +133,7 @@ view.settings.theme.dark.radio: Тъмно
 view.settings.theme.light.radio: Светло
 view.settings.language.title: Език
 view.settings.language.placeholder: Избери език
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Поддръжка
 view.settings.support.support_server.button: Сървър за поддръжка
 view.settings.support.report_a_bug.button: Докладване за грешка
@@ -188,6 +189,7 @@ view.remove_ads.error.purchase_in_progress: Тази покупка вече е 
 view.remove_ads.error.product_already_purchased: Този продукт вече е закупен.
 view.remove_ads.error.unknown_error: 'Възникна неизвестна грешка: {}.'
 view.remove_ads.error.title: Възникна грешка
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Сървър за поддръжка
 view.remove_ads.button.okay: Добре
 view.promote.introduction.promote_your_bot.title: Promote your bot
