@@ -13,6 +13,7 @@ global.app_bar.language: 言語
 global.app_bar.report: '報告する'
 global.app_bar.categories: カテゴリ
 global.app_bar.remove_ads: Remove Ads
+global.app_bar.promote: Promote
 global.tag.music: 音楽
 global.tag.pokemon: ポケットモンスター #KEEP AS IS
 global.tag.soundboard: サウンドボード
