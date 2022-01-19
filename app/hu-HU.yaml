@@ -133,6 +133,7 @@ view.settings.theme.dark.radio: Sötét
 view.settings.theme.light.radio: Világos
 view.settings.language.title: Nyelv
 view.settings.language.placeholder: Nyelv kiválasztása
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Támogatás
 view.settings.support.support_server.button: Támogatási Szerver
 view.settings.support.report_a_bug.button: Hibajelentés
@@ -188,6 +189,7 @@ view.remove_ads.error.purchase_in_progress: This purchase is already in progress
 view.remove_ads.error.product_already_purchased: This product has already been purchased.
 view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: An Error Occurred
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Join Support Server
 view.remove_ads.button.okay: Rendben
 view.promote.introduction.promote_your_bot.title: Promote your bot
