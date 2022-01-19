@@ -13,6 +13,7 @@ global.app_bar.language: Sprache
 global.app_bar.report: 'Melden {}'
 global.app_bar.categories: Kategorien
 global.app_bar.remove_ads: Werbung entfernen
+global.app_bar.promote: Promote
 global.tag.music: Musik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
