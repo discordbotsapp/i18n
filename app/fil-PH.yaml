@@ -13,6 +13,7 @@ global.app_bar.language: Language
 global.app_bar.report: 'Ulat {}'
 global.app_bar.categories: Kategorya
 global.app_bar.remove_ads: Tanggalin ang ads
+global.app_bar.promote: Promote
 global.tag.music: Musika
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
