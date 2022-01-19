@@ -53,7 +53,7 @@ global.pop_up_menu_button.advertise.button: Pubblicizza
 global.pop_up_menu_button.privacy_policy.button: Privacy
 view.bot.add.button: AGGIUNGI
 view.bot.chip.prefix: 'Prefisso: {}'
-view.bot.chip.servers: '{} servers'
+view.bot.chip.servers: '{} server'
 view.bot.chip.server: '{} server'
 view.bot.chip.votes: '{} voti'
 view.bot.chip.vote: '{} voto'
@@ -105,7 +105,7 @@ view.explore.footer.about.button: Informazioni
 view.explore.footer.privacy_policy.button: Privacy
 view.top_charts.most_votes: I Più Votati
 view.top_charts.most_servers: In Più Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
+view.top_charts.bot.subtitle.servers.plural: '{} server'
 view.top_charts.bot.subtitle.votes.plural: '{} voti'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
 view.top_charts.bot.subtitle.votes.singular: '{} voto'
