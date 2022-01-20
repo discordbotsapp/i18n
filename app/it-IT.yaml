@@ -128,14 +128,14 @@ view.favorites.none: Non hai nessun bot preferito
 view.add_bot.title: Aggiungi Bot
 view.add_bot.subtitle: Aggiungi il tuo bot in una delle lista presenti qua sotto, per aggiungere il tuo bot automaticamente anche nell'app.
 view.add_bot.note: 'Nota: Il tuo bot potrebbe non apparire subito dopo averlo aggiunto in un''altra lista di bot.'
-view.settings.theme.title: Aspetto
+view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistema
 view.settings.theme.dark.radio: Scuro
 view.settings.theme.light.radio: Chiaro
 view.settings.language.title: Lingua
 view.settings.language.placeholder: Scegli una lingua
 view.settings.language.help_translate.button: Aiuta a tradurre l'app
-view.settings.support.title: Assistenza
+view.settings.support.title: Supporto
 view.settings.support.support_server.button: Server di Assistenza
 view.settings.support.report_a_bug.button: Segnala Un Bug
 view.settings.account.title: Account
@@ -163,7 +163,7 @@ view.no_internet.retry: Riprova
 view.bot.reported.title: '{} Segnalato'
 view.bot.reported.subtitle: 'Hai segnalato con successo {} per i seguenti motivi:'
 view.bot.reported.button.okay: Okay
-view.user.bots: Bots
+view.user.bots: Bot
 view.search.hint: Cerca...
 view.search.title: Cerca
 view.search.subtitle.noQuery: Cerca un bot...
@@ -178,10 +178,10 @@ view.remove_ads.subtitle: Rimuovi tutte le pubblicità
 view.remove_ads.error.load_product: Si è verificato un errore sconosciuto durante il caricamento del prodotto.
 view.remove_ads.error.verify_purchase: Si è verificato un errore sconosciuto durante la verifica dell'acquisto.
 view.remove_ads.error.try_again: Si prega di riprovare più tardi o di unirti al nostro server di supporto.
-view.remove_ads.error.join_server: Unisciti al server di supporto.
+view.remove_ads.error.join_server: Per favore unisciti al server di supporto.
 view.remove_ads.purchase: Acquista
 view.remove_ads.thank_you.title: Grazie per il vostro acquisto
-view.remove_ads.thank_you.subtitle: Tutti gli elementi pubblicitari sono stati rimossi
+view.remove_ads.thank_you.subtitle: Tutti gli annunci sono stati rimossi
 view.remove_ads.error.store_problem: Si è verificato un problema con il negozio.
 view.remove_ads.error.try_again_later: Riprova più tardi.
 view.remove_ads.error.purchase_not_allowed: Questo dispositivo o utente non è autorizzato ad effettuare l'acquisto.
