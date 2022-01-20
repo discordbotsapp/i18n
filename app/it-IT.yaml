@@ -97,9 +97,9 @@ view.explore.most_voted.title: I più Votati
 view.explore.most_voted.subtitle: Bot con il maggior numero di voti questo mese
 view.explore.most_popular.title: Più Popolare
 view.explore.most_popular.subtitle: Bot nella maggior parte dei server
-view.explore.see_all.button: Mostra Altro
+view.explore.see_all.button: Mostra Tutto
 view.explore.categories.title: Esplora Categorie
-view.explore.category.subtitle: Bots nella categoria {}
+view.explore.category.subtitle: Bot nella categoria {}
 view.explore.footer.support_server.button: Server di Assistenza
 view.explore.footer.bug_report.button: Segnala Bug
 view.explore.footer.about.button: Informazioni
@@ -126,7 +126,7 @@ view.favorites.title: Preferiti
 view.favorites.subtitle: Aggiungi un bot tra i tuoi preferiti cliccando sul cuore presente nella pagina del bot
 view.favorites.none: Non hai nessun bot preferito
 view.add_bot.title: Aggiungi Bot
-view.add_bot.subtitle: Aggiungi il tuo bot in una delle lista presenti qua sotto, per aggiungere il tuo bot automaticamente anche nell'app.
+view.add_bot.subtitle: Aggiungi il tuo bot a una lista di terze parti per aggiungerlo automaticamente all'app.
 view.add_bot.note: 'Nota: Il tuo bot potrebbe non apparire subito dopo averlo aggiunto in un''altra lista di bot.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistema
