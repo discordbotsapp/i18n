@@ -194,14 +194,14 @@ view.remove_ads.error.not_logging_in: Debes iniciar sesión para comprar este pr
 view.remove_ads.button.join_server: Únete al Servidor de Soporte
 view.remove_ads.button.okay: Aceptar
 view.promote.introduction.promote_your_bot.title: Promociona tu bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.promote_your_bot.body: Promociona tu bot a través de la app para aumentar su tráfico y número de servidores.
 view.promote.introduction.how_it_works.title: Cómo funciona
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.introduction.how_it_works.body: Escoje uno de muchos espacios en la página principal para promocionar tu bot.
+view.promote.introduction.track_your_ads.title: Da seguimiento a tus anuncios
+view.promote.introduction.track_your_ads.body: Monitorea las estadisticas de tus anuncios a través de un panel en vivo.
 view.promote.get_started.button: Comenzar
-view.login.erorr.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.erorr.title: Ocurrió un error al intentar iniciar sesión
+view.login.error.subtitle: Por favor intenta de nuevo o únete al servidor de soporte abajo para obtener ayuda con el inicio de sesión.
 view.login.error.retry.button: Reintentar
 view.login.error.support_server.button: Servidor de Soporte
 view.login.logging_in.title: Iniciando sesión
