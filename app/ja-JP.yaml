@@ -13,7 +13,7 @@ global.app_bar.language: 言語
 global.app_bar.report: '報告する'
 global.app_bar.categories: カテゴリ
 global.app_bar.remove_ads: Remove Ads
-global.app_bar.promote: Promote
+global.app_bar.promote: 促進
 global.tag.music: 音楽
 global.tag.pokemon: ポケットモンスター #KEEP AS IS
 global.tag.soundboard: サウンドボード
@@ -27,8 +27,8 @@ global.tag.fun: 楽しい
 global.tag.economy: 経済
 global.tag.anime: キャラクター #KEEP AS IS
 global.tag.game: ゲーム
-global.tag.meme: Meme
-global.tag.leveling: Leveling
+global.tag.meme: ミーム
+global.tag.leveling: レベリング
 global.tag.roleplay: Roleplay
 global.tag.logging: Logging
 global.tag.utility: Utility
