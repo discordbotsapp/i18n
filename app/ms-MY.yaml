@@ -200,7 +200,7 @@ view.promote.introduction.how_it_works.body: Choose one of many slots on the exp
 view.promote.introduction.track_your_ads.title: Track your ads
 view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
 view.promote.get_started.button: Get Started
-view.login.erorr.title: An error occurred while logging you in
+view.login.error.title: An error occurred while logging you in
 view.login.error.subtitle: Please try again or join the support server below for help with logging in.
 view.login.error.retry.button: Cuba lagi
 view.login.error.support_server.button: Pelayan Pertolongan
