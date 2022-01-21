@@ -118,6 +118,7 @@ view.account.my_bots.button: Τα Bots Μου
 view.account.favorites.button: Αγαπημένα
 view.account.add_bot.button: Προσθήκη Bot
 view.account.remove_ads.button: Κατάργηση διαφημίσεων
+view.account.advertise.button: Διαφημίστε
 view.account.settings.button: Ρυθμίσεις
 view.my_bots.title: Τα Bots Μου
 view.my_bots.subtitle: Τα bot που ανήκουν σε εσάς. Μπορείτε να προσθέσετε το δικό σας bot κάνοντας κλικ στο κουμπί Προσθήκη bot στη σελίδα του λογαριασμού. #Keep capitalization consistent
