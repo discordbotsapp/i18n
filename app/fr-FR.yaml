@@ -118,6 +118,7 @@ view.account.my_bots.button: Mes Bots
 view.account.favorites.button: Favoris
 view.account.add_bot.button: Ajouter un Bot
 view.account.remove_ads.button: Enlever la publicité
+view.account.advertise.button: Advertise
 view.account.settings.button: Réglages
 view.my_bots.title: Mes Bots
 view.my_bots.subtitle: Les robots que vous possédez. Vous pouvez ajouter votre propre bot en cliquant sur le bouton Ajouter un bot dans la page Compte. #Keep capitalization consistent

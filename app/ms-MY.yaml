@@ -118,6 +118,7 @@ view.account.my_bots.button: Bot Saya
 view.account.favorites.button: Kegemaran
 view.account.add_bot.button: Tambah Bot
 view.account.remove_ads.button: Membuang Iklan
+view.account.advertise.button: Advertise
 view.account.settings.button: Tetapan
 view.my_bots.title: Bot Saya
 view.my_bots.subtitle: Bot yang anda miliki. Anda boleh menambah bot anda dengan menggunakan butang Menambah Bot di halaman Akaun. #Keep capitalization consistent

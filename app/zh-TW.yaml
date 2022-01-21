@@ -118,6 +118,7 @@ view.account.my_bots.button: 我的機器人
 view.account.favorites.button: 我的最愛
 view.account.add_bot.button: 添加機器人
 view.account.remove_ads.button: 刪除廣告
+view.account.advertise.button: Advertise
 view.account.settings.button: 設置
 view.my_bots.title: 我的機器人
 view.my_bots.subtitle: 你擁有的機器人。你可以通過點擊帳戶頁面中的“添加機器人”按鈕添加你自己的機器人。 #Keep capitalization consistent

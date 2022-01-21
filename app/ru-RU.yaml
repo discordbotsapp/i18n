@@ -118,6 +118,7 @@ view.account.my_bots.button: Мои боты
 view.account.favorites.button: Избранное
 view.account.add_bot.button: Добавить бота
 view.account.remove_ads.button: Убрать рекламу
+view.account.advertise.button: Advertise
 view.account.settings.button: Настройки
 view.my_bots.title: Мои боты
 view.my_bots.subtitle: Боты, принадлежащие Вам. Вы можете добавить своего бота, нажав кнопку Добавить бота на странице аккаунта. #Keep capitalization consistent

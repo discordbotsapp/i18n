@@ -118,6 +118,7 @@ view.account.my_bots.button: A botjaim
 view.account.favorites.button: Kedvencek
 view.account.add_bot.button: Bot Hozzáadása
 view.account.remove_ads.button: Hirdetések Eltávolítása
+view.account.advertise.button: Advertise
 view.account.settings.button: Beállítások
 view.my_bots.title: A botjaim
 view.my_bots.subtitle: Ezek a botok a tieid. Hozzá tudod adni ha rányomsz a Botok Hozzáadása gombra a Fiók fülön. #Keep capitalization consistent

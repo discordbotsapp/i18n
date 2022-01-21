@@ -118,6 +118,7 @@ view.account.my_bots.button: بۆتەکانم
 view.account.favorites.button: دڵخوازەکان
 view.account.add_bot.button: زیادکردنی بۆت
 view.account.remove_ads.button: لابردنی ڕیکلامەکان
+view.account.advertise.button: Advertise
 view.account.settings.button: رێکخستنەکان
 view.my_bots.title: بۆتەکانم
 view.my_bots.subtitle: بۆتەکان خاوەنداریەتی تۆیان هەیە. دەتوانیت بۆت زیاد بکەیت بە کرتە کردن لەسەر دوگمەی زیادکردنی بۆت لە بەشی ئەژمێر. #Keep capitalization consistent

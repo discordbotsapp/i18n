@@ -118,6 +118,7 @@ view.account.my_bots.button: Bots ko
 view.account.favorites.button: Paborito
 view.account.add_bot.button: Magdagdag ng Bot
 view.account.remove_ads.button: Tanggalin ang ads
+view.account.advertise.button: Advertise
 view.account.settings.button: Settings
 view.my_bots.title: Bots ko
 view.my_bots.subtitle: Mga bot na pagmamay-ari mo. Maaari mong idagdag ang iyong sariling bot sa pamamagitan ng pag-click sa Add Bot button sa pahina ng Account. #Keep capitalization consistent

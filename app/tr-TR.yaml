@@ -118,6 +118,7 @@ view.account.my_bots.button: Botlarım
 view.account.favorites.button: Favorilerim
 view.account.add_bot.button: Bot Ekle
 view.account.remove_ads.button: Reklamları Kaldır
+view.account.advertise.button: Reklam Ver
 view.account.settings.button: Ayarlar
 view.my_bots.title: Botlarım
 view.my_bots.subtitle: Sana ait botlar. Hesabım sayfasındaki Bot Ekle düğmesine tıklayarak kendi botunu ekleyebilirsin. #Keep capitalization consistent

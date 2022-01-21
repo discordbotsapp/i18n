@@ -118,6 +118,7 @@ view.account.my_bots.button: البوت الخاص بي
 view.account.favorites.button: المفضلات
 view.account.add_bot.button: إضافة بوت
 view.account.remove_ads.button: إزالة الإعلانات
+view.account.advertise.button: اعلان
 view.account.settings.button: الإعدادات
 view.my_bots.title: البوت الخاص بي
 view.my_bots.subtitle: البوتات التي تملكها. يمكنك إضافة البوت الخاص بك بالنقر على زر إضافة بوت في صفحة الحساب. #Keep capitalization consistent
