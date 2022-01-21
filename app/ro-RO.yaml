@@ -200,7 +200,7 @@ view.promote.introduction.how_it_works.body: Alegeți unul dintre multele slotur
 view.promote.introduction.track_your_ads.title: Urmărește-ți promovările
 view.promote.introduction.track_your_ads.body: Monitorizează cât de performante sunt anunțurile tale prin website-ul nostru.
 view.promote.get_started.button: Începe
-view.login.error.title: An error occurred while logging you in
+view.login.error.title: A apărut o eroare în timpul autentificării
 view.login.error.subtitle: Te rog să încerci din nou sau alătura-te serverului pentru a obtine ajutor.
 view.login.error.retry.button: Reîncercați
 view.login.error.support_server.button: Server de asistență
