@@ -13,7 +13,7 @@ global.app_bar.language: 언어
 global.app_bar.report: '{} 봇 신고하기'
 global.app_bar.categories: 카테고리
 global.app_bar.remove_ads: 광고 제거하기
-global.app_bar.promote: Promote
+global.app_bar.promote: 홍보
 global.tag.music: 음악
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -47,10 +47,10 @@ global.rate_dialog.subtitle: 이 앱이 마음에 드신다면, 잠시 시간을
 global.rate_dialog.button.rate: 평가하러 가기
 global.rate_dialog.button.no_thanks: 괜찮아요
 global.rate_dialog.button.maybe_later: 나중에 평가할게요
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: 여기에서 봇을 홍보해보세요!
+global.promoted_bot.subtitle: 홍보
 global.pop_up_menu_button.remove_ads.button: 광고 제거하기
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: 광고
 global.pop_up_menu_button.privacy_policy.button: 개인정보 취급방침
 view.bot.add.button: 봇 추가하기
 view.bot.chip.prefix: '접두사: {}'
@@ -95,8 +95,8 @@ view.explore.new.title: 신규
 view.explore.new.subtitle: 최근에 추가된 봇을 만나보세요
 view.explore.most_voted.title: 최다 득표
 view.explore.most_voted.subtitle: 이번 달에 표를 많이 받은 봇을 만나보세요
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.title: 최다 인기
+view.explore.most_popular.subtitle: 많은 서버에 있는 봇을 만나보세요
 view.explore.see_all.button: 모두 보기
 view.explore.categories.title: 카테고리 탐색하기
 view.explore.category.subtitle: '{} 카테고리에 있는 봇을 만나보세요'
@@ -134,7 +134,7 @@ view.settings.theme.dark.radio: 어두운 테마
 view.settings.theme.light.radio: 밝은 테마
 view.settings.language.title: 언어
 view.settings.language.placeholder: 언어 선택하기
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: 앱 번역 돕기
 view.settings.support.title: 지원
 view.settings.support.support_server.button: 지원 서버 접속하기
 view.settings.support.report_a_bug.button: 버그 제보하기
@@ -161,7 +161,7 @@ view.no_internet.title: 인터넷 연결 없음
 view.no_internet.subtitle: 인터넷 연결이 되어있지 않아요. 연결 상태를 확인한 후 다시 시도하세요
 view.no_internet.retry: 다시 시도하기
 view.bot.reported.title: '{} 봇 신고 완료'
-view.bot.reported.subtitle: '{}봇을 다음의 사유로 신고했어요:'
+view.bot.reported.subtitle: '{} 봇을 다음 사유로 신고했어요:'
 view.bot.reported.button.okay: 확인
 view.user.bots: 봇
 view.search.hint: 검색하기...
@@ -190,18 +190,18 @@ view.remove_ads.error.purchase_in_progress: 결제가 이미 진행 중이에요
 view.remove_ads.error.product_already_purchased: 이 상품은 이미 결제되었어요.
 view.remove_ads.error.unknown_error: '알 수 없는 오류가 발생했어요: {}.'
 view.remove_ads.error.title: 오류가 발생했어요
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
+view.remove_ads.error.not_logging_in: 이 상품을 구매하려면 로그인해야 해요.
 view.remove_ads.button.join_server: 지원 서버 접속하기
 view.remove_ads.button.okay: 확인
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
+view.promote.introduction.promote_your_bot.title: 봇을 홍보해봐요
+view.promote.introduction.promote_your_bot.body: 앱을 통해 봇을 홍보해서 봇 점유율과 서버 수를 늘려봐요.
+view.promote.introduction.how_it_works.title: 어떻게 작동하나요?
+view.promote.introduction.how_it_works.body: 탐색 페이지에 있는 많은 공간 중 한 곳을 골라 봇을 홍보할 수 있어요.
+view.promote.introduction.track_your_ads.title: 광고를 추적해보세요
+view.promote.introduction.track_your_ads.body: 실시간 대시보드를 통해 광고 실적을 모니터링해봐요.
+view.promote.get_started.button: 시작하기
 view.login.error.title: 로그인하던 중 오류가 발생했어요
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.subtitle: 다시 시도하거나 도움이 필요한 경우 지원 서버를 방문해주세요.
 view.login.error.retry.button: 다시 시도하기
 view.login.error.support_server.button: 지원 서버 접속하기
 view.login.logging_in.title: 로그인하는 중
