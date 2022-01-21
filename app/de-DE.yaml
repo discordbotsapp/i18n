@@ -118,6 +118,7 @@ view.account.my_bots.button: Meine Bots
 view.account.favorites.button: Favoriten
 view.account.add_bot.button: Bot hinzufügen
 view.account.remove_ads.button: Werbung entfernen
+view.account.advertise.button: Werben
 view.account.settings.button: Einstellungen
 view.my_bots.title: Meine Bots
 view.my_bots.subtitle: Bots im Besitz von dir. Du kannst deinen eigenen Bot hinzufügen, indem du auf der Seite Konto auf die Schaltfläche Bot hinzufügen klickst. #Keep capitalization consistent
@@ -200,7 +201,7 @@ view.promote.introduction.how_it_works.body: Wähle einen von vielen Plätzen au
 view.promote.introduction.track_your_ads.title: Überwache deine Werbung
 view.promote.introduction.track_your_ads.body: Behalte die Performance deiner Werbung mithilfe des Live-Dashboards im Auge.
 view.promote.get_started.button: Erste Schritte
-view.login.error.title: Bei der Anmeldung ist ein Fehler aufgetreten
+view.login.error.title: An error occurred while logging you in
 view.login.error.subtitle: Bitte versuche es später erneut oder besuche den Support Server um Hilfe beim anmelden zu bekommen.
 view.login.error.retry.button: Erneut versuchen
 view.login.error.support_server.button: Support Server
