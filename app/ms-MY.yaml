@@ -13,6 +13,7 @@ global.app_bar.language: Bahasa
 global.app_bar.report: 'Melaporkan {}'
 global.app_bar.categories: Kategori
 global.app_bar.remove_ads: Membuang Iklan
+global.app_bar.promote: Promote
 global.tag.music: Muzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Papan bunyi
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: Gelap
 view.settings.theme.light.radio: Terang
 view.settings.language.title: Bahasa
 view.settings.language.placeholder: Pilih satu bahasa
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Pertolongan
 view.settings.support.support_server.button: Pelayan Pertolongan
 view.settings.support.report_a_bug.button: Melaporkan Sesuatu Kesalahan dalam Aplikasi
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: Pembelian ini sedang dijalankan. Tol
 view.remove_ads.error.product_already_purchased: Produk ini telah dibeli.
 view.remove_ads.error.unknown_error: 'Sesuatu masalah tertimbul: {}.'
 view.remove_ads.error.title: Sesuatu Masalah telah Muncul
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Sertai Pelayan Pertolongan
 view.remove_ads.button.okay: Baik
 view.promote.introduction.promote_your_bot.title: Promote your bot

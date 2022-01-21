@@ -13,6 +13,7 @@ global.app_bar.language: 語言
 global.app_bar.report: '回報 {}'
 global.app_bar.categories: 類別
 global.app_bar.remove_ads: 刪除廣告
+global.app_bar.promote: Promote
 global.tag.music: 音樂
 global.tag.pokemon: 寶可夢 #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: 深色
 view.settings.theme.light.radio: 亮色
 view.settings.language.title: 語言
 view.settings.language.placeholder: 選擇語言
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: 技術支援
 view.settings.support.support_server.button: 支持伺服器
 view.settings.support.report_a_bug.button: 回報錯誤
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: 這項購買已經在進行中。 �
 view.remove_ads.error.product_already_purchased: 這個物品已購買了@
 view.remove_ads.error.unknown_error: '發生了未知錯誤。'
 view.remove_ads.error.title: 發生錯誤
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: 加入支持伺服器
 view.remove_ads.button.okay: 確定
 view.promote.introduction.promote_your_bot.title: Promote your bot

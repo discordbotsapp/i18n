@@ -13,6 +13,7 @@ global.app_bar.language: Dus je leest dit
 global.app_bar.report: 'Ok dat is echt stom maar goed je moet het er mee doen he'
 global.app_bar.categories: Ok
 global.app_bar.remove_ads: Remove Ads
+global.app_bar.promote: Promote
 global.tag.music: Dus wat will je
 global.tag.pokemon: O jezus crisis #KEEP AS IS
 global.tag.soundboard: Alstublieft
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: Dark
 view.settings.theme.light.radio: Light
 view.settings.language.title: Dus je leest dit
 view.settings.language.placeholder: Choose a language
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Report A Bug
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: This purchase is already in progress
 view.remove_ads.error.product_already_purchased: This product has already been purchased.
 view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: An Error Occurred
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Join Support Server
 view.remove_ads.button.okay: Okay
 view.promote.introduction.promote_your_bot.title: Promote your bot

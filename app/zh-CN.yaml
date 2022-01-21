@@ -13,6 +13,7 @@ global.app_bar.language: 语言
 global.app_bar.report: '投诉 {}'
 global.app_bar.categories: 类别
 global.app_bar.remove_ads: 移除广告
+global.app_bar.promote: Promote
 global.tag.music: 音乐
 global.tag.pokemon: 宝可梦 #KEEP AS IS
 global.tag.soundboard: 音板
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: 夜间模式
 view.settings.theme.light.radio: 亮色模式
 view.settings.language.title: 语言
 view.settings.language.placeholder: 选择语言
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: 支援
 view.settings.support.support_server.button: 支援服务器
 view.settings.support.report_a_bug.button: 报告错误
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: This purchase is already in progress
 view.remove_ads.error.product_already_purchased: This product has already been purchased.
 view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
 view.remove_ads.error.title: An Error Occurred
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Join Support Server
 view.remove_ads.button.okay: 好的
 view.promote.introduction.promote_your_bot.title: Promote your bot

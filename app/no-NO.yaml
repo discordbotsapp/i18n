@@ -13,6 +13,7 @@ global.app_bar.language: Språk
 global.app_bar.report: 'Rapport {}'
 global.app_bar.categories: Kategorier
 global.app_bar.remove_ads: Fjern Reklamer
+global.app_bar.promote: Promote
 global.tag.music: Musikk
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Lydtavle
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: Mørk
 view.settings.theme.light.radio: Lys
 view.settings.language.title: Språk
 view.settings.language.placeholder: Velg et språk
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Brukerstøtte
 view.settings.support.support_server.button: Støtte Server
 view.settings.support.report_a_bug.button: Rapporter en feil
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: Dette kjøpet pågår allerede. Vær
 view.remove_ads.error.product_already_purchased: Dette produktet er allerede kjøpt.
 view.remove_ads.error.unknown_error: 'Det oppstod en ukjent feil: {}.'
 view.remove_ads.error.title: Det oppstod en feil
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Koble til Støtte Server
 view.remove_ads.button.okay: Okei
 view.promote.introduction.promote_your_bot.title: Promote your bot

@@ -13,6 +13,7 @@ global.app_bar.language: زمان
 global.app_bar.report: 'ڕاپۆرت {}'
 global.app_bar.categories: جۆرەکان
 global.app_bar.remove_ads: لابردنی ڕیکلامەکان
+global.app_bar.promote: Promote
 global.tag.music: مۆسیقا
 global.tag.pokemon: پۆکیمۆن #KEEP AS IS
 global.tag.soundboard: تەختەی دەنگ
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: تاریک
 view.settings.theme.light.radio: رووناک
 view.settings.language.title: زمان
 view.settings.language.placeholder: زمانێک هەڵبژێرە
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: پشتگیری
 view.settings.support.support_server.button: سێرڤەری پشتگیری
 view.settings.support.report_a_bug.button: ڕاپۆرتی هەڵەیەک بکە
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: ئەم کڕینە هەر ئێستا 
 view.remove_ads.error.product_already_purchased: ئەم بەرهەمە پێشتر کڕدراوە.
 view.remove_ads.error.unknown_error: 'هەڵەیەکی نەناسراو ڕوویدا: {}.'
 view.remove_ads.error.title: هەڵەیەک ڕوویدا
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: جۆینی سەپۆرت سێرڤەرەکە بکە
 view.remove_ads.button.okay: باشە
 view.promote.introduction.promote_your_bot.title: Promote your bot

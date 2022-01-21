@@ -13,6 +13,7 @@ global.app_bar.language: Idioma
 global.app_bar.report: 'Denunciar {}'
 global.app_bar.categories: Categorias
 global.app_bar.remove_ads: Remover Anúncios
+global.app_bar.promote: Promote
 global.tag.music: Música
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: Escuro
 view.settings.theme.light.radio: Claro
 view.settings.language.title: Idioma
 view.settings.language.placeholder: Escolha um idioma
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Suporte
 view.settings.support.support_server.button: Servidor de Suporte
 view.settings.support.report_a_bug.button: Reportar um Bug
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: Esta compra já está em andamento. 
 view.remove_ads.error.product_already_purchased: Este produto já foi comprado.
 view.remove_ads.error.unknown_error: 'Ocorreu um erro desconhecido: {}.'
 view.remove_ads.error.title: Houve um Erro
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Entrar no Servidor de Suporte
 view.remove_ads.button.okay: Okay
 view.promote.introduction.promote_your_bot.title: Promote your bot

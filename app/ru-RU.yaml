@@ -13,6 +13,7 @@ global.app_bar.language: Язык
 global.app_bar.report: 'Пожаловаться на {}'
 global.app_bar.categories: Категории
 global.app_bar.remove_ads: Убрать рекламу
+global.app_bar.promote: Promote
 global.tag.music: Музыка
 global.tag.pokemon: Покемон #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: Тёмная
 view.settings.theme.light.radio: Светлая
 view.settings.language.title: Язык
 view.settings.language.placeholder: Выберите язык
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Поддержка
 view.settings.support.support_server.button: Сервер поддержки
 view.settings.support.report_a_bug.button: Сообщить об ошибке
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: Покупка в процессе. 
 view.remove_ads.error.product_already_purchased: Этот продукт уже был приобретён.
 view.remove_ads.error.unknown_error: 'Произошла неизвестная ошибка: {}.'
 view.remove_ads.error.title: Произошла ошибка
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Присоединиться к серверу поддержки
 view.remove_ads.button.okay: Окей
 view.promote.introduction.promote_your_bot.title: Promote your bot

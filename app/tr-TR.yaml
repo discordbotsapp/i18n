@@ -13,6 +13,7 @@ global.app_bar.language: Dil
 global.app_bar.report: 'Şikayet Et {}'
 global.app_bar.categories: Kategoriler
 global.app_bar.remove_ads: Reklamları Kaldır
+global.app_bar.promote: Tanıtım Yap
 global.tag.music: Müzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Ses Tahtası
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: Karanlık
 view.settings.theme.light.radio: Aydınlık
 view.settings.language.title: Dil
 view.settings.language.placeholder: Dil Seç
+view.settings.language.help_translate.button: Uygulamayı çevirmeye yardım et
 view.settings.support.title: Destek
 view.settings.support.support_server.button: Destek Sunucusu
 view.settings.support.report_a_bug.button: Hata Bildir
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: Bu satın alma işlemi zaten devam e
 view.remove_ads.error.product_already_purchased: Bu ürünü zaten satın almışsın.
 view.remove_ads.error.unknown_error: 'Bilinmeyen bir hata oluştu: {}.'
 view.remove_ads.error.title: Bir Hata Oluştu
+view.remove_ads.error.not_logging_in: Bu ürünü satın alabilmek için giriş yapmış olmanız gerekiyor.
 view.remove_ads.button.join_server: Destek Sunucusuna Katıl
 view.remove_ads.button.okay: Tamam
 view.promote.introduction.promote_your_bot.title: Botunu Tanıt

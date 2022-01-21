@@ -13,6 +13,7 @@ global.app_bar.language: Limbă
 global.app_bar.report: 'Raportează {}'
 global.app_bar.categories: Categorii
 global.app_bar.remove_ads: Elimină reclamele
+global.app_bar.promote: Promote
 global.tag.music: Muzică
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Panou audio
@@ -133,6 +134,7 @@ view.settings.theme.dark.radio: Întunecat
 view.settings.theme.light.radio: Luminos
 view.settings.language.title: Limbă
 view.settings.language.placeholder: Alege o limbă
+view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Asistență
 view.settings.support.support_server.button: Server de asistență
 view.settings.support.report_a_bug.button: Raportați o problemă
@@ -188,6 +190,7 @@ view.remove_ads.error.purchase_in_progress: Această achiziție este deja în de
 view.remove_ads.error.product_already_purchased: Acest produs a fost deja cumpărat.
 view.remove_ads.error.unknown_error: 'A apărut o eroare necunoscută: {}.'
 view.remove_ads.error.title: A apărut o eroare
+view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Alătură-te serverului de asistență
 view.remove_ads.button.okay: Okay
 view.promote.introduction.promote_your_bot.title: Promovează-ți Botul
