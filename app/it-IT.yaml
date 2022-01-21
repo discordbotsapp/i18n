@@ -12,7 +12,7 @@ global.app_bar.settings: Impostazioni
 global.app_bar.language: Lingua
 global.app_bar.report: 'Segnala {}'
 global.app_bar.categories: Categorie
-global.app_bar.remove_ads: Rimuovi Pubblicità
+global.app_bar.remove_ads: Rimuovi Annunci
 global.app_bar.promote: Promuovi
 global.tag.music: Musica
 global.tag.pokemon: Pokemon #KEEP AS IS
@@ -49,7 +49,7 @@ global.rate_dialog.button.no_thanks: NO GRAZIE
 global.rate_dialog.button.maybe_later: MAGARI DOPO
 global.promoted_bot.placeholder.title: Pubblicizza Il Tuo Bot Qui!
 global.promoted_bot.subtitle: Promosso
-global.pop_up_menu_button.remove_ads.button: Rimuovi Pubblicità
+global.pop_up_menu_button.remove_ads.button: Rimuovi Annunci
 global.pop_up_menu_button.advertise.button: Pubblicizza
 global.pop_up_menu_button.privacy_policy.button: Politica sulla Privacy
 view.bot.add.button: AGGIUNGI
@@ -93,7 +93,7 @@ view.explore.trending.title: Di Tendenza
 view.explore.trending.subtitle: Nuovi bot che stanno guadagnando popolarità in fretta
 view.explore.new.title: Nuovi
 view.explore.new.subtitle: Bot aggiunti di recente
-view.explore.most_voted.title: I più Votati
+view.explore.most_voted.title: Più Votati
 view.explore.most_voted.subtitle: Bot con il maggior numero di voti questo mese
 view.explore.most_popular.title: Più Popolare
 view.explore.most_popular.subtitle: Bot nella maggior parte dei server
@@ -104,7 +104,7 @@ view.explore.footer.support_server.button: Server di Assistenza
 view.explore.footer.bug_report.button: Segnala Bug
 view.explore.footer.about.button: Informazioni
 view.explore.footer.privacy_policy.button: Politica sulla Privacy
-view.top_charts.most_votes: I Più Votati
+view.top_charts.most_votes: Più Votati
 view.top_charts.most_servers: Più Server
 view.top_charts.bot.subtitle.servers.plural: '{} server'
 view.top_charts.bot.subtitle.votes.plural: '{} voti'
@@ -117,7 +117,7 @@ view.account.login.error.button: Torna alla pagina di accesso
 view.account.my_bots.button: I Miei Bot
 view.account.favorites.button: Preferiti
 view.account.add_bot.button: Aggiungi Bot
-view.account.remove_ads.button: Rimuovi Pubblicità
+view.account.remove_ads.button: Rimuovi Annunci
 view.account.advertise.button: Pubblicizza
 view.account.settings.button: Impostazioni
 view.my_bots.title: I Miei Bot
@@ -174,7 +174,7 @@ view.welcome.title: Discord Bots
 view.welcome.subtitle: Cerca oltre {}+ bot di Discord! Inizia accedendo con il tuo account di Discord.
 view.welcome.login.button: Accedi con Discord
 view.welcome.skip.button: Salta per Ora
-view.remove_ads.title: Rimuovi Pubblicità
+view.remove_ads.title: Rimuovi Annunci
 view.remove_ads.subtitle: Rimuovi tutte le pubblicità dall'app
 view.remove_ads.error.load_product: Si è verificato un errore sconosciuto durante il caricamento del prodotto.
 view.remove_ads.error.verify_purchase: Si è verificato un errore sconosciuto durante la verifica dell'acquisto.
