@@ -118,6 +118,7 @@ view.account.my_bots.button: Mine Bots
 view.account.favorites.button: Favoritter
 view.account.add_bot.button: Legg Til Bot
 view.account.remove_ads.button: Fjern Reklamer
+view.account.advertise.button: Advertise
 view.account.settings.button: Innstillinger
 view.my_bots.title: Mine Bots
 view.my_bots.subtitle: Bots eid av deg. Du kan legge til din egen bot ved å klikke på Legg til bot-knappen på kontosiden. #Keep capitalization consistent
