@@ -200,7 +200,7 @@ view.promote.introduction.how_it_works.body: Botunuzu tanıtmak için keşfet sa
 view.promote.introduction.track_your_ads.title: Reklamlarınızı takip edin
 view.promote.introduction.track_your_ads.body: Reklamlarınızın canlı bir pano aracılığıyla nasıl performans gösterdiğini izleyin.
 view.promote.get_started.button: Başla
-view.login.erorr.title: Oturum açarken bir sorun oluştu
+view.login.error.title: An error occurred while logging you in
 view.login.error.subtitle: Lütfen tekrar deneyin veya oturum açma konusunda yardım almak için aşağıdaki destek sunucusuna katılın.
 view.login.error.retry.button: Tekrar Dene
 view.login.error.support_server.button: Destek Sunucusu
