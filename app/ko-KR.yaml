@@ -118,6 +118,7 @@ view.account.my_bots.button: 내 봇
 view.account.favorites.button: 즐겨찾기
 view.account.add_bot.button: 봇 추가하기
 view.account.remove_ads.button: 광고 제거하기
+view.account.advertise.button: 광고
 view.account.settings.button: 설정
 view.my_bots.title: 내 봇
 view.my_bots.subtitle: 당신이 소유하고 있는 봇의 목록이에요. 계정 페이지에서 봇 추가하기 버튼을 눌러 자신의 봇을 추가할 수 있어요. #Keep capitalization consistent
