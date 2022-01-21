@@ -197,7 +197,7 @@ view.promote.introduction.how_it_works.body: Scegli una dei molti slot nella pag
 view.promote.introduction.track_your_ads.title: Traccia i tuoi annunci
 view.promote.introduction.track_your_ads.body: Monitora come le tue pubblicitá stanno performando tramite una dashboard dal vivo.
 view.promote.get_started.button: Inizia
-view.login.erorr.title: Si è verificato un errore durante l'accesso
+view.login.error.title: Si è verificato un errore durante l'accesso
 view.login.error.subtitle: Perfavore prova ancora o entra nel server di supporto sotto per aiuto con il login.
 view.login.error.retry.button: Riprova
 view.login.error.support_server.button: Server di Assistenza

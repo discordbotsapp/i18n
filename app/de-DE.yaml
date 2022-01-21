@@ -197,7 +197,7 @@ view.promote.introduction.how_it_works.body: Wähle einen von vielen Plätzen au
 view.promote.introduction.track_your_ads.title: Überwache deine Werbung
 view.promote.introduction.track_your_ads.body: Behalte die Performance deiner Werbung mithilfe des Live-Dashboards im Auge.
 view.promote.get_started.button: Erste Schritte
-view.login.erorr.title: Bei der Anmeldung ist ein Fehler aufgetreten
+view.login.error.title: Bei der Anmeldung ist ein Fehler aufgetreten
 view.login.error.subtitle: Bitte versuche es später erneut oder besuche den Support Server um Hilfe beim anmelden zu bekommen.
 view.login.error.retry.button: Erneut versuchen
 view.login.error.support_server.button: Support Server

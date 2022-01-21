@@ -197,7 +197,7 @@ view.promote.introduction.how_it_works.body: Επιλέξτε μία από τι
 view.promote.introduction.track_your_ads.title: Παρακολουθήστε τις διαφημίσεις σας
 view.promote.introduction.track_your_ads.body: Παρακολουθήστε πώς οι διαφημίσεις σας εκτελούνται μέσω ενός ζωντανού ταμπλό.
 view.promote.get_started.button: Ξεκινήστε
-view.login.erorr.title: Παρουσιάστηκε σφάλμα κατά τη σύνδεση σας
+view.login.error.title: Παρουσιάστηκε σφάλμα κατά τη σύνδεση σας
 view.login.error.subtitle: Παρακαλώ δοκιμάστε ξανά ή εγγραφείτε στον παρακάτω διακομιστή υποστήριξης για βοήθεια με τη σύνδεση.
 view.login.error.retry.button: Επανάληψη
 view.login.error.support_server.button: Διακομιστής Υποστήριξης
