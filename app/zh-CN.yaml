@@ -118,6 +118,7 @@ view.account.my_bots.button: 我的机器人
 view.account.favorites.button: 收藏夹
 view.account.add_bot.button: 添加机器人
 view.account.remove_ads.button: 移除广告
+view.account.advertise.button: Advertise
 view.account.settings.button: 设置
 view.my_bots.title: 我的机器人
 view.my_bots.subtitle: 你拥有的机器人。你可以通过点击帐户页面中的“添加机器人”按钮添加你自己的机器人。 #Keep capitalization consistent
