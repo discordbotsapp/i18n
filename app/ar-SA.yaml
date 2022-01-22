@@ -13,7 +13,7 @@ global.app_bar.language: اللغة
 global.app_bar.report: 'الإبلاغ {}'
 global.app_bar.categories: التصنيفات
 global.app_bar.remove_ads: إزالة الإعلانات
-global.app_bar.promote: Promote
+global.app_bar.promote: ترويج
 global.tag.music: الموسيقى
 global.tag.pokemon: بوكيمون #KEEP AS IS
 global.tag.soundboard: لوحات الصوت
@@ -47,7 +47,7 @@ global.rate_dialog.subtitle: إذا كنت تعجبك هذا التطبيق، ي
 global.rate_dialog.button.rate: تقييم
 global.rate_dialog.button.no_thanks: لا شكراً
 global.rate_dialog.button.maybe_later: لاحقا
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.placeholder.title: أعلن عن بوت الخاص بك ها!
 global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: إزالة الإعلانات
 global.pop_up_menu_button.advertise.button: اعلان
@@ -201,7 +201,7 @@ view.promote.introduction.how_it_works.body: Choose one of many slots on the exp
 view.promote.introduction.track_your_ads.title: تتبع إعلاناتك
 view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
 view.promote.get_started.button: ابدأ
-view.login.error.title: An error occurred while logging you in
+view.login.error.title: حدث خطأ أثناء تسجيل الدخول
 view.login.error.subtitle: Please try again or join the support server below for help with logging in.
 view.login.error.retry.button: اعد المحاولة
 view.login.error.support_server.button: خادم الدعم
