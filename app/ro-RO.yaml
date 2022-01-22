@@ -1,5 +1,5 @@
 ---
-global.title: Boți Discord
+global.title: Discord Bots
 global.navbar.explore: Explorează
 global.navbar.top_charts: Top-ul Graficelor
 global.navbar.account: Cont
@@ -95,7 +95,7 @@ view.explore.new.title: Nou
 view.explore.new.subtitle: Boți adăugați recent
 view.explore.most_voted.title: Cei mai votați
 view.explore.most_voted.subtitle: Boți cu cele mai multe voturi în această lună
-view.explore.most_popular.title: Most Popular
+view.explore.most_popular.title: Cele mai popular
 view.explore.most_popular.subtitle: Boți frecvent întâlniți
 view.explore.see_all.button: Vezi tot
 view.explore.categories.title: Explorează Categorii
@@ -135,7 +135,7 @@ view.settings.theme.dark.radio: Întunecat
 view.settings.theme.light.radio: Luminos
 view.settings.language.title: Limbă
 view.settings.language.placeholder: Alege o limbă
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: Ajută la traducerea aplicației
 view.settings.support.title: Asistență
 view.settings.support.support_server.button: Server de asistență
 view.settings.support.report_a_bug.button: Raportați o problemă
@@ -170,7 +170,7 @@ view.search.title: Căutaţi
 view.search.subtitle.noQuery: Caută un bot...
 view.search.subtitle.query: Rezultatele căutării pentru {}
 view.search.none: Nu Au Fost Gasite Rezultate
-view.welcome.title: Boți Discord
+view.welcome.title: Discord Bots
 view.welcome.subtitle: Navighează prin {}+ boti pentru discord! Începe conectându-te cu contul tău Discord.
 view.welcome.login.button: Conectează-te cu Discord
 view.welcome.skip.button: Omite pentru moment
@@ -191,7 +191,7 @@ view.remove_ads.error.purchase_in_progress: Această achiziție este deja în de
 view.remove_ads.error.product_already_purchased: Acest produs a fost deja cumpărat.
 view.remove_ads.error.unknown_error: 'A apărut o eroare necunoscută: {}.'
 view.remove_ads.error.title: A apărut o eroare
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
+view.remove_ads.error.not_logging_in: Trebuie să fii autentificat pentru a cumpăra acest produs.
 view.remove_ads.button.join_server: Alătură-te serverului de asistență
 view.remove_ads.button.okay: Okay
 view.promote.introduction.promote_your_bot.title: Promovează-ți Botul
@@ -201,7 +201,7 @@ view.promote.introduction.how_it_works.body: Alegeți unul dintre multele slotur
 view.promote.introduction.track_your_ads.title: Urmărește-ți promovările
 view.promote.introduction.track_your_ads.body: Monitorizează cât de performante sunt anunțurile tale prin website-ul nostru.
 view.promote.get_started.button: Începe
-view.login.error.title: An error occurred while logging you in
+view.login.error.title: S-a produs o eroare
 view.login.error.subtitle: Te rog să încerci din nou sau alătura-te serverului pentru a obtine ajutor.
 view.login.error.retry.button: Reîncercați
 view.login.error.support_server.button: Server de asistență
