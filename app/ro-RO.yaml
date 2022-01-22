@@ -13,7 +13,7 @@ global.app_bar.language: Limbă
 global.app_bar.report: 'Raportează {}'
 global.app_bar.categories: Categorii
 global.app_bar.remove_ads: Elimină reclamele
-global.app_bar.promote: Promote
+global.app_bar.promote: Promovează
 global.tag.music: Muzică
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Panou audio
