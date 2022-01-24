@@ -3,7 +3,7 @@ global.title: Bots Discord
 global.navbar.explore: Explorez
 global.navbar.top_charts: Classements
 global.navbar.account: Compte
-global.navbar.search: Search
+global.navbar.search: Recherche
 global.app_bar.explore: Explorez
 global.app_bar.top_charts: Classements
 global.app_bar.account: Compte
@@ -89,14 +89,14 @@ view.report.report_reanos.dropdown.option6: Autre raison
 view.explore.title: Explorez
 view.explore.featured.title: À l'affiche
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
-view.explore.trending.title: Trending
+view.explore.trending.title: Tendances
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: Nouveautés
 view.explore.new.subtitle: Bots récemment ajoutés
 view.explore.most_voted.title: Les plus populaires
 view.explore.most_voted.subtitle: Bots ayant le plus de votes ce mois-ci
 view.explore.most_popular.title: Le plus populaire
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.subtitle: Bots sur le plus de serveurs
 view.explore.see_all.button: Tout Afficher
 view.explore.categories.title: Explorer les catégories
 view.explore.category.subtitle: Bots dans la catégorie {}
@@ -129,47 +129,47 @@ view.favorites.none: Vous n’avez pas encore de favori
 view.add_bot.title: Ajouter un Bot
 view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
+view.settings.theme.title: Thème
+view.settings.theme.system.radio: Système
+view.settings.theme.dark.radio: Sombre
+view.settings.theme.light.radio: Clair
 view.settings.language.title: Langue
-view.settings.language.placeholder: Choose a language
-view.settings.language.help_translate.button: Help translate the app
-view.settings.support.title: Support
+view.settings.language.placeholder: Choisissez votre langue
+view.settings.language.help_translate.button: Aidez à traduire l'application
+view.settings.support.title: Assistance
 view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: Report A Bug
+view.settings.support.report_a_bug.button: Signaler un bug
 view.settings.account.title: Compte
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
+view.settings.account.log_out.button: Déconnexion
+view.settings.account.log_out.alert_dialog.title: Déconnexion
+view.settings.account.log_out.alert_dialog.text: Etes-vous sûr de vouloir vous déconnecter ?
 view.settings.account.log_out.alert_dialog.cancel.button: Retour
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
+view.settings.account.log_out.alert_dialog.log_out.button: Déconnexion
+view.settings.account.delete_account.button: Supprimer le compte
+view.settings.account.delete_account.alert_dialog.title: Supprimer le compte
+view.settings.account.delete_account.alert_dialog.text: Voulez-vous vraiment supprimer votre compte ? Cette action est irréversible.
 view.settings.account.delete_account.alert_dialog.cancel.button: Retour
 view.settings.account.delete_account.alert_dialog.yes.button: 'Oui'
-view.settings.info.title: Info
+view.settings.info.title: Infos
 view.settings.info.about.button: À propos
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Tous droits réservés.
 view.settings.info.privacy_policy.button: Politique de Confidentialité
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
+view.under_maintenance.title: En maintenance
+view.under_maintenance.subtitle: L'application est en cours de maintenance et sera bientôt de retour. Veuillez vérifier les mises à jour sur le serveur de support.
+view.under_maintenance.retry.button: Réessayez
 view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
+view.no_internet.title: Aucune connexion Internet
+view.no_internet.subtitle: Aucune connexion Internet. Vérifiez votre connexion, puis réessayez
+view.no_internet.retry: Réessayez
+view.bot.reported.title: Signalé {}
+view.bot.reported.subtitle: 'Vous avez signalé {} avec succès pour la raison suivante :'
+view.bot.reported.button.okay: D'accord
 view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.search.hint: Recherche...
+view.search.title: Recherche
+view.search.subtitle.noQuery: Rechercher un bot...
+view.search.subtitle.query: Affichage des résultats de recherche pour {}
+view.search.none: Aucun résultat trouvé
 view.welcome.title: Bots Discord
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
 view.welcome.login.button: Se connecter avec Discord
@@ -193,7 +193,7 @@ view.remove_ads.error.unknown_error: 'Une erreur inconnue s''est produite : {}.'
 view.remove_ads.error.title: Une erreur s'est produite
 view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Rejoignez notre serveur de support
-view.remove_ads.button.okay: Okay
+view.remove_ads.button.okay: D'accord
 view.promote.introduction.promote_your_bot.title: Promote your bot
 view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
 view.promote.introduction.how_it_works.title: How it works
@@ -203,6 +203,6 @@ view.promote.introduction.track_your_ads.body: Monitor how your advertisements a
 view.promote.get_started.button: Get Started
 view.login.error.title: An error occurred while logging you in
 view.login.error.subtitle: Please try again or join the support server below for help with logging in.
-view.login.error.retry.button: Retry
+view.login.error.retry.button: Réessayez
 view.login.error.support_server.button: Support Server
 view.login.logging_in.title: Logging you in
