@@ -48,7 +48,7 @@ global.rate_dialog.button.rate: تقييم
 global.rate_dialog.button.no_thanks: لا شكراً
 global.rate_dialog.button.maybe_later: لاحقا
 global.promoted_bot.placeholder.title: أعلن عن بوت الخاص بك ها!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.subtitle: ترقية
 global.pop_up_menu_button.remove_ads.button: إزالة الإعلانات
 global.pop_up_menu_button.advertise.button: اعلان
 global.pop_up_menu_button.privacy_policy.button: سياسة الخصوصية
@@ -95,7 +95,7 @@ view.explore.new.title: جديد
 view.explore.new.subtitle: البوتات المضافة مؤخرا
 view.explore.most_voted.title: الأكثر تصويتاً
 view.explore.most_voted.subtitle: بوتات بأكبر عدد من الأصوات هذا الشهر
-view.explore.most_popular.title: Most Popular
+view.explore.most_popular.title: Hacking
 view.explore.most_popular.subtitle: Bots in the most servers
 view.explore.see_all.button: عرض الكل
 view.explore.categories.title: استكشاف التصنيفات
