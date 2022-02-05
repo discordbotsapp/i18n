@@ -52,6 +52,7 @@ global.promoted_bot.subtitle: ترقية
 global.pop_up_menu_button.remove_ads.button: إزالة الإعلانات
 global.pop_up_menu_button.advertise.button: اعلان
 global.pop_up_menu_button.privacy_policy.button: سياسة الخصوصية
+global.bot.button.advertise: ADVERTISE
 view.bot.add.button: أضف
 view.bot.chip.prefix: 'بادئة: {}'
 view.bot.chip.servers: '{} سرفرز'
