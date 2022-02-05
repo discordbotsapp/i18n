@@ -52,6 +52,7 @@ global.promoted_bot.subtitle: Promocionado
 global.pop_up_menu_button.remove_ads.button: Quitar Anuncios
 global.pop_up_menu_button.advertise.button: Anunciar
 global.pop_up_menu_button.privacy_policy.button: Política de Privacidad
+global.bot.button.advertise: ADVERTISE
 view.bot.add.button: AGREGAR
 view.bot.chip.prefix: 'Prefijo: {}'
 view.bot.chip.servers: '{} servidores'
