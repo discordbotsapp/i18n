@@ -52,7 +52,7 @@ global.promoted_bot.subtitle: Promocionado
 global.pop_up_menu_button.remove_ads.button: Quitar Anuncios
 global.pop_up_menu_button.advertise.button: Anunciar
 global.pop_up_menu_button.privacy_policy.button: Política de Privacidad
-global.bot.button.advertise: ADVERTISE
+global.bot.button.advertise: ANUNCIO
 view.bot.add.button: AGREGAR
 view.bot.chip.prefix: 'Prefijo: {}'
 view.bot.chip.servers: '{} servidores'
@@ -202,7 +202,7 @@ view.promote.introduction.how_it_works.body: Escoje uno de muchos espacios en la
 view.promote.introduction.track_your_ads.title: Da seguimiento a tus anuncios
 view.promote.introduction.track_your_ads.body: Monitorea las estadisticas de tus anuncios a través de un panel en vivo.
 view.promote.get_started.button: Comenzar
-view.login.error.title: An error occurred while logging you in
+view.login.error.title: Ocurrió un error al intentar iniciar sesión
 view.login.error.subtitle: Por favor intenta de nuevo o únete al servidor de soporte abajo para obtener ayuda con el inicio de sesión.
 view.login.error.retry.button: Reintentar
 view.login.error.support_server.button: Servidor de Soporte
