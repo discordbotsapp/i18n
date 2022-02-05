@@ -52,6 +52,7 @@ global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: لابردنی ڕیکلامەکان
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: سیاسەتی تایبەتێتی
+global.bot.button.advertise: ADVERTISE
 view.bot.add.button: زیادکردن
 view.bot.chip.prefix: 'پێشگر: {}'
 view.bot.chip.servers: 'سێرڤەرەکان {}'
