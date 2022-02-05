@@ -52,7 +52,7 @@ global.promoted_bot.subtitle: Reklam Verildi
 global.pop_up_menu_button.remove_ads.button: Reklamları Kaldır
 global.pop_up_menu_button.advertise.button: Reklam Ver
 global.pop_up_menu_button.privacy_policy.button: Gizlilik Politikası
-global.bot.button.advertise: ADVERTISE
+global.bot.button.advertise: REKLAM VER
 view.bot.add.button: EKLE
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} sunucu'
