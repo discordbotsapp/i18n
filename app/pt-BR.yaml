@@ -7,6 +7,7 @@ global.navbar.search: Buscar
 global.app_bar.explore: Descobrir
 global.app_bar.top_charts: Principais gráficos
 global.app_bar.account: Conta
+global.app_bar.advanced: Advanced
 global.app_bar.login: Entrar
 global.app_bar.settings: Configurações
 global.app_bar.language: Idioma
@@ -141,6 +142,7 @@ view.settings.support.title: Suporte
 view.settings.support.support_server.button: Servidor de Suporte
 view.settings.support.report_a_bug.button: Reportar um Bug
 view.settings.account.title: Conta
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: Desconectar-se
 view.settings.account.log_out.alert_dialog.title: Desconectar-se
 view.settings.account.log_out.alert_dialog.text: Você tem certeza que deseja se desconectar?
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Tentar novamente
 view.login.error.support_server.button: Servidor de Suporte
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders

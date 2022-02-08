@@ -7,6 +7,7 @@ global.navbar.search: 搜索
 global.app_bar.explore: 探险
 global.app_bar.top_charts: 热门图标
 global.app_bar.account: 户口
+global.app_bar.advanced: Advanced
 global.app_bar.login: 登入
 global.app_bar.settings: 设置
 global.app_bar.language: 语言
@@ -141,6 +142,7 @@ view.settings.support.title: 支援
 view.settings.support.support_server.button: 支援服务器
 view.settings.support.report_a_bug.button: 报告错误
 view.settings.account.title: 户口
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: 登出
 view.settings.account.log_out.alert_dialog.title: 登出
 view.settings.account.log_out.alert_dialog.text: 您确定要注销吗？
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: 重试
 view.login.error.support_server.button: 支援服务器
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders

@@ -7,6 +7,7 @@ global.navbar.search: Keresés
 global.app_bar.explore: Felfedezés
 global.app_bar.top_charts: Top Charts
 global.app_bar.account: Fiók
+global.app_bar.advanced: Advanced
 global.app_bar.login: Bejelentkezés
 global.app_bar.settings: Beállítások
 global.app_bar.language: Nyelv
@@ -141,6 +142,7 @@ view.settings.support.title: Támogatás
 view.settings.support.support_server.button: Támogatási Szerver
 view.settings.support.report_a_bug.button: Hibajelentés
 view.settings.account.title: Fiók
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: Kijelentkezés
 view.settings.account.log_out.alert_dialog.title: Kijelentkezés
 view.settings.account.log_out.alert_dialog.text: Biztosan ki szeretnél jelentkezni?
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Újra
 view.login.error.support_server.button: Támogatási Szerver
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders

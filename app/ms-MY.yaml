@@ -7,6 +7,7 @@ global.navbar.search: Cari
 global.app_bar.explore: Teroka
 global.app_bar.top_charts: Carta Tertinggi
 global.app_bar.account: Akaun
+global.app_bar.advanced: Advanced
 global.app_bar.login: Log Masuk
 global.app_bar.settings: Tetapan
 global.app_bar.language: Bahasa
@@ -141,6 +142,7 @@ view.settings.support.title: Pertolongan
 view.settings.support.support_server.button: Pelayan Pertolongan
 view.settings.support.report_a_bug.button: Melaporkan Sesuatu Kesalahan dalam Aplikasi
 view.settings.account.title: Akaun
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: Log Keluar
 view.settings.account.log_out.alert_dialog.title: Log Keluar
 view.settings.account.log_out.alert_dialog.text: Adakah anda pasti anda mahu log keluar?
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Cuba lagi
 view.login.error.support_server.button: Pelayan Pertolongan
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders

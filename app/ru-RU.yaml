@@ -7,6 +7,7 @@ global.navbar.search: Поиск
 global.app_bar.explore: Исследовать
 global.app_bar.top_charts: Лучшее
 global.app_bar.account: Аккаунт
+global.app_bar.advanced: Advanced
 global.app_bar.login: Войти
 global.app_bar.settings: Настройки
 global.app_bar.language: Язык
@@ -141,6 +142,7 @@ view.settings.support.title: Поддержка
 view.settings.support.support_server.button: Сервер поддержки
 view.settings.support.report_a_bug.button: Сообщить об ошибке
 view.settings.account.title: Аккаунт
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: Выйти
 view.settings.account.log_out.alert_dialog.title: Выйти
 view.settings.account.log_out.alert_dialog.text: Вы уверены, что хотите выйти?
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Повторить
 view.login.error.support_server.button: Сервер поддержки
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
