@@ -7,7 +7,7 @@ global.navbar.search: Ara
 global.app_bar.explore: Keşfet
 global.app_bar.top_charts: En İyiler
 global.app_bar.account: Hesabım
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Gelişmiş
 global.app_bar.login: Giriş Yap
 global.app_bar.settings: Ayarlar
 global.app_bar.language: Dil
@@ -142,7 +142,7 @@ view.settings.support.title: Destek
 view.settings.support.support_server.button: Destek Sunucusu
 view.settings.support.report_a_bug.button: Hata Bildir
 view.settings.account.title: Hesabım
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Gelişmiş
 view.settings.account.log_out.button: Çıkış Yap
 view.settings.account.log_out.alert_dialog.title: Çıkış Yap
 view.settings.account.log_out.alert_dialog.text: Çıkış yapmak istediğinden emin misin?
@@ -209,7 +209,7 @@ view.login.error.subtitle: Lütfen tekrar deneyin veya oturum açma konusunda ya
 view.login.error.retry.button: Tekrar Dene
 view.login.error.support_server.button: Destek Sunucusu
 view.login.logging_in.title: Giriş yapılıyor
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.title: Tanıtılan Botlar
+view.advanced.promoted_bots.switch1.title: Sahip olduğum tanıtılan botları göster
+view.advanced.promoted_bots.switch2.title: Sahip olmadığım tanıtılan botları göster
+view.advanced.promoted_bots.switch3.title: Tanıtılan bot yer tutucularını göster
