@@ -7,6 +7,7 @@ global.navbar.search: Søk
 global.app_bar.explore: Utforske
 global.app_bar.top_charts: Topplister
 global.app_bar.account: Konto
+global.app_bar.advanced: Advanced
 global.app_bar.login: Logg Inn
 global.app_bar.settings: Innstillinger
 global.app_bar.language: Språk
@@ -141,6 +142,7 @@ view.settings.support.title: Brukerstøtte
 view.settings.support.support_server.button: Støtte Server
 view.settings.support.report_a_bug.button: Rapporter en feil
 view.settings.account.title: Konto
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: Logg Av
 view.settings.account.log_out.alert_dialog.title: Logg Av
 view.settings.account.log_out.alert_dialog.text: Er du sikker på at du vil logge av?
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Prøv på nytt
 view.login.error.support_server.button: Støtte Server
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
