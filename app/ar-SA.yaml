@@ -7,6 +7,7 @@ global.navbar.search: بحث
 global.app_bar.explore: إستكشاف
 global.app_bar.top_charts: أفضل القوائم
 global.app_bar.account: الحساب
+global.app_bar.advanced: Advanced
 global.app_bar.login: دخول
 global.app_bar.settings: الإعدادات
 global.app_bar.language: اللغة
@@ -141,6 +142,7 @@ view.settings.support.title: مساندة
 view.settings.support.support_server.button: خادم الدعم
 view.settings.support.report_a_bug.button: الإبلاغ عن خطأ
 view.settings.account.title: الحساب
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: تسجيل الخروج
 view.settings.account.log_out.alert_dialog.title: تسجيل الخروج
 view.settings.account.log_out.alert_dialog.text: هل أنت متأكد من أنك تريد تسجيل الخروج؟
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: اعد المحاولة
 view.login.error.support_server.button: خادم الدعم
 view.login.logging_in.title: تسجيل دخولك
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
