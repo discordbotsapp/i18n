@@ -52,6 +52,7 @@ global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Remove Ads
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: Privacy Policy
+global.bot.button.advertise: ADVERTISE
 view.bot.add.button: Morgen
 view.bot.chip.prefix: 'Idioot'
 view.bot.chip.servers: 'Hoer'
