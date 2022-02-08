@@ -7,6 +7,7 @@ global.navbar.search: Maghanap
 global.app_bar.explore: Tuklasin
 global.app_bar.top_charts: Top charts
 global.app_bar.account: Kwenta / Tuos
+global.app_bar.advanced: Advanced
 global.app_bar.login: Login
 global.app_bar.settings: Settings
 global.app_bar.language: Language
@@ -141,6 +142,7 @@ view.settings.support.title: Supporta
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: I-report ang isang bug
 view.settings.account.title: Kwenta / Tuos
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: Log out
 view.settings.account.log_out.alert_dialog.title: Log out
 view.settings.account.log_out.alert_dialog.text: Sigurado ka bang gusto mong mag-log out?
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Ulitin
 view.login.error.support_server.button: Support Server
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
