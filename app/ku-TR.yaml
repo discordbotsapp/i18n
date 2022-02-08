@@ -7,6 +7,7 @@ global.navbar.search: گەڕان
 global.app_bar.explore: گەڕان
 global.app_bar.top_charts: هێڵکارییە بەرزەکان
 global.app_bar.account: هەژمار
+global.app_bar.advanced: Advanced
 global.app_bar.login: چوونەژوورەوە
 global.app_bar.settings: رێکخستنەکان
 global.app_bar.language: زمان
@@ -141,6 +142,7 @@ view.settings.support.title: پشتگیری
 view.settings.support.support_server.button: سێرڤەری پشتگیری
 view.settings.support.report_a_bug.button: ڕاپۆرتی هەڵەیەک بکە
 view.settings.account.title: هەژمار
+view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: دەرچوون
 view.settings.account.log_out.alert_dialog.title: دەرچوون
 view.settings.account.log_out.alert_dialog.text: ئایا تۆ دڵنیایت کە دەتەوێت دەربچیت؟
@@ -207,3 +209,7 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: دووبارە هەوڵ بدە 
 view.login.error.support_server.button: سێرڤەری پشتگیری
 view.login.logging_in.title: Logging you in
+view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.switch1.title: Show promoted bots I own
+view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
