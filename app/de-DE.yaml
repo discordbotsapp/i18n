@@ -212,4 +212,4 @@ view.login.logging_in.title: Anmeldung läuft
 view.advanced.promoted_bots.title: Beworbene Bots
 view.advanced.promoted_bots.switch1.title: Zeige beworbene Bots die ich besitze
 view.advanced.promoted_bots.switch2.title: Zeige beworbende Bots die ich nicht besitze
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.switch3.title: Beworbene Bot-Platzhalter anzeigen
