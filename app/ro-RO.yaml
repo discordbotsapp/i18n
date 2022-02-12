@@ -53,6 +53,7 @@ global.promoted_bot.subtitle: Promovat
 global.pop_up_menu_button.remove_ads.button: Elimină reclamele
 global.pop_up_menu_button.advertise.button: Promovează
 global.pop_up_menu_button.privacy_policy.button: Politică de Confidenţialitate
+global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: ADAUGĂ
 view.bot.chip.prefix: 'Prefix-ul: {}'

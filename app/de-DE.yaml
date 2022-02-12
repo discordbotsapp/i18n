@@ -53,6 +53,7 @@ global.promoted_bot.subtitle: Beworben
 global.pop_up_menu_button.remove_ads.button: Werbung entfernen
 global.pop_up_menu_button.advertise.button: Werben
 global.pop_up_menu_button.privacy_policy.button: Datenschutzbestimmung
+global.button.refresh: Refresh
 global.bot.button.advertise: WERBEN
 view.bot.add.button: Hinzufügen
 view.bot.chip.prefix: 'Präfix: {}'
