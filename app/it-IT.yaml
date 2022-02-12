@@ -53,7 +53,7 @@ global.promoted_bot.subtitle: Promosso
 global.pop_up_menu_button.remove_ads.button: Rimuovi Annunci
 global.pop_up_menu_button.advertise.button: Pubblicizza
 global.pop_up_menu_button.privacy_policy.button: Politica sulla Privacy
-global.button.refresh: Refresh
+global.button.refresh: Ricarica
 global.bot.button.advertise: PUBBLICIZZA
 view.bot.add.button: AGGIUNGI
 view.bot.chip.prefix: 'Prefisso: {}'
