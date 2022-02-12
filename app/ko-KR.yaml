@@ -53,6 +53,7 @@ global.promoted_bot.subtitle: 홍보
 global.pop_up_menu_button.remove_ads.button: 광고 제거하기
 global.pop_up_menu_button.advertise.button: 광고
 global.pop_up_menu_button.privacy_policy.button: 개인정보 취급방침
+global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: 봇 추가하기
 view.bot.chip.prefix: '접두사: {}'
