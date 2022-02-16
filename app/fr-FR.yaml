@@ -14,7 +14,7 @@ global.app_bar.language: Langue
 global.app_bar.report: 'Signaler'
 global.app_bar.categories: Catégories
 global.app_bar.remove_ads: Enlever la publicité
-global.app_bar.promote: Promote
+global.app_bar.promote: Sponsorisé
 global.tag.music: Musique
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -48,12 +48,12 @@ global.rate_dialog.subtitle: Si vous aimez cette application, s'il vous plaît p
 global.rate_dialog.button.rate: TAUX
 global.rate_dialog.button.no_thanks: NON MERCI
 global.rate_dialog.button.maybe_later: PEUT-ÊTRE PLUS TARD
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Faites de la publicité pour votre Bot ici !
+global.promoted_bot.subtitle: Sponsorisé
 global.pop_up_menu_button.remove_ads.button: Enlever la publicité
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Publicité
 global.pop_up_menu_button.privacy_policy.button: Politique de Confidentialité
-global.button.refresh: Refresh
+global.button.refresh: Actualiser
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: AJOUTER
 view.bot.chip.prefix: 'Préfixe:'
@@ -85,13 +85,13 @@ view.report.additional_information.empty: Merci de choisir une raison
 view.report.submit.button: Envoyer
 view.report.report_reason.dropdown.option1: Contenu inapproprié/NSFW
 view.report.report_reason.dropdown.option2: Hors ligne depuis longtemps
-view.report.report_reason.dropdown.option3: Misleading features and description
+view.report.report_reason.dropdown.option3: Fonctionnalités et description trompeuses
 view.report.report_reason.dropdown.option4: Le bot ne fonctionne pas
-view.report.report_reason.dropdown.option5: Invite link does not work
+view.report.report_reason.dropdown.option5: Le lien d'invitation ne fonctionne pas
 view.report.report_reanos.dropdown.option6: Autre raison
 view.explore.title: Explorez
 view.explore.featured.title: À l'affiche
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
+view.explore.featured.subtitle: Les meilleurs bots qui soient vérifiés par Discord
 view.explore.trending.title: Tendances
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: Nouveautés
@@ -121,7 +121,7 @@ view.account.my_bots.button: Mes Bots
 view.account.favorites.button: Favoris
 view.account.add_bot.button: Ajouter un Bot
 view.account.remove_ads.button: Enlever la publicité
-view.account.advertise.button: Advertise
+view.account.advertise.button: Publicité
 view.account.settings.button: Réglages
 view.my_bots.title: Mes Bots
 view.my_bots.subtitle: Les robots que vous possédez. Vous pouvez ajouter votre propre bot en cliquant sur le bouton Ajouter un bot dans la page Compte. #Keep capitalization consistent
@@ -130,7 +130,7 @@ view.favorites.title: Favoris
 view.favorites.subtitle: Ajoutez vos robots favoris ici en cliquant sur le bouton cœur sur la page d'un bot
 view.favorites.none: Vous n’avez pas encore de favori
 view.add_bot.title: Ajouter un Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
+view.add_bot.subtitle: Ajoutez votre bot à une liste tierce pour l'ajouter automatiquement à l'application.
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
 view.settings.theme.title: Thème
 view.settings.theme.system.radio: Système
@@ -198,18 +198,18 @@ view.remove_ads.error.title: Une erreur s'est produite
 view.remove_ads.error.not_logging_in: Vous devez être connecté pour acheter ce produit.
 view.remove_ads.button.join_server: Rejoignez notre serveur de support
 view.remove_ads.button.okay: D'accord
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
+view.promote.introduction.promote_your_bot.title: Promouvoir votre bot
+view.promote.introduction.promote_your_bot.body: Promouvoir votre bot via l'application pour augmenter son trafic et son nombre de serveurs.
 view.promote.introduction.how_it_works.title: Comment ça marche
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
+view.promote.introduction.how_it_works.body: Choisissez l'un des nombreux emplacements sur la page d'exploration pour promouvoir votre bot.
+view.promote.introduction.track_your_ads.title: Suivre vos annonces
+view.promote.introduction.track_your_ads.body: Surveillez les performances de vos publicités via un tableau de bord en direct.
 view.promote.get_started.button: Premiers Pas
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.login.error.title: Une erreur s’est produite lors de la connexion
+view.login.error.subtitle: Veuillez réessayer ou rejoindre le serveur de support ci-dessous pour obtenir de l'aide pour vous connecter.
 view.login.error.retry.button: Réessayez
 view.login.error.support_server.button: Serveur de support
-view.login.logging_in.title: Logging you in
+view.login.logging_in.title: Connexion en cours
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
