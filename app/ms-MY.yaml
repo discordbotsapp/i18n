@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Batal
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ya'
 view.settings.info.title: Info
 view.settings.info.about.button: Tentang Kami
-view.settings.info.about.popup.legalese: Hak cipta © 2014 Tetracyl. Semua hak cipta terpelihara.
+view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Dasar Privasi
 view.under_maintenance.title: Di Bawah Penyelenggaraan
 view.under_maintenance.subtitle: Aplikasi ini sedang menjalani penyelenggaraan dan akan kembali kemudian. Sila lihat pelayan pertolongan untuk pengumuman.
