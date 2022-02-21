@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Anulează
 view.settings.account.delete_account.alert_dialog.yes.button: 'Da'
 view.settings.info.title: Informații
 view.settings.info.about.button: Despre
-view.settings.info.about.popup.legalese: Drepturi de autor © 2020 Tetracyl. Toate drepturile rezervate.
+view.settings.info.about.popup.legalese: Drepturi de autor © 2022Tetracyl. Toate drepturile rezervate.
 view.settings.info.privacy_policy.button: Politică de Confidenţialitate
 view.under_maintenance.title: Sub mentenanță
 view.under_maintenance.subtitle: Aplicația este în curs de mentenanță și va reveni în curând. Vă rugăm să verificați serverul de asistență pentru actualizări.

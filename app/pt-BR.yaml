@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sim'
 view.settings.info.title: Informação
 view.settings.info.about.button: Sobre
-view.settings.info.about.popup.legalese: Direitos Autorais © 2020 Tetracyl. Todos os direitos reservados.
+view.settings.info.about.popup.legalese: Direitos Autorais © 2022Tetracyl. Todos os direitos reservados.
 view.settings.info.privacy_policy.button: Políticas de Privacidade
 view.under_maintenance.title: Sob Manutenção
 view.under_maintenance.subtitle: O aplicativo está sob manutenção e estará de volta logo. Veja o servidor de suporte para mais informações.

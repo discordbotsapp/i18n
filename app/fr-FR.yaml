@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Retour
 view.settings.account.delete_account.alert_dialog.yes.button: 'Oui'
 view.settings.info.title: Infos
 view.settings.info.about.button: À propos
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Tous droits réservés.
+view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. Tous droits réservés.
 view.settings.info.privacy_policy.button: Politique de Confidentialité
 view.under_maintenance.title: En maintenance
 view.under_maintenance.subtitle: L'application est en cours de maintenance et sera bientôt de retour. Veuillez vérifier les mises à jour sur le serveur de support.

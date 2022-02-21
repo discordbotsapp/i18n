@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Avbryt
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
 view.settings.info.title: Info
 view.settings.info.about.button: Om
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. Alle rettigheter reservert.
+view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. Alle rettigheter reservert.
 view.settings.info.privacy_policy.button: Retningslinjer for personvern
 view.under_maintenance.title: Under Vedlikehold
 view.under_maintenance.subtitle: Appen er for tiden under vedlikehold og kommer snart tilbake. Sjekk brukerstøtteserveren for oppdateringer.
