@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: إلغاء
 view.settings.account.delete_account.alert_dialog.yes.button: 'نَعَمْ'
 view.settings.info.title: معلومات
 view.settings.info.about.button: معلومات
-view.settings.info.about.popup.legalese: حقوق الطبع والنشر © 2022Tetracyl. جميع الحقوق محفوظة.
+view.settings.info.about.popup.legalese: حقوق الطبع والنشر © {} Tetracyl. جميع الحقوق محفوظة.
 view.settings.info.privacy_policy.button: سياسة الخصوصية
 view.under_maintenance.title: تحت الصيانة
 view.under_maintenance.subtitle: التطبيق قيد الصيانة حاليا وسوف يعود قريبا. الرجاء التحقق من سيرفر الدعم للحصول على التحديثات.

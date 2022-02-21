@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: キャンセル
 view.settings.account.delete_account.alert_dialog.yes.button: 'はい'
 view.settings.info.title: Info
 view.settings.info.about.button: About
-view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Privacy Policy
 view.under_maintenance.title: Under Maintenance
 view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.

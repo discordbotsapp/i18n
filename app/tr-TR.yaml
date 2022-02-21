@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: İptal
 view.settings.account.delete_account.alert_dialog.yes.button: 'Evet'
 view.settings.info.title: Bilgi
 view.settings.info.about.button: Hakkında
-view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. Tüm hakları saklıdır.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Tüm hakları saklıdır.
 view.settings.info.privacy_policy.button: Gizlilik Politikası
 view.under_maintenance.title: Uygulama Bakımda
 view.under_maintenance.subtitle: Uygulama şu anda bakım aşamasındadır ve yakında erişime açılacaktır. Lütfen daha fazla bilgi için destek sunucusuna katıl.

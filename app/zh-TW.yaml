@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: 取消
 view.settings.account.delete_account.alert_dialog.yes.button: '確認'
 view.settings.info.title: 資訊
 view.settings.info.about.button: 關於
-view.settings.info.about.popup.legalese: 版權所有 © 2022Tetracyl. 保留所有權利
+view.settings.info.about.popup.legalese: 版權所有 © {} Tetracyl. 保留所有權利
 view.settings.info.privacy_policy.button: 隱私政策
 view.under_maintenance.title: 維護中
 view.under_maintenance.subtitle: 該應用程序目前正在維護中，將很快恢復。 請檢查支持伺服器以獲取更新。

@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Отмена
 view.settings.account.delete_account.alert_dialog.yes.button: 'Да'
 view.settings.info.title: Информация
 view.settings.info.about.button: О нас
-view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. Все права защищены.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Все права защищены.
 view.settings.info.privacy_policy.button: Политика конфиденциальности
 view.under_maintenance.title: Технические работы
 view.under_maintenance.subtitle: В настоящее время в приложении ведутся технические работы и скоро оно будет работать. Пожалуйста, проверьте сервер поддержки на наличие обновлений.
