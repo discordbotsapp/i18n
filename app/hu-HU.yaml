@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Mégse
 view.settings.account.delete_account.alert_dialog.yes.button: 'Igen'
 view.settings.info.title: Info
 view.settings.info.about.button: Rólunk
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Adatvédelmi Irányelvek
 view.under_maintenance.title: Karbantartás Alatt
 view.under_maintenance.subtitle: Az alkalmazás jelenleg karbantartás alatt, nézz vissza hamar. Nézd meg a support szervert frissítésekért.
