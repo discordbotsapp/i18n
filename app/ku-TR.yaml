@@ -156,7 +156,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: هەڵوەشا�
 view.settings.account.delete_account.alert_dialog.yes.button: 'بەڵێ'
 view.settings.info.title: زانیاری
 view.settings.info.about.button: سەبارەت
-view.settings.info.about.popup.legalese: هەموو مافێکی لەبەرگرتنەوەی پارێزراوە بۆ © 2020 Tetracyl.
+view.settings.info.about.popup.legalese: Copyright © 2022Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: سیاسەتی تایبەتێتی
 view.under_maintenance.title: لەژێر پەرەپێدانە
 view.under_maintenance.subtitle: بەرنامەکە لە ئێستادا لە ژێر پەرەپێدانە بەم زووانە دەگەڕێتەوە. تکایە سەردانی سێرڤەری پشتگیری بکە بۆ هەر نوێکاریەک.
