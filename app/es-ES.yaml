@@ -7,7 +7,7 @@ global.navbar.search: Buscar
 global.app_bar.explore: Explorar
 global.app_bar.top_charts: Los Mejores
 global.app_bar.account: Cuenta
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Avanzado
 global.app_bar.login: Login
 global.app_bar.settings: Ajustes
 global.app_bar.language: Idioma
@@ -142,7 +142,7 @@ view.settings.support.title: Soporte
 view.settings.support.support_server.button: Servidor de Soporte
 view.settings.support.report_a_bug.button: Reportar Un Error
 view.settings.account.title: Cuenta
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Avanzado
 view.settings.account.log_out.button: Cerrar Sesión
 view.settings.account.log_out.alert_dialog.title: Cerrar Sesión
 view.settings.account.log_out.alert_dialog.text: '¿Estás seguro de que quieres cerrar sesión?'
@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sí'
 view.settings.info.title: Info
 view.settings.info.about.button: Acerca de
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Todos los derechos reservados.
 view.settings.info.privacy_policy.button: Política de Privacidad
 view.under_maintenance.title: En Mantenimiento
 view.under_maintenance.subtitle: La aplicación se encuentra actualmente en mantenimiento y volverá pronto. Consulte el servidor de soporte para obtener actualizaciones.
@@ -209,7 +209,7 @@ view.login.error.subtitle: Por favor intenta de nuevo o únete al servidor de so
 view.login.error.retry.button: Reintentar
 view.login.error.support_server.button: Servidor de Soporte
 view.login.logging_in.title: Iniciando sesión
-view.advanced.promoted_bots.title: Promoted Bots
+view.advanced.promoted_bots.title: Bots promocionados
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
