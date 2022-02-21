@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Beworben
 global.pop_up_menu_button.remove_ads.button: Werbung entfernen
 global.pop_up_menu_button.advertise.button: Werben
 global.pop_up_menu_button.privacy_policy.button: Datenschutzbestimmung
-global.button.refresh: Refresh
 global.bot.button.advertise: WERBEN
 view.bot.add.button: Hinzufügen
 view.bot.chip.prefix: 'Präfix: {}'
@@ -156,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Abbrechen
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
 view.settings.info.title: Informationen
 view.settings.info.about.button: Über
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Urheberrecht © {} Tetracyl. Alle Rechte vorbehalten.
 view.settings.info.privacy_policy.button: Datenschutzbestimmung
 view.under_maintenance.title: Wartungsarbeiten
 view.under_maintenance.subtitle: Die App wird derzeit gewartet und wird bald wieder verfügbar sein. Bitte überprüfe den Support-Server auf Updates.
