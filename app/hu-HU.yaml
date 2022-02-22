@@ -49,11 +49,11 @@ global.rate_dialog.button.rate: ÉRTÉKELÉS
 global.rate_dialog.button.no_thanks: KÖSZÖNÖM NEM
 global.rate_dialog.button.maybe_later: TALÁN KÉSŐBB
 global.promoted_bot.placeholder.title: Hirdesd a Botodat itt!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.subtitle: Promótált
 global.pop_up_menu_button.remove_ads.button: Hirdetések Eltávolítása
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Hirdetés
 global.pop_up_menu_button.privacy_policy.button: Adatvédelmi Irányelvek
-global.bot.button.advertise: ADVERTISE
+global.bot.button.advertise: HIRDETÉS
 view.bot.add.button: HOZZÁAD
 view.bot.chip.prefix: 'Előtag: {}'
 view.bot.chip.servers: '{} szerveren'
@@ -92,13 +92,13 @@ view.explore.title: Felfedezés
 view.explore.featured.title: Felfedezés
 view.explore.featured.subtitle: Kiváló botok amelyeket a Discord ellenőrzött
 view.explore.trending.title: Népszerű
-view.explore.trending.subtitle: New bots that are gaining traction quickly
+view.explore.trending.subtitle: Új botok, amelyek felkapottak
 view.explore.new.title: Új
 view.explore.new.subtitle: Utoljára hozzáadott botok
 view.explore.most_voted.title: Legtöbb Szavazattal
 view.explore.most_voted.subtitle: A legtöbb szavazattal rendelkező botok a hónapban
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.title: Legnépszerűbb
+view.explore.most_popular.subtitle: A legtöbb szerveren lévő botok
 view.explore.see_all.button: Összes
 view.explore.categories.title: Kategóriák Felfedezése
 view.explore.category.subtitle: Botok a {} kategóriában
@@ -120,7 +120,7 @@ view.account.my_bots.button: A botjaim
 view.account.favorites.button: Kedvencek
 view.account.add_bot.button: Bot Hozzáadása
 view.account.remove_ads.button: Hirdetések Eltávolítása
-view.account.advertise.button: Advertise
+view.account.advertise.button: Hirdetés
 view.account.settings.button: Beállítások
 view.my_bots.title: A botjaim
 view.my_bots.subtitle: Ezek a botok a tieid. Hozzá tudod adni ha rányomsz a Botok Hozzáadása gombra a Fiók fülön. #Keep capitalization consistent
@@ -137,7 +137,7 @@ view.settings.theme.dark.radio: Sötét
 view.settings.theme.light.radio: Világos
 view.settings.language.title: Nyelv
 view.settings.language.placeholder: Nyelv kiválasztása
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: Segíts lefordítani az appot
 view.settings.support.title: Támogatás
 view.settings.support.support_server.button: Támogatási Szerver
 view.settings.support.report_a_bug.button: Hibajelentés
@@ -153,9 +153,9 @@ view.settings.account.delete_account.alert_dialog.title: Fiók Törlése
 view.settings.account.delete_account.alert_dialog.text: Biztosan törölni szeretnéd a fiókot? Ez a művelet nem visszavonható.
 view.settings.account.delete_account.alert_dialog.cancel.button: Mégse
 view.settings.account.delete_account.alert_dialog.yes.button: 'Igen'
-view.settings.info.title: Info
+view.settings.info.title: Információ
 view.settings.info.about.button: Rólunk
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Minden jog fenntartva.
 view.settings.info.privacy_policy.button: Adatvédelmi Irányelvek
 view.under_maintenance.title: Karbantartás Alatt
 view.under_maintenance.subtitle: Az alkalmazás jelenleg karbantartás alatt, nézz vissza hamar. Nézd meg a support szervert frissítésekért.
@@ -165,7 +165,7 @@ view.no_internet.title: Nincs Internetkapcsolat
 view.no_internet.subtitle: Nem található internetkapcsolat. Kérlek nézd meg a csatlakozásod és próbáld újra
 view.no_internet.retry: Újra
 view.bot.reported.title: Bejelentve {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
+view.bot.reported.subtitle: 'Sikeresen jelentetted {} a következő indokkal:'
 view.bot.reported.button.okay: Rendben
 view.user.bots: Botok
 view.search.hint: Keresés...
@@ -178,24 +178,24 @@ view.welcome.subtitle: Keressen a {}+ Discord botok között! Kezdje azzal hogy 
 view.welcome.login.button: Bejelentkezés Discorddal
 view.welcome.skip.button: Most Kihagyás
 view.remove_ads.title: Hirdetések Eltávolítása
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.subtitle: Eltávolítja az összes hirdetést az appból
+view.remove_ads.error.load_product: Ismeretlen hiba történt a termék betöltése között.
+view.remove_ads.error.verify_purchase: Ismeretlen hiba történt a vásárlás ellenőrzésekor.
+view.remove_ads.error.try_again: Kérjük próbáld újra később vagy csatlakozz a szerverünkhöz.
+view.remove_ads.error.join_server: Kérjük csatlakozz a szerverünkhöz.
+view.remove_ads.purchase: Vásárlás
+view.remove_ads.thank_you.title: Köszönjük a vásárlást
+view.remove_ads.thank_you.subtitle: Az összes hirdetést eltávolítottuk
+view.remove_ads.error.store_problem: Probléma adódott a bolttal.
+view.remove_ads.error.try_again_later: Kérjük, próbálja meg később.
+view.remove_ads.error.purchase_not_allowed: Ez az eszköz vagy felhasználó nem engedélyezett vásárlásra.
+view.remove_ads.error.purchase_invalid: A vásárlás érvénytelen.
+view.remove_ads.error.purchase_in_progress: A vásárlás feldolgozás alatt. Kérjük szíves türelmed.
+view.remove_ads.error.product_already_purchased: Ez a termék már meg lett vásárolva.
+view.remove_ads.error.unknown_error: 'Ismeretlen hiba történt: {}.'
+view.remove_ads.error.title: Hiba lépett fel
+view.remove_ads.error.not_logging_in: Be kell jelentkezned hogy megvásárold ezt a terméket.
+view.remove_ads.button.join_server: Csatlakozz a szerverünkhöz
 view.remove_ads.button.okay: Rendben
 view.promote.introduction.promote_your_bot.title: Promote your bot
 view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
