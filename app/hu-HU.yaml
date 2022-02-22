@@ -7,7 +7,7 @@ global.navbar.search: Keresés
 global.app_bar.explore: Felfedezés
 global.app_bar.top_charts: Top Charts
 global.app_bar.account: Fiók
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Fejlett
 global.app_bar.login: Bejelentkezés
 global.app_bar.settings: Beállítások
 global.app_bar.language: Nyelv
@@ -48,7 +48,7 @@ global.rate_dialog.subtitle: Ha tetszik az alkalmazás, kérünk szánj egy kis 
 global.rate_dialog.button.rate: ÉRTÉKELÉS
 global.rate_dialog.button.no_thanks: KÖSZÖNÖM NEM
 global.rate_dialog.button.maybe_later: TALÁN KÉSŐBB
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.placeholder.title: Hirdesd a Botodat itt!
 global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Hirdetések Eltávolítása
 global.pop_up_menu_button.advertise.button: Advertise
@@ -142,7 +142,7 @@ view.settings.support.title: Támogatás
 view.settings.support.support_server.button: Támogatási Szerver
 view.settings.support.report_a_bug.button: Hibajelentés
 view.settings.account.title: Fiók
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Fejlett
 view.settings.account.log_out.button: Kijelentkezés
 view.settings.account.log_out.alert_dialog.title: Kijelentkezés
 view.settings.account.log_out.alert_dialog.text: Biztosan ki szeretnél jelentkezni?
