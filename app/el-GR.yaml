@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Ακύρωση
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ναι'
 view.settings.info.title: Πληροφορίες
 view.settings.info.about.button: Σχετικά με
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Πνευματικά δικαιώματα © Tetracyl. Όλα τα δικαιώματα κατοχυρωμένα.
 view.settings.info.privacy_policy.button: Πολιτική Απορρήτου
 view.under_maintenance.title: Υπό Συντήρηση
 view.under_maintenance.subtitle: Η εφαρμογή αυτή τη στιγμή βρίσκεται σε συντήρηση και θα είναι ξανά σύντομα. Ελέγξτε τον διακομιστή υποστήριξης για ενημερώσεις.
