@@ -157,13 +157,6 @@ view.settings.info.title: 資訊
 view.settings.info.about.button: 關於
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: 隱私政策
-view.under_maintenance.title: 維護中
-view.under_maintenance.subtitle: 該應用程序目前正在維護中，將很快恢復。 請檢查支持伺服器以獲取更新。
-view.under_maintenance.retry.button: 請重試
-view.under_maintenance.support_server.button: 支持伺服器
-view.no_internet.title: 沒有網路連線
-view.no_internet.subtitle: 找不到互聯網連接. 請檢查您的連接 然後重試
-view.no_internet.retry: 請重試
 view.bot.reported.title: 已檢舉 {}
 view.bot.reported.subtitle: '由於以下原因，您已成功舉報{}：'
 view.bot.reported.button.okay: 確定
