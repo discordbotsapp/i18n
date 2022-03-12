@@ -213,3 +213,10 @@ view.advanced.promoted_bots.title: Bot Promossi
 view.advanced.promoted_bots.switch1.title: Mostra i bot promossi che possiedo
 view.advanced.promoted_bots.switch2.title: Mostra i bot promossi che non possiedo
 view.advanced.promoted_bots.switch3.title: Mostra i segnaposti dei bot promossi
+view.advanced.promoted_bots.remove_ads_alert.title: Rimuovi Annunci
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Annulla
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Acquista
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
