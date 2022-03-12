@@ -157,13 +157,6 @@ view.settings.info.title: 세부 사항
 view.settings.info.about.button: 앱 정보
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: 개인정보 취급방침
-view.under_maintenance.title: 점검중
-view.under_maintenance.subtitle: 이 앱은 현재 점검중이에요. 지원 서버에서 변경 사항을 확인하세요.
-view.under_maintenance.retry.button: 다시 시도하기
-view.under_maintenance.support_server.button: 지원 서버 접속하기
-view.no_internet.title: 인터넷 연결 없음
-view.no_internet.subtitle: 인터넷 연결이 되어있지 않아요. 연결 상태를 확인한 후 다시 시도하세요
-view.no_internet.retry: 다시 시도하기
 view.bot.reported.title: '{} 봇 신고 완료'
 view.bot.reported.subtitle: '{} 봇을 다음 사유로 신고했어요:'
 view.bot.reported.button.okay: 확인
