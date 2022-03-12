@@ -213,3 +213,10 @@ view.advanced.promoted_bots.title: Tanıtılan Botlar
 view.advanced.promoted_bots.switch1.title: Sahip olduğum tanıtılan botları göster
 view.advanced.promoted_bots.switch2.title: Sahip olmadığım tanıtılan botları göster
 view.advanced.promoted_bots.switch3.title: Tanıtılan bot yer tutucularını göster
+view.advanced.promoted_bots.remove_ads_alert.title: Reklamları Kaldır
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: İptal
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Satın Al
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
