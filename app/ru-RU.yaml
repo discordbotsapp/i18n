@@ -157,13 +157,6 @@ view.settings.info.title: Информация
 view.settings.info.about.button: О нас
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Политика конфиденциальности
-view.under_maintenance.title: Технические работы
-view.under_maintenance.subtitle: В настоящее время в приложении ведутся технические работы и скоро оно будет работать. Пожалуйста, проверьте сервер поддержки на наличие обновлений.
-view.under_maintenance.retry.button: Повторить
-view.under_maintenance.support_server.button: Сервер поддержки
-view.no_internet.title: Нет соединения с Интернетом
-view.no_internet.subtitle: Нет подключения к Интернету. Пожалуйста, проверьте соединение и повторите ещё раз
-view.no_internet.retry: Повторить
 view.bot.reported.title: Отправлена жалоба на {}
 view.bot.reported.subtitle: 'Вы успешно пожаловались на {} по следующей причине:'
 view.bot.reported.button.okay: Окей
