@@ -157,13 +157,6 @@ view.settings.info.title: Informationen
 view.settings.info.about.button: Über
 view.settings.info.about.popup.legalese: Urheberrecht © {} Tetracyl. Alle Rechte vorbehalten.
 view.settings.info.privacy_policy.button: Datenschutzbestimmung
-view.under_maintenance.title: Wartungsarbeiten
-view.under_maintenance.subtitle: Die App wird derzeit gewartet und wird bald wieder verfügbar sein. Bitte überprüfe den Support-Server auf Updates.
-view.under_maintenance.retry.button: Erneut versuchen
-view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: Keine Internetverbindung
-view.no_internet.subtitle: Keine Internetverbindung. Bitte überprüfe deine Verbindung und versuche es erneut
-view.no_internet.retry: Erneut versuchen
 view.bot.reported.title: '{} wurde gemeldet'
 view.bot.reported.subtitle: 'Du hast {} aus folgendem Grund erfolgreich gemeldet:'
 view.bot.reported.button.okay: Okay
