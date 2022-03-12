@@ -213,3 +213,10 @@ view.advanced.promoted_bots.title: 홍보된 봇
 view.advanced.promoted_bots.switch1.title: 소유하고 있는 홍보된 봇 표시하기
 view.advanced.promoted_bots.switch2.title: 소유하고 있지 않는 홍보된 봇 표시하기
 view.advanced.promoted_bots.switch3.title: 홍보된 봇의 공간 표시하기
+view.advanced.promoted_bots.remove_ads_alert.title: 광고 제거하기
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: 취소
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: 결제하기
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
