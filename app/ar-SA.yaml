@@ -157,13 +157,6 @@ view.settings.info.title: معلومات
 view.settings.info.about.button: معلومات
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: سياسة الخصوصية
-view.under_maintenance.title: تحت الصيانة
-view.under_maintenance.subtitle: التطبيق قيد الصيانة حاليا وسوف يعود قريبا. الرجاء التحقق من سيرفر الدعم للحصول على التحديثات.
-view.under_maintenance.retry.button: اعد المحاولة
-view.under_maintenance.support_server.button: خادم الدعم
-view.no_internet.title: لا يوجد اتصال بالإنترنت
-view.no_internet.subtitle: لم يتم العثور على اتصال بالإنترنت. يرجى التحقق من اتصالك ثم حاول مرة أخرى
-view.no_internet.retry: اعد المحاولة
 view.bot.reported.title: تم الابلاغ {}
 view.bot.reported.subtitle: 'قمت بالإبلاغ عن {} بنجاح للسبب التالي:'
 view.bot.reported.button.okay: حسناً
