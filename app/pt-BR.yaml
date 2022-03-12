@@ -157,13 +157,6 @@ view.settings.info.title: Informação
 view.settings.info.about.button: Sobre
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Políticas de Privacidade
-view.under_maintenance.title: Sob Manutenção
-view.under_maintenance.subtitle: O aplicativo está sob manutenção e estará de volta logo. Veja o servidor de suporte para mais informações.
-view.under_maintenance.retry.button: Tentar novamente
-view.under_maintenance.support_server.button: Servidor de Suporte
-view.no_internet.title: Sem Conexão de Internet
-view.no_internet.subtitle: Nenhuma conexão com a internet encontrada. Por favor, verifique sua conexão e tente novamente
-view.no_internet.retry: Tentar novamente
 view.bot.reported.title: Denunciou {}
 view.bot.reported.subtitle: 'Você relatou com sucesso {} pelo seguinte motivo:'
 view.bot.reported.button.okay: Okay
