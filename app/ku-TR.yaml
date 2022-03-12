@@ -157,13 +157,6 @@ view.settings.info.title: زانیاری
 view.settings.info.about.button: سەبارەت
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: سیاسەتی تایبەتێتی
-view.under_maintenance.title: لەژێر پەرەپێدانە
-view.under_maintenance.subtitle: بەرنامەکە لە ئێستادا لە ژێر پەرەپێدانە بەم زووانە دەگەڕێتەوە. تکایە سەردانی سێرڤەری پشتگیری بکە بۆ هەر نوێکاریەک.
-view.under_maintenance.retry.button: دووبارە هەوڵ بدە 
-view.under_maintenance.support_server.button: سێرڤەری پشتگیری
-view.no_internet.title: پەیوەندی ئینتەرنێت نیە
-view.no_internet.subtitle: هیچ گرێدانێکی ئینتەرنێت نەدۆزرایەوە. تکایە گرێدانی خۆت بپشکنە و پاشان دووبارە هەوڵ بدەوە
-view.no_internet.retry: دووبارە هەوڵ بدە 
 view.bot.reported.title: ڕاپۆرتکرا {}
 view.bot.reported.subtitle: 'تۆ بە سەرکەوتوویی ڕاپۆرتت کردووە {} لەبەر ئەم هۆکارە:'
 view.bot.reported.button.okay: باشە
