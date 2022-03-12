@@ -157,13 +157,6 @@ view.settings.info.title: Информация
 view.settings.info.about.button: Относно
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Поверителност
-view.under_maintenance.title: В Поддръжка
-view.under_maintenance.subtitle: В момента приложението е в процес на поддръжка и ще се върне скоро. Моля, проверете сървъра за поддръжка за актуализации.
-view.under_maintenance.retry.button: Опитай отново
-view.under_maintenance.support_server.button: Сървър за поддръжка
-view.no_internet.title: Няма интернет връзка
-view.no_internet.subtitle: Не бе установена Интернет връзка. Моля проверете вашата връзка и опитайте пак
-view.no_internet.retry: Опитай отново
 view.bot.reported.title: Докладвано {}
 view.bot.reported.subtitle: 'Ти успешно докладва {} за следната причина:'
 view.bot.reported.button.okay: Добре
