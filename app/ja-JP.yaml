@@ -157,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Privacy Policy
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: リトライ
-view.under_maintenance.support_server.button: サポートサーバー
-view.no_internet.title: インターネット接続なし
-view.no_internet.subtitle: インターネット接続が見つかりません。接続を確認してから、もう一度お試しください
-view.no_internet.retry: リトライ
 view.bot.reported.title: 報告 {}
 view.bot.reported.subtitle: '次の理由により、{} の報告に成功しました。'
 view.bot.reported.button.okay: わかった
