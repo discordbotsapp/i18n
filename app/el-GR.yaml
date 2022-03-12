@@ -157,13 +157,6 @@ view.settings.info.title: Πληροφορίες
 view.settings.info.about.button: Σχετικά με
 view.settings.info.about.popup.legalese: Πνευματικά δικαιώματα © Tetracyl. Όλα τα δικαιώματα κατοχυρωμένα.
 view.settings.info.privacy_policy.button: Πολιτική Απορρήτου
-view.under_maintenance.title: Υπό Συντήρηση
-view.under_maintenance.subtitle: Η εφαρμογή αυτή τη στιγμή βρίσκεται σε συντήρηση και θα είναι ξανά σύντομα. Ελέγξτε τον διακομιστή υποστήριξης για ενημερώσεις.
-view.under_maintenance.retry.button: Επανάληψη
-view.under_maintenance.support_server.button: Διακομιστής Υποστήριξης
-view.no_internet.title: Δεν υπάρχει σύνδεση στο διαδίκτυο
-view.no_internet.subtitle: Δεν βρέθηκε σύνδεση στο internet. Παρακαλώ ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά
-view.no_internet.retry: Επανάληψη
 view.bot.reported.title: Αναφέρθηκε {}
 view.bot.reported.subtitle: 'Έχετε αναφέρει με επιτυχία το {} για τον ακόλουθο λόγο:'
 view.bot.reported.button.okay: Εντάξει
