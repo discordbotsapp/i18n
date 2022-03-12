@@ -157,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: Tungkol sa
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Patakaran sa Privacy
-view.under_maintenance.title: Nasa Pagpapanatili
-view.under_maintenance.subtitle: Ang app ay kasalukuyang sumasailalim sa pagpapanatili at babalik sa lalong madaling panahon. Mangyaring suriin ang server ng suporta para sa mga update.
-view.under_maintenance.retry.button: Ulitin
-view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: Walang Koneksyon sa Internet
-view.no_internet.subtitle: Walang nakitang koneksyon sa internet. Pakisuri ang iyong koneksyon pagkatapos ay subukang muli
-view.no_internet.retry: Ulitin
 view.bot.reported.title: Ulat {}
 view.bot.reported.subtitle: 'Matagumpay mong naiulat ang {} para sa sumusunod na dahilan:'
 view.bot.reported.button.okay: Sige
