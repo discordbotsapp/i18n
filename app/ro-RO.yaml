@@ -157,13 +157,6 @@ view.settings.info.title: Informații
 view.settings.info.about.button: Despre
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Politică de Confidenţialitate
-view.under_maintenance.title: Sub mentenanță
-view.under_maintenance.subtitle: Aplicația este în curs de mentenanță și va reveni în curând. Vă rugăm să verificați serverul de asistență pentru actualizări.
-view.under_maintenance.retry.button: Reîncercați
-view.under_maintenance.support_server.button: Server de asistență
-view.no_internet.title: Nu există conexiune la internet
-view.no_internet.subtitle: Nu s-a găsit nicio conexiune la internet. Verificați conexiunea și apoi încercați din nou
-view.no_internet.retry: Reîncercați
 view.bot.reported.title: Raportat {}
 view.bot.reported.subtitle: 'Ați raportat cu succes {} din următorul motiv:'
 view.bot.reported.button.okay: Okay
