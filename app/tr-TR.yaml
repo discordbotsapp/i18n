@@ -157,13 +157,6 @@ view.settings.info.title: Bilgi
 view.settings.info.about.button: Hakkında
 view.settings.info.about.popup.legalese: Telif Hakkı © {} Tetracyl. Tüm Hakları Saklıdır.
 view.settings.info.privacy_policy.button: Gizlilik Politikası
-view.under_maintenance.title: Uygulama Bakımda
-view.under_maintenance.subtitle: Uygulama şu anda bakım aşamasındadır ve yakında erişime açılacaktır. Lütfen daha fazla bilgi için destek sunucusuna katıl.
-view.under_maintenance.retry.button: Tekrar Dene
-view.under_maintenance.support_server.button: Destek Sunucusu
-view.no_internet.title: İnternet Bağlantısı Yok
-view.no_internet.subtitle: İnternet bağlantısı bulunamadı. Lütfen bağlantını kontrol et ve tekrar dene
-view.no_internet.retry: Tekrar Dene
 view.bot.reported.title: '{} Şikayet Edildi'
 view.bot.reported.subtitle: '{} botunu şu sebepten dolayı şikayet ettin:'
 view.bot.reported.button.okay: Tamam
@@ -216,7 +209,7 @@ view.advanced.promoted_bots.switch3.title: Tanıtılan bot yer tutucularını g�
 view.advanced.promoted_bots.remove_ads_alert.title: Reklamları Kaldır
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: İptal
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Satın Al
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.promoted_bots.remove_ads_alert.text: Tanıtılan bot tercihlerinizi değiştirmek için premium satın almanız gerekiyor.
+view.advanced.usage_data.title: Kullanım Verileri
+view.advanced.usage_data.switch1.title: Çökme verilerini gönder
+view.advanced.usage_data.switch2.title: Performans verilerini gönder
