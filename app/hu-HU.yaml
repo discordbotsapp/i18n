@@ -157,13 +157,6 @@ view.settings.info.title: Információ
 view.settings.info.about.button: Rólunk
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Minden jog fenntartva.
 view.settings.info.privacy_policy.button: Adatvédelmi Irányelvek
-view.under_maintenance.title: Karbantartás Alatt
-view.under_maintenance.subtitle: Az alkalmazás jelenleg karbantartás alatt, nézz vissza hamar. Nézd meg a support szervert frissítésekért.
-view.under_maintenance.retry.button: Újra
-view.under_maintenance.support_server.button: Támogatási Szerver
-view.no_internet.title: Nincs Internetkapcsolat
-view.no_internet.subtitle: Nem található internetkapcsolat. Kérlek nézd meg a csatlakozásod és próbáld újra
-view.no_internet.retry: Újra
 view.bot.reported.title: Bejelentve {}
 view.bot.reported.subtitle: 'Sikeresen jelentetted {} a következő indokkal:'
 view.bot.reported.button.okay: Rendben
