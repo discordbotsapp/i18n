@@ -157,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: Om
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Retningslinjer for personvern
-view.under_maintenance.title: Under Vedlikehold
-view.under_maintenance.subtitle: Appen er for tiden under vedlikehold og kommer snart tilbake. Sjekk brukerstøtteserveren for oppdateringer.
-view.under_maintenance.retry.button: Prøv på nytt
-view.under_maintenance.support_server.button: Støtte Server
-view.no_internet.title: Ingen Internettilkobling
-view.no_internet.subtitle: Ingen internettforbindelse funnet. Kontroller tilkoblingen din, og prøv på nytt
-view.no_internet.retry: Prøv på nytt
 view.bot.reported.title: Rapportert {}
 view.bot.reported.subtitle: 'Du har rapportert {} av følgende grunn:'
 view.bot.reported.button.okay: Okei
