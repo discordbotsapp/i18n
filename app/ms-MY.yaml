@@ -157,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: Tentang Kami
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Dasar Privasi
-view.under_maintenance.title: Di Bawah Penyelenggaraan
-view.under_maintenance.subtitle: Aplikasi ini sedang menjalani penyelenggaraan dan akan kembali kemudian. Sila lihat pelayan pertolongan untuk pengumuman.
-view.under_maintenance.retry.button: Cuba lagi
-view.under_maintenance.support_server.button: Pelayan Pertolongan
-view.no_internet.title: Sambungan Internet Diputus
-view.no_internet.subtitle: Tidah sambungan internet. Sila periksa sambungan internet anda dan cuba lagi
-view.no_internet.retry: Cuba lagi
 view.bot.reported.title: '{} Telah Dilaporkan'
 view.bot.reported.subtitle: 'Anda telah berjaya melaporkan {} atas alasan:'
 view.bot.reported.button.okay: Baik
