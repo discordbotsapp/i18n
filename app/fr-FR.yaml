@@ -157,13 +157,6 @@ view.settings.info.title: Infos
 view.settings.info.about.button: À propos
 view.settings.info.about.popup.legalese: Copyright ©  Tetracyl. Tous droits réservés.
 view.settings.info.privacy_policy.button: Politique de Confidentialité
-view.under_maintenance.title: En maintenance
-view.under_maintenance.subtitle: L'application est en cours de maintenance et sera bientôt de retour. Veuillez vérifier les mises à jour sur le serveur de support.
-view.under_maintenance.retry.button: Réessayez
-view.under_maintenance.support_server.button: Serveur de support
-view.no_internet.title: Aucune connexion Internet
-view.no_internet.subtitle: Aucune connexion Internet. Vérifiez votre connexion, puis réessayez
-view.no_internet.retry: Réessayez
 view.bot.reported.title: Signalé {}
 view.bot.reported.subtitle: 'Vous avez signalé {} avec succès pour la raison suivante :'
 view.bot.reported.button.okay: D'accord
