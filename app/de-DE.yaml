@@ -209,7 +209,7 @@ view.advanced.promoted_bots.switch3.title: Beworbene Bot-Platzhalter anzeigen
 view.advanced.promoted_bots.remove_ads_alert.title: Werbung entfernen
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Abbrechen
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Kaufen
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.promoted_bots.remove_ads_alert.text: Du musst Premium erwerben, um deine bevorzugten Bots zu ändern.
+view.advanced.usage_data.title: Nutzungsdaten
+view.advanced.usage_data.switch1.title: Absturzdaten senden
+view.advanced.usage_data.switch2.title: Performance Bericht senden
