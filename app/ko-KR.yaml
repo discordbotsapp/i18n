@@ -166,7 +166,7 @@ view.search.title: 검색
 view.search.subtitle.noQuery: 봇을 검색해봐요...
 view.search.subtitle.query: '검색 결과: {}'
 view.search.none: 일치하는 검색 결과가 존재하지 않아요
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: '{}+ 봇을 둘러보세요! Discord 계정과 연결해서 시작할 수 있어요.'
 view.welcome.login.button: Discord로 로그인
 view.welcome.skip.button: 일단은 건너뛰기
