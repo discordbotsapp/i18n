@@ -166,7 +166,7 @@ view.search.title: Căutaţi
 view.search.subtitle.noQuery: Caută un bot...
 view.search.subtitle.query: Rezultatele căutării pentru {}
 view.search.none: Nu Au Fost Gasite Rezultate
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Navighează prin {}+ boti pentru discord! Începe conectându-te cu contul tău Discord.
 view.welcome.login.button: Conectează-te cu Discord
 view.welcome.skip.button: Omite pentru moment
