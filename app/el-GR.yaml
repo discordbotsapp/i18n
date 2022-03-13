@@ -166,7 +166,7 @@ view.search.title: Αναζήτηση
 view.search.subtitle.noQuery: Αναζητήστε ένα bot...
 view.search.subtitle.query: Εμφάνιση αποτελεσμάτων αναζήτησης για {}
 view.search.none: Δε βρέθηκαν αποτελέσματα
-view.welcome.title: Discord Bots
+view.welcome.title: Bots για το Discord
 view.welcome.subtitle: Περιηγηθείτε στο {}+ Discord bots! Ξεκινήστε με τη σύνδεση του λογαριασμού σας στο Discord.
 view.welcome.login.button: Είσοδος με Discord
 view.welcome.skip.button: Παράλειψη για την ώρα
