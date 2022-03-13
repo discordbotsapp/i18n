@@ -166,7 +166,7 @@ view.search.title: Buscar
 view.search.subtitle.noQuery: Procurar por um bot...
 view.search.subtitle.query: Mostrando resultados para {}
 view.search.none: Nenhum Resultado Encontrado
-view.welcome.title: Bots do Discord
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Navegue através de {}+ bots do Discord! Comece se cadastrando com sua conta do Discord.
 view.welcome.login.button: Entrar com o Discord
 view.welcome.skip.button: Pular por Enquanto
