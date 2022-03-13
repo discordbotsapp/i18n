@@ -166,7 +166,7 @@ view.search.title: 検索
 view.search.subtitle.noQuery: ボットを検索...
 view.search.subtitle.query: '{} の検索結果を表示する'
 view.search.none: 結果が見つかりません
-view.welcome.title: 不和ボット
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: '{} + Discordボットを閲覧してください！ Discordアカウントでログインすることから始めましょう。'
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: 今すぐスキップ
