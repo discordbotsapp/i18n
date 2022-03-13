@@ -166,7 +166,7 @@ view.search.title: Cari
 view.search.subtitle.noQuery: Cari sesuatu bot...
 view.search.subtitle.query: Menunjukkan hasil carian untuk {}
 view.search.none: Tiada Carian Ditemui
-view.welcome.title: Bot Discord
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Layari {}+ bot Discord! Log masuk dengan akaun Discord anda untuk memulakan carian anda.
 view.welcome.login.button: Log in dengan Discord
 view.welcome.skip.button: Skip untuk Sekarang
