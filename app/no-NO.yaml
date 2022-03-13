@@ -166,7 +166,7 @@ view.search.title: Søk
 view.search.subtitle.noQuery: Søk etter en bot...
 view.search.subtitle.query: Viser søkeresultater for {}
 view.search.none: Ingen resultater funnet
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Bla gjennom {}+ Discord bots! Kom i gang ved å logge inn med din Discord-konto.
 view.welcome.login.button: Logg inn med Discord
 view.welcome.skip.button: Hopp over for nå
