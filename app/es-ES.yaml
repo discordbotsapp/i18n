@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots for Discord
 global.navbar.explore: Explorar
 global.navbar.top_charts: Los Mejores
 global.navbar.account: Cuenta
@@ -174,7 +174,7 @@ view.search.title: Buscar
 view.search.subtitle.noQuery: Busca un bot...
 view.search.subtitle.query: Mostrar resultados de búsqueda para {}
 view.search.none: No se encontraron resultados
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: '¡Navega a través de {}+ bots de Discord! Empieza iniciando sesión con tu cuenta de Discord.'
 view.welcome.login.button: Iniciar sesión con Discord
 view.welcome.skip.button: Omitir por Ahora

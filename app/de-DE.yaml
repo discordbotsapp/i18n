@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots for Discord
 global.navbar.explore: Entdecken
 global.navbar.top_charts: Top Charts
 global.navbar.account: Account
@@ -174,7 +174,7 @@ view.search.title: Suche
 view.search.subtitle.noQuery: Suche für einen Bot...
 view.search.subtitle.query: Zeige Suchergebnisse für {}
 view.search.none: Keine Ergebnisse Gefunden
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Durchsuche {}+ Discord Bots! Logge dich mit deinem Discord Account ein.
 view.welcome.login.button: Mit Discord anmelden
 view.welcome.skip.button: Vorerst überspringen

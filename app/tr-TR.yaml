@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots for Discord
 global.navbar.explore: Keşfet
 global.navbar.top_charts: En İyiler
 global.navbar.account: Hesabım
@@ -174,7 +174,7 @@ view.search.title: Ara
 view.search.subtitle.noQuery: Bir bot ara...
 view.search.subtitle.query: '{} için sonuçlar gösteriliyor'
 view.search.none: Sonuç Bulunamadı
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: '{}+ Discord botuna göz at! Discord hesabınla giriş yaparak hemen göz atmaya başla.'
 view.welcome.login.button: Discord ile Giriş Yap
 view.welcome.skip.button: Şimdilik Atla

@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots for Discord
 global.navbar.explore: Исследовать
 global.navbar.top_charts: Лучшее
 global.navbar.account: Аккаунт
@@ -174,7 +174,7 @@ view.search.title: Поиск
 view.search.subtitle.noQuery: Поиск бота...
 view.search.subtitle.query: Показаны результаты поиска для {}
 view.search.none: Поиск не дал результатов
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Посмотрите {}+ Discord ботов! Начните со входа в Ваш Discord аккаунт.
 view.welcome.login.button: Войти через Discord
 view.welcome.skip.button: Пропустить сейчас

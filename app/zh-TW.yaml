@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots for Discord
 global.navbar.explore: 探索
 global.navbar.top_charts: 頂部圖表
 global.navbar.account: 帳號
@@ -174,7 +174,7 @@ view.search.title: 搜尋
 view.search.subtitle.noQuery: 搜尋機器人...
 view.search.subtitle.query: 顯示下列的搜尋結果：{}
 view.search.none: 找不到結果
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: 通過{} + Discord機器人瀏覽！通過登錄您的Discord帳號來開始
 view.welcome.login.button: 用 Discord 帳號登入
 view.welcome.skip.button: 先跳過

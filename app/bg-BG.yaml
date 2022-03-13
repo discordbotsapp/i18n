@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots for Discord
 global.navbar.explore: Разгледай
 global.navbar.top_charts: Най добри
 global.navbar.account: Профил
@@ -174,7 +174,7 @@ view.search.title: Търсене
 view.search.subtitle.noQuery: Търсене на бот...
 view.search.subtitle.query: Показване на резултати от търсенето за {}
 view.search.none: Не са намерени разултати
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Разгледайте {} + Discord ботове! Започнете, като влезете във вашия акаунт в Discord.
 view.welcome.login.button: Влез със Discord
 view.welcome.skip.button: Пропусни за сега
