@@ -210,6 +210,6 @@ view.advanced.promoted_bots.remove_ads_alert.title: Rimuovi Annunci
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Annulla
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Acquista
 view.advanced.promoted_bots.remove_ads_alert.text: Devi acquistare premium per modificare le preferenze del tuo bot promosso.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.usage_data.title: Dati di Utilizzo
+view.advanced.usage_data.switch1.title: Invia dati di crash
+view.advanced.usage_data.switch2.title: Invia dati di performance
