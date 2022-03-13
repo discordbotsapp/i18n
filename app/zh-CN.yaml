@@ -166,7 +166,7 @@ view.search.title: 搜索
 view.search.subtitle.noQuery: 搜索机器人...
 view.search.subtitle.query: 没有{}的搜索结果
 view.search.none: 未找到任何結果
-view.welcome.title: Discord 机器人
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: 浏览 {}+ Discord 机器人！登录您的 Discord 帐号就可以开始了。
 view.welcome.login.button: 用 Discord 登录
 view.welcome.skip.button: 暂时跳过
