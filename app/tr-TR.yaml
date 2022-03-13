@@ -166,7 +166,7 @@ view.search.title: Ara
 view.search.subtitle.noQuery: Bir bot ara...
 view.search.subtitle.query: '{} için sonuçlar gösteriliyor'
 view.search.none: Sonuç Bulunamadı
-view.welcome.title: Discord Bots
+view.welcome.title: Discord için Botlar
 view.welcome.subtitle: '{}+ Discord botuna göz at! Discord hesabınla giriş yaparak hemen göz atmaya başla.'
 view.welcome.login.button: Discord ile Giriş Yap
 view.welcome.skip.button: Şimdilik Atla
