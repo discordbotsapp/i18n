@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Bot untuk Discord
 global.navbar.explore: Teroka
 global.navbar.top_charts: Carta Tertinggi
 global.navbar.account: Akaun
@@ -7,14 +7,14 @@ global.navbar.search: Cari
 global.app_bar.explore: Teroka
 global.app_bar.top_charts: Carta Tertinggi
 global.app_bar.account: Akaun
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Lanjutan
 global.app_bar.login: Log Masuk
 global.app_bar.settings: Tetapan
 global.app_bar.language: Bahasa
 global.app_bar.report: 'Melaporkan {}'
 global.app_bar.categories: Kategori
 global.app_bar.remove_ads: Membuang Iklan
-global.app_bar.promote: Promote
+global.app_bar.promote: Promosikan
 global.tag.music: Muzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Papan bunyi
@@ -48,12 +48,12 @@ global.rate_dialog.subtitle: Jika kamu suka aplikasi ini, tolong ambil sedikit d
 global.rate_dialog.button.rate: MENILAI
 global.rate_dialog.button.no_thanks: TIDAK MAHU
 global.rate_dialog.button.maybe_later: MUNGKIN NANTI
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Promosikan Bot Anda Disini!
+global.promoted_bot.subtitle: Dipromosi
 global.pop_up_menu_button.remove_ads.button: Membuang Iklan
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Mengiklankan
 global.pop_up_menu_button.privacy_policy.button: Dasar Privasi
-global.bot.button.advertise: ADVERTISE
+global.bot.button.advertise: PENGIKLANAN
 view.bot.add.button: MENAMBAH
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} pelayan'
@@ -120,7 +120,7 @@ view.account.my_bots.button: Bot Saya
 view.account.favorites.button: Kegemaran
 view.account.add_bot.button: Tambah Bot
 view.account.remove_ads.button: Membuang Iklan
-view.account.advertise.button: Advertise
+view.account.advertise.button: Mengiklankan
 view.account.settings.button: Tetapan
 view.my_bots.title: Bot Saya
 view.my_bots.subtitle: Bot yang anda miliki. Anda boleh menambah bot anda dengan menggunakan butang Menambah Bot di halaman Akaun. #Keep capitalization consistent
@@ -142,7 +142,7 @@ view.settings.support.title: Pertolongan
 view.settings.support.support_server.button: Pelayan Pertolongan
 view.settings.support.report_a_bug.button: Melaporkan Sesuatu Kesalahan dalam Aplikasi
 view.settings.account.title: Akaun
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Lanjutan
 view.settings.account.log_out.button: Log Keluar
 view.settings.account.log_out.alert_dialog.title: Log Keluar
 view.settings.account.log_out.alert_dialog.text: Adakah anda pasti anda mahu log keluar?
@@ -166,7 +166,7 @@ view.search.title: Cari
 view.search.subtitle.noQuery: Cari sesuatu bot...
 view.search.subtitle.query: Menunjukkan hasil carian untuk {}
 view.search.none: Tiada Carian Ditemui
-view.welcome.title: Bots for Discord
+view.welcome.title: Bot untuk Discord
 view.welcome.subtitle: Layari {}+ bot Discord! Log masuk dengan akaun Discord anda untuk memulakan carian anda.
 view.welcome.login.button: Log in dengan Discord
 view.welcome.skip.button: Skip untuk Sekarang
