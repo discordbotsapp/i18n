@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Discord를 위한 봇
 global.navbar.explore: 탐색
 global.navbar.top_charts: 차트
 global.navbar.account: 계정
@@ -145,12 +145,12 @@ view.settings.account.title: 계정
 view.settings.account.advanced.button: 고급
 view.settings.account.log_out.button: 로그아웃
 view.settings.account.log_out.alert_dialog.title: 로그아웃
-view.settings.account.log_out.alert_dialog.text: 로그아웃하시겠어요?
+view.settings.account.log_out.alert_dialog.text: 로그아웃할까요?
 view.settings.account.log_out.alert_dialog.cancel.button: 취소
 view.settings.account.log_out.alert_dialog.log_out.button: 로그아웃
 view.settings.account.delete_account.button: 계정 삭제
 view.settings.account.delete_account.alert_dialog.title: 계정 삭제
-view.settings.account.delete_account.alert_dialog.text: 계정을 삭제하시겠어요? 해당 작업은 되돌릴 수 없어요.
+view.settings.account.delete_account.alert_dialog.text: 계정을 삭제할까요? 해당 작업은 되돌릴 수 없어요.
 view.settings.account.delete_account.alert_dialog.cancel.button: 취소
 view.settings.account.delete_account.alert_dialog.yes.button: '계속'
 view.settings.info.title: 세부 사항
@@ -166,7 +166,7 @@ view.search.title: 검색
 view.search.subtitle.noQuery: 봇을 검색해봐요...
 view.search.subtitle.query: '검색 결과: {}'
 view.search.none: 일치하는 검색 결과가 존재하지 않아요
-view.welcome.title: Bots for Discord
+view.welcome.title: Discord를 위한 봇
 view.welcome.subtitle: '{}+ 봇을 둘러보세요! Discord 계정과 연결해서 시작할 수 있어요.'
 view.welcome.login.button: Discord로 로그인
 view.welcome.skip.button: 건너뛰기
@@ -174,21 +174,21 @@ view.remove_ads.title: 광고 제거
 view.remove_ads.subtitle: 앱에서 광고를 삭제해요
 view.remove_ads.error.load_product: 상품을 불러오는 동안 오류가 발생했어요.
 view.remove_ads.error.verify_purchase: 구매를 진행하던 도중 오류가 발생했어요.
-view.remove_ads.error.try_again: 다시 시도하거나 지원 서버를 접속해보세요.
-view.remove_ads.error.join_server: 지원 서버를 접속해 주세요.
-view.remove_ads.purchase: 결제하기
-view.remove_ads.thank_you.title: 결제해주셔서 감사합니다
+view.remove_ads.error.try_again: 다시 시도하거나 지원 서버에 참가해보세요.
+view.remove_ads.error.join_server: 지원 서버에 참가해 주세요.
+view.remove_ads.purchase: 구매
+view.remove_ads.thank_you.title: 구매해주셔서 감사합니다
 view.remove_ads.thank_you.subtitle: 모든 광고가 이제 제거돼요
 view.remove_ads.error.store_problem: 상점에 문제가 발생했어요.
-view.remove_ads.error.try_again_later: 나중에 다시 시도해 주세요.
-view.remove_ads.error.purchase_not_allowed: 이 기기 또는 유저로는 결제를 진행할 수 없어요.
-view.remove_ads.error.purchase_invalid: 이 결제가 유효하지 않아요.
-view.remove_ads.error.purchase_in_progress: 결제가 이미 진행 중이에요. 잠시만 기다려주세요.
-view.remove_ads.error.product_already_purchased: 이 상품은 이미 결제되었어요.
+view.remove_ads.error.try_again_later: 나중에 다시 시도해 보세요.
+view.remove_ads.error.purchase_not_allowed: 해당 기기 또는 사용자로는 구매를 진행할 수 없어요.
+view.remove_ads.error.purchase_invalid: 유효하지 않은 구매에요.
+view.remove_ads.error.purchase_in_progress: 구매가 진행 중이에요. 잠시 기다려주세요.
+view.remove_ads.error.product_already_purchased: 이미 해당 상품을 구매했어요.
 view.remove_ads.error.unknown_error: '알 수 없는 오류가 발생했어요: {}.'
 view.remove_ads.error.title: 오류가 발생했어요
-view.remove_ads.error.not_logging_in: 이 상품을 구매하려면 로그인해야 해요.
-view.remove_ads.button.join_server: 지원 서버 접속하기
+view.remove_ads.error.not_logging_in: 해당 상품을 구매하려면 로그인해야 해요.
+view.remove_ads.button.join_server: 지원 서버 참가
 view.remove_ads.button.okay: 확인
 view.promote.introduction.promote_your_bot.title: 봇을 홍보해봐요
 view.promote.introduction.promote_your_bot.body: 앱을 통해 봇을 홍보해서 봇 점유율과 서버 수를 늘려봐요.
@@ -198,18 +198,18 @@ view.promote.introduction.track_your_ads.title: 광고를 추적해보세요
 view.promote.introduction.track_your_ads.body: 실시간 대시보드를 통해 광고 실적을 모니터링해봐요.
 view.promote.get_started.button: 시작하기
 view.login.error.title: 로그인하던 중 오류가 발생했어요
-view.login.error.subtitle: 다시 시도하거나 도움이 필요한 경우 지원 서버를 방문해주세요.
-view.login.error.retry.button: 다시 시도하기
+view.login.error.subtitle: 다시 시도하거나 도움이 필요한 경우 지원 서버에 참가하세요.
+view.login.error.retry.button: 다시 시도
 view.login.error.support_server.button: 지원 서버
 view.login.logging_in.title: 로그인하는 중
-view.advanced.promoted_bots.title: 홍보된 봇
+view.advanced.promoted_bots.title: 홍보된 봇 설정
 view.advanced.promoted_bots.switch1.title: 소유하고 있는 홍보된 봇 표시하기
 view.advanced.promoted_bots.switch2.title: 소유하고 있지 않는 홍보된 봇 표시하기
 view.advanced.promoted_bots.switch3.title: 홍보된 봇의 공간 표시하기
 view.advanced.promoted_bots.remove_ads_alert.title: 광고 제거
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: 취소
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: 결제하기
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: 구매
+view.advanced.promoted_bots.remove_ads_alert.text: 홍보된 봇 설정을 변경하려면 프리미엄을 구매해야 해요.
+view.advanced.usage_data.title: 데이터 사용
+view.advanced.usage_data.switch1.title: 충돌 데이터 전송
+view.advanced.usage_data.switch2.title: 성능 데이터 전송
