@@ -202,6 +202,9 @@ view.login.error.subtitle: Veuillez réessayer ou rejoindre le serveur de suppor
 view.login.error.retry.button: Réessayez
 view.login.error.support_server.button: Serveur de support
 view.login.logging_in.title: Connexion en cours
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Bots Promus
 view.advanced.promoted_bots.switch1.title: Afficher les robots promus que je possède
 view.advanced.promoted_bots.switch2.title: Afficher les robots promus que je ne possède pas
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Enlever la publicité
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Retour
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Acheter
 view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
