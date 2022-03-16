@@ -202,6 +202,9 @@ view.login.error.subtitle: Perfavore prova ancora o entra nel server di supporto
 view.login.error.retry.button: Riprova
 view.login.error.support_server.button: Server di Assistenza
 view.login.logging_in.title: Accedendo
+view.advanced.usage_data.title: Dati di Utilizzo
+view.advanced.usage_data.switch1.title: Invia dati di crash
+view.advanced.usage_data.switch2.title: Invia dati di performance
 view.advanced.promoted_bots.title: Bot Promossi
 view.advanced.promoted_bots.switch1.title: Mostra i bot promossi che possiedo
 view.advanced.promoted_bots.switch2.title: Mostra i bot promossi che non possiedo
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Rimuovi Annunci
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Annulla
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Acquista
 view.advanced.promoted_bots.remove_ads_alert.text: Devi acquistare premium per modificare le preferenze del tuo bot promosso.
-view.advanced.usage_data.title: Dati di Utilizzo
-view.advanced.usage_data.switch1.title: Invia dati di crash
-view.advanced.usage_data.switch2.title: Invia dati di performance
