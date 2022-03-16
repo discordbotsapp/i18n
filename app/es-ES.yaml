@@ -202,6 +202,9 @@ view.login.error.subtitle: Por favor intenta de nuevo o únete al servidor de so
 view.login.error.retry.button: Reintentar
 view.login.error.support_server.button: Servidor de Soporte
 view.login.logging_in.title: Iniciando sesión
+view.advanced.usage_data.title: Datos de uso
+view.advanced.usage_data.switch1.title: Enviar datos de error
+view.advanced.usage_data.switch2.title: Enviar datos de rendimiento
 view.advanced.promoted_bots.title: Bots promocionados
 view.advanced.promoted_bots.switch1.title: Mostrar bots promocionados que tengo
 view.advanced.promoted_bots.switch2.title: Mostrar bots promocionados que no tengo
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Quitar Anuncios
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancelar
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Comprar
 view.advanced.promoted_bots.remove_ads_alert.text: Debes comprar premium para cambiar tus preferencias de bot promovidas.
-view.advanced.usage_data.title: Datos de uso
-view.advanced.usage_data.switch1.title: Enviar datos de error
-view.advanced.usage_data.switch2.title: Enviar datos de rendimiento
