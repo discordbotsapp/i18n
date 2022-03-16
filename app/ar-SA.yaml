@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: إلغاء
 view.settings.account.delete_account.alert_dialog.yes.button: 'نَعَمْ'
 view.settings.info.title: معلومات
 view.settings.info.about.button: معلومات
-view.settings.info.about.popup.legalese: حقوق الطبع والنشر © {} Tetracyl. جميع الحقوق محفوظة.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: سياسة الخصوصية
 view.bot.reported.title: تم الابلاغ {}
 view.bot.reported.subtitle: 'قمت بالإبلاغ عن {} بنجاح للسبب التالي:'
