@@ -202,6 +202,9 @@ view.login.error.subtitle: Lütfen tekrar deneyin veya oturum açma konusunda ya
 view.login.error.retry.button: Tekrar Dene
 view.login.error.support_server.button: Destek Sunucusu
 view.login.logging_in.title: Giriş yapılıyor
+view.advanced.usage_data.title: Kullanım Verileri
+view.advanced.usage_data.switch1.title: Çökme verilerini gönder
+view.advanced.usage_data.switch2.title: Performans verilerini gönder
 view.advanced.promoted_bots.title: Tanıtılan Botlar
 view.advanced.promoted_bots.switch1.title: Sahip olduğum tanıtılan botları göster
 view.advanced.promoted_bots.switch2.title: Sahip olmadığım tanıtılan botları göster
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Reklamları Kaldır
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: İptal
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Satın Al
 view.advanced.promoted_bots.remove_ads_alert.text: Tanıtılan bot tercihlerinizi değiştirmek için premium satın almanız gerekiyor.
-view.advanced.usage_data.title: Kullanım Verileri
-view.advanced.usage_data.switch1.title: Çökme verilerini gönder
-view.advanced.usage_data.switch2.title: Performans verilerini gönder
