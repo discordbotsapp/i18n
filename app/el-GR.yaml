@@ -202,6 +202,9 @@ view.login.error.subtitle: Παρακαλώ δοκιμάστε ξανά ή εγ�
 view.login.error.retry.button: Επανάληψη
 view.login.error.support_server.button: Διακομιστής Υποστήριξης
 view.login.logging_in.title: Γίνεται σύνδεση
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Κατάργηση διαφ�
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Ακύρωση
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Αγορά
 view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
