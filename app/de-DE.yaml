@@ -202,6 +202,9 @@ view.login.error.subtitle: Bitte versuche es später erneut oder besuche den Sup
 view.login.error.retry.button: Erneut versuchen
 view.login.error.support_server.button: Support Server
 view.login.logging_in.title: Anmeldung läuft
+view.advanced.usage_data.title: Nutzungsdaten
+view.advanced.usage_data.switch1.title: Absturzdaten senden
+view.advanced.usage_data.switch2.title: Performance Bericht senden
 view.advanced.promoted_bots.title: Beworbene Bots
 view.advanced.promoted_bots.switch1.title: Zeige beworbene Bots die ich besitze
 view.advanced.promoted_bots.switch2.title: Zeige beworbende Bots die ich nicht besitze
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Werbung entfernen
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Abbrechen
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Kaufen
 view.advanced.promoted_bots.remove_ads_alert.text: Du musst Premium erwerben, um deine bevorzugten Bots zu ändern.
-view.advanced.usage_data.title: Nutzungsdaten
-view.advanced.usage_data.switch1.title: Absturzdaten senden
-view.advanced.usage_data.switch2.title: Performance Bericht senden
