@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Cancelar
 view.settings.account.delete_account.alert_dialog.yes.button: 'Sí'
 view.settings.info.title: Info
 view.settings.info.about.button: Acerca de
-view.settings.info.about.popup.legalese: Derechos de Autor © {} Tetracyl. Todos los derechos reservados.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Todos los derechos reservados.
 view.settings.info.privacy_policy.button: Política de Privacidad
 view.bot.reported.title: Reportado {}
 view.bot.reported.subtitle: 'Has reportado {} por la siguiente razón:'
