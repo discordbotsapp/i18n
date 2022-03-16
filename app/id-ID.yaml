@@ -1,5 +1,5 @@
 ---
-global.title: Discord Bots
+global.title: Bots for Discord
 global.navbar.explore: Explore
 global.navbar.top_charts: Top Charts
 global.navbar.account: Account
@@ -140,7 +140,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
 view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
 view.settings.data.title: Data
 view.settings.data.about.button: About
-view.settings.info.about.popup.legalese: Copyright © 2020 Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.data.terms_and_conditions.button: Terms & Conditions
 view.settings.data.privacy_policy.button: Privacy Policy
 view.under_maintenance.title: Under Maintenance
@@ -159,7 +159,7 @@ view.search.title: Search
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Discord Bots
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: Skip for Now

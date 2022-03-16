@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Отказ
 view.settings.account.delete_account.alert_dialog.yes.button: 'Да'
 view.settings.info.title: Информация
 view.settings.info.about.button: Относно
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Всички права запазени.
 view.settings.info.privacy_policy.button: Поверителност
 view.bot.reported.title: Докладвано {}
 view.bot.reported.subtitle: 'Ти успешно докладва {} за следната причина:'

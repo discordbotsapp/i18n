@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: هەڵوەشا�
 view.settings.account.delete_account.alert_dialog.yes.button: 'بەڵێ'
 view.settings.info.title: زانیاری
 view.settings.info.about.button: سەبارەت
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: هەموو مافێکی لەبەرگرتنەوەی پارێزراوە بۆ © {} Tetracyl.
 view.settings.info.privacy_policy.button: سیاسەتی تایبەتێتی
 view.bot.reported.title: ڕاپۆرتکرا {}
 view.bot.reported.subtitle: 'تۆ بە سەرکەوتوویی ڕاپۆرتت کردووە {} لەبەر ئەم هۆکارە:'
