@@ -1,5 +1,5 @@
 ---
-global.title: Bots Discord
+global.title: Bots for Discord
 global.navbar.explore: Explorez
 global.navbar.top_charts: Classements
 global.navbar.account: Compte
@@ -7,7 +7,7 @@ global.navbar.search: Recherche
 global.app_bar.explore: Explorez
 global.app_bar.top_charts: Classements
 global.app_bar.account: Compte
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Avancé
 global.app_bar.login: Connexion
 global.app_bar.settings: Réglages
 global.app_bar.language: Langue
@@ -53,8 +53,7 @@ global.promoted_bot.subtitle: Sponsorisé
 global.pop_up_menu_button.remove_ads.button: Enlever la publicité
 global.pop_up_menu_button.advertise.button: Publicité
 global.pop_up_menu_button.privacy_policy.button: Politique de Confidentialité
-global.button.refresh: Actualiser
-global.bot.button.advertise: ADVERTISE
+global.bot.button.advertise: Publicité
 view.bot.add.button: AJOUTER
 view.bot.chip.prefix: 'Préfixe:'
 view.bot.chip.servers: 'serveurs'
@@ -93,7 +92,7 @@ view.explore.title: Explorez
 view.explore.featured.title: À l'affiche
 view.explore.featured.subtitle: Les meilleurs bots qui soient vérifiés par Discord
 view.explore.trending.title: Tendances
-view.explore.trending.subtitle: New bots that are gaining traction quickly
+view.explore.trending.subtitle: Nouveaux robots qui gagnent rapidement de la traction
 view.explore.new.title: Nouveautés
 view.explore.new.subtitle: Bots récemment ajoutés
 view.explore.most_voted.title: Les plus populaires
@@ -131,7 +130,7 @@ view.favorites.subtitle: Ajoutez vos robots favoris ici en cliquant sur le bouto
 view.favorites.none: Vous n’avez pas encore de favori
 view.add_bot.title: Ajouter un Bot
 view.add_bot.subtitle: Ajoutez votre bot à une liste tierce pour l'ajouter automatiquement à l'application.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
+view.add_bot.note: 'Note: Votre bot peut ne pas apparaître instantanément dans l''application après l''avoir ajouté à une autre liste de bots.'
 view.settings.theme.title: Thème
 view.settings.theme.system.radio: Système
 view.settings.theme.dark.radio: Sombre
@@ -143,7 +142,7 @@ view.settings.support.title: Assistance
 view.settings.support.support_server.button: Serveur de support
 view.settings.support.report_a_bug.button: Signaler un bug
 view.settings.account.title: Compte
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Avancé
 view.settings.account.log_out.button: Déconnexion
 view.settings.account.log_out.alert_dialog.title: Déconnexion
 view.settings.account.log_out.alert_dialog.text: Etes-vous sûr de vouloir vous déconnecter ?
@@ -158,13 +157,6 @@ view.settings.info.title: Infos
 view.settings.info.about.button: À propos
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Tous droits réservés.
 view.settings.info.privacy_policy.button: Politique de Confidentialité
-view.under_maintenance.title: En maintenance
-view.under_maintenance.subtitle: L'application est en cours de maintenance et sera bientôt de retour. Veuillez vérifier les mises à jour sur le serveur de support.
-view.under_maintenance.retry.button: Réessayez
-view.under_maintenance.support_server.button: Serveur de support
-view.no_internet.title: Aucune connexion Internet
-view.no_internet.subtitle: Aucune connexion Internet. Vérifiez votre connexion, puis réessayez
-view.no_internet.retry: Réessayez
 view.bot.reported.title: Signalé {}
 view.bot.reported.subtitle: 'Vous avez signalé {} avec succès pour la raison suivante :'
 view.bot.reported.button.okay: D'accord
@@ -174,7 +166,7 @@ view.search.title: Recherche
 view.search.subtitle.noQuery: Rechercher un bot...
 view.search.subtitle.query: Affichage des résultats de recherche pour {}
 view.search.none: Aucun résultat trouvé
-view.welcome.title: Bots Discord
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Parcourez plus de {} bots Discord ! Commencez en vous connectant avec votre compte Discord.
 view.welcome.login.button: Se connecter avec Discord
 view.welcome.skip.button: Ignorer pour l'instant
@@ -210,7 +202,14 @@ view.login.error.subtitle: Veuillez réessayer ou rejoindre le serveur de suppor
 view.login.error.retry.button: Réessayez
 view.login.error.support_server.button: Serveur de support
 view.login.logging_in.title: Connexion en cours
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.promoted_bots.title: Bots Promus
+view.advanced.promoted_bots.switch1.title: Afficher les robots promus que je possède
+view.advanced.promoted_bots.switch2.title: Afficher les robots promus que je ne possède pas
+view.advanced.promoted_bots.switch3.title: Afficher les espaces réservés des robots promus
+view.advanced.promoted_bots.remove_ads_alert.title: Enlever la publicité
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Retour
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Acheter
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

@@ -1,5 +1,5 @@
 ---
-global.title: 不和ボット
+global.title: Bots for Discord
 global.navbar.explore: 探検
 global.navbar.top_charts: トップチャート
 global.navbar.account: アカウント
@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: 昇格
 global.pop_up_menu_button.remove_ads.button: Remove Ads
 global.pop_up_menu_button.advertise.button: 広告する
 global.pop_up_menu_button.privacy_policy.button: Privacy Policy
-global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: 追加
 view.bot.chip.prefix: 'プレフィックス：{}'
@@ -158,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Privacy Policy
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: リトライ
-view.under_maintenance.support_server.button: サポートサーバー
-view.no_internet.title: インターネット接続なし
-view.no_internet.subtitle: インターネット接続が見つかりません。接続を確認してから、もう一度お試しください
-view.no_internet.retry: リトライ
 view.bot.reported.title: 報告 {}
 view.bot.reported.subtitle: '次の理由により、{} の報告に成功しました。'
 view.bot.reported.button.okay: わかった
@@ -174,7 +166,7 @@ view.search.title: 検索
 view.search.subtitle.noQuery: ボットを検索...
 view.search.subtitle.query: '{} の検索結果を表示する'
 view.search.none: 結果が見つかりません
-view.welcome.title: 不和ボット
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: '{} + Discordボットを閲覧してください！ Discordアカウントでログインすることから始めましょう。'
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: 今すぐスキップ
@@ -210,7 +202,14 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: リトライ
 view.login.error.support_server.button: サポートサーバー
 view.login.logging_in.title: Logging you in
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: Remove Ads
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: キャンセル
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: 購入
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

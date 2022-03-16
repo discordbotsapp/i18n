@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Discord için Botlar
 global.navbar.explore: Keşfet
 global.navbar.top_charts: En İyiler
 global.navbar.account: Hesabım
@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Reklam Verildi
 global.pop_up_menu_button.remove_ads.button: Reklamları Kaldır
 global.pop_up_menu_button.advertise.button: Reklam Ver
 global.pop_up_menu_button.privacy_policy.button: Gizlilik Politikası
-global.button.refresh: Yenile
 global.bot.button.advertise: REKLAM VER
 view.bot.add.button: EKLE
 view.bot.chip.prefix: 'Prefix: {}'
@@ -156,15 +155,8 @@ view.settings.account.delete_account.alert_dialog.cancel.button: İptal
 view.settings.account.delete_account.alert_dialog.yes.button: 'Evet'
 view.settings.info.title: Bilgi
 view.settings.info.about.button: Hakkında
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Tüm hakları saklıdır.
+view.settings.info.about.popup.legalese: Telif Hakkı © {} Tetracyl. Tüm Hakları Saklıdır.
 view.settings.info.privacy_policy.button: Gizlilik Politikası
-view.under_maintenance.title: Uygulama Bakımda
-view.under_maintenance.subtitle: Uygulama şu anda bakım aşamasındadır ve yakında erişime açılacaktır. Lütfen daha fazla bilgi için destek sunucusuna katıl.
-view.under_maintenance.retry.button: Tekrar Dene
-view.under_maintenance.support_server.button: Destek Sunucusu
-view.no_internet.title: İnternet Bağlantısı Yok
-view.no_internet.subtitle: İnternet bağlantısı bulunamadı. Lütfen bağlantını kontrol et ve tekrar dene
-view.no_internet.retry: Tekrar Dene
 view.bot.reported.title: '{} Şikayet Edildi'
 view.bot.reported.subtitle: '{} botunu şu sebepten dolayı şikayet ettin:'
 view.bot.reported.button.okay: Tamam
@@ -174,7 +166,7 @@ view.search.title: Ara
 view.search.subtitle.noQuery: Bir bot ara...
 view.search.subtitle.query: '{} için sonuçlar gösteriliyor'
 view.search.none: Sonuç Bulunamadı
-view.welcome.title: Bots for Discord
+view.welcome.title: Discord için Botlar
 view.welcome.subtitle: '{}+ Discord botuna göz at! Discord hesabınla giriş yaparak hemen göz atmaya başla.'
 view.welcome.login.button: Discord ile Giriş Yap
 view.welcome.skip.button: Şimdilik Atla
@@ -210,7 +202,14 @@ view.login.error.subtitle: Lütfen tekrar deneyin veya oturum açma konusunda ya
 view.login.error.retry.button: Tekrar Dene
 view.login.error.support_server.button: Destek Sunucusu
 view.login.logging_in.title: Giriş yapılıyor
+view.advanced.usage_data.title: Kullanım Verileri
+view.advanced.usage_data.switch1.title: Çökme verilerini gönder
+view.advanced.usage_data.switch2.title: Performans verilerini gönder
 view.advanced.promoted_bots.title: Tanıtılan Botlar
 view.advanced.promoted_bots.switch1.title: Sahip olduğum tanıtılan botları göster
 view.advanced.promoted_bots.switch2.title: Sahip olmadığım tanıtılan botları göster
 view.advanced.promoted_bots.switch3.title: Tanıtılan bot yer tutucularını göster
+view.advanced.promoted_bots.remove_ads_alert.title: Reklamları Kaldır
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: İptal
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Satın Al
+view.advanced.promoted_bots.remove_ads_alert.text: Tanıtılan bot tercihlerinizi değiştirmek için premium satın almanız gerekiyor.

@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Fjern Reklamer
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: Retningslinjer for personvern
-global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: LEGG TILL
 view.bot.chip.prefix: 'Prefiks: {}'
@@ -158,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: Om
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Alle rettigheter reservert.
 view.settings.info.privacy_policy.button: Retningslinjer for personvern
-view.under_maintenance.title: Under Vedlikehold
-view.under_maintenance.subtitle: Appen er for tiden under vedlikehold og kommer snart tilbake. Sjekk brukerstøtteserveren for oppdateringer.
-view.under_maintenance.retry.button: Prøv på nytt
-view.under_maintenance.support_server.button: Støtte Server
-view.no_internet.title: Ingen Internettilkobling
-view.no_internet.subtitle: Ingen internettforbindelse funnet. Kontroller tilkoblingen din, og prøv på nytt
-view.no_internet.retry: Prøv på nytt
 view.bot.reported.title: Rapportert {}
 view.bot.reported.subtitle: 'Du har rapportert {} av følgende grunn:'
 view.bot.reported.button.okay: Okei
@@ -210,7 +202,14 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Prøv på nytt
 view.login.error.support_server.button: Støtte Server
 view.login.logging_in.title: Logging you in
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: Fjern Reklamer
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Avbryt
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Kjøpe
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

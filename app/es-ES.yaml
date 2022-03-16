@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Bots para Discord
 global.navbar.explore: Explorar
 global.navbar.top_charts: Los Mejores
 global.navbar.account: Cuenta
@@ -7,7 +7,7 @@ global.navbar.search: Buscar
 global.app_bar.explore: Explorar
 global.app_bar.top_charts: Los Mejores
 global.app_bar.account: Cuenta
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Avanzado
 global.app_bar.login: Login
 global.app_bar.settings: Ajustes
 global.app_bar.language: Idioma
@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Promocionado
 global.pop_up_menu_button.remove_ads.button: Quitar Anuncios
 global.pop_up_menu_button.advertise.button: Anunciar
 global.pop_up_menu_button.privacy_policy.button: Política de Privacidad
-global.button.refresh: Refresh
 global.bot.button.advertise: ANUNCIO
 view.bot.add.button: AGREGAR
 view.bot.chip.prefix: 'Prefijo: {}'
@@ -143,7 +142,7 @@ view.settings.support.title: Soporte
 view.settings.support.support_server.button: Servidor de Soporte
 view.settings.support.report_a_bug.button: Reportar Un Error
 view.settings.account.title: Cuenta
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Avanzado
 view.settings.account.log_out.button: Cerrar Sesión
 view.settings.account.log_out.alert_dialog.title: Cerrar Sesión
 view.settings.account.log_out.alert_dialog.text: '¿Estás seguro de que quieres cerrar sesión?'
@@ -158,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: Acerca de
 view.settings.info.about.popup.legalese: Derechos de Autor © {} Tetracyl. Todos los derechos reservados.
 view.settings.info.privacy_policy.button: Política de Privacidad
-view.under_maintenance.title: En Mantenimiento
-view.under_maintenance.subtitle: La aplicación se encuentra actualmente en mantenimiento y volverá pronto. Consulte el servidor de soporte para obtener actualizaciones.
-view.under_maintenance.retry.button: Reintentar
-view.under_maintenance.support_server.button: Servidor de Soporte
-view.no_internet.title: No hay conexión a Internet
-view.no_internet.subtitle: No se ha encontrado conexión a Internet. Por favor, compruebe su conexión y vuelva a intentarlo
-view.no_internet.retry: Reintentar
 view.bot.reported.title: Reportado {}
 view.bot.reported.subtitle: 'Has reportado {} por la siguiente razón:'
 view.bot.reported.button.okay: Aceptar
@@ -174,7 +166,7 @@ view.search.title: Buscar
 view.search.subtitle.noQuery: Busca un bot...
 view.search.subtitle.query: Mostrar resultados de búsqueda para {}
 view.search.none: No se encontraron resultados
-view.welcome.title: Bots for Discord
+view.welcome.title: Bots para Discord
 view.welcome.subtitle: '¡Navega a través de {}+ bots de Discord! Empieza iniciando sesión con tu cuenta de Discord.'
 view.welcome.login.button: Iniciar sesión con Discord
 view.welcome.skip.button: Omitir por Ahora
@@ -210,7 +202,14 @@ view.login.error.subtitle: Por favor intenta de nuevo o únete al servidor de so
 view.login.error.retry.button: Reintentar
 view.login.error.support_server.button: Servidor de Soporte
 view.login.logging_in.title: Iniciando sesión
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.advanced.usage_data.title: Datos de uso
+view.advanced.usage_data.switch1.title: Enviar datos de error
+view.advanced.usage_data.switch2.title: Enviar datos de rendimiento
+view.advanced.promoted_bots.title: Bots promocionados
+view.advanced.promoted_bots.switch1.title: Mostrar bots promocionados que tengo
+view.advanced.promoted_bots.switch2.title: Mostrar bots promocionados que no tengo
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: Quitar Anuncios
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancelar
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Comprar
+view.advanced.promoted_bots.remove_ads_alert.text: Debes comprar premium para cambiar tus preferencias de bot promovidas.

@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: ترقية
 global.pop_up_menu_button.remove_ads.button: إزالة الإعلانات
 global.pop_up_menu_button.advertise.button: اعلان
 global.pop_up_menu_button.privacy_policy.button: سياسة الخصوصية
-global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: أضف
 view.bot.chip.prefix: 'بادئة: {}'
@@ -158,13 +157,6 @@ view.settings.info.title: معلومات
 view.settings.info.about.button: معلومات
 view.settings.info.about.popup.legalese: حقوق الطبع والنشر © {} Tetracyl. جميع الحقوق محفوظة.
 view.settings.info.privacy_policy.button: سياسة الخصوصية
-view.under_maintenance.title: تحت الصيانة
-view.under_maintenance.subtitle: التطبيق قيد الصيانة حاليا وسوف يعود قريبا. الرجاء التحقق من سيرفر الدعم للحصول على التحديثات.
-view.under_maintenance.retry.button: اعد المحاولة
-view.under_maintenance.support_server.button: خادم الدعم
-view.no_internet.title: لا يوجد اتصال بالإنترنت
-view.no_internet.subtitle: لم يتم العثور على اتصال بالإنترنت. يرجى التحقق من اتصالك ثم حاول مرة أخرى
-view.no_internet.retry: اعد المحاولة
 view.bot.reported.title: تم الابلاغ {}
 view.bot.reported.subtitle: 'قمت بالإبلاغ عن {} بنجاح للسبب التالي:'
 view.bot.reported.button.okay: حسناً
@@ -210,7 +202,14 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: اعد المحاولة
 view.login.error.support_server.button: خادم الدعم
 view.login.logging_in.title: تسجيل دخولك
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: إزالة الإعلانات
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: إلغاء
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: اشتري
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

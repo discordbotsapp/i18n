@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Премахни реклами
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: Поверителност
-global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: Добави
 view.bot.chip.prefix: 'Префикс: {}'
@@ -158,13 +157,6 @@ view.settings.info.title: Информация
 view.settings.info.about.button: Относно
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Всички права запазени.
 view.settings.info.privacy_policy.button: Поверителност
-view.under_maintenance.title: В Поддръжка
-view.under_maintenance.subtitle: В момента приложението е в процес на поддръжка и ще се върне скоро. Моля, проверете сървъра за поддръжка за актуализации.
-view.under_maintenance.retry.button: Опитай отново
-view.under_maintenance.support_server.button: Сървър за поддръжка
-view.no_internet.title: Няма интернет връзка
-view.no_internet.subtitle: Не бе установена Интернет връзка. Моля проверете вашата връзка и опитайте пак
-view.no_internet.retry: Опитай отново
 view.bot.reported.title: Докладвано {}
 view.bot.reported.subtitle: 'Ти успешно докладва {} за следната причина:'
 view.bot.reported.button.okay: Добре
@@ -210,7 +202,14 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Опитай отново
 view.login.error.support_server.button: Сървър за поддръжка
 view.login.logging_in.title: Logging you in
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: Премахни реклами
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Отказ
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Купи
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

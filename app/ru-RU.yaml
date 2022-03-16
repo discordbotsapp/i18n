@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Боты для Discord
 global.navbar.explore: Исследовать
 global.navbar.top_charts: Лучшее
 global.navbar.account: Аккаунт
@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Убрать рекламу
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: Политика конфиденциальности
-global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: ДОБАВИТЬ
 view.bot.chip.prefix: 'Префикс: {}'
@@ -158,13 +157,6 @@ view.settings.info.title: Информация
 view.settings.info.about.button: О нас
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Все права защищены.
 view.settings.info.privacy_policy.button: Политика конфиденциальности
-view.under_maintenance.title: Технические работы
-view.under_maintenance.subtitle: В настоящее время в приложении ведутся технические работы и скоро оно будет работать. Пожалуйста, проверьте сервер поддержки на наличие обновлений.
-view.under_maintenance.retry.button: Повторить
-view.under_maintenance.support_server.button: Сервер поддержки
-view.no_internet.title: Нет соединения с Интернетом
-view.no_internet.subtitle: Нет подключения к Интернету. Пожалуйста, проверьте соединение и повторите ещё раз
-view.no_internet.retry: Повторить
 view.bot.reported.title: Отправлена жалоба на {}
 view.bot.reported.subtitle: 'Вы успешно пожаловались на {} по следующей причине:'
 view.bot.reported.button.okay: Окей
@@ -174,7 +166,7 @@ view.search.title: Поиск
 view.search.subtitle.noQuery: Поиск бота...
 view.search.subtitle.query: Показаны результаты поиска для {}
 view.search.none: Поиск не дал результатов
-view.welcome.title: Bots for Discord
+view.welcome.title: Боты для Discord
 view.welcome.subtitle: Посмотрите {}+ Discord ботов! Начните со входа в Ваш Discord аккаунт.
 view.welcome.login.button: Войти через Discord
 view.welcome.skip.button: Пропустить сейчас
@@ -210,7 +202,14 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Повторить
 view.login.error.support_server.button: Сервер поддержки
 view.login.logging_in.title: Logging you in
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: Убрать рекламу
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Отмена
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Купить
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

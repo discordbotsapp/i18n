@@ -1,5 +1,5 @@
 ---
-global.title: Bot Discord
+global.title: Bot untuk Discord
 global.navbar.explore: Teroka
 global.navbar.top_charts: Carta Tertinggi
 global.navbar.account: Akaun
@@ -7,14 +7,14 @@ global.navbar.search: Cari
 global.app_bar.explore: Teroka
 global.app_bar.top_charts: Carta Tertinggi
 global.app_bar.account: Akaun
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Lanjutan
 global.app_bar.login: Log Masuk
 global.app_bar.settings: Tetapan
 global.app_bar.language: Bahasa
 global.app_bar.report: 'Melaporkan {}'
 global.app_bar.categories: Kategori
 global.app_bar.remove_ads: Membuang Iklan
-global.app_bar.promote: Promote
+global.app_bar.promote: Promosikan
 global.tag.music: Muzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Papan bunyi
@@ -48,13 +48,12 @@ global.rate_dialog.subtitle: Jika kamu suka aplikasi ini, tolong ambil sedikit d
 global.rate_dialog.button.rate: MENILAI
 global.rate_dialog.button.no_thanks: TIDAK MAHU
 global.rate_dialog.button.maybe_later: MUNGKIN NANTI
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Promosikan Bot Anda Disini!
+global.promoted_bot.subtitle: Dipromosi
 global.pop_up_menu_button.remove_ads.button: Membuang Iklan
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Mengiklankan
 global.pop_up_menu_button.privacy_policy.button: Dasar Privasi
-global.button.refresh: Refresh
-global.bot.button.advertise: ADVERTISE
+global.bot.button.advertise: PENGIKLANAN
 view.bot.add.button: MENAMBAH
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} pelayan'
@@ -98,8 +97,8 @@ view.explore.new.title: Baharu
 view.explore.new.subtitle: Bot yang baru ditambahkan
 view.explore.most_voted.title: Paling diundikan
 view.explore.most_voted.subtitle: Bot yang mempunyai undian yang paling banyak untuk bulan ini
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.title: Paling popular
+view.explore.most_popular.subtitle: Bot didalam beberapa server
 view.explore.see_all.button: Nampak Semua
 view.explore.categories.title: Terokai Ketagori
 view.explore.category.subtitle: Bot dalam kategori {}
@@ -121,7 +120,7 @@ view.account.my_bots.button: Bot Saya
 view.account.favorites.button: Kegemaran
 view.account.add_bot.button: Tambah Bot
 view.account.remove_ads.button: Membuang Iklan
-view.account.advertise.button: Advertise
+view.account.advertise.button: Mengiklankan
 view.account.settings.button: Tetapan
 view.my_bots.title: Bot Saya
 view.my_bots.subtitle: Bot yang anda miliki. Anda boleh menambah bot anda dengan menggunakan butang Menambah Bot di halaman Akaun. #Keep capitalization consistent
@@ -138,12 +137,12 @@ view.settings.theme.dark.radio: Gelap
 view.settings.theme.light.radio: Terang
 view.settings.language.title: Bahasa
 view.settings.language.placeholder: Pilih satu bahasa
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: Bantu menterjemahkan aplikasi ini
 view.settings.support.title: Pertolongan
 view.settings.support.support_server.button: Pelayan Pertolongan
 view.settings.support.report_a_bug.button: Melaporkan Sesuatu Kesalahan dalam Aplikasi
 view.settings.account.title: Akaun
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Lanjutan
 view.settings.account.log_out.button: Log Keluar
 view.settings.account.log_out.alert_dialog.title: Log Keluar
 view.settings.account.log_out.alert_dialog.text: Adakah anda pasti anda mahu log keluar?
@@ -156,15 +155,8 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Batal
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ya'
 view.settings.info.title: Info
 view.settings.info.about.button: Tentang Kami
-view.settings.info.about.popup.legalese: Hak cipta © 2014 Tetracyl. Semua hak cipta terpelihara.
+view.settings.info.about.popup.legalese: Hak cipta © {} Tetracyl. Semua hak cipta terpelihara.
 view.settings.info.privacy_policy.button: Dasar Privasi
-view.under_maintenance.title: Di Bawah Penyelenggaraan
-view.under_maintenance.subtitle: Aplikasi ini sedang menjalani penyelenggaraan dan akan kembali kemudian. Sila lihat pelayan pertolongan untuk pengumuman.
-view.under_maintenance.retry.button: Cuba lagi
-view.under_maintenance.support_server.button: Pelayan Pertolongan
-view.no_internet.title: Sambungan Internet Diputus
-view.no_internet.subtitle: Tidah sambungan internet. Sila periksa sambungan internet anda dan cuba lagi
-view.no_internet.retry: Cuba lagi
 view.bot.reported.title: '{} Telah Dilaporkan'
 view.bot.reported.subtitle: 'Anda telah berjaya melaporkan {} atas alasan:'
 view.bot.reported.button.okay: Baik
@@ -174,7 +166,7 @@ view.search.title: Cari
 view.search.subtitle.noQuery: Cari sesuatu bot...
 view.search.subtitle.query: Menunjukkan hasil carian untuk {}
 view.search.none: Tiada Carian Ditemui
-view.welcome.title: Bot Discord
+view.welcome.title: Bot untuk Discord
 view.welcome.subtitle: Layari {}+ bot Discord! Log masuk dengan akaun Discord anda untuk memulakan carian anda.
 view.welcome.login.button: Log in dengan Discord
 view.welcome.skip.button: Skip untuk Sekarang
@@ -195,22 +187,29 @@ view.remove_ads.error.purchase_in_progress: Pembelian ini sedang dijalankan. Tol
 view.remove_ads.error.product_already_purchased: Produk ini telah dibeli.
 view.remove_ads.error.unknown_error: 'Sesuatu masalah tertimbul: {}.'
 view.remove_ads.error.title: Sesuatu Masalah telah Muncul
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
+view.remove_ads.error.not_logging_in: Anda perlu log masuk untuk membuat pembelian atas produk ini.
 view.remove_ads.button.join_server: Sertai Pelayan Pertolongan
 view.remove_ads.button.okay: Baik
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: Promosikan bot anda
+view.promote.introduction.promote_your_bot.body: Promosikan bot anda melalui app ini untuk meningkatkan trafik dan jumlah server.
+view.promote.introduction.how_it_works.title: Bagaimana ia berfungsi
+view.promote.introduction.how_it_works.body: Pllih satu daripada mana-mana slot di halaman teroka untuk mempromosikan bot anda.
+view.promote.introduction.track_your_ads.title: Jejak iklan anda
+view.promote.introduction.track_your_ads.body: Pantau bagaimana iklan anda sedang berlangsung melalui papan pemuka langsung.
+view.promote.get_started.button: Bermula
+view.login.error.title: Ralat telah berlaku semasa melog masuk anda
+view.login.error.subtitle: Sila cuba lagi atau sertai server sokongan berikut untuk bantuan dengan melog masuk.
 view.login.error.retry.button: Cuba lagi
 view.login.error.support_server.button: Pelayan Pertolongan
-view.login.logging_in.title: Logging you in
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
+view.login.logging_in.title: Sedang log masuk anda dalam
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.promoted_bots.title: Bot yang Dipromosikan
+view.advanced.promoted_bots.switch1.title: Tunjukkan bot dipromosikan yang saya miliki
+view.advanced.promoted_bots.switch2.title: Tunjukkan bot dipromosikan yang saya tidak miliki
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: Membuang Iklan
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Batal
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Membeli
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

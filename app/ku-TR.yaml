@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: لابردنی ڕیکلامەکان
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: سیاسەتی تایبەتێتی
-global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: زیادکردن
 view.bot.chip.prefix: 'پێشگر: {}'
@@ -158,13 +157,6 @@ view.settings.info.title: زانیاری
 view.settings.info.about.button: سەبارەت
 view.settings.info.about.popup.legalese: هەموو مافێکی لەبەرگرتنەوەی پارێزراوە بۆ © {} Tetracyl.
 view.settings.info.privacy_policy.button: سیاسەتی تایبەتێتی
-view.under_maintenance.title: لەژێر پەرەپێدانە
-view.under_maintenance.subtitle: بەرنامەکە لە ئێستادا لە ژێر پەرەپێدانە بەم زووانە دەگەڕێتەوە. تکایە سەردانی سێرڤەری پشتگیری بکە بۆ هەر نوێکاریەک.
-view.under_maintenance.retry.button: دووبارە هەوڵ بدە 
-view.under_maintenance.support_server.button: سێرڤەری پشتگیری
-view.no_internet.title: پەیوەندی ئینتەرنێت نیە
-view.no_internet.subtitle: هیچ گرێدانێکی ئینتەرنێت نەدۆزرایەوە. تکایە گرێدانی خۆت بپشکنە و پاشان دووبارە هەوڵ بدەوە
-view.no_internet.retry: دووبارە هەوڵ بدە 
 view.bot.reported.title: ڕاپۆرتکرا {}
 view.bot.reported.subtitle: 'تۆ بە سەرکەوتوویی ڕاپۆرتت کردووە {} لەبەر ئەم هۆکارە:'
 view.bot.reported.button.okay: باشە
@@ -210,7 +202,14 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: دووبارە هەوڵ بدە 
 view.login.error.support_server.button: سێرڤەری پشتگیری
 view.login.logging_in.title: Logging you in
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: لابردنی ڕیکلامەکان
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: هەڵوەشاندنەوە
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: کڕین
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.

@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Bot per Discord
 global.navbar.explore: Esplora
 global.navbar.top_charts: Classifica
 global.navbar.account: Account
@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Promosso
 global.pop_up_menu_button.remove_ads.button: Rimuovi Annunci
 global.pop_up_menu_button.advertise.button: Pubblicizza
 global.pop_up_menu_button.privacy_policy.button: Politica sulla Privacy
-global.button.refresh: Ricarica
 global.bot.button.advertise: PUBBLICIZZA
 view.bot.add.button: AGGIUNGI
 view.bot.chip.prefix: 'Prefisso: {}'
@@ -158,13 +157,6 @@ view.settings.info.title: Informazioni
 view.settings.info.about.button: Informazioni
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Tutti i diritti riservati.
 view.settings.info.privacy_policy.button: Politica sulla Privacy
-view.under_maintenance.title: In Manutenzione
-view.under_maintenance.subtitle: L'applicazione è attualmente in manutenzione e tornerà presto. Si prega di controllare il server di supporto per eventuali aggiornamenti.
-view.under_maintenance.retry.button: Riprova
-view.under_maintenance.support_server.button: Server di Assistenza
-view.no_internet.title: Nessuna Connessione a Internet
-view.no_internet.subtitle: Nessuna connessione a internet trovata. Controlla la tua connessione e dopo riprova
-view.no_internet.retry: Riprova
 view.bot.reported.title: '{} Segnalato'
 view.bot.reported.subtitle: 'Hai segnalato con successo {} per i seguenti motivi:'
 view.bot.reported.button.okay: Ok
@@ -174,7 +166,7 @@ view.search.title: Cerca
 view.search.subtitle.noQuery: Cerca un bot...
 view.search.subtitle.query: Mostro i risultati di {}
 view.search.none: Nessun Risultato Trovato
-view.welcome.title: Bots for Discord
+view.welcome.title: Bot per Discord
 view.welcome.subtitle: Cerca oltre {}+ bot di Discord! Inizia accedendo con il tuo account di Discord.
 view.welcome.login.button: Accedi con Discord
 view.welcome.skip.button: Salta per Ora
@@ -210,7 +202,14 @@ view.login.error.subtitle: Perfavore prova ancora o entra nel server di supporto
 view.login.error.retry.button: Riprova
 view.login.error.support_server.button: Server di Assistenza
 view.login.logging_in.title: Accedendo
+view.advanced.usage_data.title: Dati di Utilizzo
+view.advanced.usage_data.switch1.title: Invia dati di crash
+view.advanced.usage_data.switch2.title: Invia dati di performance
 view.advanced.promoted_bots.title: Bot Promossi
 view.advanced.promoted_bots.switch1.title: Mostra i bot promossi che possiedo
 view.advanced.promoted_bots.switch2.title: Mostra i bot promossi che non possiedo
 view.advanced.promoted_bots.switch3.title: Mostra i segnaposti dei bot promossi
+view.advanced.promoted_bots.remove_ads_alert.title: Rimuovi Annunci
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Annulla
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Acquista
+view.advanced.promoted_bots.remove_ads_alert.text: Devi acquistare premium per modificare le preferenze del tuo bot promosso.

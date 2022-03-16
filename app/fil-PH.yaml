@@ -1,5 +1,5 @@
 ---
-global.title: Bots Discord
+global.title: Bots for Discord
 global.navbar.explore: Tuklasin
 global.navbar.top_charts: Top charts
 global.navbar.account: Kwenta / Tuos
@@ -53,7 +53,6 @@ global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Tanggalin ang ads
 global.pop_up_menu_button.advertise.button: Advertise
 global.pop_up_menu_button.privacy_policy.button: Patakaran sa Privacy
-global.button.refresh: Refresh
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: LAGAY
 view.bot.chip.prefix: 'Prefix: {}'
@@ -158,13 +157,6 @@ view.settings.info.title: Info
 view.settings.info.about.button: Tungkol sa
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
 view.settings.info.privacy_policy.button: Patakaran sa Privacy
-view.under_maintenance.title: Nasa Pagpapanatili
-view.under_maintenance.subtitle: Ang app ay kasalukuyang sumasailalim sa pagpapanatili at babalik sa lalong madaling panahon. Mangyaring suriin ang server ng suporta para sa mga update.
-view.under_maintenance.retry.button: Ulitin
-view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: Walang Koneksyon sa Internet
-view.no_internet.subtitle: Walang nakitang koneksyon sa internet. Pakisuri ang iyong koneksyon pagkatapos ay subukang muli
-view.no_internet.retry: Ulitin
 view.bot.reported.title: Ulat {}
 view.bot.reported.subtitle: 'Matagumpay mong naiulat ang {} para sa sumusunod na dahilan:'
 view.bot.reported.button.okay: Sige
@@ -174,7 +166,7 @@ view.search.title: Maghanap
 view.search.subtitle.noQuery: Maghanap ng bots...
 view.search.subtitle.query: Pinapakita ang results para sa {}
 view.search.none: Walang resultang nakita
-view.welcome.title: Bots Discord
+view.welcome.title: Bots for Discord
 view.welcome.subtitle: Mag-browse sa {}+ Discord bots! Magsimula sa pamamagitan ng pag-log in gamit ang iyong Discord account.
 view.welcome.login.button: Mag-login gamit ang Discord
 view.welcome.skip.button: Laktawan muna ngayon
@@ -210,7 +202,14 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Ulitin
 view.login.error.support_server.button: Support Server
 view.login.logging_in.title: Logging you in
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.remove_ads_alert.title: Tanggalin ang ads
+view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancelado
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: Bili na
+view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
