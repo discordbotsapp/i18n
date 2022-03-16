@@ -202,6 +202,9 @@ view.login.error.subtitle: Sila cuba lagi atau sertai server sokongan berikut un
 view.login.error.retry.button: Cuba lagi
 view.login.error.support_server.button: Pelayan Pertolongan
 view.login.logging_in.title: Sedang log masuk anda dalam
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Bot yang Dipromosikan
 view.advanced.promoted_bots.switch1.title: Tunjukkan bot dipromosikan yang saya miliki
 view.advanced.promoted_bots.switch2.title: Tunjukkan bot dipromosikan yang saya tidak miliki
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Membuang Iklan
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Batal
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Membeli
 view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
