@@ -202,6 +202,9 @@ view.login.error.subtitle: Te rog să încerci din nou sau alătura-te serverulu
 view.login.error.retry.button: Reîncercați
 view.login.error.support_server.button: Server de asistență
 view.login.logging_in.title: Se procesează cererea
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Elimină reclamele
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Anulează
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Cumpără
 view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
