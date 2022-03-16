@@ -202,6 +202,9 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: Tentar novamente
 view.login.error.support_server.button: Servidor de Suporte
 view.login.logging_in.title: Logging you in
+view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.switch1.title: Send crash data
+view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
@@ -210,6 +213,3 @@ view.advanced.promoted_bots.remove_ads_alert.title: Remover Anúncios
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancelar
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Comprar
 view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
