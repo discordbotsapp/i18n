@@ -76,22 +76,22 @@ view.bot.report.login_alert: Je moet ingelogd zijn om deze bot te rapporteren.
 view.bot.hide.login_alert: Je moet minimaal ingelogd zijn om deze bot te verbergen.
 view.bot.copy.snackbar: '{}''s ID gekopieerd'
 view.report.report_reason.title: Reden voor rapportering
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reason.hint: Selecteer een reden
+view.report.report_reason.empty: Selecteer alstublieft een reden
+view.report.additional_information.title: Extra informatie
+view.report.additional_information.hint: Voer aanvullende gegevens in ...
+view.report.additional_information.empty: Selecteer alstublieft een reden
+view.report.submit.button: Verzend
+view.report.report_reason.dropdown.option1: Belangrijk!/NSFW content
+view.report.report_reason.dropdown.option2: Niet online voor een lange tijd
+view.report.report_reason.dropdown.option3: Misleidende functies en beschrijving
+view.report.report_reason.dropdown.option4: Bot werkt/reageerd niet!
+view.report.report_reason.dropdown.option5: Uitnodigingslink werkt niet of is ongeldig
+view.report.report_reanos.dropdown.option6: Andere reden
 view.explore.title: Goede morgen
-view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
-view.explore.trending.title: Trending
+view.explore.featured.title: Aanbevolen
+view.explore.featured.subtitle: Top bots die zijn geverifieerd door discord
+view.explore.trending.title: Populair
 view.explore.trending.subtitle: New bots that are gaining traction quickly
 view.explore.new.title: New
 view.explore.new.subtitle: Recently added bots
