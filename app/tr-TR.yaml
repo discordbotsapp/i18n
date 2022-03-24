@@ -205,7 +205,7 @@ view.login.logging_in.title: Giriş yapılıyor
 view.advanced.usage_data.title: Kullanım Verileri
 view.advanced.usage_data.switch1.title: Çökme verilerini gönder
 view.advanced.usage_data.switch2.title: Performans verilerini gönder
-view.advanced.usage_data.switch3.title: Send analytics data
+view.advanced.usage_data.switch3.title: Analitik verileri gönder
 view.advanced.promoted_bots.title: Tanıtılan Botlar
 view.advanced.promoted_bots.switch1.title: Sahip olduğum tanıtılan botları göster
 view.advanced.promoted_bots.switch2.title: Sahip olmadığım tanıtılan botları göster
