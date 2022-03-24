@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Botuna Burada Reklam Ver!
 global.promoted_bot.subtitle: Reklam Verildi
 global.pop_up_menu_button.remove_ads.button: Reklamları Kaldır
 global.pop_up_menu_button.advertise.button: Reklam Ver
-global.pop_up_menu_button.privacy_policy.button: Gizlilik Politikası
+global.pop_up_menu_button.usage.button: Kullanım Verileri
 global.bot.button.advertise: REKLAM VER
 view.bot.add.button: EKLE
 view.bot.chip.prefix: 'Prefix: {}'
@@ -205,6 +205,7 @@ view.login.logging_in.title: Giriş yapılıyor
 view.advanced.usage_data.title: Kullanım Verileri
 view.advanced.usage_data.switch1.title: Çökme verilerini gönder
 view.advanced.usage_data.switch2.title: Performans verilerini gönder
+view.advanced.usage_data.switch3.title: Send analytics data
 view.advanced.promoted_bots.title: Tanıtılan Botlar
 view.advanced.promoted_bots.switch1.title: Sahip olduğum tanıtılan botları göster
 view.advanced.promoted_bots.switch2.title: Sahip olmadığım tanıtılan botları göster
