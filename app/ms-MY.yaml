@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Promosikan Bot Anda Disini!
 global.promoted_bot.subtitle: Dipromosi
 global.pop_up_menu_button.remove_ads.button: Membuang Iklan
 global.pop_up_menu_button.advertise.button: Mengiklankan
-global.pop_up_menu_button.privacy_policy.button: Dasar Privasi
+global.pop_up_menu_button.usage.button: Usage Data
 global.bot.button.advertise: PENGIKLANAN
 view.bot.add.button: MENAMBAH
 view.bot.chip.prefix: 'Prefix: {}'
@@ -205,6 +205,7 @@ view.login.logging_in.title: Sedang log masuk anda dalam
 view.advanced.usage_data.title: Usage Data
 view.advanced.usage_data.switch1.title: Send crash data
 view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.usage_data.switch3.title: Send analytics data
 view.advanced.promoted_bots.title: Bot yang Dipromosikan
 view.advanced.promoted_bots.switch1.title: Tunjukkan bot dipromosikan yang saya miliki
 view.advanced.promoted_bots.switch2.title: Tunjukkan bot dipromosikan yang saya tidak miliki
