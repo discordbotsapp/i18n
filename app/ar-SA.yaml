@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: بوت لدسكورد
 global.navbar.explore: إستكشاف
 global.navbar.top_charts: أفضل القوائم
 global.navbar.account: الحساب
@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: أعلن عن بوت الخاص بك ها
 global.promoted_bot.subtitle: ترقية
 global.pop_up_menu_button.remove_ads.button: إزالة الإعلانات
 global.pop_up_menu_button.advertise.button: اعلان
-global.pop_up_menu_button.privacy_policy.button: سياسة الخصوصية
+global.pop_up_menu_button.usage.button: بيانات الاستخدام
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: أضف
 view.bot.chip.prefix: 'بادئة: {}'
@@ -137,7 +137,7 @@ view.settings.theme.dark.radio: مظلم
 view.settings.theme.light.radio: فاتح
 view.settings.language.title: اللغة
 view.settings.language.placeholder: اختر لغة
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: ساعد في ترجمة التطبيق
 view.settings.support.title: مساندة
 view.settings.support.support_server.button: خادم الدعم
 view.settings.support.report_a_bug.button: الإبلاغ عن خطأ
@@ -166,7 +166,7 @@ view.search.title: بحث
 view.search.subtitle.noQuery: ابحث عن بوت...
 view.search.subtitle.query: عرض نتائج البحث عن {}
 view.search.none: لا توجد نتائج
-view.welcome.title: Bots for Discord
+view.welcome.title: بوت لدسكورد
 view.welcome.subtitle: تصفح من خلال {}+ ديسكورد! ابدأ بتسجيل الدخول بحسابك في ديسكورد.
 view.welcome.login.button: تسجيل الدخول باستخدام ديسكورد
 view.welcome.skip.button: تخطي الآن
@@ -202,9 +202,10 @@ view.login.error.subtitle: Please try again or join the support server below for
 view.login.error.retry.button: اعد المحاولة
 view.login.error.support_server.button: خادم الدعم
 view.login.logging_in.title: تسجيل دخولك
-view.advanced.usage_data.title: Usage Data
+view.advanced.usage_data.title: بيانات الاستخدام
 view.advanced.usage_data.switch1.title: Send crash data
 view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.usage_data.switch3.title: Send analytics data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own

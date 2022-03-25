@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Werbe für deinen Bot hier!
 global.promoted_bot.subtitle: Beworben
 global.pop_up_menu_button.remove_ads.button: Werbung entfernen
 global.pop_up_menu_button.advertise.button: Werben
-global.pop_up_menu_button.privacy_policy.button: Datenschutzbestimmung
+global.pop_up_menu_button.usage.button: Nutzungsdaten
 global.bot.button.advertise: WERBEN
 view.bot.add.button: Hinzufügen
 view.bot.chip.prefix: 'Präfix: {}'
@@ -205,6 +205,7 @@ view.login.logging_in.title: Anmeldung läuft
 view.advanced.usage_data.title: Nutzungsdaten
 view.advanced.usage_data.switch1.title: Absturzdaten senden
 view.advanced.usage_data.switch2.title: Performance Bericht senden
+view.advanced.usage_data.switch3.title: Teile Analyse-Daten
 view.advanced.promoted_bots.title: Beworbene Bots
 view.advanced.promoted_bots.switch1.title: Zeige beworbene Bots die ich besitze
 view.advanced.promoted_bots.switch2.title: Zeige beworbende Bots die ich nicht besitze
