@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Bots para Discord
 global.navbar.explore: Descobrir
 global.navbar.top_charts: Principais gráficos
 global.navbar.account: Conta
@@ -7,7 +7,7 @@ global.navbar.search: Buscar
 global.app_bar.explore: Descobrir
 global.app_bar.top_charts: Principais gráficos
 global.app_bar.account: Conta
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Avançado
 global.app_bar.login: Entrar
 global.app_bar.settings: Configurações
 global.app_bar.language: Idioma
@@ -142,7 +142,7 @@ view.settings.support.title: Suporte
 view.settings.support.support_server.button: Servidor de Suporte
 view.settings.support.report_a_bug.button: Reportar um Bug
 view.settings.account.title: Conta
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Avançado
 view.settings.account.log_out.button: Desconectar-se
 view.settings.account.log_out.alert_dialog.title: Desconectar-se
 view.settings.account.log_out.alert_dialog.text: Você tem certeza que deseja se desconectar?
@@ -166,7 +166,7 @@ view.search.title: Buscar
 view.search.subtitle.noQuery: Procurar por um bot...
 view.search.subtitle.query: Mostrando resultados para {}
 view.search.none: Nenhum Resultado Encontrado
-view.welcome.title: Bots for Discord
+view.welcome.title: Bots para Discord
 view.welcome.subtitle: Navegue através de {}+ bots do Discord! Comece se cadastrando com sua conta do Discord.
 view.welcome.login.button: Entrar com o Discord
 view.welcome.skip.button: Pular por Enquanto
