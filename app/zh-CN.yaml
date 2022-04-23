@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Discord之箱
 global.navbar.explore: 探险
 global.navbar.top_charts: 热门图标
 global.navbar.account: 户口
@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Advertise Your Bot Here!
 global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: 移除广告
 global.pop_up_menu_button.advertise.button: Advertise
-global.pop_up_menu_button.usage.button: Usage Data
+global.pop_up_menu_button.usage.button: 数据用途
 global.bot.button.advertise: 管理员
 view.bot.add.button: 添加
 view.bot.chip.prefix: '前缀：{}'
@@ -166,51 +166,51 @@ view.search.title: 搜索
 view.search.subtitle.noQuery: 搜索机器人...
 view.search.subtitle.query: 没有{}的搜索结果
 view.search.none: 未找到任何結果
-view.welcome.title: Bots for Discord
+view.welcome.title: Discord之箱
 view.welcome.subtitle: 浏览 {}+ Discord 机器人！登录您的 Discord 帐号就可以开始了。
 view.welcome.login.button: 用 Discord 登录
 view.welcome.skip.button: 暂时跳过
 view.remove_ads.title: 移除广告
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
+view.remove_ads.subtitle: 移除应用程序中的所有广告
+view.remove_ads.error.load_product: 加载产品时发生未知错误。
 view.remove_ads.error.verify_purchase: 尝试登录时发生未知的错误。
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.error.try_again: 请稍后再试或加入支持服务器。
+view.remove_ads.error.join_server: 请加入到支持服务器。
+view.remove_ads.purchase: 已购买
+view.remove_ads.thank_you.title: 感谢您的购买。
+view.remove_ads.thank_you.subtitle: 所有广告已被删除
+view.remove_ads.error.store_problem: 商店出现问题。
+view.remove_ads.error.try_again_later: 请稍后再试。
+view.remove_ads.error.purchase_not_allowed: 此设备或用户不允许购买。
+view.remove_ads.error.purchase_invalid: 此购买无效。
+view.remove_ads.error.purchase_in_progress: 此购买已在进行中。请耐心等待！
+view.remove_ads.error.product_already_purchased: 该产品已被购买。
+view.remove_ads.error.unknown_error: '发生未知错误：{}。'
+view.remove_ads.error.title: 出错了
+view.remove_ads.error.not_logging_in: 您必须登录才能购买该商品。
+view.remove_ads.button.join_server: 加入支援服务器
 view.remove_ads.button.okay: 好的
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: 推广你的机器人
+view.promote.introduction.promote_your_bot.body: 通过应用程序推广你的机器人，以增加其流量和服务器计数。
+view.promote.introduction.how_it_works.title: 工作原理
+view.promote.introduction.how_it_works.body: 选择探索页面上的多个栏位之一来推广你的机器人。
+view.promote.introduction.track_your_ads.title: 跟踪你的广告
+view.promote.introduction.track_your_ads.body: 通过直播仪表板监控您的广告的执行情况。
+view.promote.get_started.button: 开始
+view.login.error.title: 登录时发生错误
+view.login.error.subtitle: 请重试或加入下面的支持服务器以帮助登录。
 view.login.error.retry.button: 重试
 view.login.error.support_server.button: 支援服务器
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
+view.login.logging_in.title: 登录中...
+view.advanced.usage_data.title: 数据用途
+view.advanced.usage_data.switch1.title: 发送崩溃数据
+view.advanced.usage_data.switch2.title: 发送性能数据
+view.advanced.usage_data.switch3.title: 发送分析数据
+view.advanced.promoted_bots.title: 促销机器人
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
 view.advanced.promoted_bots.remove_ads_alert.title: 移除广告
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: 取消
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Purchase
+view.advanced.promoted_bots.remove_ads_alert.purchase.button: 已购买
 view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
