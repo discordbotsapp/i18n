@@ -7,7 +7,7 @@ global.navbar.search: Поиск
 global.app_bar.explore: Исследовать
 global.app_bar.top_charts: Лучшее
 global.app_bar.account: Аккаунт
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Hi
 global.app_bar.login: Войти
 global.app_bar.settings: Настройки
 global.app_bar.language: Язык
@@ -48,7 +48,7 @@ global.rate_dialog.subtitle: Если вам нравится это прило�
 global.rate_dialog.button.rate: ОЦЕНИТЬ
 global.rate_dialog.button.no_thanks: НЕТ, СПАСИБО
 global.rate_dialog.button.maybe_later: ПОЗЖЕ
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
+global.promoted_bot.placeholder.title: Привет 
 global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Убрать рекламу
 global.pop_up_menu_button.advertise.button: Advertise
@@ -142,7 +142,7 @@ view.settings.support.title: Поддержка
 view.settings.support.support_server.button: Сервер поддержки
 view.settings.support.report_a_bug.button: Сообщить об ошибке
 view.settings.account.title: Аккаунт
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Hi
 view.settings.account.log_out.button: Выйти
 view.settings.account.log_out.alert_dialog.title: Выйти
 view.settings.account.log_out.alert_dialog.text: Вы уверены, что хотите выйти?
