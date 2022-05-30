@@ -52,8 +52,8 @@ global.promoted_bot.placeholder.title: Annonser Boten Din Her!
 global.promoted_bot.subtitle: Forfremmet
 global.pop_up_menu_button.remove_ads.button: Fjern Reklamer
 global.pop_up_menu_button.advertise.button: Annonser
-global.pop_up_menu_button.usage.button: Usage Data
-global.bot.button.advertise: ADVERTISE
+global.pop_up_menu_button.usage.button: Bruk Data
+global.bot.button.advertise: ANNONSER
 view.bot.add.button: LEGG TILL
 view.bot.chip.prefix: 'Prefiks: {}'
 view.bot.chip.servers: '{} servere'
@@ -97,8 +97,8 @@ view.explore.new.title: Ny
 view.explore.new.subtitle: Nylig lagt til botter
 view.explore.most_voted.title: Mest Stemt
 view.explore.most_voted.subtitle: Bots med flest stemmer denne måneden
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.title: Mest Populær
+view.explore.most_popular.subtitle: Boter på de fleste serverne
 view.explore.see_all.button: Vis Alle
 view.explore.categories.title: Utforsk kategorier
 view.explore.category.subtitle: Bots i {} kategorien
@@ -137,10 +137,10 @@ view.settings.theme.dark.radio: Mørk
 view.settings.theme.light.radio: Lys
 view.settings.language.title: Språk
 view.settings.language.placeholder: Velg et språk
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: Hjelp til å oversette appen
 view.settings.support.title: Brukerstøtte
 view.settings.support.support_server.button: Støtte Server
-view.settings.support.report_a_bug.button: Rapporter en feil
+view.settings.support.report_a_bug.button: Rapporter En Feil
 view.settings.account.title: Konto
 view.settings.account.advanced.button: Avansert
 view.settings.account.log_out.button: Logg Av
@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Avbryt
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
 view.settings.info.title: Info
 view.settings.info.about.button: Om
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Alle rettigheter forbeholdt.
 view.settings.info.privacy_policy.button: Retningslinjer for personvern
 view.bot.reported.title: Rapportert {}
 view.bot.reported.subtitle: 'Du har rapportert {} av følgende grunn:'
@@ -187,30 +187,30 @@ view.remove_ads.error.purchase_in_progress: Dette kjøpet pågår allerede. Vær
 view.remove_ads.error.product_already_purchased: Dette produktet er allerede kjøpt.
 view.remove_ads.error.unknown_error: 'Det oppstod en ukjent feil: {}.'
 view.remove_ads.error.title: Det oppstod en feil
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
+view.remove_ads.error.not_logging_in: Du må være logget inn for å kjøpe dette produktet.
 view.remove_ads.button.join_server: Koble til Støtte Server
 view.remove_ads.button.okay: Okei
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: Promoter botten din
+view.promote.introduction.promote_your_bot.body: Markedsfør boten din gjennom appen for å øke trafikken og servertallet.
+view.promote.introduction.how_it_works.title: Hvordan det fungerer
+view.promote.introduction.how_it_works.body: Velg en av mange spilleautomater på utforskesiden for å markedsføre boten din.
+view.promote.introduction.track_your_ads.title: Spor dine annonser
+view.promote.introduction.track_your_ads.body: Overvåk hvordan annonsene dine presterer gjennom et direkte dashbord.
+view.promote.get_started.button: Kom I Gang
+view.login.error.title: Det oppstod en feil under pålogging
+view.login.error.subtitle: Vennligst prøv igjen eller bli med på støtteserveren nedenfor for å få hjelp med pålogging.
 view.login.error.retry.button: Prøv på nytt
 view.login.error.support_server.button: Støtte Server
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.login.logging_in.title: Logger deg inn
+view.advanced.usage_data.title: Bruk Data
+view.advanced.usage_data.switch1.title: Send krasjdata
+view.advanced.usage_data.switch2.title: Send ytelsesdata
+view.advanced.usage_data.switch3.title: Send analysedata
+view.advanced.promoted_bots.title: Forfremmet Boter
+view.advanced.promoted_bots.switch1.title: Vis promoterte boter jeg eier
+view.advanced.promoted_bots.switch2.title: Vis promoterte boter jeg ikke eier
+view.advanced.promoted_bots.switch3.title: Vis plassholdere for promoterte boter
 view.advanced.promoted_bots.remove_ads_alert.title: Fjern Reklamer
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Avbryt
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Kjøpe
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.promoted_bots.remove_ads_alert.text: Du må kjøpe premium for å endre dine promoterte bot-preferanser.
