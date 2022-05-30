@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Boter for Discord
 global.navbar.explore: Utforske
 global.navbar.top_charts: Topplister
 global.navbar.account: Konto
@@ -7,14 +7,14 @@ global.navbar.search: Søk
 global.app_bar.explore: Utforske
 global.app_bar.top_charts: Topplister
 global.app_bar.account: Konto
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Avansert
 global.app_bar.login: Logg Inn
 global.app_bar.settings: Innstillinger
 global.app_bar.language: Språk
 global.app_bar.report: 'Rapport {}'
 global.app_bar.categories: Kategorier
 global.app_bar.remove_ads: Fjern Reklamer
-global.app_bar.promote: Promote
+global.app_bar.promote: Promotere
 global.tag.music: Musikk
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Lydtavle
@@ -48,10 +48,10 @@ global.rate_dialog.subtitle: Hvis du liker denne appen, vennligst ta litt tid å
 global.rate_dialog.button.rate: VURDER
 global.rate_dialog.button.no_thanks: NEI TAKK
 global.rate_dialog.button.maybe_later: KANSKJE SENERE
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: Annonser Boten Din Her!
+global.promoted_bot.subtitle: Forfremmet
 global.pop_up_menu_button.remove_ads.button: Fjern Reklamer
-global.pop_up_menu_button.advertise.button: Advertise
+global.pop_up_menu_button.advertise.button: Annonser
 global.pop_up_menu_button.usage.button: Usage Data
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: LEGG TILL
@@ -120,7 +120,7 @@ view.account.my_bots.button: Mine Bots
 view.account.favorites.button: Favoritter
 view.account.add_bot.button: Legg Til Bot
 view.account.remove_ads.button: Fjern Reklamer
-view.account.advertise.button: Advertise
+view.account.advertise.button: Annonser
 view.account.settings.button: Innstillinger
 view.my_bots.title: Mine Bots
 view.my_bots.subtitle: Bots eid av deg. Du kan legge til din egen bot ved å klikke på Legg til bot-knappen på kontosiden. #Keep capitalization consistent
@@ -142,7 +142,7 @@ view.settings.support.title: Brukerstøtte
 view.settings.support.support_server.button: Støtte Server
 view.settings.support.report_a_bug.button: Rapporter en feil
 view.settings.account.title: Konto
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Avansert
 view.settings.account.log_out.button: Logg Av
 view.settings.account.log_out.alert_dialog.title: Logg Av
 view.settings.account.log_out.alert_dialog.text: Er du sikker på at du vil logge av?
@@ -166,7 +166,7 @@ view.search.title: Søk
 view.search.subtitle.noQuery: Søk etter en bot...
 view.search.subtitle.query: Viser søkeresultater for {}
 view.search.none: Ingen resultater funnet
-view.welcome.title: Bots for Discord
+view.welcome.title: Boter for Discord
 view.welcome.subtitle: Bla gjennom {}+ Discord bots! Kom i gang ved å logge inn med din Discord-konto.
 view.welcome.login.button: Logg inn med Discord
 view.welcome.skip.button: Hopp over for nå
