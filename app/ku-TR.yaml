@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: بۆت بۆ دیسکۆرد
 global.navbar.explore: گەڕان
 global.navbar.top_charts: هێڵکارییە بەرزەکان
 global.navbar.account: هەژمار
@@ -166,7 +166,7 @@ view.search.title: گەڕان
 view.search.subtitle.noQuery: گەڕان بە دوای بۆت...
 view.search.subtitle.query: پیشاندانی ئەنجامەکانی گەڕان بۆ {}
 view.search.none: هیچ ئەنجامێک نەدۆزرایەوە
-view.welcome.title: Bots for Discord
+view.welcome.title: بۆت بۆ دیسکۆرد
 view.welcome.subtitle: گەڕان لە نێو {}+ دیسکۆرد بۆتس! دەست پێبکە بە چوونە ژوورەوە بە ئەژمێری دیسکۆرد.
 view.welcome.login.button: چوونە ژوورەوە لەڕێگەی دیسکۆردوە
 view.welcome.skip.button: بازدان بۆ ئێستا
