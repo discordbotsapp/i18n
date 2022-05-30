@@ -7,14 +7,14 @@ global.navbar.search: گەڕان
 global.app_bar.explore: گەڕان
 global.app_bar.top_charts: هێڵکارییە بەرزەکان
 global.app_bar.account: هەژمار
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: پێشکەوتوو
 global.app_bar.login: چوونەژوورەوە
 global.app_bar.settings: رێکخستنەکان
 global.app_bar.language: زمان
 global.app_bar.report: 'ڕاپۆرت {}'
 global.app_bar.categories: جۆرەکان
 global.app_bar.remove_ads: لابردنی ڕیکلامەکان
-global.app_bar.promote: Promote
+global.app_bar.promote: پلە بەرزکردنەوە
 global.tag.music: مۆسیقا
 global.tag.pokemon: پۆکیمۆن #KEEP AS IS
 global.tag.soundboard: تەختەی دەنگ
@@ -48,12 +48,12 @@ global.rate_dialog.subtitle: ئەگەر ئەم بەرنامەیەت بەدڵ ب�
 global.rate_dialog.button.rate: ڕێژ
 global.rate_dialog.button.no_thanks: نەخێر سوپاس
 global.rate_dialog.button.maybe_later: لەوانەیە دواتر
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.placeholder.title: '!لێرە ریکلام بۆ بۆتەکەت بکە'
+global.promoted_bot.subtitle: پلە بەرزکرایەوە
 global.pop_up_menu_button.remove_ads.button: لابردنی ڕیکلامەکان
-global.pop_up_menu_button.advertise.button: Advertise
-global.pop_up_menu_button.usage.button: Usage Data
-global.bot.button.advertise: ADVERTISE
+global.pop_up_menu_button.advertise.button: ڕیکلام بکە
+global.pop_up_menu_button.usage.button: داتای بەکارهێنان
+global.bot.button.advertise: ڕیکلام بکە
 view.bot.add.button: زیادکردن
 view.bot.chip.prefix: 'پێشگر: {}'
 view.bot.chip.servers: 'سێرڤەرەکان {}'
@@ -97,8 +97,8 @@ view.explore.new.title: نوێ
 view.explore.new.subtitle: ئەو بۆتانەی کە لەم دواییەدا زیاد کراون
 view.explore.most_voted.title: زۆرترین دەنگ
 view.explore.most_voted.subtitle: ئەو بۆتانەی کە لەم مانگەدا زۆرترین دەنگیان هەبووە
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.title: بەناوبانگترین
+view.explore.most_popular.subtitle: بۆتەکان لە زۆرترین سێرڤەر
 view.explore.see_all.button: هەموو ببینە
 view.explore.categories.title: گەڕان بە دوای جۆرەکان
 view.explore.category.subtitle: بۆتەکان لە جۆری {}
@@ -120,7 +120,7 @@ view.account.my_bots.button: بۆتەکانم
 view.account.favorites.button: دڵخوازەکان
 view.account.add_bot.button: زیادکردنی بۆت
 view.account.remove_ads.button: لابردنی ڕیکلامەکان
-view.account.advertise.button: Advertise
+view.account.advertise.button: ڕیکلام بکە
 view.account.settings.button: رێکخستنەکان
 view.my_bots.title: بۆتەکانم
 view.my_bots.subtitle: بۆتەکان خاوەنداریەتی تۆیان هەیە. دەتوانیت بۆت زیاد بکەیت بە کرتە کردن لەسەر دوگمەی زیادکردنی بۆت لە بەشی ئەژمێر. #Keep capitalization consistent
@@ -137,12 +137,12 @@ view.settings.theme.dark.radio: تاریک
 view.settings.theme.light.radio: رووناک
 view.settings.language.title: زمان
 view.settings.language.placeholder: زمانێک هەڵبژێرە
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: یارمەتی وەرگێڕانی ئەپەکە بدە
 view.settings.support.title: پشتگیری
 view.settings.support.support_server.button: سێرڤەری پشتگیری
 view.settings.support.report_a_bug.button: ڕاپۆرتی هەڵەیەک بکە
 view.settings.account.title: هەژمار
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: پێشکەوتوو
 view.settings.account.log_out.button: دەرچوون
 view.settings.account.log_out.alert_dialog.title: دەرچوون
 view.settings.account.log_out.alert_dialog.text: ئایا تۆ دڵنیایت کە دەتەوێت دەربچیت؟
@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: هەڵوەشا�
 view.settings.account.delete_account.alert_dialog.yes.button: 'بەڵێ'
 view.settings.info.title: زانیاری
 view.settings.info.about.button: سەبارەت
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: مافی بڵاوکردنەوە پارێزراوە بۆ {} Tetracyl. هەموو مافەکانی پارێزراوە.
 view.settings.info.privacy_policy.button: سیاسەتی تایبەتێتی
 view.bot.reported.title: ڕاپۆرتکرا {}
 view.bot.reported.subtitle: 'تۆ بە سەرکەوتوویی ڕاپۆرتت کردووە {} لەبەر ئەم هۆکارە:'
@@ -187,30 +187,30 @@ view.remove_ads.error.purchase_in_progress: ئەم کڕینە هەر ئێستا 
 view.remove_ads.error.product_already_purchased: ئەم بەرهەمە پێشتر کڕدراوە.
 view.remove_ads.error.unknown_error: 'هەڵەیەکی نەناسراو ڕوویدا: {}.'
 view.remove_ads.error.title: هەڵەیەک ڕوویدا
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
+view.remove_ads.error.not_logging_in: .بۆ کڕینی ئەم بەرهەمە پێویستە بچیتە ژوورەوە
 view.remove_ads.button.join_server: جۆینی سەپۆرت سێرڤەرەکە بکە
 view.remove_ads.button.okay: باشە
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: بۆتەکەت بەرز بکەرەوە
+view.promote.introduction.promote_your_bot.body: .بۆتەکەت لە ڕێگەی ئەپەکەوە بەرز بکەرەوە بۆ زیادکردنی ترافیکی و ژمارەی سێرڤەرەکانت
+view.promote.introduction.how_it_works.title: چۆن کاردەکات
+view.promote.introduction.how_it_works.body: .یەکێک لە زۆر شوێنەکان لە لاپەڕەی گەڕان هەڵبژێرە بۆ ئەوەی بۆتەکەت لەسەری بەرز بکەیتەوە
+view.promote.introduction.track_your_ads.title: بەدواداچوون بۆ ڕێکلامەکانت بکە
+view.promote.introduction.track_your_ads.body: .لە ڕێگەی داشبۆردێکی ڕاستەوخۆوە چاودێری چۆنیەتی کارکردنی ڕێکلامەکانت بکە
+view.promote.get_started.button: دەستپێکردن
+view.login.error.title: لەکاتی چوونەژوورەوەت هەڵەیەک ڕوویدا
+view.login.error.subtitle: .تکایە دووبارە هەوڵبدەرەوە یان بەشداری ڕاژەکاری پشتگیری لە خوارەوە بکە بۆ یارمەتی لە چوونەژوورەوە
 view.login.error.retry.button: دووبارە هەوڵ بدە 
 view.login.error.support_server.button: سێرڤەری پشتگیری
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.login.logging_in.title: دەتخەمە ژوورەوە
+view.advanced.usage_data.title: داتای بەکارهێنان
+view.advanced.usage_data.switch1.title: داتاکانی کراش بنێرە
+view.advanced.usage_data.switch2.title: ناردنی داتای کارایی
+view.advanced.usage_data.switch3.title: ناردنی داتای شیکاری
+view.advanced.promoted_bots.title: بۆتە بەرزکراوەکان
+view.advanced.promoted_bots.switch1.title: ئەو بۆتە بانگەشەکراوانە پیشان بدە کە خاوەنیانمن
+view.advanced.promoted_bots.switch2.title: ئەو بۆتە بانگەشەکراوانە پیشان بدە کە من خاوەنیان نیم
+view.advanced.promoted_bots.switch3.title: شوێنی بۆتی بەرزکراوە پیشان بدە
 view.advanced.promoted_bots.remove_ads_alert.title: لابردنی ڕیکلامەکان
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: هەڵوەشاندنەوە
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: کڕین
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.promoted_bots.remove_ads_alert.text: .پێویستە پریمیۆم بکڕیت بۆ گۆڕینی هەڵبژاردەکانی بۆتی بانگەشەکراوت
