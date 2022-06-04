@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Ακύρωση
 view.settings.account.delete_account.alert_dialog.yes.button: 'Ναι'
 view.settings.info.title: Πληροφορίες
 view.settings.info.about.button: Σχετικά με
-view.settings.info.about.popup.legalese: Πνευματικά δικαιώματα © Tetracyl. Όλα τα δικαιώματα κατοχυρωμένα.
+view.settings.info.about.popup.legalese: Πνευματικά δικαιώματα © {} Tetracyl. Όλα τα δικαιώματα κατοχυρωμένα.
 view.settings.info.privacy_policy.button: Πολιτική Απορρήτου
 view.bot.reported.title: Αναφέρθηκε {}
 view.bot.reported.subtitle: 'Έχετε αναφέρει με επιτυχία το {} για τον ακόλουθο λόγο:'
@@ -207,10 +207,10 @@ view.advanced.usage_data.switch1.title: Αποστολή Σφάλματος Δε
 view.advanced.usage_data.switch2.title: Αποστολή Δεδομένων Απόδοσης
 view.advanced.usage_data.switch3.title: Αποστολή δεδομένων ανάλυσης
 view.advanced.promoted_bots.title: Προωθημένα Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.switch1.title: Εμφάνιση προωθημένων Bot που κατέχω
+view.advanced.promoted_bots.switch2.title: Εμφάνιση προωθημένων bot που δεν μου ανοίκουν
+view.advanced.promoted_bots.switch3.title: Εμφάνιση θέσεων προώθησης bot
 view.advanced.promoted_bots.remove_ads_alert.title: Κατάργηση διαφημίσεων
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Ακύρωση
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Αγορά
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.promoted_bots.remove_ads_alert.text: Πρέπει να αγοράσεις premium για να αλλάξεις τις προτιμήσεις σου σε προωθημένα bots.
