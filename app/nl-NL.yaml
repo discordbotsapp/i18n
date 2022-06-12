@@ -123,8 +123,8 @@ view.account.remove_ads.button: Verwijder Advertenties
 view.account.advertise.button: Adverteer
 view.account.settings.button: Dag
 view.my_bots.title: Mijn Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
+view.my_bots.subtitle: Bots die eigendom zijn van jou. U kunt uw eigen bot toevoegen door op de knop Bot Toevoegen op de accountpagina te klikken. #Keep capitalization consistent
+view.my_bots.none: U heeft geen bots
 view.favorites.title: Favorieten
 view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
 view.favorites.none: You do not have any favorites
