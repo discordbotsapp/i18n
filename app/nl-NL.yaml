@@ -39,11 +39,11 @@ global.tag.twitch: Heet #KEEP AS IS
 global.tag.crypto: Warm #KEEP AS IS
 global.tag.top_charts: Zie je wel dat ik nederlands kan
 global.footer.contact: 'Lauw'
-global.footer.info: Koud.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Hoi
 global.login_alert.cancel.button: Miauwt
 global.login_alert.login.button: Hoi
-global.rate_dialog.title: Reageer
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Nee.
 global.rate_dialog.button.rate: Ja
 global.rate_dialog.button.no_thanks: Hoi

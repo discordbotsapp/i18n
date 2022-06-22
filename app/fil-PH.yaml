@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Top charts
 global.footer.contact: 'Contact: supporta@discordbots.app'
-global.footer.info: Ang Discord Bots App ay hindi kaakibat sa Discord o alinman sa mga Discord Bot Lists na suportado.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Login
 global.login_alert.cancel.button: Cancelado
 global.login_alert.login.button: Login
-global.rate_dialog.title: Rate Discord Bots
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Kung gusto mo ang app na ito, mangyaring maglaan ng kaunting oras upang suriin ito! Talagang nakakatulong ito sa amin at hindi ka dapat tumagal ng higit sa isang minuto.
 global.rate_dialog.button.rate: RATE
 global.rate_dialog.button.no_thanks: SALAMAT NALANG

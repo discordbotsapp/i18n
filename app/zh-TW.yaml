@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: 加密貨幣 #KEEP AS IS
 global.tag.top_charts: 頂部圖表
 global.footer.contact: '聯繫: support@discordbots.app'
-global.footer.info: Discord 機器人應用程序不與Discord或任何支持的Discord機器人列表連接。
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: 登入
 global.login_alert.cancel.button: 取消
 global.login_alert.login.button: 登入
-global.rate_dialog.title: 評價Discord 機器人
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: 如果你喜歡這個應用，請花一點時間來審閱！
 global.rate_dialog.button.rate: 評價
 global.rate_dialog.button.no_thanks: 不，謝謝

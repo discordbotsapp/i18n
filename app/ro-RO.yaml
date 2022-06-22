@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Top-ul Graficelor
 global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Aplicația Boți Pentru Discord nu este afiliată cu Discord sau oricare dintre listele de boți compatibile.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Logare
 global.login_alert.cancel.button: Anulează
 global.login_alert.login.button: Logare
-global.rate_dialog.title: Evaluează Boți Pentru Discord
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Dacă îți place această aplicație, te rugăm să îți acorzi puțin timp pentru a o evalua! Ne ajută cu adevărat şi nu vă v-a lua mai mult de un minut.
 global.rate_dialog.button.rate: EVALUEAZĂ
 global.rate_dialog.button.no_thanks: NU MERSI
