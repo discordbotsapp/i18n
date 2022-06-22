@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Крипто #KEEP AS IS
 global.tag.top_charts: Най добри
 global.footer.contact: 'Връзка: support@discordbots.app'
-global.footer.info: Discord Bots App не е свързано със дискрод или някои други дискорд бот страници.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Вход
 global.login_alert.cancel.button: Отказ
 global.login_alert.login.button: Вход
-global.rate_dialog.title: Оцени Discord Bots
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Ако харесваш нашето приложение, молим те да отделиш малко време за да го оцениш! Това ни помага много и отнема не повече от 1 минута.
 global.rate_dialog.button.rate: Оценка
 global.rate_dialog.button.no_thanks: Не благодаря
