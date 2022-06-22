@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Classifica
 global.footer.contact: 'Contatto: support@discordbots.app'
-global.footer.info: Discord Bots App non è affiliata con Discord e con nessuna delle liste supportate.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Accedi
 global.login_alert.cancel.button: Annulla
 global.login_alert.login.button: Accedi
-global.rate_dialog.title: Valuta Discord Bots
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Se ti sta piacendo l'app, dacci un minuto del tuo tempo per lasciarci una recensione! Ci aiuta molto e non perdi un minuto.
 global.rate_dialog.button.rate: VOTA
 global.rate_dialog.button.no_thanks: NO GRAZIE
