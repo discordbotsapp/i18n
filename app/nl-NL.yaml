@@ -13,7 +13,7 @@ global.app_bar.settings: Dag
 global.app_bar.language: Dus je leest dit
 global.app_bar.report: 'Ok dat is echt stom maar goed je moet het er mee doen he'
 global.app_bar.categories: Ok
-global.app_bar.remove_ads: Remove Ads
+global.app_bar.remove_ads: Verwijder Advertenties
 global.app_bar.promote: Promoot
 global.tag.music: Dus wat will je
 global.tag.pokemon: O jezus crisis #KEEP AS IS
@@ -50,7 +50,7 @@ global.rate_dialog.button.no_thanks: Hoi
 global.rate_dialog.button.maybe_later: Dag
 global.promoted_bot.placeholder.title: Adverteer hier je bot!
 global.promoted_bot.subtitle: Promoot
-global.pop_up_menu_button.remove_ads.button: Remove Ads
+global.pop_up_menu_button.remove_ads.button: Verwijder Advertenties
 global.pop_up_menu_button.advertise.button: Adverteer
 global.pop_up_menu_button.usage.button: Usage Data
 global.bot.button.advertise: Adverteer
@@ -92,43 +92,43 @@ view.explore.title: Goede morgen
 view.explore.featured.title: Aanbevolen
 view.explore.featured.subtitle: Top bots die zijn geverifieerd door discord
 view.explore.trending.title: Populair
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
-view.explore.see_all.button: See All
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
+view.explore.trending.subtitle: Nieuwe bots die snel grip krijgen
+view.explore.new.title: Nieuw
+view.explore.new.subtitle: Onlangs toegevoegde bots
+view.explore.most_voted.title: Meeste Stemmen
+view.explore.most_voted.subtitle: Bots met de meeste stemmen deze maand
+view.explore.most_popular.title: Meest Populair
+view.explore.most_popular.subtitle: Bots in de meeste servers
+view.explore.see_all.button: Alles bekijken
+view.explore.categories.title: Categorieën verkennen
+view.explore.category.subtitle: Bots in de {} categorie
 view.explore.footer.support_server.button: Steun server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.about.button: About
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
+view.explore.footer.bug_report.button: Bug rapportage
+view.explore.footer.about.button: Over
+view.explore.footer.privacy_policy.button: Privacybeleid
+view.top_charts.most_votes: Meeste stemmen
+view.top_charts.most_servers: Meeste Servers
 view.top_charts.bot.subtitle.servers.plural: 'Hoer'
 view.top_charts.bot.subtitle.votes.plural: 'Seks ding'
 view.top_charts.bot.subtitle.servers.singular: 'Kleine slet'
 view.top_charts.bot.subtitle.votes.singular: 'Baby'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
+view.account.login.guest: Gast
+view.account.login.button: Inloggen met Discord
+view.account.login.error: Er is een fout opgetreden bij het inloggen. Probeer het opnieuw.
+view.account.login.error.button: Ga terug naar inloggen
+view.account.my_bots.button: Mijn Bots
+view.account.favorites.button: Favorieten
+view.account.add_bot.button: Bot Toevoegen
+view.account.remove_ads.button: Verwijder Advertenties
 view.account.advertise.button: Adverteer
 view.account.settings.button: Dag
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
+view.my_bots.title: Mijn Bots
+view.my_bots.subtitle: Bots die eigendom zijn van jou. U kunt uw eigen bot toevoegen door op de knop Bot Toevoegen op de accountpagina te klikken. #Keep capitalization consistent
+view.my_bots.none: U heeft geen bots
+view.favorites.title: Favorieten
 view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
 view.favorites.none: You do not have any favorites
-view.add_bot.title: Add Bot
+view.add_bot.title: Bot Toevoegen
 view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
 view.settings.theme.title: Theme
@@ -154,9 +154,9 @@ view.settings.account.delete_account.alert_dialog.text: Are you sure you want to
 view.settings.account.delete_account.alert_dialog.cancel.button: Miauwt
 view.settings.account.delete_account.alert_dialog.yes.button: 'Varianten'
 view.settings.info.title: Info
-view.settings.info.about.button: About
+view.settings.info.about.button: Over
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Privacy Policy
+view.settings.info.privacy_policy.button: Privacybeleid
 view.bot.reported.title: Reported {}
 view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
 view.bot.reported.button.okay: Okay
@@ -168,9 +168,9 @@ view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
 view.welcome.title: Bots voor Discord
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
-view.welcome.login.button: Login with Discord
+view.welcome.login.button: Inloggen met Discord
 view.welcome.skip.button: Skip for Now
-view.remove_ads.title: Remove Ads
+view.remove_ads.title: Verwijder Advertenties
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
 view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
@@ -210,7 +210,7 @@ view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
 view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
 view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: Remove Ads
+view.advanced.promoted_bots.remove_ads_alert.title: Verwijder Advertenties
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Miauwt
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Purchase
 view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
