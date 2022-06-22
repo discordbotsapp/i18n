@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: 차트
 global.footer.contact: '문의: support@discordbots.app'
-global.footer.info: Discord Bots App은 Discord 또는 다른 Discord Bot Lists와 관련이 없습니다.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: 로그인
 global.login_alert.cancel.button: 취소
 global.login_alert.login.button: 로그인
-global.rate_dialog.title: Discord Bots 앱을 평가해주세요
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: 앱이 마음에 드신다면, 잠시 시간을 내어서 짧은 평가를 써주세요! 평가는 몇 분밖에 걸리지 않을 거예요.
 global.rate_dialog.button.rate: 평가하러 가기
 global.rate_dialog.button.no_thanks: 괜찮아요
