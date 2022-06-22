@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: کریپتۆ #KEEP AS IS
 global.tag.top_charts: هێڵکارییە بەرزەکان
 global.footer.contact: 'پەیوەندی: support@discordbots.app'
-global.footer.info: بەرنامەی دیسکۆرد بۆتس سەر بە دیسکۆرد یان هیچ کام لە بۆت لیستەکان پشتگیری کراو نیە.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: چوونەژوورەوە
 global.login_alert.cancel.button: هەڵوەشاندنەوە
 global.login_alert.login.button: چوونەژوورەوە
-global.rate_dialog.title: ڕێژەی دیسکۆرد بۆتس
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: ئەگەر ئەم بەرنامەیەت بەدڵ بوو، تکایە کەمێک کاتت بخۆ بۆ پێداچوونەوەی! بەڕاستی یارمەتیمان دەدات و یەک خولەک زیاترت پێ ناچێت.
 global.rate_dialog.button.rate: ڕێژ
 global.rate_dialog.button.no_thanks: نەخێر سوپاس
