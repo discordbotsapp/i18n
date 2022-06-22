@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Kriptovaluta #KEEP AS IS
 global.tag.top_charts: Top Charts
 global.footer.contact: 'Kapcsolat: support@discordbots.app'
-global.footer.info: A Discord Bots App alkalmazés nem áll kapcsolatban a Discorddal vagy bármelyik támogatott Bot listával.
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Bejelentkezés
 global.login_alert.cancel.button: Mégse
 global.login_alert.login.button: Bejelentkezés
-global.rate_dialog.title: Értékelje a Discort Bots alkalmazást
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Ha tetszik az alkalmazás, kérünk szánj egy kis időt hogy értékelj minket! Ez sokat segít nekünk és nem tarthat tovább egy percnél.
 global.rate_dialog.button.rate: ÉRTÉKELÉS
 global.rate_dialog.button.no_thanks: KÖSZÖNÖM NEM
