@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: 暗号 #KEEP AS IS
 global.tag.top_charts: トップチャート
 global.footer.contact: '連絡先：support@discordbots.app'
-global.footer.info: Discord Bots Appは、DiscordまたはサポートされているDiscordボットリストのいずれとも提携していません。
+global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: ログイン
 global.login_alert.cancel.button: キャンセル
 global.login_alert.login.button: ログイン
-global.rate_dialog.title: 不和ボットを評価する
+global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: このアプリが気に入ったら、少し時間をかけてレビューしてください。それは本当に私たちを助けます、そしてそれはあなたに1分以上かかるべきではありません
 global.rate_dialog.button.rate: 割合
 global.rate_dialog.button.no_thanks: 結構です
