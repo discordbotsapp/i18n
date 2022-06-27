@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Kripto #KEEP AS IS
 global.tag.top_charts: En İyiler
 global.footer.contact: 'İletişim: support@discordbots.app'
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.info: Bots for Discord uygulaması, Discord veya desteklenen Discord Bot Listelerinden herhangi biri ile bağlantılı değildir.
 global.login_alert.title: Giriş Yap
 global.login_alert.cancel.button: İptal
 global.login_alert.login.button: Giriş Yap
-global.rate_dialog.title: Rate Bots for Discord App
+global.rate_dialog.title: Bots for Discord Uygulamasını Değerlendir
 global.rate_dialog.subtitle: Bu uygulamayı sevdiysen, lütfen inceleme yazmak için biraz zamanını ayır! İnceleme yazman bir dakikanı almaz ayrıca bize çok destek olmuş olursun.
 global.rate_dialog.button.rate: OYLA
 global.rate_dialog.button.no_thanks: HAYIR TEŞEKKÜRLER
