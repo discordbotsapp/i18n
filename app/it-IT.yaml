@@ -7,7 +7,7 @@ global.navbar.search: Cerca
 global.app_bar.explore: Esplora
 global.app_bar.top_charts: Classifica
 global.app_bar.account: Account
-global.app_bar.advanced: Avanzato
+global.app_bar.advanced: Avanzate
 global.app_bar.login: Accedi
 global.app_bar.settings: Impostazioni
 global.app_bar.language: Lingua
@@ -142,7 +142,7 @@ view.settings.support.title: Supporto
 view.settings.support.support_server.button: Server di Assistenza
 view.settings.support.report_a_bug.button: Segnala Un Bug
 view.settings.account.title: Account
-view.settings.account.advanced.button: Avanzato
+view.settings.account.advanced.button: Avanzate
 view.settings.account.log_out.button: Disconnettiti
 view.settings.account.log_out.alert_dialog.title: Disconnettiti
 view.settings.account.log_out.alert_dialog.text: Sei sicuro di volerti disconnettere?
