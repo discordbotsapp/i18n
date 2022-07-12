@@ -39,11 +39,11 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
 global.tag.top_charts: Κορυφαία Λίστα
 global.footer.contact: 'Επικοινώνησε: support@discordbots.app'
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.info: Η εφαρμογή Bots for Discord δεν συσχετίζεται με το Discord ή οποιοδήποτε από τις άλλες Discord Bot λίστες που υποστηρίζονται.
 global.login_alert.title: Είσοδος
 global.login_alert.cancel.button: Ακύρωση
 global.login_alert.login.button: Είσοδος
-global.rate_dialog.title: Rate Bots for Discord App
+global.rate_dialog.title: Αξιολογήστε Bots για την εφαρμογή Discord
 global.rate_dialog.subtitle: Αν σας αρέσει η εφαρμογή, παρακαλούμε παραχωρήσετε λίγο από τον χρόνο σας για να την αξιοποιήσετε! Πραγματικά μας βοηθάει και δεν παίρνει πάνω από ένα λεπτό.
 global.rate_dialog.button.rate: ΑΞΙΟΛΟΓΉΣΤΕ
 global.rate_dialog.button.no_thanks: ΌΧΙ ΕΥΧΑΡΙΣΤΏ
