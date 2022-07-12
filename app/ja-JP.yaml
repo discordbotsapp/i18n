@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Discord ボット
 global.navbar.explore: 探検
 global.navbar.top_charts: トップチャート
 global.navbar.account: アカウント
@@ -7,7 +7,7 @@ global.navbar.search: 検索
 global.app_bar.explore: 探検
 global.app_bar.top_charts: トップチャート
 global.app_bar.account: アカウント
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: 高度な設定
 global.app_bar.login: ログイン
 global.app_bar.settings: 設定
 global.app_bar.language: 言語
@@ -39,7 +39,7 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: 暗号 #KEEP AS IS
 global.tag.top_charts: トップチャート
 global.footer.contact: '連絡先：support@discordbots.app'
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.info: Discord ボット AppはDiscordまたはサポートされているDiscordボットリストのいずれとも連携していません。
 global.login_alert.title: ログイン
 global.login_alert.cancel.button: キャンセル
 global.login_alert.login.button: ログイン
@@ -142,7 +142,7 @@ view.settings.support.title: Support
 view.settings.support.support_server.button: サポートサーバー
 view.settings.support.report_a_bug.button: Report A Bug
 view.settings.account.title: アカウント
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: 高度な設定
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
 view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
@@ -166,7 +166,7 @@ view.search.title: 検索
 view.search.subtitle.noQuery: ボットを検索...
 view.search.subtitle.query: '{} の検索結果を表示する'
 view.search.none: 結果が見つかりません
-view.welcome.title: Bots for Discord
+view.welcome.title: Discord ボット
 view.welcome.subtitle: '{} + Discordボットを閲覧してください！ Discordアカウントでログインすることから始めましょう。'
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: 今すぐスキップ
