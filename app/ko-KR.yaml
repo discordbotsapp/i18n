@@ -43,11 +43,11 @@ global.footer.info: Discord Bots App은 Discord 또는 다른 Discord 봇 사이
 global.login_alert.title: 로그인
 global.login_alert.cancel.button: 취소
 global.login_alert.login.button: 로그인
-global.rate_dialog.title: 저희 앱을 평가해주세요
-global.rate_dialog.subtitle: 앱이 마음에 드신다면, 잠시 시간을 내어서 짧은 평가를 써주세요! 평가는 몇 분밖에 걸리지 않을 거예요.
-global.rate_dialog.button.rate: 평가하러 가기
+global.rate_dialog.title: 앱 리뷰를 작성해주세요!
+global.rate_dialog.subtitle: 앱이 마음에 드신다면, 잠시 시간을 내어 리뷰를 작성해 주실 수 있나요? 리뷰가 정말로 큰 힘이 된답니다.
+global.rate_dialog.button.rate: 작성하러 가기
 global.rate_dialog.button.no_thanks: 괜찮아요
-global.rate_dialog.button.maybe_later: 나중에 평가할게요
+global.rate_dialog.button.maybe_later: 나중에 작성할게요
 global.promoted_bot.placeholder.title: 여기에서 봇을 홍보해보세요!
 global.promoted_bot.subtitle: 홍보
 global.pop_up_menu_button.remove_ads.button: 광고 제거
@@ -61,22 +61,22 @@ view.bot.chip.server: '{} 서버에서 활동 중'
 view.bot.chip.votes: '{} 표'
 view.bot.chip.vote: '{} 표'
 view.bot.menu.report: 신고하기
-view.bot.menu.copy_id: ID 복사하기
-view.bot.menu.copy_id.snack_bar: '{} 봇의 ID를 복사했어요'
+view.bot.menu.copy_id: ID 복사
+view.bot.menu.copy_id.snack_bar: '{} 봇의 ID를 복사했어요.'
 view.bot.menu.hide: 숨기기
 view.bot.menu.hide.alert_dialog.title: '{} 봇 숨기기'
 view.bot.menu.hide.alert_dialog.text: '{} 봇을 정말로 숨길까요?'
 view.bot.menu.hide.alert_dialog.cancel.button: 취소
-view.bot.menu.hide.alert_dialog.yes.button: '계속'
+view.bot.menu.hide.alert_dialog.yes.button: '네'
 view.bot.website.button: 웹사이트
 view.bot.support_server.button: 지원 서버
 view.bot.vote.button: 투표
-view.bot.favorite.login_alert: 봇을 즐겨찾기하려면 로그인해야 해요.
+view.bot.favorite.login_alert: 봇을 즐겨찾기 하려면 로그인해야 해요.
 view.bot.report.login_alert: 봇을 신고하려면 로그인해야 해요.
 view.bot.hide.login_alert: 봇을 숨기려면 로그인해야 해요.
-view.bot.copy.snackbar: '{} 봇의 ID를 복사했어요'
+view.bot.copy.snackbar: '{} 봇의 ID를 복사했어요.'
 view.report.report_reason.title: 신고 사유
-view.report.report_reason.hint: 신고 사유 선택하기
+view.report.report_reason.hint: 신고 사유 선택
 view.report.report_reason.empty: 신고 사유를 먼저 선택해주세요
 view.report.additional_information.title: 상세 정보
 view.report.additional_information.hint: 상세한 정보를 여기에 적어주세요...
@@ -90,7 +90,7 @@ view.report.report_reason.dropdown.option5: 초대 링크가 작동하지 않음
 view.report.report_reanos.dropdown.option6: 그 외
 view.explore.title: 탐색
 view.explore.featured.title: 추천
-view.explore.featured.subtitle: Discord에 의해 검증된 봇을 만나보세요
+view.explore.featured.subtitle: Discord가 검증한 봇을 만나보세요
 view.explore.trending.title: 인기 급상승
 view.explore.trending.subtitle: 인기가 급상승하고 있는 봇을 만나보세요
 view.explore.new.title: 신규
@@ -152,7 +152,7 @@ view.settings.account.delete_account.button: 계정 삭제
 view.settings.account.delete_account.alert_dialog.title: 계정 삭제
 view.settings.account.delete_account.alert_dialog.text: 계정을 삭제할까요? 해당 작업은 되돌릴 수 없어요.
 view.settings.account.delete_account.alert_dialog.cancel.button: 취소
-view.settings.account.delete_account.alert_dialog.yes.button: '계속'
+view.settings.account.delete_account.alert_dialog.yes.button: '네'
 view.settings.info.title: 세부 사항
 view.settings.info.about.button: 앱 정보
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
