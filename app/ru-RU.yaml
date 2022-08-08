@@ -39,21 +39,21 @@ global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Криптовалюта #KEEP AS IS
 global.tag.top_charts: Лучшее
 global.footer.contact: 'Напишите: support@discordbots.app'
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.info: Приложение Bots for Discord не связано с Discord или любым из поддерживаемых списков ботов Discord.
 global.login_alert.title: Войти
 global.login_alert.cancel.button: Отмена
 global.login_alert.login.button: Войти
-global.rate_dialog.title: Rate Bots for Discord App
+global.rate_dialog.title: Оцените ботов для приложения Discord
 global.rate_dialog.subtitle: Если вам нравится это приложение, пожалуйста, потратите немного времени чтобы оценить нас, это очень поможет нам, это займёт не более одной минуты.
 global.rate_dialog.button.rate: ОЦЕНИТЬ
 global.rate_dialog.button.no_thanks: НЕТ, СПАСИБО
 global.rate_dialog.button.maybe_later: ПОЗЖЕ
 global.promoted_bot.placeholder.title: Привет 
-global.promoted_bot.subtitle: Promoted
+global.promoted_bot.subtitle: Продвигаемое
 global.pop_up_menu_button.remove_ads.button: Убрать рекламу
-global.pop_up_menu_button.advertise.button: Advertise
-global.pop_up_menu_button.usage.button: Usage Data
-global.bot.button.advertise: ADVERTISE
+global.pop_up_menu_button.advertise.button: Разместить Объявление
+global.pop_up_menu_button.usage.button: Данные об использовании
+global.bot.button.advertise: РЕКЛАМА
 view.bot.add.button: ДОБАВИТЬ
 view.bot.chip.prefix: 'Префикс: {}'
 view.bot.chip.servers: '{} серверов'
@@ -97,8 +97,8 @@ view.explore.new.title: Новые
 view.explore.new.subtitle: Недавно добавленные боты
 view.explore.most_voted.title: Большинство голосов
 view.explore.most_voted.subtitle: Боты с наибольшими голосами в этом месяце
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.title: Популярное
+view.explore.most_popular.subtitle: Бот на большинстве серверов
 view.explore.see_all.button: Показать все
 view.explore.categories.title: Просмотр категорий
 view.explore.category.subtitle: Боты в категории {}
@@ -120,7 +120,7 @@ view.account.my_bots.button: Мои боты
 view.account.favorites.button: Избранное
 view.account.add_bot.button: Добавить бота
 view.account.remove_ads.button: Убрать рекламу
-view.account.advertise.button: Advertise
+view.account.advertise.button: Разместить Объявление
 view.account.settings.button: Настройки
 view.my_bots.title: Мои боты
 view.my_bots.subtitle: Боты, принадлежащие Вам. Вы можете добавить своего бота, нажав кнопку Добавить бота на странице аккаунта. #Keep capitalization consistent
@@ -137,7 +137,7 @@ view.settings.theme.dark.radio: Тёмная
 view.settings.theme.light.radio: Светлая
 view.settings.language.title: Язык
 view.settings.language.placeholder: Выберите язык
-view.settings.language.help_translate.button: Help translate the app
+view.settings.language.help_translate.button: Помощь с переводом приложения
 view.settings.support.title: Поддержка
 view.settings.support.support_server.button: Сервер поддержки
 view.settings.support.report_a_bug.button: Сообщить об ошибке
@@ -155,7 +155,7 @@ view.settings.account.delete_account.alert_dialog.cancel.button: Отмена
 view.settings.account.delete_account.alert_dialog.yes.button: 'Да'
 view.settings.info.title: Информация
 view.settings.info.about.button: О нас
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
+view.settings.info.about.popup.legalese: Copyright © Tetracyl. Все права защищены.
 view.settings.info.privacy_policy.button: Политика конфиденциальности
 view.bot.reported.title: Отправлена жалоба на {}
 view.bot.reported.subtitle: 'Вы успешно пожаловались на {} по следующей причине:'
@@ -187,24 +187,24 @@ view.remove_ads.error.purchase_in_progress: Покупка в процессе. 
 view.remove_ads.error.product_already_purchased: Этот продукт уже был приобретён.
 view.remove_ads.error.unknown_error: 'Произошла неизвестная ошибка: {}.'
 view.remove_ads.error.title: Произошла ошибка
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
+view.remove_ads.error.not_logging_in: Вы должны войти в систему, чтобы приобрести этот продукт.
 view.remove_ads.button.join_server: Присоединиться к серверу поддержки
 view.remove_ads.button.okay: Окей
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: Продвижение вашего бота
+view.promote.introduction.promote_your_bot.body: Продвигайте своего бота через приложение, чтобы увеличить его трафик и количество серверов.
+view.promote.introduction.how_it_works.title: Как это работает
+view.promote.introduction.how_it_works.body: Выберите один из множества слотов на странице исследования, чтобы продвинуть вашего бота.
+view.promote.introduction.track_your_ads.title: Отслеживайте вашу рекламу
+view.promote.introduction.track_your_ads.body: Следите за тем, как работают ваши рекламные объявления, с помощью приборной панели в реальном времени.
+view.promote.get_started.button: Начать
+view.login.error.title: При входе в систему произошла ошибка
+view.login.error.subtitle: Пожалуйста, повторите попытку или присоединитесь к серверу поддержки ниже для помощи с входом.
 view.login.error.retry.button: Повторить
 view.login.error.support_server.button: Сервер поддержки
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
+view.login.logging_in.title: Вход в систему
+view.advanced.usage_data.title: Данные об использовании
+view.advanced.usage_data.switch1.title: Отправить данные о сбое
+view.advanced.usage_data.switch2.title: Отправлять отчет о производительности
 view.advanced.usage_data.switch3.title: Send analytics data
 view.advanced.promoted_bots.title: Promoted Bots
 view.advanced.promoted_bots.switch1.title: Show promoted bots I own
