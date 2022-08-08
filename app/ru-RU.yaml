@@ -7,16 +7,16 @@ global.navbar.search: Поиск
 global.app_bar.explore: Исследовать
 global.app_bar.top_charts: Лучшее
 global.app_bar.account: Аккаунт
-global.app_bar.advanced: Hi
+global.app_bar.advanced: Доп. настройки
 global.app_bar.login: Войти
 global.app_bar.settings: Настройки
 global.app_bar.language: Язык
 global.app_bar.report: 'Пожаловаться на {}'
 global.app_bar.categories: Категории
 global.app_bar.remove_ads: Убрать рекламу
-global.app_bar.promote: Promote
+global.app_bar.promote: Продвигать
 global.tag.music: Музыка
-global.tag.pokemon: Покемон #KEEP AS IS
+global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
 global.tag.moderation: Модерация
 global.tag.minecraft: Minecraft #KEEP AS IS
@@ -142,7 +142,7 @@ view.settings.support.title: Поддержка
 view.settings.support.support_server.button: Сервер поддержки
 view.settings.support.report_a_bug.button: Сообщить об ошибке
 view.settings.account.title: Аккаунт
-view.settings.account.advanced.button: Hi
+view.settings.account.advanced.button: Доп. настройки
 view.settings.account.log_out.button: Выйти
 view.settings.account.log_out.alert_dialog.title: Выйти
 view.settings.account.log_out.alert_dialog.text: Вы уверены, что хотите выйти?
@@ -205,12 +205,12 @@ view.login.logging_in.title: Вход в систему
 view.advanced.usage_data.title: Данные об использовании
 view.advanced.usage_data.switch1.title: Отправить данные о сбое
 view.advanced.usage_data.switch2.title: Отправлять отчет о производительности
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.usage_data.switch3.title: Отправляем данные аналитики
+view.advanced.promoted_bots.title: Продвигаемые боты
+view.advanced.promoted_bots.switch1.title: Показать продвигаемые боты, которыми я владею
+view.advanced.promoted_bots.switch2.title: Показать продвигаемых ботов, которых у меня нет
+view.advanced.promoted_bots.switch3.title: Показать места для продвигаемых ботов
 view.advanced.promoted_bots.remove_ads_alert.title: Убрать рекламу
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Отмена
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Купить
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.promoted_bots.remove_ads_alert.text: Чтобы изменить настройки продвигаемого бота, необходимо приобрести премиум версию.
