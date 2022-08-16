@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Pubblicizza Il Tuo Bot Qui!
 global.promoted_bot.subtitle: Promosso
 global.pop_up_menu_button.remove_ads.button: Rimuovi Annunci
 global.pop_up_menu_button.advertise.button: Pubblicizza
-global.pop_up_menu_button.usage.button: Dati di Utilizzo
+global.pop_up_menu_button.usage_data.button: Dati di Utilizzo
 global.bot.button.advertise: PUBBLICIZZA
 view.bot.add.button: AGGIUNGI
 view.bot.chip.prefix: 'Prefisso: {}'
