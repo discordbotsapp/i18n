@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: ডিসকর্ডের জন্য বট
 global.navbar.explore: Explore
 global.navbar.top_charts: Top Charts
 global.navbar.account: Account
@@ -166,7 +166,7 @@ view.search.title: Search
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Bots for Discord
+view.welcome.title: ডিসকর্ডের জন্য বট
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: Skip for Now
