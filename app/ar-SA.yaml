@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: أعلن عن بوت الخاص بك ها
 global.promoted_bot.subtitle: ترقية
 global.pop_up_menu_button.remove_ads.button: إزالة الإعلانات
 global.pop_up_menu_button.advertise.button: اعلان
-global.pop_up_menu_button.usage.button: بيانات الاستخدام
+global.pop_up_menu_button.usage_data.button: بيانات الاستخدام
 global.bot.button.advertise: التحديث
 view.bot.add.button: أضف
 view.bot.chip.prefix: 'بادئة: {}'
