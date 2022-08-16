@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Botuna Burada Reklam Ver!
 global.promoted_bot.subtitle: Reklam Verildi
 global.pop_up_menu_button.remove_ads.button: Reklamları Kaldır
 global.pop_up_menu_button.advertise.button: Reklam Ver
-global.pop_up_menu_button.usage.button: Kullanım Verileri
+global.pop_up_menu_button.usage_data.button: Kullanım Verileri
 global.bot.button.advertise: REKLAM VER
 view.bot.add.button: EKLE
 view.bot.chip.prefix: 'Prefix: {}'
