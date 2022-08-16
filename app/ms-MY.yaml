@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Promosikan Bot Anda Disini!
 global.promoted_bot.subtitle: Dipromosi
 global.pop_up_menu_button.remove_ads.button: Membuang Iklan
 global.pop_up_menu_button.advertise.button: Mengiklankan
-global.pop_up_menu_button.usage.button: Usage Data
+global.pop_up_menu_button.usage_data.button: Usage Data
 global.bot.button.advertise: PENGIKLANAN
 view.bot.add.button: MENAMBAH
 view.bot.chip.prefix: 'Prefix: {}'
