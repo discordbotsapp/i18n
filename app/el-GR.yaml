@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Διαφημίστε Το bot Σας Εδ
 global.promoted_bot.subtitle: Προωθήθηκε
 global.pop_up_menu_button.remove_ads.button: Κατάργηση διαφημίσεων
 global.pop_up_menu_button.advertise.button: Διαφημίστε
-global.pop_up_menu_button.usage.button: Δεδομένα Χρήσης
+global.pop_up_menu_button.usage_data.button: Δεδομένα Χρήσης
 global.bot.button.advertise: ΔΙΑΦΙΜΉΣΤΕ
 view.bot.add.button: ΠΡΟΣΘΉΚΗ
 view.bot.chip.prefix: 'Prefix: {}'
