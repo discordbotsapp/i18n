@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Adverteer hier je bot!
 global.promoted_bot.subtitle: Promoot
 global.pop_up_menu_button.remove_ads.button: Verwijder Advertenties
 global.pop_up_menu_button.advertise.button: Adverteer
-global.pop_up_menu_button.usage.button: Usage Data
+global.pop_up_menu_button.usage_data.button: Usage Data
 global.bot.button.advertise: Adverteer
 view.bot.add.button: Morgen
 view.bot.chip.prefix: 'Idioot'
