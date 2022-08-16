@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Annonsera din bot här!
 global.promoted_bot.subtitle: Marknadsförd
 global.pop_up_menu_button.remove_ads.button: Ta bort reklam
 global.pop_up_menu_button.advertise.button: Annonsera
-global.pop_up_menu_button.usage.button: Användningsdata
+global.pop_up_menu_button.usage_data.button: Användningsdata
 global.bot.button.advertise: MARKNADSFÖR
 view.bot.add.button: LÄGG TILL
 view.bot.chip.prefix: 'Prefix: {}'

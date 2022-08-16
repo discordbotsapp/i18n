@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Promovează-ți Botul Aici!
 global.promoted_bot.subtitle: Promovat
 global.pop_up_menu_button.remove_ads.button: Elimină reclamele
 global.pop_up_menu_button.advertise.button: Promovează
-global.pop_up_menu_button.usage.button: Usage Data
+global.pop_up_menu_button.usage_data.button: Usage Data
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: ADAUGĂ
 view.bot.chip.prefix: 'Prefix-ul: {}'

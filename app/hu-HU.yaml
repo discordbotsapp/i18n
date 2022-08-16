@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Hirdesd a Botodat itt!
 global.promoted_bot.subtitle: Promótált
 global.pop_up_menu_button.remove_ads.button: Hirdetések Eltávolítása
 global.pop_up_menu_button.advertise.button: Hirdetés
-global.pop_up_menu_button.usage.button: Usage Data
+global.pop_up_menu_button.usage_data.button: Usage Data
 global.bot.button.advertise: HIRDETÉS
 view.bot.add.button: HOZZÁAD
 view.bot.chip.prefix: 'Előtag: {}'

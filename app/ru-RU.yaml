@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Привет
 global.promoted_bot.subtitle: Продвигаемое
 global.pop_up_menu_button.remove_ads.button: Убрать рекламу
 global.pop_up_menu_button.advertise.button: Разместить Объявление
-global.pop_up_menu_button.usage.button: Данные об использовании
+global.pop_up_menu_button.usage_data.button: Данные об использовании
 global.bot.button.advertise: РЕКЛАМА
 view.bot.add.button: ДОБАВИТЬ
 view.bot.chip.prefix: 'Префикс: {}'

@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Annonser Boten Din Her!
 global.promoted_bot.subtitle: Forfremmet
 global.pop_up_menu_button.remove_ads.button: Fjern Reklamer
 global.pop_up_menu_button.advertise.button: Annonser
-global.pop_up_menu_button.usage.button: Bruk Data
+global.pop_up_menu_button.usage_data.button: Bruk Data
 global.bot.button.advertise: ANNONSER
 view.bot.add.button: LEGG TILL
 view.bot.chip.prefix: 'Prefiks: {}'

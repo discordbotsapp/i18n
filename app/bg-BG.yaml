@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Advertise Your Bot Here!
 global.promoted_bot.subtitle: Promoted
 global.pop_up_menu_button.remove_ads.button: Премахни реклами
 global.pop_up_menu_button.advertise.button: Advertise
-global.pop_up_menu_button.usage.button: Usage Data
+global.pop_up_menu_button.usage_data.button: Usage Data
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: Добави
 view.bot.chip.prefix: 'Префикс: {}'

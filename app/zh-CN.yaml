@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: 在这里宣传你的机器人！
 global.promoted_bot.subtitle: 推广
 global.pop_up_menu_button.remove_ads.button: 移除广告
 global.pop_up_menu_button.advertise.button: 广告
-global.pop_up_menu_button.usage.button: 数据用途
+global.pop_up_menu_button.usage_data.button: 数据用途
 global.bot.button.advertise: 管理员
 view.bot.add.button: 添加
 view.bot.chip.prefix: '前缀：{}'
