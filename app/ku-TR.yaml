@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: '!لێرە ریکلام بۆ بۆتەکە
 global.promoted_bot.subtitle: پلە بەرزکرایەوە
 global.pop_up_menu_button.remove_ads.button: لابردنی ڕیکلامەکان
 global.pop_up_menu_button.advertise.button: ڕیکلام بکە
-global.pop_up_menu_button.usage.button: داتای بەکارهێنان
+global.pop_up_menu_button.usage_data.button: داتای بەکارهێنان
 global.bot.button.advertise: ڕیکلام بکە
 view.bot.add.button: زیادکردن
 view.bot.chip.prefix: 'پێشگر: {}'
