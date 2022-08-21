@@ -48,7 +48,7 @@ global.rate_dialog.subtitle: 앱이 마음에 드신다면, 잠시 시간을 내
 global.rate_dialog.button.rate: 작성하러 가기
 global.rate_dialog.button.no_thanks: 괜찮아요
 global.rate_dialog.button.maybe_later: 나중에 작성할게요
-global.promoted_bot.placeholder.title: 여기에서 봇을 홍보해보세요!
+global.promoted_bot.placeholder.title: 여기에서 봇을 홍보하세요!
 global.promoted_bot.subtitle: 홍보
 global.pop_up_menu_button.remove_ads.button: 광고 제거
 global.pop_up_menu_button.advertise.button: 홍보
@@ -71,16 +71,16 @@ view.bot.menu.hide.alert_dialog.yes.button: '네'
 view.bot.website.button: 웹사이트
 view.bot.support_server.button: 지원 서버
 view.bot.vote.button: 투표
-view.bot.favorite.login_alert: 봇을 즐겨찾기 하려면 로그인해야 해요.
-view.bot.report.login_alert: 봇을 신고하려면 로그인해야 해요.
-view.bot.hide.login_alert: 봇을 숨기려면 로그인해야 해요.
+view.bot.favorite.login_alert: 이 봇을 즐겨찾기 하려면 로그인해야 해요.
+view.bot.report.login_alert: 이 봇을 신고하려면 로그인해야 해요.
+view.bot.hide.login_alert: 이 봇을 숨기려면 로그인해야 해요.
 view.bot.copy.snackbar: '{} 봇의 ID를 복사했어요.'
 view.report.report_reason.title: 신고 사유
 view.report.report_reason.hint: 신고 사유 선택
-view.report.report_reason.empty: 신고 사유를 먼저 선택해주세요
+view.report.report_reason.empty: 신고 사유를 먼저 선택하세요
 view.report.additional_information.title: 상세 정보
 view.report.additional_information.hint: 상세한 정보를 여기에 적어주세요...
-view.report.additional_information.empty: 신고 사유를 먼저 선택해주세요
+view.report.additional_information.empty: 신고 사유를 먼저 선택하세요
 view.report.submit.button: 제출
 view.report.report_reason.dropdown.option1: 부적절/연령제한 콘텐츠가 포함됨
 view.report.report_reason.dropdown.option2: 오랫동안 봇이 오프라인 상태임
@@ -145,12 +145,12 @@ view.settings.account.title: 계정
 view.settings.account.advanced.button: 고급
 view.settings.account.log_out.button: 로그아웃
 view.settings.account.log_out.alert_dialog.title: 로그아웃
-view.settings.account.log_out.alert_dialog.text: 로그아웃할까요?
+view.settings.account.log_out.alert_dialog.text: 로그아웃하실 건가요?
 view.settings.account.log_out.alert_dialog.cancel.button: 취소
 view.settings.account.log_out.alert_dialog.log_out.button: 로그아웃
 view.settings.account.delete_account.button: 계정 삭제
 view.settings.account.delete_account.alert_dialog.title: 계정 삭제
-view.settings.account.delete_account.alert_dialog.text: 계정을 삭제할까요? 이 작업은 되돌릴 수 없어요.
+view.settings.account.delete_account.alert_dialog.text: 계정을 삭제하실 건가요? 이 작업은 되돌릴 수 없어요.
 view.settings.account.delete_account.alert_dialog.cancel.button: 취소
 view.settings.account.delete_account.alert_dialog.yes.button: '네'
 view.settings.info.title: 세부 사항
