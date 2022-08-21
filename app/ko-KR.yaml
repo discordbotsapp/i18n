@@ -65,7 +65,7 @@ view.bot.menu.copy_id: ID 복사
 view.bot.menu.copy_id.snack_bar: '{} 봇의 ID를 복사했어요.'
 view.bot.menu.hide: 숨기기
 view.bot.menu.hide.alert_dialog.title: '{} 봇 숨기기'
-view.bot.menu.hide.alert_dialog.text: '{} 봇을 정말로 숨길까요?'
+view.bot.menu.hide.alert_dialog.text: '{} 봇을 숨길 건가요?'
 view.bot.menu.hide.alert_dialog.cancel.button: 취소
 view.bot.menu.hide.alert_dialog.yes.button: '네'
 view.bot.website.button: 웹사이트
@@ -123,7 +123,7 @@ view.account.remove_ads.button: 광고 제거
 view.account.advertise.button: 홍보
 view.account.settings.button: 설정
 view.my_bots.title: 내 봇
-view.my_bots.subtitle: 현재 소유하고 있는 봇의 목록이에요. 계정 페이지에서 봇 추가 버튼을 눌러 소유하고 있는 봇을 추가할 수 있어요. #Keep capitalization consistent
+view.my_bots.subtitle: 내가 소유한 봇의 목록이에요. 계정 페이지에서 봇 추가 버튼을 눌러 소유 중인 봇을 추가할 수 있어요. #Keep capitalization consistent
 view.my_bots.none: 추가한 봇이 없어요
 view.favorites.title: 즐겨찾기
 view.favorites.subtitle: 봇 페이지에 하트 버튼을 클릭해서 즐겨찾기에 봇을 추가하세요
@@ -145,7 +145,7 @@ view.settings.account.title: 계정
 view.settings.account.advanced.button: 고급
 view.settings.account.log_out.button: 로그아웃
 view.settings.account.log_out.alert_dialog.title: 로그아웃
-view.settings.account.log_out.alert_dialog.text: 로그아웃하실 건가요?
+view.settings.account.log_out.alert_dialog.text: 계정을 로그아웃하실 건가요?
 view.settings.account.log_out.alert_dialog.cancel.button: 취소
 view.settings.account.log_out.alert_dialog.log_out.button: 로그아웃
 view.settings.account.delete_account.button: 계정 삭제
@@ -182,7 +182,7 @@ view.remove_ads.thank_you.subtitle: 모든 광고가 이제 제거돼요.
 view.remove_ads.error.store_problem: 상점에 문제가 발생했어요.
 view.remove_ads.error.try_again_later: 나중에 다시 시도해 보세요.
 view.remove_ads.error.purchase_not_allowed: 이 기기 또는 사용자로는 구매를 진행할 수 없어요.
-view.remove_ads.error.purchase_invalid: 유효하지 않은 구매에요.
+view.remove_ads.error.purchase_invalid: 구매가 유효하지 않아요.
 view.remove_ads.error.purchase_in_progress: 구매가 진행 중이에요. 잠시 기다려주세요.
 view.remove_ads.error.product_already_purchased: 이미 이 상품을 구매했어요.
 view.remove_ads.error.unknown_error: '알 수 없는 오류가 발생했어요: {}.'
