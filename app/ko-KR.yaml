@@ -145,12 +145,12 @@ view.settings.account.title: 계정
 view.settings.account.advanced.button: 고급
 view.settings.account.log_out.button: 로그아웃
 view.settings.account.log_out.alert_dialog.title: 로그아웃
-view.settings.account.log_out.alert_dialog.text: 계정을 로그아웃하실 건가요?
+view.settings.account.log_out.alert_dialog.text: 계정을 로그아웃할까요?
 view.settings.account.log_out.alert_dialog.cancel.button: 취소
 view.settings.account.log_out.alert_dialog.log_out.button: 로그아웃
 view.settings.account.delete_account.button: 계정 삭제
 view.settings.account.delete_account.alert_dialog.title: 계정 삭제
-view.settings.account.delete_account.alert_dialog.text: 계정을 삭제하실 건가요? 이 작업은 되돌릴 수 없어요.
+view.settings.account.delete_account.alert_dialog.text: 계정을 삭제할까요? 이 작업은 되돌릴 수 없어요.
 view.settings.account.delete_account.alert_dialog.cancel.button: 취소
 view.settings.account.delete_account.alert_dialog.yes.button: '네'
 view.settings.info.title: 세부 사항
