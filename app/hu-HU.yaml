@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Botok a Discordhoz
 global.navbar.explore: Felfedezés
 global.navbar.top_charts: Top Charts
 global.navbar.account: Fiók
@@ -166,7 +166,7 @@ view.search.title: Keresés
 view.search.subtitle.noQuery: Bot keresése...
 view.search.subtitle.query: A {} keresési eredmények láthatóak
 view.search.none: Nincs találat
-view.welcome.title: Bots for Discord
+view.welcome.title: Botok a Discordhoz
 view.welcome.subtitle: Keressen a {}+ Discord botok között! Kezdje azzal hogy belép a Discord fiókjába.
 view.welcome.login.button: Bejelentkezés Discorddal
 view.welcome.skip.button: Most Kihagyás
