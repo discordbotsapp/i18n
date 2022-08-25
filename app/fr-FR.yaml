@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Faites de la publicité pour votre Bot ic
 global.promoted_bot.subtitle: Sponsorisé
 global.pop_up_menu_button.remove_ads.button: Enlever la publicité
 global.pop_up_menu_button.advertise.button: Publicité
-global.pop_up_menu_button.usage_data.button: Usage Data
+global.pop_up_menu_button.usage_data.button: Is
 global.bot.button.advertise: Publicité
 view.bot.add.button: AJOUTER
 view.bot.chip.prefix: 'Préfixe:'
@@ -202,9 +202,9 @@ view.login.error.subtitle: Veuillez réessayer ou rejoindre le serveur de suppor
 view.login.error.retry.button: Réessayez
 view.login.error.support_server.button: Serveur de support
 view.login.logging_in.title: Connexion en cours
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
+view.advanced.usage_data.title: Is
+view.advanced.usage_data.switch1.title: Here
+view.advanced.usage_data.switch2.title: Where
 view.advanced.usage_data.switch3.title: Send analytics data
 view.advanced.promoted_bots.title: Bots Promus
 view.advanced.promoted_bots.switch1.title: Afficher les robots promus que je possède
