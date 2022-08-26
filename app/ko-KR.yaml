@@ -101,7 +101,7 @@ view.explore.most_popular.title: 최다 인기
 view.explore.most_popular.subtitle: 많은 서버에 있는 봇을 만나보세요
 view.explore.see_all.button: 모두 보기
 view.explore.categories.title: 카테고리 탐색
-view.explore.category.subtitle: '{} 카테고리에 있는 봇을 만나보세요'
+view.explore.category.subtitle: '{} 유형에 속한 봇을 만나보세요'
 view.explore.footer.support_server.button: 지원 서버
 view.explore.footer.bug_report.button: 버그 신고
 view.explore.footer.about.button: 앱 정보
