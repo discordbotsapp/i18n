@@ -65,7 +65,7 @@ view.bot.menu.copy_id: ID 복사
 view.bot.menu.copy_id.snack_bar: '{} 봇의 ID를 복사했어요.'
 view.bot.menu.hide: 숨기기
 view.bot.menu.hide.alert_dialog.title: '{} 봇 숨기기'
-view.bot.menu.hide.alert_dialog.text: '{} 봇을 숨길 건가요?'
+view.bot.menu.hide.alert_dialog.text: '{} 봇을 숨기시겠어요?'
 view.bot.menu.hide.alert_dialog.cancel.button: 취소
 view.bot.menu.hide.alert_dialog.yes.button: '네'
 view.bot.website.button: 웹사이트
