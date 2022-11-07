@@ -43,7 +43,7 @@ global.footer.info: Bots for Discord App is not affiliated with Discord or any o
 global.login_alert.title: Login
 global.login_alert.cancel.button: Cancelar
 global.login_alert.login.button: Login
-global.rate_dialog.title: Rate Bots for Discord App
+global.rate_dialog.title: Calificar bots para la aplicación de Discord
 global.rate_dialog.subtitle: Si te gusta esta aplicación, por favor toma un momento de tu tiempo para dejar un comentario! Nos ayudaría mucho y no debería tomarte mas de un minuto.
 global.rate_dialog.button.rate: EVALUAR
 global.rate_dialog.button.no_thanks: NO GRACIAS
