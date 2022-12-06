@@ -205,7 +205,7 @@ view.login.logging_in.title: Connexion en cours
 view.advanced.usage_data.title: Is
 view.advanced.usage_data.switch1.title: Here
 view.advanced.usage_data.switch2.title: Where
-view.advanced.usage_data.switch3.title: Send analytics data
+view.advanced.usage_data.switch3.title: Envoyer des données analytiques
 view.advanced.promoted_bots.title: Bots Promus
 view.advanced.promoted_bots.switch1.title: Afficher les robots promus que je possède
 view.advanced.promoted_bots.switch2.title: Afficher les robots promus que je ne possède pas
@@ -213,4 +213,4 @@ view.advanced.promoted_bots.switch3.title: Afficher les espaces réservés des r
 view.advanced.promoted_bots.remove_ads_alert.title: Enlever la publicité
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Retour
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Acheter
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.promoted_bots.remove_ads_alert.text: Vous devez acheter le mode premium pour modifier vos préférences de bot promu.
