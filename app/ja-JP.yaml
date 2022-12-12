@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Botをここに宣伝してください�
 global.promoted_bot.subtitle: 昇格
 global.pop_up_menu_button.remove_ads.button: 広告の削除
 global.pop_up_menu_button.advertise.button: 広告する
-global.pop_up_menu_button.usage_data.button: Usage Data
+global.pop_up_menu_button.usage_data.button: 使用状況データ
 global.bot.button.advertise: 広告
 view.bot.add.button: 追加
 view.bot.chip.prefix: 'プレフィックス：{}'
@@ -190,27 +190,27 @@ view.remove_ads.error.title: エラーが発生しました
 view.remove_ads.error.not_logging_in: この商品にアクセスするにはログインしてください。
 view.remove_ads.button.join_server: サポートサーバーに参加
 view.remove_ads.button.okay: わかった
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: Botを宣伝する
+view.promote.introduction.promote_your_bot.body: トラフィックとサーバー数を増やすために、アプリを通じてBotをプロモートします。
+view.promote.introduction.how_it_works.title: 仕組み
+view.promote.introduction.how_it_works.body: Botを促進するために探索ページで多くのスロットのうちのいずれかを選択します。
+view.promote.introduction.track_your_ads.title: 広告を追跡する
+view.promote.introduction.track_your_ads.body: ライブダッシュボードを通して広告がどのように実行されているかを監視します。
+view.promote.get_started.button: はじめましょう!
+view.login.error.title: ログイン中にエラーが発生しました。
+view.login.error.subtitle: 再試行するか、以下のサポートサーバーに参加してログインを助けてもらいましょう。
 view.login.error.retry.button: リトライ
 view.login.error.support_server.button: サポートサーバー
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.login.logging_in.title: ログイン中...
+view.advanced.usage_data.title: 使用状況データ
+view.advanced.usage_data.switch1.title: クラッシュデータを送信
+view.advanced.usage_data.switch2.title: パフォーマンスデータを送信
+view.advanced.usage_data.switch3.title: 分析データを送信する
+view.advanced.promoted_bots.title: プロモートBot数
+view.advanced.promoted_bots.switch1.title: 自分が所有しているプロモートBotを表示
+view.advanced.promoted_bots.switch2.title: 自分が所有していないプロモートBotを表示
+view.advanced.promoted_bots.switch3.title: プロモートされたBotのプレースホルダを表示
 view.advanced.promoted_bots.remove_ads_alert.title: 広告の削除
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: キャンセル
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: 購入
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.promoted_bots.remove_ads_alert.text: プロモートBot設定を変更するにはプレミアムを購入する必要があります。
