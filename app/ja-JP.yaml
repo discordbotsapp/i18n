@@ -182,13 +182,13 @@ view.remove_ads.thank_you.subtitle: すべての広告が削除されました
 view.remove_ads.error.store_problem: 店に問題がありました。
 view.remove_ads.error.try_again_later: 後でもう一度やり直してください。
 view.remove_ads.error.purchase_not_allowed: このデバイスまたはユーザーは購入できません。
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
-view.remove_ads.button.join_server: Join Support Server
+view.remove_ads.error.purchase_invalid: 購入が無効です。
+view.remove_ads.error.purchase_in_progress: この購入はすでに進行中です。しばらくお待ち下さい。
+view.remove_ads.error.product_already_purchased: この商品はすでに購入済みです
+view.remove_ads.error.unknown_error: '不明なエラーが発生しました: {}。'
+view.remove_ads.error.title: エラーが発生しました
+view.remove_ads.error.not_logging_in: この商品にアクセスするにはログインしてください。
+view.remove_ads.button.join_server: サポートサーバーに参加
 view.remove_ads.button.okay: わかった
 view.promote.introduction.promote_your_bot.title: Promote your bot
 view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
