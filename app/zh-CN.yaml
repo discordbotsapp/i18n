@@ -43,7 +43,7 @@ global.footer.info: Discord Bots 应用程序不与 Discord 或任何支持的 D
 global.login_alert.title: 登入
 global.login_alert.cancel.button: 取消
 global.login_alert.login.button: 登入
-global.rate_dialog.title: Rate Bots for Discord App
+global.rate_dialog.title:
 global.rate_dialog.subtitle: 如果你喜欢这个应用，请花一点时间来审阅！
 global.rate_dialog.button.rate: 评分
 global.rate_dialog.button.no_thanks: 不，谢谢
