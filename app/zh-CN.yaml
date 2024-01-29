@@ -186,7 +186,7 @@ view.remove_ads.error.purchase_invalid: 此购买无效。
 view.remove_ads.error.purchase_in_progress: 此购买已在进行中。请耐心等待！
 view.remove_ads.error.product_already_purchased: 该产品已被购买。
 view.remove_ads.error.unknown_error: '发生未知错误：{}。'
-view.remove_ads.error.title: 出错了
+view.remove_ads.error.title: 发生错误
 view.remove_ads.error.not_logging_in: 您必须登录才能购买该商品。
 view.remove_ads.button.join_server: 加入支援服务器
 view.remove_ads.button.okay: 好的
