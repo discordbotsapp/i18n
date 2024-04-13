@@ -1,20 +1,20 @@
 ---
 global.title: Boti na Discord
 global.navbar.explore: Prozkoumat
-global.navbar.top_charts: Top Charts
+global.navbar.top_charts: Žebříčky nejlepších
 global.navbar.account: Účet
 global.navbar.search: Search
 global.app_bar.explore: Prozkoumat
-global.app_bar.top_charts: Top Charts
+global.app_bar.top_charts: Žebříčky nejlepších
 global.app_bar.account: Účet
 global.app_bar.advanced: Pokročilé
 global.app_bar.login: Přihlásit se
 global.app_bar.settings: Nastavení
 global.app_bar.language: Jazyk
-global.app_bar.report: 'Report {}'
+global.app_bar.report: 'Nahlásit {}'
 global.app_bar.categories: Kategorie
 global.app_bar.remove_ads: Remove Ads
-global.app_bar.promote: Promote
+global.app_bar.promote: Propagovat
 global.tag.music: Hudba
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -37,7 +37,7 @@ global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Další využití
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
+global.tag.top_charts: Žebříčky nejlepších
 global.footer.contact: 'Kontakt: support@discordbots.app'
 global.footer.info: Aplikace Bots for Discord není spojena s Discord Inc. ani s žádným Discord bot listem.
 global.login_alert.title: Přihlásit se
@@ -56,40 +56,40 @@ global.pop_up_menu_button.usage_data.button: Usage Data
 global.bot.button.advertise: ADVERTISE
 view.bot.add.button: Přidat
 view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
+view.bot.chip.servers: '{} serverů'
 view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
+view.bot.chip.votes: '{} hlasů'
+view.bot.chip.vote: '{} hlas'
+view.bot.menu.report: Nahlásit
+view.bot.menu.copy_id: Kopírovat ID
+view.bot.menu.copy_id.snack_bar: Zkopírováno ID uživatele {}
+view.bot.menu.hide: Skrýt
+view.bot.menu.hide.alert_dialog.title: Skrýt {}
 view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
 view.bot.menu.hide.alert_dialog.cancel.button: Zrušit
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
+view.bot.menu.hide.alert_dialog.yes.button: 'Ano'
+view.bot.website.button: Webová stránka
 view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
+view.bot.vote.button: Hlasovat
+view.bot.favorite.login_alert: Pro přidání tohoto bota do oblíbených musíte být přihlášeni.
+view.bot.report.login_alert: Pro nahlášení tohoto bota musíte být přihlášeni.
+view.bot.hide.login_alert: Pro skrytí tohoto bota musíte být přihlášeni.
+view.bot.copy.snackbar: Zkopírováno ID uživatele {}
+view.report.report_reason.title: Důvod nahlášení
+view.report.report_reason.hint: Vyberte důvod
+view.report.report_reason.empty: Vyberte prosím důvod
+view.report.additional_information.title: Doplňující informace
+view.report.additional_information.hint: Zde zadejte další podrobnosti...
+view.report.additional_information.empty: Vyberte prosím důvod
+view.report.submit.button: Odeslat
 view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
+view.report.report_reason.dropdown.option2: Offline po dlouhou dobu
 view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
+view.report.report_reason.dropdown.option4: Bot nefunguje
+view.report.report_reason.dropdown.option5: Pozvánka nefunguje
+view.report.report_reanos.dropdown.option6: Jiný důvod
 view.explore.title: Prozkoumat
-view.explore.featured.title: Featured
+view.explore.featured.title: Doporučené
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
 view.explore.trending.subtitle: New bots that are gaining traction quickly
@@ -108,10 +108,10 @@ view.explore.footer.about.button: About
 view.explore.footer.privacy_policy.button: Privacy Policy
 view.top_charts.most_votes: Most Votes
 view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
+view.top_charts.bot.subtitle.servers.plural: '{} serverů'
+view.top_charts.bot.subtitle.votes.plural: '{} hlasů'
 view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
+view.top_charts.bot.subtitle.votes.singular: '{} hlas'
 view.account.login.guest: Guest
 view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
@@ -152,7 +152,7 @@ view.settings.account.delete_account.button: Delete Account
 view.settings.account.delete_account.alert_dialog.title: Delete Account
 view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
 view.settings.account.delete_account.alert_dialog.cancel.button: Zrušit
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
+view.settings.account.delete_account.alert_dialog.yes.button: 'Ano'
 view.settings.info.title: Info
 view.settings.info.about.button: About
 view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
