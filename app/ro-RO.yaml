@@ -1,5 +1,5 @@
 ---
-global.title: Bots for Discord
+global.title: Roboți pentru Discord
 global.navbar.explore: Explorează
 global.navbar.top_charts: Top-ul Graficelor
 global.navbar.account: Cont
@@ -7,7 +7,7 @@ global.navbar.search: Căutaţi
 global.app_bar.explore: Explorează
 global.app_bar.top_charts: Top-ul Graficelor
 global.app_bar.account: Cont
-global.app_bar.advanced: Advanced
+global.app_bar.advanced: Cautare avansata
 global.app_bar.login: Logare
 global.app_bar.settings: Setări
 global.app_bar.language: Limbă
@@ -142,7 +142,7 @@ view.settings.support.title: Asistență
 view.settings.support.support_server.button: Server de asistență
 view.settings.support.report_a_bug.button: Raportați o problemă
 view.settings.account.title: Cont
-view.settings.account.advanced.button: Advanced
+view.settings.account.advanced.button: Cautare avansata
 view.settings.account.log_out.button: Deconectare
 view.settings.account.log_out.alert_dialog.title: Deconectare
 view.settings.account.log_out.alert_dialog.text: Sunteți sigur că doriți să vă deconectați?
@@ -166,7 +166,7 @@ view.search.title: Căutaţi
 view.search.subtitle.noQuery: Caută un bot...
 view.search.subtitle.query: Rezultatele căutării pentru {}
 view.search.none: Nu Au Fost Gasite Rezultate
-view.welcome.title: Bots for Discord
+view.welcome.title: Roboți pentru Discord
 view.welcome.subtitle: Navighează prin {}+ boti pentru discord! Începe conectându-te cu contul tău Discord.
 view.welcome.login.button: Conectează-te cu Discord
 view.welcome.skip.button: Omite pentru moment
