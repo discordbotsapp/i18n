@@ -43,7 +43,7 @@ global.footer.info: .
 global.login_alert.title: دخول
 global.login_alert.cancel.button: إلغاء
 global.login_alert.login.button: دخول
-global.rate_dialog.title: Rate Bots for Discord App
+global.rate_dialog.title:
 global.rate_dialog.subtitle: إذا كنت تعجبك هذا التطبيق، يرجى أخذ القليل من وقتك لمراجعته! إنها حقا تساعدنا ولا يجب أن تستغرق أكثر من دقيقة واحدة.
 global.rate_dialog.button.rate: تقييم
 global.rate_dialog.button.no_thanks: لا شكراً
@@ -98,7 +98,7 @@ view.explore.new.subtitle: البوتات المضافة مؤخرا
 view.explore.most_voted.title: الأكثر تصويتاً
 view.explore.most_voted.subtitle: بوتات بأكبر عدد من الأصوات هذا الشهر
 view.explore.most_popular.title: Hacking
-view.explore.most_popular.subtitle: Bots in the most servers
+view.explore.most_popular.subtitle: Arabic
 view.explore.see_all.button: عرض الكل
 view.explore.categories.title: استكشاف التصنيفات
 view.explore.category.subtitle: البوتات في فئة {}
