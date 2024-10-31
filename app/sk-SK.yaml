@@ -1,12 +1,12 @@
 ---
-global.title: Bots for Discord
-global.navbar.explore: Explore
-global.navbar.top_charts: Top Charts
-global.navbar.account: Account
+global.title: Boty pre Discord
+global.navbar.explore: Preskúmať
+global.navbar.top_charts: Najlepšie rebríčky
+global.navbar.account: Účet
 global.navbar.search: Search
-global.app_bar.explore: Explore
-global.app_bar.top_charts: Top Charts
-global.app_bar.account: Account
+global.app_bar.explore: Preskúmať
+global.app_bar.top_charts: Najlepšie rebríčky
+global.app_bar.account: Účet
 global.app_bar.advanced: Advanced
 global.app_bar.login: Login
 global.app_bar.settings: Settings
@@ -37,7 +37,7 @@ global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Multipurpose
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
+global.tag.top_charts: Najlepšie rebríčky
 global.footer.contact: 'Contact: support@discordbots.app'
 global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
 global.login_alert.title: Login
@@ -88,7 +88,7 @@ view.report.report_reason.dropdown.option3: Misleading features and description
 view.report.report_reason.dropdown.option4: Bot does not work
 view.report.report_reason.dropdown.option5: Invite link does not work
 view.report.report_reanos.dropdown.option6: Other reason
-view.explore.title: Explore
+view.explore.title: Preskúmať
 view.explore.featured.title: Featured
 view.explore.featured.subtitle: Top notch bots that are verified by Discord
 view.explore.trending.title: Trending
@@ -141,7 +141,7 @@ view.settings.language.help_translate.button: Help translate the app
 view.settings.support.title: Support
 view.settings.support.support_server.button: Support Server
 view.settings.support.report_a_bug.button: Report A Bug
-view.settings.account.title: Account
+view.settings.account.title: Účet
 view.settings.account.advanced.button: Advanced
 view.settings.account.log_out.button: Log Out
 view.settings.account.log_out.alert_dialog.title: Log Out
@@ -166,7 +166,7 @@ view.search.title: Search
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Bots for Discord
+view.welcome.title: Boty pre Discord
 view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: Skip for Now
