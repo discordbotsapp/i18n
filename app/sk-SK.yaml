@@ -14,13 +14,13 @@ global.app_bar.language: Jazyk
 global.app_bar.report: 'Správa {}'
 global.app_bar.categories: Kategórie
 global.app_bar.remove_ads: Remove Ads
-global.app_bar.promote: Promote
-global.tag.music: Music
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
+global.app_bar.promote: Propagovať
+global.tag.music: Hudba
+global.tag.pokemon: Pokémon #KEEP AS IS
+global.tag.soundboard: Zvuková tabuľa
+global.tag.moderation: Moderovanie
 global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
+global.tag.trivia: Kvíz
 global.tag.fortnite: Fortnite #KEEP AS IS
 global.tag.spotify: Spotify #KEEP AS IS
 global.tag.social: Social
