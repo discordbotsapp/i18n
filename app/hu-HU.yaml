@@ -32,18 +32,18 @@ global.tag.meme: Mémek
 global.tag.leveling: Szint
 global.tag.roleplay: Szerepjáték
 global.tag.logging: Logolás
-global.tag.utility: Utility
+global.tag.utility: Segédprogram
 global.tag.reddit: Reddit #KEEP AS IS
 global.tag.multipurpose: Többcélú
 global.tag.twitch: Twitch #KEEP AS IS
 global.tag.crypto: Kriptovaluta #KEEP AS IS
 global.tag.top_charts: Legjobb Charts
 global.footer.contact: 'Kapcsolat: support@discordbots.app'
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
+global.footer.info: A Bots for Discord App nem áll kapcsolatban a Discorddal vagy a támogatott Discord botlistákkal.
 global.login_alert.title: Bejelentkezés
 global.login_alert.cancel.button: Mégse
 global.login_alert.login.button: Bejelentkezés
-global.rate_dialog.title: Rate Bots for Discord App
+global.rate_dialog.title: Értéked a Bots for Discord Appot
 global.rate_dialog.subtitle: Ha tetszik az alkalmazás, kérünk szánj egy kis időt hogy értékelj minket! Ez sokat segít nekünk és nem tarthat tovább egy percnél.
 global.rate_dialog.button.rate: ÉRTÉKELÉS
 global.rate_dialog.button.no_thanks: KÖSZÖNÖM NEM
@@ -52,7 +52,7 @@ global.promoted_bot.placeholder.title: Hirdesd a Botodat itt!
 global.promoted_bot.subtitle: Promótált
 global.pop_up_menu_button.remove_ads.button: Hirdetések Eltávolítása
 global.pop_up_menu_button.advertise.button: Hirdetés
-global.pop_up_menu_button.usage_data.button: Usage Data
+global.pop_up_menu_button.usage_data.button: Használt adat
 global.bot.button.advertise: HIRDETÉS
 view.bot.add.button: HOZZÁAD
 view.bot.chip.prefix: 'Előtag: {}'
@@ -190,27 +190,27 @@ view.remove_ads.error.title: Hiba lépett fel
 view.remove_ads.error.not_logging_in: Be kell jelentkezned hogy megvásárold ezt a terméket.
 view.remove_ads.button.join_server: Csatlakozz a szerverünkhöz
 view.remove_ads.button.okay: Rendben
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
+view.promote.introduction.promote_your_bot.title: Promotáld a bototdat
+view.promote.introduction.promote_your_bot.body: Népszerűsítse botját az alkalmazáson keresztül, hogy növelje forgalmát és szervereinek számát.
+view.promote.introduction.how_it_works.title: Hogy mükődik
+view.promote.introduction.how_it_works.body: Válasszon egyet a felfedezőoldalon található számos hely közül, ahol a botját népszerűsítheti.
+view.promote.introduction.track_your_ads.title: Trackeld a hirdetéseidet
+view.promote.introduction.track_your_ads.body: Egy élő műszerfalon keresztül nyomon követheti, hogyan teljesítenek a hirdetései.
+view.promote.get_started.button: Kezdjünk bele
+view.login.error.title: Egy hiba történt miközben bejelenkeztetünk téged
+view.login.error.subtitle: Kérjük, próbáld meg újra, vagy csatlakozz az alábbi támogatási szerverhez, hogy segítséget kapj a bejelentkezéshez.
 view.login.error.retry.button: Újra
 view.login.error.support_server.button: Támogatási Szerver
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.login.logging_in.title: Bejelentkeztetünk téged
+view.advanced.usage_data.title: Használt adat
+view.advanced.usage_data.switch1.title: Kifagyott adat küldése
+view.advanced.usage_data.switch2.title: Teljesítmény adat küldése
+view.advanced.usage_data.switch3.title: Analitika adat küldése
+view.advanced.promoted_bots.title: Promotált botok
+view.advanced.promoted_bots.switch1.title: Mutasd ami én promotáltam
+view.advanced.promoted_bots.switch2.title: Mutasd a promotált botokat amiket nem az én tulajdonom
+view.advanced.promoted_bots.switch3.title: Promótált bot helytartók megjelenítése
 view.advanced.promoted_bots.remove_ads_alert.title: Hirdetések Eltávolítása
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Mégse
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Vásárlás
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.advanced.promoted_bots.remove_ads_alert.text: Prémiumot kell vásárolnod ahhoz, hogy megváltoztathasd a hirdetett bot preferenciáit.
