@@ -209,7 +209,7 @@ view.advanced.usage_data.switch3.title: Enviar datos analíticos
 view.advanced.promoted_bots.title: Bots promocionados
 view.advanced.promoted_bots.switch1.title: Mostrar bots promocionados que tengo
 view.advanced.promoted_bots.switch2.title: Mostrar bots promocionados que no tengo
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
+view.advanced.promoted_bots.switch3.title: Mostrar marcadores de posición promocionados
 view.advanced.promoted_bots.remove_ads_alert.title: Quitar Anuncios
 view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancelar
 view.advanced.promoted_bots.remove_ads_alert.purchase.button: Comprar
