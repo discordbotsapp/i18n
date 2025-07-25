@@ -8,7 +8,7 @@ global.app_bar.top_charts: Топ Рейтинги
 global.app_bar.account: Акаунт
 global.app_bar.settings: Налаштування
 global.app_bar.remove_ads: Видалити рекламу
-global.footer.info: Bots for Discord App не пов'язаний з Discord або будь-якими підтримуваними Discord Bot Lists. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App не пов'язаний з Discord або будь-якими підтримуваними Discord Bot Lists.
 global.button.cancel: Скасувати
 global.button.sign_in: Увійти
 global.support_server.join: Приєднатися до сервера підтримки
@@ -77,8 +77,7 @@ view.top_charts.most_popular: Найпопулярніші
 view.top_charts.most_voted: Найбільше голосів
 view.submit_bot.error.title: Не вдалося завантажити списки ботів
 view.submit_bot.error.description: Ми не змогли завантажити доступні списки ботів. Будь ласка, спробуйте пізніше.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Вийти
 view.alert.sign_out.message: Ви впевнені, що хочете вийти?
 view.alert.sign_out.cancel: Скасувати
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} не має посилання для за�
 view.alert.error.open_invite_failed: Не вдалося відкрити посилання запрошення.
 view.alert.error.discord_not_installed: Неможливо відкрити Discord. Переконайтеся, що Discord встановлено на вашому пристрої.
 view.alert.error.open_support_failed: Не вдалося відкрити посилання сервера підтримки.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Видалити акаунт
 view.alert.delete_account.message: Ви впевнені, що хочете видалити свій акаунт? Цю дію неможливо скасувати і вона назавжди видалить усі ваші дані.
 view.alert.delete_account.confirm: Видалити
 view.alert.delete_account.final.title: Видалити акаунт
 view.alert.delete_account.final.message: Це назавжди видалить ваш акаунт та пов'язані з ним дані. Ви впевнені?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Поскаржитися на бота
 view.report.header.title: Поскаржитися на бота
 view.report.header.description: Допоможіть нам підтримувати безпеку спільноти, повідомляючи про неприйнятний контент або проблеми.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Дякуємо за вашу скаргу. �
 view.report.submit.success.ok: Гаразд
 view.report.validation.no_reason: Будь ласка, виберіть причину для скарги.
 view.report.validation.no_details: Будь ласка, надайте додаткові деталі про проблему.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Завантаження деталей бота...
 view.error.bot_not_found: Бота не знайдено.
 view.loading.categories: Завантаження категорій...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Акаунт
 view.navigation.settings: Налаштування
 view.navigation.categories: Категорії
 view.navigation.bot_details: Деталі бота
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Пропоновані пошуки
 view.search.placeholder: Шукати ботів...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Приєднайтеся до сервера підтримки додатку
 view.remove_ads.description: Назавжди відключити рекламу в додатку
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Вибрати причину
