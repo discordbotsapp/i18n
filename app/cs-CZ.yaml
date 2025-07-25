@@ -1,5 +1,4 @@
 ---
-global.title: Boti na Discord
 global.navbar.explore: Prozkoumat
 global.navbar.top_charts: Žebříčky nejlepších
 global.navbar.account: Účet
@@ -7,210 +6,126 @@ global.navbar.search: Hledat
 global.app_bar.explore: Prozkoumat
 global.app_bar.top_charts: Žebříčky nejlepších
 global.app_bar.account: Účet
-global.app_bar.advanced: Pokročilé
-global.app_bar.login: Přihlásit se
 global.app_bar.settings: Nastavení
-global.app_bar.language: Jazyk
-global.app_bar.report: 'Nahlásit {}'
-global.app_bar.categories: Kategorie
 global.app_bar.remove_ads: Odstranit reklamy
-global.app_bar.promote: Propagovat
-global.tag.music: Hudba
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderace
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Sociální
-global.tag.fun: Zábava
-global.tag.economy: Ekonomika
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Hry
-global.tag.meme: Meme
-global.tag.leveling: Levely
-global.tag.roleplay: Roleplay
-global.tag.logging: Záznamy
-global.tag.utility: Nástroje
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Další využití
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Žebříčky nejlepších
-global.footer.contact: 'Kontakt: support@discordbots.app'
 global.footer.info: Aplikace Bots for Discord není spojena s Discord Inc. ani s žádným Discord bot listem.
-global.login_alert.title: Přihlásit se
-global.login_alert.cancel.button: Zrušit
-global.login_alert.login.button: Přihlásit se
-global.rate_dialog.title: Rate Bots for Discord App
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: Ne, děkuji
-global.rate_dialog.button.maybe_later: Možná později
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
-global.pop_up_menu_button.remove_ads.button: Odstranit reklamy
-global.pop_up_menu_button.advertise.button: Advertise
-global.pop_up_menu_button.usage_data.button: Data o využití
-global.bot.button.advertise: ADVERTISE
-view.bot.add.button: Přidat
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} serverů'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} hlasů'
-view.bot.chip.vote: '{} hlas'
-view.bot.menu.report: Nahlásit
-view.bot.menu.copy_id: Kopírovat ID
-view.bot.menu.copy_id.snack_bar: Zkopírováno ID uživatele {}
-view.bot.menu.hide: Skrýt
-view.bot.menu.hide.alert_dialog.title: Skrýt {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Zrušit
-view.bot.menu.hide.alert_dialog.yes.button: 'Ano'
-view.bot.website.button: Webová stránka
-view.bot.support_server.button: Server Podpory
-view.bot.vote.button: Hlasovat
-view.bot.favorite.login_alert: Pro přidání tohoto bota do oblíbených musíte být přihlášeni.
-view.bot.report.login_alert: Pro nahlášení tohoto bota musíte být přihlášeni.
-view.bot.hide.login_alert: Pro skrytí tohoto bota musíte být přihlášeni.
-view.bot.copy.snackbar: Zkopírováno ID uživatele {}
-view.report.report_reason.title: Důvod nahlášení
-view.report.report_reason.hint: Vyberte důvod
-view.report.report_reason.empty: Vyberte prosím důvod
-view.report.additional_information.title: Doplňující informace
-view.report.additional_information.hint: Zde zadejte další podrobnosti...
-view.report.additional_information.empty: Vyberte prosím důvod
-view.report.submit.button: Odeslat
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline po dlouhou dobu
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot nefunguje
-view.report.report_reason.dropdown.option5: Pozvánka nefunguje
-view.report.report_reanos.dropdown.option6: Jiný důvod
-view.explore.title: Prozkoumat
-view.explore.featured.title: Doporučené
-view.explore.featured.subtitle: Nejlepší boti, kteří jsou ověřeni Discord
-view.explore.trending.title: Trendy
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: Nový
-view.explore.new.subtitle: Nedávno přidaní boti
-view.explore.most_voted.title: Nejvíce hlasované
-view.explore.most_voted.subtitle: Boty s nejvíce hlasy tento měsíc
-view.explore.most_popular.title: Nejpopulárnější
-view.explore.most_popular.subtitle: Boty na nejvíce serverech
-view.explore.see_all.button: Zobrazit vše
-view.explore.categories.title: Prozkoumat kategorie
-view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Server Podpory
-view.explore.footer.bug_report.button: Nahlášení chyby
-view.explore.footer.about.button: O nás
-view.explore.footer.privacy_policy.button: Zásady ochrany osobních údajů
-view.top_charts.most_votes: Nejvíce hlasů
-view.top_charts.most_servers: Nejvíce serverů
-view.top_charts.bot.subtitle.servers.plural: '{} serverů'
-view.top_charts.bot.subtitle.votes.plural: '{} hlasů'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} hlas'
-view.account.login.guest: Návštěvník
+global.button.cancel: Cancel
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
+view.bot.hide.button: Hide Bot
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Přihlásit se přes Discord
-view.account.login.error: Vyskytl se problém při přihlašovaní. Prosím, zkuste to znovu.
-view.account.login.error.button: Zpět na přihlášení
 view.account.my_bots.button: My Bots
-view.account.favorites.button: Oblíbené
 view.account.add_bot.button: Přidat bota
-view.account.remove_ads.button: Odstranit reklamy
-view.account.advertise.button: Advertise
 view.account.settings.button: Nastavení
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
-view.my_bots.none: Nevlastníte žádné boty
-view.favorites.title: Oblíbené
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: Nemáte žádné oblíbené položky
-view.add_bot.title: Přidat bota
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Motiv
-view.settings.theme.system.radio: Systém
-view.settings.theme.dark.radio: Tmavý
-view.settings.theme.light.radio: Světlý
-view.settings.language.title: Jazyk
-view.settings.language.placeholder: Vyberte jazyk
-view.settings.language.help_translate.button: Pomoci přeložit aplikaci
-view.settings.support.title: Podpora
-view.settings.support.support_server.button: Server Podpory
-view.settings.support.report_a_bug.button: Nahlásit chybu
-view.settings.account.title: Účet
-view.settings.account.advanced.button: Pokročilé
-view.settings.account.log_out.button: Odhlásit se
-view.settings.account.log_out.alert_dialog.title: Odhlásit se
-view.settings.account.log_out.alert_dialog.text: Opravdu se chcete odhlásit?
-view.settings.account.log_out.alert_dialog.cancel.button: Zrušit
-view.settings.account.log_out.alert_dialog.log_out.button: Odhlásit se
-view.settings.account.delete_account.button: Odstranit účet
-view.settings.account.delete_account.alert_dialog.title: Odstranit účet
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Zrušit
-view.settings.account.delete_account.alert_dialog.yes.button: 'Ano'
-view.settings.info.title: Info
-view.settings.info.about.button: O nás
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Zásady ochrany osobních údajů
-view.bot.reported.title: Nahlášeno {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Ok
-view.user.bots: Boti
-view.search.hint: Hledat...
-view.search.title: Hledat
-view.search.subtitle.noQuery: Hledat bota...
-view.search.subtitle.query: Zobrazuji výsledky vyhledávání pro {}
-view.search.none: Nebyly nalezeny žádné výsledky
-view.welcome.title: Boti na Discord
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.account.settings.description: Settings & preferences
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
+view.my_bots.subtitle: Manage your Discord bots
+view.add_bot.subtitle: Submit your bot to bot lists
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
+view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Přihlásit se přes Discord
 view.welcome.skip.button: Prozatím přeskočit
-view.remove_ads.title: Odstranit reklamy
-view.remove_ads.subtitle: Odebrat všechny reklamy z aplikace
-view.remove_ads.error.load_product: Při načítání produktu došlo k neznámé chybě.
-view.remove_ads.error.verify_purchase: Při ověřování nákupu došlo k neznámé chybě.
-view.remove_ads.error.try_again: Zkuste to prosím později nebo se připojte k serveru podpory.
-view.remove_ads.error.join_server: Připojte se prosím k serveru podpory.
-view.remove_ads.purchase: Zakoupit
-view.remove_ads.thank_you.title: Děkujeme za váš nákup
-view.remove_ads.thank_you.subtitle: Všechny reklamy byly odstraněny
-view.remove_ads.error.store_problem: Došlo k potížím s obchodem.
-view.remove_ads.error.try_again_later: Zkuste to prosím později.
-view.remove_ads.error.purchase_not_allowed: Toto zařízení nebo uživatel nemá oprávnění k nákupu.
-view.remove_ads.error.purchase_invalid: Nákup je neplatný.
-view.remove_ads.error.purchase_in_progress: Tento nákup již probíhá. Buďte prosím trpěliví.
-view.remove_ads.error.product_already_purchased: Tento produkt již byl zakoupen.
-view.remove_ads.error.unknown_error: 'Došlo k neznámé chybě: {}.'
-view.remove_ads.error.title: Došlo k chybě
-view.remove_ads.error.not_logging_in: Pro zakoupení tohoto produktu musíte být přihlášeni.
-view.remove_ads.button.join_server: Připojit se na server podpory
-view.remove_ads.button.okay: Ok
-view.promote.introduction.promote_your_bot.title: Propagujte svého bota
-view.promote.introduction.promote_your_bot.body: Propagujte svého bota skrz aplikaci, aby se zvýšil jeho provoz a počet serverů.
-view.promote.introduction.how_it_works.title: Jak to funguje
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Sledujte své reklamy
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Začínáme
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
-view.login.error.retry.button: Zkusit znovu
-view.login.error.support_server.button: Server Podpory
-view.login.logging_in.title: Probíhá přihlašování
-view.advanced.usage_data.title: Data o využití
-view.advanced.usage_data.switch1.title: Odeslat údaje o pádech
-view.advanced.usage_data.switch2.title: Odeslat údaje o výkonnosti
-view.advanced.usage_data.switch3.title: Odeslat analytická data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Zobrazit propagované boty, které vlastním
-view.advanced.promoted_bots.switch2.title: Zobrazit propagované boty, které nevlastním
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: Odstranit reklamy
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Zrušit
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Zakoupit
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.welcome.subtitle: Find the perfect bot for your server
+view.explore.browse_categories.description: Discover bots by category
+view.explore.browse_categories.title: Browse Categories
+view.explore.category.subtitle: Bots in the {} category
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
+view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.featured.title: Doporučené
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Nejpopulárnější
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: Nejvíce hlasované
+view.top_charts.most_popular: Nejpopulárnější
+view.top_charts.most_voted: Nejvíce hlasované
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: Účet
+view.navigation.settings: Nastavení
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason
