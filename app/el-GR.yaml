@@ -14,7 +14,7 @@ global.app_bar.language: Γλώσσα
 global.app_bar.report: 'Αναφορά {}'
 global.app_bar.categories: Κατηγορίες
 global.app_bar.remove_ads: Κατάργηση διαφημίσεων
-global.app_bar.promote: Προωθήστε
+
 global.tag.music: Μουσική
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Πίνακας Ήχου
@@ -43,18 +43,32 @@ global.footer.info: Η εφαρμογή Bots for Discord δεν συσχετίζ
 global.login_alert.title: Είσοδος
 global.login_alert.cancel.button: Ακύρωση
 global.login_alert.login.button: Είσοδος
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Αξιολογήστε Bots για την εφαρμογή Discord
 global.rate_dialog.subtitle: Αν σας αρέσει η εφαρμογή, παρακαλούμε παραχωρήσετε λίγο από τον χρόνο σας για να την αξιοποιήσετε! Πραγματικά μας βοηθάει και δεν παίρνει πάνω από ένα λεπτό.
 global.rate_dialog.button.rate: ΑΞΙΟΛΟΓΉΣΤΕ
 global.rate_dialog.button.no_thanks: ΌΧΙ ΕΥΧΑΡΙΣΤΏ
 global.rate_dialog.button.maybe_later: ΊΣΩΣ ΑΡΓΌΤΕΡΑ
-global.promoted_bot.placeholder.title: Διαφημίστε Το bot Σας Εδώ!
-global.promoted_bot.subtitle: Προωθήθηκε
+
 global.pop_up_menu_button.remove_ads.button: Κατάργηση διαφημίσεων
-global.pop_up_menu_button.advertise.button: Διαφημίστε
+
 global.pop_up_menu_button.usage_data.button: Δεδομένα Χρήσης
-global.bot.button.advertise: ΔΙΑΦΙΜΉΣΤΕ
+
 view.bot.add.button: ΠΡΟΣΘΉΚΗ
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} διακομιστές'
 view.bot.chip.server: '{} διακομιστής'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Ναι'
 view.bot.website.button: Ιστοσελίδα
 view.bot.support_server.button: Διακομιστής Υποστήριξης
 view.bot.vote.button: Ψηφίστε
-view.bot.favorite.login_alert: Πρέπει να συνδεθείτε για να προσθέσετε αυτό το bot στα αγαπημένα σας.
 view.bot.report.login_alert: Πρέπει να είστε συνδεδεμένοι για να αναφέρετε αυτό το bot.
 view.bot.hide.login_alert: Πρέπει να συνδεθείτε στο λογαριασμό σας για να κρύψετε αυτό το bot.
 view.bot.copy.snackbar: Η ταυτότητα του {}'s αντιγράφηκε
@@ -117,19 +130,21 @@ view.account.login.button: Είσοδος με Discord
 view.account.login.error: Παρουσιάστηκε σφάλμα κατά τη σύνδεσή σας. Παρακαλώ προσπαθήστε ξανά.
 view.account.login.error.button: Επιστρέψτε στη σύνδεση
 view.account.my_bots.button: Τα Bots Μου
-view.account.favorites.button: Αγαπημένα
 view.account.add_bot.button: Προσθήκη Bot
 view.account.remove_ads.button: Κατάργηση διαφημίσεων
-view.account.advertise.button: Διαφημίστε
+
 view.account.settings.button: Ρυθμίσεις
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: Τα Bots Μου
-view.my_bots.subtitle: Τα bot που ανήκουν σε εσάς. Μπορείτε να προσθέσετε το δικό σας bot κάνοντας κλικ στο κουμπί Προσθήκη bot στη σελίδα του λογαριασμού. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: Δεν σας ανήκει κανένα bot
-view.favorites.title: Αγαπημένα
-view.favorites.subtitle: Προσθέστε εδώ τα αγαπημένα σας bots κάνοντας κλικ στο κουμπί καρδιά στη σελίδα ενός bot
-view.favorites.none: Δεν έχετε αγαπημένα
 view.add_bot.title: Προσθήκη Bot
-view.add_bot.subtitle: Προσθέστε το bot σας σε μια οποιαδηποτε λίστα bot για να το προσθέσετε αυτόματα στην εφαρμογή.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Σημείωση: Το bot σας μπορεί να μην εμφανιστεί άμεσα στην εφαρμογή μετά την προσθήκη του σε άλλη λίστα με bot.'
 view.settings.theme.title: Θέμα
 view.settings.theme.system.radio: Συστήματος
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: Εντάξει
 view.user.bots: Bots
 view.search.hint: Αναζήτηση...
 view.search.title: Αναζήτηση
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Αναζητήστε ένα bot...
 view.search.subtitle.query: Εμφάνιση αποτελεσμάτων αναζήτησης για {}
 view.search.none: Δε βρέθηκαν αποτελέσματα
-view.welcome.title: Bots για το Discord
-view.welcome.subtitle: Περιηγηθείτε στο {}+ Discord bots! Ξεκινήστε με τη σύνδεση του λογαριασμού σας στο Discord.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Είσοδος με Discord
 view.welcome.skip.button: Παράλειψη για την ώρα
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: Κατάργηση διαφημίσεων
 view.remove_ads.subtitle: Καταργεί όλες τις διαφημίσεις από την εφαρμογή
 view.remove_ads.error.load_product: Παρουσιάστηκε σφάλμα κατά τη φόρτωση αντικειμένου.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: Παρουσιάστηκε ένα Σφάλμα
 view.remove_ads.error.not_logging_in: Πρέπει να είστε συνδεμένοι για να αγοράσετε αυτό το προϊόν.
 view.remove_ads.button.join_server: Μπες στον διακομιστή υποστήριξής μας
 view.remove_ads.button.okay: Εντάξει
-view.promote.introduction.promote_your_bot.title: Προωθήστε το bot σας
-view.promote.introduction.promote_your_bot.body: Προωθήστε το bot σας μέσω της εφαρμογής για να αυξήσετε την επισκεψιμότητα και τον αριθμό των διακομιστών.
-view.promote.introduction.how_it_works.title: Πώς λειτουργεί
-view.promote.introduction.how_it_works.body: Επιλέξτε μία από τις πολλές υποδοχές στη σελίδα εξερεύνησης για να προωθήσετε το bot σας.
-view.promote.introduction.track_your_ads.title: Παρακολουθήστε τις διαφημίσεις σας
-view.promote.introduction.track_your_ads.body: Παρακολουθήστε πώς οι διαφημίσεις σας εκτελούνται μέσω ενός ζωντανού ταμπλό.
-view.promote.get_started.button: Ξεκινήστε
+
 view.login.error.title: Παρουσιάστηκε σφάλμα κατά τη σύνδεση σας
 view.login.error.subtitle: Παρακαλώ δοκιμάστε ξανά ή εγγραφείτε στον παρακάτω διακομιστή υποστήριξης για βοήθεια με τη σύνδεση.
 view.login.error.retry.button: Επανάληψη
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Δεδομένα Χρήσης
 view.advanced.usage_data.switch1.title: Αποστολή Σφάλματος Δεδομένων
 view.advanced.usage_data.switch2.title: Αποστολή Δεδομένων Απόδοσης
 view.advanced.usage_data.switch3.title: Αποστολή δεδομένων ανάλυσης
-view.advanced.promoted_bots.title: Προωθημένα Bots
-view.advanced.promoted_bots.switch1.title: Εμφάνιση προωθημένων Bot που κατέχω
-view.advanced.promoted_bots.switch2.title: Εμφάνιση προωθημένων bot που δεν μου ανοίκουν
-view.advanced.promoted_bots.switch3.title: Εμφάνιση θέσεων προώθησης bot
-view.advanced.promoted_bots.remove_ads_alert.title: Κατάργηση διαφημίσεων
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Ακύρωση
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Αγορά
-view.advanced.promoted_bots.remove_ads_alert.text: Πρέπει να αγοράσεις premium για να αλλάξεις τις προτιμήσεις σου σε προωθημένα bots.
+

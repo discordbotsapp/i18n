@@ -14,7 +14,7 @@ global.app_bar.language: Limbă
 global.app_bar.report: 'Raportează {}'
 global.app_bar.categories: Categorii
 global.app_bar.remove_ads: Elimină reclamele
-global.app_bar.promote: Promovează
+
 global.tag.music: Muzică
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Panou audio
@@ -43,18 +43,32 @@ global.footer.info: Bots for Discord App is not affiliated with Discord or any o
 global.login_alert.title: Logare
 global.login_alert.cancel.button: Anulează
 global.login_alert.login.button: Logare
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Dacă îți place această aplicație, te rugăm să îți acorzi puțin timp pentru a o evalua! Ne ajută cu adevărat şi nu vă v-a lua mai mult de un minut.
 global.rate_dialog.button.rate: EVALUEAZĂ
 global.rate_dialog.button.no_thanks: NU MERSI
 global.rate_dialog.button.maybe_later: POATE MAI TARZIU
-global.promoted_bot.placeholder.title: Promovează-ți Botul Aici!
-global.promoted_bot.subtitle: Promovat
+
 global.pop_up_menu_button.remove_ads.button: Elimină reclamele
-global.pop_up_menu_button.advertise.button: Promovează
+
 global.pop_up_menu_button.usage_data.button: Usage Data
-global.bot.button.advertise: ADVERTISE
+
 view.bot.add.button: ADAUGĂ
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Prefix-ul: {}'
 view.bot.chip.servers: '{} servere'
 view.bot.chip.server: '{} server'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Da'
 view.bot.website.button: Site web
 view.bot.support_server.button: Server de asistență
 view.bot.vote.button: Votează
-view.bot.favorite.login_alert: Trebuie să fii autentificat pentru a adăuga acest bot la favorite.
 view.bot.report.login_alert: Trebuie să fii autentificat pentru a raporta acest bot.
 view.bot.hide.login_alert: Trebuie să fii autentificat pentru a ascunde acest bot.
 view.bot.copy.snackbar: A fost copiat id-ul lui {}
@@ -117,19 +130,21 @@ view.account.login.button: Conectează-te cu Discord
 view.account.login.error: A apărut o eroare la autentificare. Te rugăm să încerci din nou.
 view.account.login.error.button: Mergi înapoi la autentificare
 view.account.my_bots.button: Boții mei
-view.account.favorites.button: Favorite
 view.account.add_bot.button: Adaugă bot
 view.account.remove_ads.button: Elimină reclamele
-view.account.advertise.button: Promovează
+
 view.account.settings.button: Setări
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: Boții mei
-view.my_bots.subtitle: Bori deținuți de tine. Puteți adăuga propriul robot făcând clic pe butonul Adaugă bot-ul în pagina contului. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: Nu deții niciun bot
-view.favorites.title: Favorite
-view.favorites.subtitle: Adaugă roboții tăi favoriți aici făcând clic pe butonul inima de pe pagina unui bot
-view.favorites.none: Nu ai nici un favorit
 view.add_bot.title: Adaugă bot
-view.add_bot.subtitle: Adaugă botul tău la o listă de roboți terți pentru a-l adăuga automat în aplicație.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Notă: bot-ul tău nu poate apărea instantaneu în aplicație după ce l-a adăugat la o altă listă de roboți.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistem
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: Okay
 view.user.bots: Boți
 view.search.hint: Căutaţi...
 view.search.title: Căutaţi
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Caută un bot...
 view.search.subtitle.query: Rezultatele căutării pentru {}
 view.search.none: Nu Au Fost Gasite Rezultate
-view.welcome.title: Roboți pentru Discord
-view.welcome.subtitle: Navighează prin {}+ boti pentru discord! Începe conectându-te cu contul tău Discord.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Conectează-te cu Discord
 view.welcome.skip.button: Omite pentru moment
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: Elimină reclamele
 view.remove_ads.subtitle: Elimină toate reclamele din aplicație
 view.remove_ads.error.load_product: A aparut o eroare necunoscuta la incarcarea produsului.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: A apărut o eroare
 view.remove_ads.error.not_logging_in: Trebuie să fii autentificat pentru a cumpăra acest produs.
 view.remove_ads.button.join_server: Alătură-te serverului de asistență
 view.remove_ads.button.okay: Okay
-view.promote.introduction.promote_your_bot.title: Promovează-ți Botul
-view.promote.introduction.promote_your_bot.body: Promovează-ți botul in aplicația noastră pentru a-ți creștere numărul de servere in mod natural.
-view.promote.introduction.how_it_works.title: Cum funcționează
-view.promote.introduction.how_it_works.body: Alegeți unul dintre multele sloturi de pe pagina de explorare pentru a promova botul pornit.
-view.promote.introduction.track_your_ads.title: Urmărește-ți promovările
-view.promote.introduction.track_your_ads.body: Monitorizează cât de performante sunt anunțurile tale prin website-ul nostru.
-view.promote.get_started.button: Începe
+
 view.login.error.title: S-a produs o eroare
 view.login.error.subtitle: Te rog să încerci din nou sau alătura-te serverului pentru a obtine ajutor.
 view.login.error.retry.button: Reîncercați
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Usage Data
 view.advanced.usage_data.switch1.title: Send crash data
 view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: Elimină reclamele
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Anulează
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Cumpără
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+

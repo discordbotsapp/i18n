@@ -14,7 +14,7 @@ global.app_bar.language: Jazyk
 global.app_bar.report: 'Správa {}'
 global.app_bar.categories: Kategórie
 global.app_bar.remove_ads: Remove Ads
-global.app_bar.promote: Propagovať
+
 global.tag.music: Hudba
 global.tag.pokemon: Pokémon #KEEP AS IS
 global.tag.soundboard: Zvuková tabuľa
@@ -43,18 +43,32 @@ global.footer.info: Bots for Discord App is not affiliated with Discord or any o
 global.login_alert.title: Prihlásenie
 global.login_alert.cancel.button: Cancel
 global.login_alert.login.button: Prihlásenie
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
 global.rate_dialog.button.no_thanks: NO THANKS
 global.rate_dialog.button.maybe_later: MAYBE LATER
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+
 global.pop_up_menu_button.remove_ads.button: Remove Ads
-global.pop_up_menu_button.advertise.button: Advertise
+
 global.pop_up_menu_button.usage_data.button: Usage Data
-global.bot.button.advertise: ADVERTISE
+
 view.bot.add.button: ADD
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} servers'
 view.bot.chip.server: '{} server'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
 view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
 view.bot.report.login_alert: You must be logged in to report this bot.
 view.bot.hide.login_alert: You must be logged in to hide this bot.
 view.bot.copy.snackbar: Copied {}'s ID
@@ -117,19 +130,21 @@ view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
 view.account.login.error.button: Go back to login
 view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
 view.account.add_bot.button: Add Bot
 view.account.remove_ads.button: Remove Ads
-view.account.advertise.button: Advertise
+
 view.account.settings.button: Nastavenia
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
 view.add_bot.title: Add Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
 view.settings.theme.title: Theme
 view.settings.theme.system.radio: System
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: Okay
 view.user.bots: Bots
 view.search.hint: Search...
 view.search.title: Search
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Boty pre Discord
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: Skip for Now
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: Remove Ads
 view.remove_ads.subtitle: Removes all ads from the app
 view.remove_ads.error.load_product: An unknown error occurred while loading the product.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: An Error Occurred
 view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Join Support Server
 view.remove_ads.button.okay: Okay
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
+
 view.login.error.title: An error occurred while logging you in
 view.login.error.subtitle: Please try again or join the support server below for help with logging in.
 view.login.error.retry.button: Retry
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Usage Data
 view.advanced.usage_data.switch1.title: Send crash data
 view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: Remove Ads
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancel
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Purchase
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+

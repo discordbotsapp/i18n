@@ -14,7 +14,7 @@ global.app_bar.language: Linguagem
 global.app_bar.report: 'Reportar {}'
 global.app_bar.categories: Categoria
 global.app_bar.remove_ads: Remover Anúncios
-global.app_bar.promote: Promover
+
 global.tag.music: Músicas
 global.tag.pokemon: Pokémons #KEEP AS IS
 global.tag.soundboard: Painel de Som
@@ -43,18 +43,32 @@ global.footer.info: Bots para o Discord não é um aplicativo afiliado ou qualqu
 global.login_alert.title: Acessar
 global.login_alert.cancel.button: Cancelar
 global.login_alert.login.button: Acessar
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Classifique o aplicativo Bots para o Discord
 global.rate_dialog.subtitle: Se você gosta deste aplicativo, por favor, use um pouquinho de seu tempo para analisá-lo! Isso realmente nos ajuda e não deve levar mais que um minuto.
 global.rate_dialog.button.rate: AVALIAR
 global.rate_dialog.button.no_thanks: NÃO, OBRIGADO
 global.rate_dialog.button.maybe_later: TALVEZ MAIS TARDE
-global.promoted_bot.placeholder.title: Anuncie seu Bot Aqui!
-global.promoted_bot.subtitle: Promovido
+
 global.pop_up_menu_button.remove_ads.button: Remover Anúncios
-global.pop_up_menu_button.advertise.button: Anunciar
+
 global.pop_up_menu_button.usage_data.button: Dados de uso
-global.bot.button.advertise: ANUNCIAR
+
 view.bot.add.button: ADICIONAR
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Prefixo: {}'
 view.bot.chip.servers: '{} servidores'
 view.bot.chip.server: '{} servidor'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Sim'
 view.bot.website.button: Site
 view.bot.support_server.button: Servidor de Suporte
 view.bot.vote.button: Votar
-view.bot.favorite.login_alert: Você precisa estar logado para adicionar este bot nos seus favoritos.
 view.bot.report.login_alert: Você deve estar cadastrado para reportar este bot.
 view.bot.hide.login_alert: Você deve estar cadastrado para ocultar este bot.
 view.bot.copy.snackbar: ID de {} copiado
@@ -117,19 +130,21 @@ view.account.login.button: Entrar com o Discord
 view.account.login.error: Ocorreu um erro enquanto estávamos te cadastrando. Por favor, tente novamente.
 view.account.login.error.button: Voltar à página de acesso
 view.account.my_bots.button: Meus Bots
-view.account.favorites.button: Favoritos
 view.account.add_bot.button: Adicionar Bot
 view.account.remove_ads.button: Remover Anúncios
-view.account.advertise.button: Anunciar
+
 view.account.settings.button: Definições
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: Meus Bots
-view.my_bots.subtitle: Bots pertencentes a você. Você pode adicionar seu próprio bot clicando no botão Adicionar Bot na página da sua conta. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: Você não possui bots
-view.favorites.title: Favoritos
-view.favorites.subtitle: Adicione seus bots favoritos aqui clicando no botão do coração na página de um bot
-view.favorites.none: Você não tem nenhum favorito
 view.add_bot.title: Adicionar Bot
-view.add_bot.subtitle: Adicione seu bot a uma lista de bots de terceiros para adicioná-lo automaticamente ao aplicativo.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Nota: O bot talvez não apareça no aplicativo instantaneamente depois de adicioná-lo a outra lista de bots.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistema
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: Okay
 view.user.bots: Bots
 view.search.hint: Buscar...
 view.search.title: Buscar
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Procurar por um bot...
 view.search.subtitle.query: Mostrando resultados para {}
 view.search.none: Nenhum Resultado Encontrado
-view.welcome.title: Bots do Discord
-view.welcome.subtitle: Navegue através de {}+ bots do Discord! Comece se cadastrando com sua conta do Discord.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Entrar com o Discord
 view.welcome.skip.button: Pular por Enquanto
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: Remover Anúncios
 view.remove_ads.subtitle: Remover todos os anúncios do aplicativo
 view.remove_ads.error.load_product: Ocorreu um erro desconhecido ao carregar o produto.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: Houve um Erro
 view.remove_ads.error.not_logging_in: Você precisa estar logado para comprar esse produto.
 view.remove_ads.button.join_server: Entrar no Servidor de Suporte
 view.remove_ads.button.okay: Okay
-view.promote.introduction.promote_your_bot.title: Promova o seu bot
-view.promote.introduction.promote_your_bot.body: Promova seu bot por meio do aplicativo para aumentar o tráfego e a contagem de servidores.
-view.promote.introduction.how_it_works.title: Como funciona
-view.promote.introduction.how_it_works.body: Escolha um dos muitos espaços na página de exploração para promover seu bot.
-view.promote.introduction.track_your_ads.title: Acompanhe seus anúncios
-view.promote.introduction.track_your_ads.body: Monitore o desempenho de seus anúncios por meio de um painel ao vivo.
-view.promote.get_started.button: Iniciar
+
 view.login.error.title: Ocorreu um erro ao fazer login
 view.login.error.subtitle: Por favor, tente novamente ou entre no servidor de suporte abaixo para obter ajuda com o login.
 view.login.error.retry.button: Tentar novamente
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Dados de uso
 view.advanced.usage_data.switch1.title: Enviar dados de falha
 view.advanced.usage_data.switch2.title: Enviar relatório de desempenho
 view.advanced.usage_data.switch3.title: Enviar estatísticas
-view.advanced.promoted_bots.title: Bots promovidos
-view.advanced.promoted_bots.switch1.title: Mostrar bots promovidos que possuo
-view.advanced.promoted_bots.switch2.title: Mostrar bots promovidos que eu não possuo
-view.advanced.promoted_bots.switch3.title: Mostrar espaços reservados dos bots promovidos
-view.advanced.promoted_bots.remove_ads_alert.title: Remover Anúncios
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancelar
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Comprar
-view.advanced.promoted_bots.remove_ads_alert.text: Você precisa comprar o premium para alterar suas preferências de bots promovidas.
+

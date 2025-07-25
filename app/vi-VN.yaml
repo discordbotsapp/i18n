@@ -39,12 +39,27 @@ global.footer.info: Discord Bots App is not affiliated with Discord or any of th
 global.login_alert.title: Login
 global.login_alert.cancel.button: Cancel
 global.login_alert.login.button: Login
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Rate Discord Bots
 global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
 global.rate_dialog.button.rate: RATE
 global.rate_dialog.button.no_thanks: NO THANKS
 global.rate_dialog.button.maybe_later: MAYBE LATER
 view.bot.add.button: ADD
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} servers'
 view.bot.chip.server: '{} server'
@@ -61,7 +76,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
 view.bot.website.button: Website
 view.bot.support_server.button: Support Server
 view.bot.vote.button: Vote
-view.bot.favorite.login_alert: You must be logged in to add this bot to your favorites.
 view.bot.report.login_alert: You must be logged in to report this bot.
 view.bot.hide.login_alert: You must be logged in to hide this bot.
 view.bot.copy.snackbar: Copied {}'s ID
@@ -105,18 +119,20 @@ view.account.login.button: Login with Discord
 view.account.login.error: An error occured while logging you in. Please try again.
 view.account.login.error.button: Go back to login
 view.account.my_bots.button: My Bots
-view.account.favorites.button: Favorites
 view.account.add_bot.button: Add Bot
 view.account.remove_ads.button: Remove Ads
 view.account.settings.button: Settings
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: My Bots
-view.my_bots.subtitle: Bots owned by you. You can add your own bot by clicking on the Add Bot button in the Account page. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: You do not own any bots
-view.favorites.title: Favorites
-view.favorites.subtitle: Add your favorite bots here by clicking on the heart button on a bot's page
-view.favorites.none: You do not have any favorites
 view.add_bot.title: Add Bot
-view.add_bot.subtitle: Add your bot to a 3rd party bot list to automatically add it to the app.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
 view.settings.theme.title: Theme
 view.settings.theme.system.radio: System
@@ -156,10 +172,18 @@ view.bot.reported.button.okay: Okay
 view.user.bots: Bots
 view.search.hint: Search...
 view.search.title: Search
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Search for a bot...
 view.search.subtitle.query: Showing search results for {}
 view.search.none: No Results Found
-view.welcome.title: Bots for Discord
-view.welcome.subtitle: Browse through {}+ Discord bots! Get started by logging in with your Discord account.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Login with Discord
 view.welcome.skip.button: Skip for Now
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Most Popular
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord

@@ -14,7 +14,7 @@ global.app_bar.language: Език
 global.app_bar.report: 'Докладване'
 global.app_bar.categories: Категории
 global.app_bar.remove_ads: Премахни реклами
-global.app_bar.promote: Promote
+
 global.tag.music: Музика
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Звук
@@ -43,18 +43,32 @@ global.footer.info: Bots for Discord App is not affiliated with Discord or any o
 global.login_alert.title: Вход
 global.login_alert.cancel.button: Отказ
 global.login_alert.login.button: Вход
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Ако харесваш нашето приложение, молим те да отделиш малко време за да го оцениш! Това ни помага много и отнема не повече от 1 минута.
 global.rate_dialog.button.rate: Оценка
 global.rate_dialog.button.no_thanks: Не благодаря
 global.rate_dialog.button.maybe_later: По късно
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+
 global.pop_up_menu_button.remove_ads.button: Премахни реклами
-global.pop_up_menu_button.advertise.button: Advertise
+
 global.pop_up_menu_button.usage_data.button: Usage Data
-global.bot.button.advertise: ADVERTISE
+
 view.bot.add.button: Добави
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Префикс: {}'
 view.bot.chip.servers: '{} Сървъра'
 view.bot.chip.server: '{} Сървъра'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Да'
 view.bot.website.button: Уебсайт
 view.bot.support_server.button: Сървър за поддръжка
 view.bot.vote.button: Гласувай
-view.bot.favorite.login_alert: Нужно е да сте влезли във профила си за да добавите този бот във любими.
 view.bot.report.login_alert: Нужно е да сте влезли във профила си за да докладвате този бот.
 view.bot.hide.login_alert: Нужно е да сте влезли във профила си за да скриете този бот.
 view.bot.copy.snackbar: Копиране на {}'s ID
@@ -117,19 +130,21 @@ view.account.login.button: Влез със Discord
 view.account.login.error: Грешка при влизането. Моля опитайте отново.
 view.account.login.error.button: Назад към вход
 view.account.my_bots.button: Мойте ботове
-view.account.favorites.button: Любими
 view.account.add_bot.button: Добави бот
 view.account.remove_ads.button: Премахни реклами
-view.account.advertise.button: Advertise
+
 view.account.settings.button: Настройки
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: Мойте ботове
-view.my_bots.subtitle: Ботове добавени от теб. Ти можеш да добавиш твой собствен бот, като избереш "Добави бот" във менюто на твоят акаунт. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: Ти не притежаваш ботове
-view.favorites.title: Любими
-view.favorites.subtitle: Добави любимите ти ботове тук като просто цъкнеш на бутона сърце във страницата на бота
-view.favorites.none: Ти нямаш любими ботове
 view.add_bot.title: Добави бот
-view.add_bot.subtitle: Добавете вашия бот към списък с ботове на трети страни, за да го добавите автоматично към приложението.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Забележка: Вашият бот може да не се появи незабавно в приложението, след като го добави към друг списък с ботове.'
 view.settings.theme.title: Тема
 view.settings.theme.system.radio: Система
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: Добре
 view.user.bots: Ботове
 view.search.hint: Търсене...
 view.search.title: Търсене
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Търсене на бот...
 view.search.subtitle.query: Показване на резултати от търсенето за {}
 view.search.none: Не са намерени разултати
-view.welcome.title: Bots for Discord
-view.welcome.subtitle: Разгледайте {} + Discord ботове! Започнете, като влезете във вашия акаунт в Discord.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Влез със Discord
 view.welcome.skip.button: Пропусни за сега
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: Премахни реклами
 view.remove_ads.subtitle: Премахване на всички реклами
 view.remove_ads.error.load_product: Възникна грешка при зареждане на продукта.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: Възникна грешка
 view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: Сървър за поддръжка
 view.remove_ads.button.okay: Добре
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
+
 view.login.error.title: An error occurred while logging you in
 view.login.error.subtitle: Please try again or join the support server below for help with logging in.
 view.login.error.retry.button: Опитай отново
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Usage Data
 view.advanced.usage_data.switch1.title: Send crash data
 view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: Премахни реклами
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Отказ
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Купи
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+

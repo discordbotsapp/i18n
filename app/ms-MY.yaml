@@ -14,7 +14,7 @@ global.app_bar.language: Bahasa
 global.app_bar.report: 'Melaporkan {}'
 global.app_bar.categories: Kategori
 global.app_bar.remove_ads: Membuang Iklan
-global.app_bar.promote: Promosikan
+
 global.tag.music: Muzik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Papan bunyi
@@ -43,18 +43,32 @@ global.footer.info: Bots for Discord App is not affiliated with Discord or any o
 global.login_alert.title: Log Masuk
 global.login_alert.cancel.button: Batal
 global.login_alert.login.button: Log Masuk
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: Jika kamu suka aplikasi ini, tolong ambil sedikit daripada masa anda untuk menilaikannya! Ini dapat membantu kami dan ia tidak akan mengambil lebih daripada seminit.
 global.rate_dialog.button.rate: MENILAI
 global.rate_dialog.button.no_thanks: TIDAK MAHU
 global.rate_dialog.button.maybe_later: MUNGKIN NANTI
-global.promoted_bot.placeholder.title: Promosikan Bot Anda Disini!
-global.promoted_bot.subtitle: Dipromosi
+
 global.pop_up_menu_button.remove_ads.button: Membuang Iklan
-global.pop_up_menu_button.advertise.button: Mengiklankan
+
 global.pop_up_menu_button.usage_data.button: Usage Data
-global.bot.button.advertise: PENGIKLANAN
+
 view.bot.add.button: MENAMBAH
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} pelayan'
 view.bot.chip.server: '{} pelayan'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Ya'
 view.bot.website.button: Laman web
 view.bot.support_server.button: Pelayan Pertolongan
 view.bot.vote.button: Undi
-view.bot.favorite.login_alert: Anda perlu log masuk untuk menambahkan bot ini ke senarai bot kegemaran anda.
 view.bot.report.login_alert: Anda perlu log masuk untuk melaporkan bot ini.
 view.bot.hide.login_alert: Anda perlu log masuk untuk menyembunyikan bot ini.
 view.bot.copy.snackbar: Anda telah berjaya menyalinkan ID {}
@@ -117,19 +130,21 @@ view.account.login.button: Log in dengan Discord
 view.account.login.error: Sesuatu masalah telah menimbul apabila anda telah log masuk. Cuba lagi sekali.
 view.account.login.error.button: Balik kepada log masuk
 view.account.my_bots.button: Bot Saya
-view.account.favorites.button: Kegemaran
 view.account.add_bot.button: Tambah Bot
 view.account.remove_ads.button: Membuang Iklan
-view.account.advertise.button: Mengiklankan
+
 view.account.settings.button: Tetapan
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: Bot Saya
-view.my_bots.subtitle: Bot yang anda miliki. Anda boleh menambah bot anda dengan menggunakan butang Menambah Bot di halaman Akaun. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: Anda tidak mempunyai sebarang bot
-view.favorites.title: Kegemaran
-view.favorites.subtitle: Klik pada butang hati untuk menambahkan bot tersebut kepada senarai bot kegemaran anda pada halaman bot tersebut
-view.favorites.none: Anda tidak mempunyai sebarang bot kegemaran
 view.add_bot.title: Tambah Bot
-view.add_bot.subtitle: Tambahkan bot anda ke senarai bot lain untuk menambahkan aplikasi dengan automatik ke dalam aplikasi ini.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Nota: Bot anda tidak akan muncul dalam aplikasi dengan segera selepas menambahkan dalam senarai bot lain.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: Sistem
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: Baik
 view.user.bots: Bot
 view.search.hint: Cari...
 view.search.title: Cari
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Cari sesuatu bot...
 view.search.subtitle.query: Menunjukkan hasil carian untuk {}
 view.search.none: Tiada Carian Ditemui
-view.welcome.title: Bot untuk Discord
-view.welcome.subtitle: Layari {}+ bot Discord! Log masuk dengan akaun Discord anda untuk memulakan carian anda.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Log in dengan Discord
 view.welcome.skip.button: Skip untuk Sekarang
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: Membuang Iklan
 view.remove_ads.subtitle: Membuang semua iklan daripada aplikasi ini
 view.remove_ads.error.load_product: Sesuatu masalah tertimbul apabila memuat turun data untuk produk ini.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: Sesuatu Masalah telah Muncul
 view.remove_ads.error.not_logging_in: Anda perlu log masuk untuk membuat pembelian atas produk ini.
 view.remove_ads.button.join_server: Sertai Pelayan Pertolongan
 view.remove_ads.button.okay: Baik
-view.promote.introduction.promote_your_bot.title: Promosikan bot anda
-view.promote.introduction.promote_your_bot.body: Promosikan bot anda melalui app ini untuk meningkatkan trafik dan jumlah server.
-view.promote.introduction.how_it_works.title: Bagaimana ia berfungsi
-view.promote.introduction.how_it_works.body: Pllih satu daripada mana-mana slot di halaman teroka untuk mempromosikan bot anda.
-view.promote.introduction.track_your_ads.title: Jejak iklan anda
-view.promote.introduction.track_your_ads.body: Pantau bagaimana iklan anda sedang berlangsung melalui papan pemuka langsung.
-view.promote.get_started.button: Bermula
+
 view.login.error.title: Ralat telah berlaku semasa melog masuk anda
 view.login.error.subtitle: Sila cuba lagi atau sertai server sokongan berikut untuk bantuan dengan melog masuk.
 view.login.error.retry.button: Cuba lagi
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Usage Data
 view.advanced.usage_data.switch1.title: Send crash data
 view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Bot yang Dipromosikan
-view.advanced.promoted_bots.switch1.title: Tunjukkan bot dipromosikan yang saya miliki
-view.advanced.promoted_bots.switch2.title: Tunjukkan bot dipromosikan yang saya tidak miliki
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: Membuang Iklan
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Batal
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Membeli
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+

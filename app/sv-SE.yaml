@@ -14,7 +14,7 @@ global.app_bar.language: Språk
 global.app_bar.report: 'Anmäl {}'
 global.app_bar.categories: Kategorier
 global.app_bar.remove_ads: Ta bort reklam
-global.app_bar.promote: Marknadsför
+
 global.tag.music: Musik
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Ljudbord
@@ -43,18 +43,32 @@ global.footer.info: Bots for Discord-appen är inte anslutna till Discord eller 
 global.login_alert.title: Logga in
 global.login_alert.cancel.button: Avbryt
 global.login_alert.login.button: Logga in
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Betygsätt Bots for Discord appen
 global.rate_dialog.subtitle: Om du gillar den här appen, ta lite av din tid att granska den! Det hjälper oss verkligen och det borde inte ta mer än en minut.
 global.rate_dialog.button.rate: Betygsätt
 global.rate_dialog.button.no_thanks: NEJ TACK
 global.rate_dialog.button.maybe_later: KANSKE SENARE
-global.promoted_bot.placeholder.title: Annonsera din bot här!
-global.promoted_bot.subtitle: Marknadsförd
+
 global.pop_up_menu_button.remove_ads.button: Ta bort reklam
-global.pop_up_menu_button.advertise.button: Annonsera
+
 global.pop_up_menu_button.usage_data.button: Användningsdata
-global.bot.button.advertise: MARKNADSFÖR
+
 view.bot.add.button: LÄGG TILL
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'Prefix: {}'
 view.bot.chip.servers: '{} servrar'
 view.bot.chip.server: '{} server'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'Ja'
 view.bot.website.button: Hemsida
 view.bot.support_server.button: Support server
 view.bot.vote.button: Rösta
-view.bot.favorite.login_alert: Du måste vara inloggad för att lägga till denna bot till dina favoriter.
 view.bot.report.login_alert: Du måste vara inloggad för att rapportera denna bot.
 view.bot.hide.login_alert: Du måste vara inloggad för att dölja denna bot.
 view.bot.copy.snackbar: Kopierade {}'s ID
@@ -117,19 +130,21 @@ view.account.login.button: Logga in med Discord
 view.account.login.error: Ett fel uppstod vid inloggning. Försök igen senare.
 view.account.login.error.button: Tillbaka till inloggning
 view.account.my_bots.button: Mina botar
-view.account.favorites.button: Favoriter
 view.account.add_bot.button: Lägg till bot
 view.account.remove_ads.button: Ta bort reklam
-view.account.advertise.button: Annonsera
+
 view.account.settings.button: Inställningar
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: Mina botar
-view.my_bots.subtitle: Bottar som ägs av dig. Du kan lägga till din egen bot genom att klicka på knappen Lägg till bot på sidan Konto. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: Du äger inga botar
-view.favorites.title: Favoriter
-view.favorites.subtitle: Lägg till dina favoritrobotar här genom att klicka på hjärtknappen på en bots sida
-view.favorites.none: Du har ännu inga favoriter
 view.add_bot.title: Lägg till bot
-view.add_bot.subtitle: Lägg till din bot till en tredjepartsbot lista för att automatiskt lägga till den i appen.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: 'Obs: Din bot kanske inte omedelbart visas i appen efter att den lagts till i en annan bot lista.'
 view.settings.theme.title: Tema
 view.settings.theme.system.radio: System
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: Okej
 view.user.bots: Botar
 view.search.hint: Sök...
 view.search.title: Sök
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: Sök efter en bot...
 view.search.subtitle.query: Visar sökresultat för {}
 view.search.none: Inga resultat hittades
-view.welcome.title: Bots för Discord
-view.welcome.subtitle: Bläddra igenom {}+ Discord bots! Kom igång genom att logga in med ditt Discord-konto.
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Logga in med Discord
 view.welcome.skip.button: Hoppa över för stunden
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: Ta bort reklam
 view.remove_ads.subtitle: Tar bort alla annonser från appen
 view.remove_ads.error.load_product: Ett fel uppstod vid laddning av objektet.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: Ett fel uppstod
 view.remove_ads.error.not_logging_in: Du måste vara inloggad för att köpa denna produkt.
 view.remove_ads.button.join_server: Anslut till support servern
 view.remove_ads.button.okay: Okej
-view.promote.introduction.promote_your_bot.title: Marknadsför din bot
-view.promote.introduction.promote_your_bot.body: Marknadsför din bot genom appen för att öka dess trafik och serverantal.
-view.promote.introduction.how_it_works.title: Så här fungerar det
-view.promote.introduction.how_it_works.body: Välj en av många platser på utforska sidan för att marknadsföra din bot på.
-view.promote.introduction.track_your_ads.title: Spåra dina annonser
-view.promote.introduction.track_your_ads.body: Övervaka hur dina annonser fungerar genom en live-instrumentpanel.
-view.promote.get_started.button: Kom igång
+
 view.login.error.title: Det uppstod ett fel vid inloggning
 view.login.error.subtitle: Försök igen eller gå med i supportservern nedan för hjälp med att logga in.
 view.login.error.retry.button: Försök igen
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Användningsdata
 view.advanced.usage_data.switch1.title: Skicka kraschdata
 view.advanced.usage_data.switch2.title: Skicka prestandadata
 view.advanced.usage_data.switch3.title: Skicka analysdata
-view.advanced.promoted_bots.title: Marknadsförda bottar
-view.advanced.promoted_bots.switch1.title: Via marknadsförda bottar jag äger
-view.advanced.promoted_bots.switch2.title: Visa marknadsförda bottar jag inte äger
-view.advanced.promoted_bots.switch3.title: Visa marknadsförda bot platshållare
-view.advanced.promoted_bots.remove_ads_alert.title: Ta bort reklam
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Avbryt
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Köp
-view.advanced.promoted_bots.remove_ads_alert.text: Du måste köpa premium för att ändra dina marknadsförda botinställningar.
+

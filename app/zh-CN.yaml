@@ -14,7 +14,7 @@ global.app_bar.language: 语言
 global.app_bar.report: '投诉 {}'
 global.app_bar.categories: 类别
 global.app_bar.remove_ads: 移除广告
-global.app_bar.promote: 推广中
+
 global.tag.music: 音乐
 global.tag.pokemon: 宝可梦 #KEEP AS IS
 global.tag.soundboard: 音板
@@ -43,18 +43,32 @@ global.footer.info: Discord Bots 应用程序不与 Discord 或任何支持的 D
 global.login_alert.title: 登入
 global.login_alert.cancel.button: 取消
 global.login_alert.login.button: 登入
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title:
 global.rate_dialog.subtitle: 如果你喜欢这个应用，请花一点时间来审阅！
 global.rate_dialog.button.rate: 评分
 global.rate_dialog.button.no_thanks: 不，谢谢
 global.rate_dialog.button.maybe_later: 之后吧
-global.promoted_bot.placeholder.title: 在这里宣传你的机器人！
-global.promoted_bot.subtitle: 推广
+
 global.pop_up_menu_button.remove_ads.button: 移除广告
-global.pop_up_menu_button.advertise.button: 广告
+
 global.pop_up_menu_button.usage_data.button: 数据用途
-global.bot.button.advertise: 管理员
+
 view.bot.add.button: 添加
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: '前缀：{}'
 view.bot.chip.servers: '{} 服务器'
 view.bot.chip.server: '{} 服务器'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: '是'
 view.bot.website.button: 网站
 view.bot.support_server.button: 支援服务器
 view.bot.vote.button: 投票
-view.bot.favorite.login_alert: 您必须登录才能将该机器人添加到您的收藏夹。
 view.bot.report.login_alert: 您必须登录才能报告此机器人。
 view.bot.hide.login_alert: 你必须登录才能隐藏此机器人。
 view.bot.copy.snackbar: 已复制{}的ID
@@ -117,19 +130,21 @@ view.account.login.button: 用 Discord 登录
 view.account.login.error: 加载时出错。请重试。
 view.account.login.error.button: 返回登录界面
 view.account.my_bots.button: 我的机器人
-view.account.favorites.button: 收藏夹
 view.account.add_bot.button: 添加机器人
 view.account.remove_ads.button: 移除广告
-view.account.advertise.button: 广告
+
 view.account.settings.button: 设置
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: 我的机器人
-view.my_bots.subtitle: 你拥有的机器人。你可以通过点击帐户页面中的“添加机器人”按钮添加你自己的机器人。 #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: 您没有任何机器人
-view.favorites.title: 收藏夹
-view.favorites.subtitle: 点击机器人页面上的心键将您最喜欢的机器人添加到这里
-view.favorites.none: 您没有任何收藏
 view.add_bot.title: 添加机器人
-view.add_bot.subtitle: 将您的机器人添加到第三方机器人列表中以自动添加到应用中。
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: '注意：您的机器人在添加到另一个机器人列表后可能无法立即出现在应用中。'
 view.settings.theme.title: 主题
 view.settings.theme.system.radio: 系统
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: 好的
 view.user.bots: 机器人
 view.search.hint: 搜索...
 view.search.title: 搜索
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: 搜索机器人...
 view.search.subtitle.query: 没有{}的搜索结果
 view.search.none: 未找到任何結果
-view.welcome.title: Discord之箱
-view.welcome.subtitle: 浏览 {}+ Discord 机器人！登录您的 Discord 帐号就可以开始了。
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: 用 Discord 登录
 view.welcome.skip.button: 暂时跳过
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: 移除广告
 view.remove_ads.subtitle: 移除应用程序中的所有广告
 view.remove_ads.error.load_product: 加载产品时发生未知错误。
@@ -190,13 +212,7 @@ view.remove_ads.error.title: 发生错误
 view.remove_ads.error.not_logging_in: 您必须登录才能购买该商品。
 view.remove_ads.button.join_server: 加入支援服务器
 view.remove_ads.button.okay: 好的
-view.promote.introduction.promote_your_bot.title: 推广你的机器人
-view.promote.introduction.promote_your_bot.body: 通过应用程序推广你的机器人，以增加其流量和服务器计数。
-view.promote.introduction.how_it_works.title: 工作原理
-view.promote.introduction.how_it_works.body: 选择探索页面上的多个栏位之一来推广你的机器人。
-view.promote.introduction.track_your_ads.title: 跟踪你的广告
-view.promote.introduction.track_your_ads.body: 通过直播仪表板监控您的广告的执行情况。
-view.promote.get_started.button: 开始
+
 view.login.error.title: 登录时发生错误
 view.login.error.subtitle: 请重试或加入下面的支持服务器以帮助登录。
 view.login.error.retry.button: 重试
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: 数据用途
 view.advanced.usage_data.switch1.title: 发送崩溃数据
 view.advanced.usage_data.switch2.title: 发送性能数据
 view.advanced.usage_data.switch3.title: 发送分析数据
-view.advanced.promoted_bots.title: 促销机器人
-view.advanced.promoted_bots.switch1.title: 显示我自己的促销机器人
-view.advanced.promoted_bots.switch2.title: 显示我不拥有的促销机器人
-view.advanced.promoted_bots.switch3.title: 显示已推广的机器人占位符
-view.advanced.promoted_bots.remove_ads_alert.title: 移除广告
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: 取消
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: 已购买
-view.advanced.promoted_bots.remove_ads_alert.text: 您必须购买高级版才能更改您的推广机器人首选项。
+

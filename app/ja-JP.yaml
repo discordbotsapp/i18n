@@ -14,7 +14,7 @@ global.app_bar.language: 言語
 global.app_bar.report: '報告する'
 global.app_bar.categories: カテゴリ
 global.app_bar.remove_ads: 広告の削除
-global.app_bar.promote: 促進
+
 global.tag.music: 音楽
 global.tag.pokemon: ポケットモンスター #KEEP AS IS
 global.tag.soundboard: サウンドボード
@@ -43,18 +43,32 @@ global.footer.info: Discord ボット AppはDiscordまたはサポートされ�
 global.login_alert.title: ログイン
 global.login_alert.cancel.button: キャンセル
 global.login_alert.login.button: ログイン
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Discord ボットアプリを評価する
 global.rate_dialog.subtitle: このアプリが気に入ったら、少し時間をかけてレビューしてください。それは本当に私たちを助けます、そしてそれはあなたに1分以上かかるべきではありません
 global.rate_dialog.button.rate: 割合
 global.rate_dialog.button.no_thanks: 結構です
 global.rate_dialog.button.maybe_later: 後でかもしれません
-global.promoted_bot.placeholder.title: Botをここに宣伝してください！
-global.promoted_bot.subtitle: 昇格
+
 global.pop_up_menu_button.remove_ads.button: 広告の削除
-global.pop_up_menu_button.advertise.button: 広告する
+
 global.pop_up_menu_button.usage_data.button: 使用状況データ
-global.bot.button.advertise: 広告
+
 view.bot.add.button: 追加
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: 'プレフィックス：{}'
 view.bot.chip.servers: '{} サーバー'
 view.bot.chip.server: '{} サーバー'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: 'はい'
 view.bot.website.button: Webサイト
 view.bot.support_server.button: サポートサーバー
 view.bot.vote.button: 投票
-view.bot.favorite.login_alert: このボットをお気に入りに追加するには、ログインする必要があります。
 view.bot.report.login_alert: このボットを報告するには、ログインする必要があります。
 view.bot.hide.login_alert: このボットを非表示にするには、ログインする必要があります。
 view.bot.copy.snackbar: コピーされた{} のID
@@ -117,19 +130,21 @@ view.account.login.button: Discordでログイン
 view.account.login.error: ログイン中にエラーが発生しました。もう一度やり直してください。
 view.account.login.error.button: ログイン画面に戻る
 view.account.my_bots.button: マイBot
-view.account.favorites.button: お気に入り
 view.account.add_bot.button: Botを追加
 view.account.remove_ads.button: 広告の削除
-view.account.advertise.button: 広告する
+
 view.account.settings.button: 設定
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: マイBot
-view.my_bots.subtitle: あなたが所有しているBotです。アカウントページの「Botを追加」ボタンで自分のBotを追加できます。 #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: あなたはBotを所有していません。
-view.favorites.title: お気に入り
-view.favorites.subtitle: Botページのハートボタンをクリックして、お気に入りのBotを追加します。
-view.favorites.none: お気に入りのBotがありません。
 view.add_bot.title: Botを追加
-view.add_bot.subtitle: アプリにBotを自動的に追加するには、サードパーティーBotリストに追加します。
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: '注: Botを別のBotリストに追加すると、すぐにアプリに表示されない場合があります。'
 view.settings.theme.title: テーマ
 view.settings.theme.system.radio: システム設定
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: わかった
 view.user.bots: ボット
 view.search.hint: 検索...
 view.search.title: 検索
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: ボットを検索...
 view.search.subtitle.query: '{} の検索結果を表示する'
 view.search.none: 結果が見つかりません
-view.welcome.title: Discord ボット
-view.welcome.subtitle: '{} + Discordボットを閲覧してください！ Discordアカウントでログインすることから始めましょう。'
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Discordでログイン
 view.welcome.skip.button: 今すぐスキップ
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: 広告の削除
 view.remove_ads.subtitle: アプリからすべての広告を削除します
 view.remove_ads.error.load_product: 製品のロード中に不明なエラーが発生しました。
@@ -190,13 +212,7 @@ view.remove_ads.error.title: エラーが発生しました
 view.remove_ads.error.not_logging_in: この商品にアクセスするにはログインしてください。
 view.remove_ads.button.join_server: サポートサーバーに参加
 view.remove_ads.button.okay: わかった
-view.promote.introduction.promote_your_bot.title: Botを宣伝する
-view.promote.introduction.promote_your_bot.body: トラフィックとサーバー数を増やすために、アプリを通じてBotをプロモートします。
-view.promote.introduction.how_it_works.title: 仕組み
-view.promote.introduction.how_it_works.body: Botを促進するために探索ページで多くのスロットのうちのいずれかを選択します。
-view.promote.introduction.track_your_ads.title: 広告を追跡する
-view.promote.introduction.track_your_ads.body: ライブダッシュボードを通して広告がどのように実行されているかを監視します。
-view.promote.get_started.button: はじめましょう!
+
 view.login.error.title: ログイン中にエラーが発生しました。
 view.login.error.subtitle: 再試行するか、以下のサポートサーバーに参加してログインを助けてもらいましょう。
 view.login.error.retry.button: リトライ
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: 使用状況データ
 view.advanced.usage_data.switch1.title: クラッシュデータを送信
 view.advanced.usage_data.switch2.title: パフォーマンスデータを送信
 view.advanced.usage_data.switch3.title: 分析データを送信する
-view.advanced.promoted_bots.title: プロモートBot数
-view.advanced.promoted_bots.switch1.title: 自分が所有しているプロモートBotを表示
-view.advanced.promoted_bots.switch2.title: 自分が所有していないプロモートBotを表示
-view.advanced.promoted_bots.switch3.title: プロモートされたBotのプレースホルダを表示
-view.advanced.promoted_bots.remove_ads_alert.title: 広告の削除
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: キャンセル
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: 購入
-view.advanced.promoted_bots.remove_ads_alert.text: プロモートBot設定を変更するにはプレミアムを購入する必要があります。
+

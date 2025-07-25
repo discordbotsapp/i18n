@@ -14,7 +14,7 @@ global.app_bar.language: 언어
 global.app_bar.report: '{} 봇 신고'
 global.app_bar.categories: 카테고리
 global.app_bar.remove_ads: 광고 제거
-global.app_bar.promote: 홍보
+
 global.tag.music: 음악
 global.tag.pokemon: Pokemon #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -43,18 +43,32 @@ global.footer.info: Discord Bots App은 Discord 또는 다른 Discord 봇 사이
 global.login_alert.title: 로그인
 global.login_alert.cancel.button: 취소
 global.login_alert.login.button: 로그인
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: 앱 리뷰를 작성해주세요!
 global.rate_dialog.subtitle: 앱이 마음에 드신다면, 잠시 시간을 내어 리뷰를 작성해 주실 수 있나요? 리뷰가 정말로 큰 힘이 된답니다.
 global.rate_dialog.button.rate: 작성하러 가기
 global.rate_dialog.button.no_thanks: 괜찮아요
 global.rate_dialog.button.maybe_later: 나중에 작성할게요
-global.promoted_bot.placeholder.title: 여기에서 봇을 홍보하세요!
-global.promoted_bot.subtitle: 홍보
+
 global.pop_up_menu_button.remove_ads.button: 광고 제거
-global.pop_up_menu_button.advertise.button: 홍보
+
 global.pop_up_menu_button.usage_data.button: 데이터 사용
-global.bot.button.advertise: 홍보
+
 view.bot.add.button: 봇 추가
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: '접두사: {}'
 view.bot.chip.servers: '{} 서버에서 활동 중'
 view.bot.chip.server: '{} 서버에서 활동 중'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: '네'
 view.bot.website.button: 웹사이트
 view.bot.support_server.button: 지원 서버
 view.bot.vote.button: 투표
-view.bot.favorite.login_alert: 이 봇을 즐겨찾기 하려면 로그인해야 해요.
 view.bot.report.login_alert: 이 봇을 신고하려면 로그인해야 해요.
 view.bot.hide.login_alert: 이 봇을 숨기려면 로그인해야 해요.
 view.bot.copy.snackbar: '{} 봇의 ID를 복사했어요.'
@@ -117,19 +130,21 @@ view.account.login.button: Discord로 로그인
 view.account.login.error: 로그인하던 도중 오류가 발생했어요. 다시 시도해주세요.
 view.account.login.error.button: 로그인 페이지로 이동
 view.account.my_bots.button: 내 봇
-view.account.favorites.button: 즐겨찾기
 view.account.add_bot.button: 봇 추가
 view.account.remove_ads.button: 광고 제거
-view.account.advertise.button: 홍보
+
 view.account.settings.button: 설정
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: 내 봇
-view.my_bots.subtitle: 내가 소유한 봇의 목록이에요. 계정 페이지에서 봇 추가 버튼을 눌러 소유 중인 봇을 추가할 수 있어요. #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: 추가한 봇이 없어요
-view.favorites.title: 즐겨찾기
-view.favorites.subtitle: 봇 페이지에 하트 버튼을 클릭해서 즐겨찾기에 봇을 추가하세요
-view.favorites.none: 즐겨찾는 봇이 없어요
 view.add_bot.title: 봇 추가
-view.add_bot.subtitle: 봇을 타사 봇 목록에 추가해서 앱에 자동으로 추가해보세요.
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: '참고: 타사 봇 목록에 추가한 봇은 앱에서 바로 나타나지 않을 수 있어요.'
 view.settings.theme.title: 테마
 view.settings.theme.system.radio: 시스템 설정과 동기화
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: 확인
 view.user.bots: 봇
 view.search.hint: 검색...
 view.search.title: 검색
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: 봇을 검색해보세요...
 view.search.subtitle.query: '검색 결과: {}'
 view.search.none: 검색 결과를 찾지 못했어요
-view.welcome.title: Discord를 위한 봇
-view.welcome.subtitle: '{}+ 봇을 둘러보세요! Discord 계정과 연결해서 시작할 수 있어요.'
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: Discord로 로그인
 view.welcome.skip.button: 건너뛰기
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: 광고 제거
 view.remove_ads.subtitle: 앱에서 광고를 제거해요
 view.remove_ads.error.load_product: 상품을 불러오는 동안 오류가 발생했어요.
@@ -190,13 +212,7 @@ view.remove_ads.error.title: 오류가 발생했어요
 view.remove_ads.error.not_logging_in: 이 상품을 구매하려면 로그인해야 해요.
 view.remove_ads.button.join_server: 지원 서버 참가
 view.remove_ads.button.okay: 확인
-view.promote.introduction.promote_your_bot.title: 봇을 홍보해보세요
-view.promote.introduction.promote_your_bot.body: 앱을 통해 봇을 홍보해서 봇 점유율과 서버 수를 늘려보세요.
-view.promote.introduction.how_it_works.title: 어떻게 작동하나요?
-view.promote.introduction.how_it_works.body: 탐색 페이지에 있는 많은 공간 중 한 곳을 골라 봇을 홍보할 수 있어요.
-view.promote.introduction.track_your_ads.title: 광고를 추적해보세요
-view.promote.introduction.track_your_ads.body: 실시간 대시보드를 통해 광고 실적을 관찰해보세요.
-view.promote.get_started.button: 시작하기
+
 view.login.error.title: 로그인하던 중 오류가 발생했어요.
 view.login.error.subtitle: 다시 시도하거나 도움이 필요한 경우 지원 서버에 참가하세요.
 view.login.error.retry.button: 다시 시도
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: 데이터 사용
 view.advanced.usage_data.switch1.title: 충돌 데이터 전송
 view.advanced.usage_data.switch2.title: 성능 데이터 전송
 view.advanced.usage_data.switch3.title: 진단 데이터 전송
-view.advanced.promoted_bots.title: 홍보된 봇 설정
-view.advanced.promoted_bots.switch1.title: 내가 소유한 홍보된 봇 표시
-view.advanced.promoted_bots.switch2.title: 내가 소유하지 않은 홍보된 봇 표시
-view.advanced.promoted_bots.switch3.title: 홍보된 봇 공간 표시
-view.advanced.promoted_bots.remove_ads_alert.title: 광고 제거
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: 취소
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: 구매
-view.advanced.promoted_bots.remove_ads_alert.text: 홍보된 봇 설정을 변경하려면 프리미엄을 구매해야 해요.
+

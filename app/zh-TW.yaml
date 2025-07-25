@@ -14,7 +14,7 @@ global.app_bar.language: 語言
 global.app_bar.report: '回報 {}'
 global.app_bar.categories: 類別
 global.app_bar.remove_ads: 刪除廣告
-global.app_bar.promote: Promote
+
 global.tag.music: 音樂
 global.tag.pokemon: 寶可夢 #KEEP AS IS
 global.tag.soundboard: Soundboard
@@ -43,18 +43,32 @@ global.footer.info: Bots for Discord App is not affiliated with Discord or any o
 global.login_alert.title: 登入
 global.login_alert.cancel.button: 取消
 global.login_alert.login.button: 登入
+global.button.sign_in: Sign In
+global.button.cancel: Cancel
 global.rate_dialog.title: Rate Bots for Discord App
 global.rate_dialog.subtitle: 如果你喜歡這個應用，請花一點時間來審閱！
 global.rate_dialog.button.rate: 評價
 global.rate_dialog.button.no_thanks: 不，謝謝
 global.rate_dialog.button.maybe_later: 以後吧
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
+
 global.pop_up_menu_button.remove_ads.button: 刪除廣告
-global.pop_up_menu_button.advertise.button: Advertise
+
 global.pop_up_menu_button.usage_data.button: Usage Data
-global.bot.button.advertise: ADVERTISE
+
 view.bot.add.button: 添加
+view.bot.stats.votes: Votes
+view.bot.stats.servers: Servers
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.ratings: RATINGS
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.button: Un-hide Bot
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.title: Hide Bot
+view.bot.hide.button: Hide Bot
 view.bot.chip.prefix: '前綴：{}'
 view.bot.chip.servers: '{} 伺服器'
 view.bot.chip.server: '{} 伺服器'
@@ -71,7 +85,6 @@ view.bot.menu.hide.alert_dialog.yes.button: '確認'
 view.bot.website.button: 網站
 view.bot.support_server.button: 支持伺服器
 view.bot.vote.button: 投票
-view.bot.favorite.login_alert: 你必須登入才能該機器人添加到你的最愛。
 view.bot.report.login_alert: 您必須登入才能舉報機器人.
 view.bot.hide.login_alert: 您必須登入才能隱藏機器人
 view.bot.copy.snackbar: 已複製 {} 的ID
@@ -117,19 +130,21 @@ view.account.login.button: 用 Discord 帳號登入
 view.account.login.error: 載入資料時發生錯誤。請重試。
 view.account.login.error.button: 返回登入頁面
 view.account.my_bots.button: 我的機器人
-view.account.favorites.button: 我的最愛
 view.account.add_bot.button: 添加機器人
 view.account.remove_ads.button: 刪除廣告
-view.account.advertise.button: Advertise
+
 view.account.settings.button: 設置
+view.account.settings.description: Settings & preferences
+view.account.help.button: Help & Support
+view.account.help.description: Get help and support
+view.account.quick_actions.title: Quick Actions
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
 view.my_bots.title: 我的機器人
-view.my_bots.subtitle: 你擁有的機器人。你可以通過點擊帳戶頁面中的“添加機器人”按鈕添加你自己的機器人。 #Keep capitalization consistent
+view.my_bots.subtitle: Manage your Discord bots
 view.my_bots.none: 您沒有擁有的機器人
-view.favorites.title: 我的最愛
-view.favorites.subtitle: 點擊機器人頁面上的愛心按鈕 將您最喜歡的機器人添加到這裡
-view.favorites.none: 您沒有任何收藏
 view.add_bot.title: 添加機器人
-view.add_bot.subtitle: 將您的機器人添加到第三方機器人列表中以自動添加到應用中。
+view.add_bot.subtitle: Submit your bot to bot lists
 view.add_bot.note: '注意：您的機器人在添加到另一個機器人列表後可能無法立即出現在應用中。'
 view.settings.theme.title: 佈景主題
 view.settings.theme.system.radio: 系統
@@ -163,13 +178,20 @@ view.bot.reported.button.okay: 確定
 view.user.bots: 機器人
 view.search.hint: 正在搜尋...
 view.search.title: 搜尋
+view.search.placeholder: Search for bots...
 view.search.subtitle.noQuery: 搜尋機器人...
 view.search.subtitle.query: 顯示下列的搜尋結果：{}
 view.search.none: 找不到結果
-view.welcome.title: Bots for Discord
-view.welcome.subtitle: 通過{} + Discord機器人瀏覽！通過登錄您的Discord帳號來開始
+view.welcome.title: Welcome to Bots for Discord
 view.welcome.login.button: 用 Discord 帳號登入
 view.welcome.skip.button: 先跳過
+view.explore.browse_categories.description: Discover bots by category
+view.top_charts.most_voted: Most Voted
+view.top_charts.most_popular: Most Popular
+view.explore.browse_categories.title: Browse Categories
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.featured.description: Top notch bots that are verified by Discord
 view.remove_ads.title: 刪除廣告
 view.remove_ads.subtitle: 在應用程序中刪除所有廣告
 view.remove_ads.error.load_product: 載入產品時發生錯誤
@@ -190,13 +212,7 @@ view.remove_ads.error.title: 發生錯誤
 view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
 view.remove_ads.button.join_server: 加入支持伺服器
 view.remove_ads.button.okay: 確定
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
+
 view.login.error.title: An error occurred while logging you in
 view.login.error.subtitle: Please try again or join the support server below for help with logging in.
 view.login.error.retry.button: 請重試
@@ -206,11 +222,4 @@ view.advanced.usage_data.title: Usage Data
 view.advanced.usage_data.switch1.title: Send crash data
 view.advanced.usage_data.switch2.title: Send performance data
 view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: 刪除廣告
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: 取消
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: 購買
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+
