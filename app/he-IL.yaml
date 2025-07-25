@@ -8,7 +8,7 @@ global.app_bar.top_charts: דירוגים
 global.app_bar.account: חשבון
 global.app_bar.settings: הגדרות
 global.app_bar.remove_ads: הסר פרסומות
-global.footer.info: Bots for Discord App אינו קשור ל-Discord או לכל אחת מרשימות הבוטים של Discord הנתמכות. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App אינו קשור ל-Discord או לכל אחת מרשימות הבוטים של Discord הנתמכות.
 global.button.cancel: ביטול
 global.button.sign_in: התחבר
 global.support_server.join: הצטרף לשרת התמיכה
@@ -77,8 +77,7 @@ view.top_charts.most_popular: הפופולריים ביותר
 view.top_charts.most_voted: הכי מוצבעים
 view.submit_bot.error.title: כשל בטעינת רשימות הבוטים
 view.submit_bot.error.description: לא יכולנו לטעון את רשימות הבוטים הזמינות. אנא נסה שוב מאוחר יותר.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: התנתק
 view.alert.sign_out.message: האם אתה בטוח שברצונך להתנתק?
 view.alert.sign_out.cancel: ביטול
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "ל-{} אין קישור הזמנה."
 view.alert.error.open_invite_failed: פתיחת קישור ההזמנה נכשלה.
 view.alert.error.discord_not_installed: לא ניתן לפתוח את Discord. אנא ודא ש-Discord מותקן במכשיר שלך.
 view.alert.error.open_support_failed: פתיחת קישור שרת התמיכה נכשלה.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: מחק חשבון
 view.alert.delete_account.message: האם אתה בטוח שברצונך למחוק את החשבון שלך? פעולה זו אינה ניתנת לביטול ותסיר לצמיתות את כל הנתונים שלך.
 view.alert.delete_account.confirm: מחק
 view.alert.delete_account.final.title: מחק חשבון
 view.alert.delete_account.final.message: זה ימחק לצמיתות את החשבון והנתונים הקשורים אליו. האם אתה בטוח?
-
-# Report bot screen
+#Report bot screen
 view.report.title: דווח על בוט
 view.report.header.title: דווח על בוט
 view.report.header.description: עזור לנו לשמור על הקהילה בטוחה על ידי דיווח על תוכן לא הולם או בעיות.
@@ -115,25 +112,20 @@ view.report.submit.success.message: תודה על הדיווח שלך. נבדו�
 view.report.submit.success.ok: אישור
 view.report.validation.no_reason: אנא בחר סיבה לדיווח.
 view.report.validation.no_details: אנא ספק פרטים נוספים על הבעיה.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: טוען פרטי בוט...
 view.error.bot_not_found: הבוט לא נמצא.
 view.loading.categories: טוען קטגוריות...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: חשבון
 view.navigation.settings: הגדרות
 view.navigation.categories: קטגוריות
 view.navigation.bot_details: פרטי בוט
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: חיפושים מוצעים
 view.search.placeholder: חפש בוטים...
-
-# Support and ads
+#Support and ads
 view.support.server.description: הצטרף לשרת התמיכה של האפליקציה
 view.remove_ads.description: השבת פרסומות באפליקציה לצמיתות
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: בחר סיבה
