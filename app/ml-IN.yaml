@@ -61,7 +61,7 @@ view.welcome.skip.button: ഇപ്പോൾ ഒഴിവാക്കുക
 view.welcome.subtitle: നിങ്ങളുടെ സെർവറിനുള്ള മികച്ച bot കണ്ടെത്തുക
 view.explore.browse_categories.description: വിഭാഗം അനുസരിച്ച് bots കണ്ടെത്തുക
 view.explore.browse_categories.title: വിഭാഗങ്ങൾ ബ്രൗസ് ചെയ്യുക
-view.explore.category.subtitle: {} വിഭാഗത്തിലെ Bots
+view.explore.category.subtitle: "{} വിഭാഗത്തിലെ Bots"
 view.explore.discord_server.description: Bot ശുപാർശകൾ, ആപ്പ് സപ്പോർട്ട്, അല്ലെങ്കിൽ വിവർത്തനങ്ങളിലും ബീറ്റ ടെസ്റ്റിംഗിലും ഉൾപ്പെടുന്നതിന് ഞങ്ങളുടെ Discord കമ്മ്യൂണിറ്റിയിൽ ചേരുക.
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: സഹായം വേണോ അല്ലെങ്കിൽ സംഭാവന ചെയ്യാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?
