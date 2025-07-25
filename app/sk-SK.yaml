@@ -77,8 +77,7 @@ view.top_charts.most_popular: Najpopulárnejšie
 view.top_charts.most_voted: Najviac hlasované
 view.submit_bot.error.title: Nepodarilo sa načítať zoznamy botov
 view.submit_bot.error.description: Nemohli sme načítať dostupné zoznamy botov. Skúste to neskôr.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Odhlásiť sa
 view.alert.sign_out.message: Ste si istí, že sa chcete odhlásiť?
 view.alert.sign_out.cancel: Zrušiť
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} nemá odkaz na pozvanie."
 view.alert.error.open_invite_failed: Nepodarilo sa otvoriť odkaz na pozvanie.
 view.alert.error.discord_not_installed: Nie je možné otvoriť Discord. Uistite sa, že máte Discord nainštalovaný na vašom zariadení.
 view.alert.error.open_support_failed: Nepodarilo sa otvoriť odkaz na podporný server.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Vymazať účet
 view.alert.delete_account.message: Ste si istí, že chcete vymazať svoj účet? Túto akciu nie je možné vrátiť späť a natrvalo odstráni všetky vaše údaje.
 view.alert.delete_account.confirm: Vymazať
 view.alert.delete_account.final.title: Vymazať účet
 view.alert.delete_account.final.message: Toto natrvalo vymaže váš účet a súvisiace údaje. Ste si istí?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Nahlásiť bota
 view.report.header.title: Nahlásiť bota
 view.report.header.description: Pomôžte nám udržať komunitu bezpečnú nahlásením nevhodného obsahu alebo problémov.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Ďakujeme za vaše hlásenie. Preskúmame ho
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Prosím, vyberte dôvod pre nahlásenie.
 view.report.validation.no_details: Prosím, poskytnite dodatočné podrobnosti o probléme.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Načítavajú sa podrobnosti bota...
 view.error.bot_not_found: Bot sa nenašiel.
 view.loading.categories: Načítavajú sa kategórie...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Účet
 view.navigation.settings: Nastavenia
 view.navigation.categories: Kategórie
 view.navigation.bot_details: Podrobnosti bota
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Navrhované vyhľadávania
 view.search.placeholder: Hľadať botov...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Pripojte sa k podpornému serveru aplikácie
 view.remove_ads.description: Natrvalo zakázať reklamy v aplikácii
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Vybrať dôvod
