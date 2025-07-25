@@ -1,5 +1,4 @@
 ---
-global.title: Discord için Botlar
 global.navbar.explore: Keşfet
 global.navbar.top_charts: En İyiler
 global.navbar.account: Hesabım
@@ -7,210 +6,126 @@ global.navbar.search: Ara
 global.app_bar.explore: Keşfet
 global.app_bar.top_charts: En İyiler
 global.app_bar.account: Hesabım
-global.app_bar.advanced: Gelişmiş
-global.app_bar.login: Giriş Yap
 global.app_bar.settings: Ayarlar
-global.app_bar.language: Dil
-global.app_bar.report: 'Şikayet Et {}'
-global.app_bar.categories: Kategoriler
 global.app_bar.remove_ads: Reklamları Kaldır
-global.app_bar.promote: Tanıtım Yap
-global.tag.music: Müzik
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Ses Tahtası
-global.tag.moderation: Moderasyon
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Bilgi
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Sosyal
-global.tag.fun: Eğlence
-global.tag.economy: Ekonomi
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Oyun
-global.tag.meme: Meme
-global.tag.leveling: Seviye Atlama
-global.tag.roleplay: Rol Yapma
-global.tag.logging: Kayıt Tutma
-global.tag.utility: Yardımcı Araçlar
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Çok amaçlı
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Kripto #KEEP AS IS
-global.tag.top_charts: En İyiler
-global.footer.contact: 'İletişim: support@discordbots.app'
 global.footer.info: Bots for Discord uygulaması, Discord veya desteklenen Discord Bot Listelerinden herhangi biri ile bağlantılı değildir.
-global.login_alert.title: Giriş Yap
-global.login_alert.cancel.button: İptal
-global.login_alert.login.button: Giriş Yap
-global.rate_dialog.title: Bots for Discord Uygulamasını Değerlendir
-global.rate_dialog.subtitle: Bu uygulamayı sevdiysen, lütfen inceleme yazmak için biraz zamanını ayır! İnceleme yazman bir dakikanı almaz ayrıca bize çok destek olmuş olursun.
-global.rate_dialog.button.rate: OYLA
-global.rate_dialog.button.no_thanks: HAYIR TEŞEKKÜRLER
-global.rate_dialog.button.maybe_later: DAHA SONRA
-global.promoted_bot.placeholder.title: Botuna Burada Reklam Ver!
-global.promoted_bot.subtitle: Reklam Verildi
-global.pop_up_menu_button.remove_ads.button: Reklamları Kaldır
-global.pop_up_menu_button.advertise.button: Reklam Ver
-global.pop_up_menu_button.usage_data.button: Kullanım Verileri
-global.bot.button.advertise: REKLAM VER
-view.bot.add.button: EKLE
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} sunucu'
-view.bot.chip.server: '{} sunucu'
-view.bot.chip.votes: '{} oy'
-view.bot.chip.vote: '{} Oy'
-view.bot.menu.report: Şikayet Et
-view.bot.menu.copy_id: ID Kopyala
-view.bot.menu.copy_id.snack_bar: '{} Botunun ID''si kopyalandı'
-view.bot.menu.hide: Gizle
-view.bot.menu.hide.alert_dialog.title: '{} Botunu Gizle'
-view.bot.menu.hide.alert_dialog.text: '{} Botunu gizlemek istediğine emin misin?'
-view.bot.menu.hide.alert_dialog.cancel.button: İptal
-view.bot.menu.hide.alert_dialog.yes.button: 'Evet'
-view.bot.website.button: Web Sitesi
-view.bot.support_server.button: Destek Sunucusu
-view.bot.vote.button: Oyla
-view.bot.favorite.login_alert: Bu botu favorilerine eklemek için giriş yapmış olman gerekiyor.
-view.bot.report.login_alert: Bu botu şikayet etmek için giriş yapmış olman gerekiyor.
-view.bot.hide.login_alert: Bu botu gizlemek için giriş yapmış olman gerekiyor.
-view.bot.copy.snackbar: '{} Botunun ID''si kopyalandı'
-view.report.report_reason.title: Şikayet Sebebi
-view.report.report_reason.hint: Sebep Seç
-view.report.report_reason.empty: Lütfen bir sebep seç
-view.report.additional_information.title: Ek Bilgi
-view.report.additional_information.hint: Ek bilgiyi buraya yaz...
-view.report.additional_information.empty: Lütfen bir sebep seç
-view.report.submit.button: Gönder
-view.report.report_reason.dropdown.option1: Uygunsuz/NSFW İçerik
-view.report.report_reason.dropdown.option2: Uzun süredir çevrimdışı
-view.report.report_reason.dropdown.option3: Yanıltıcı özellik ve açıklama
-view.report.report_reason.dropdown.option4: Bot çalışmıyor
-view.report.report_reason.dropdown.option5: Davet bağlantısı çalışmıyor
-view.report.report_reanos.dropdown.option6: Diğer Sebepler
-view.explore.title: Keşfet
-view.explore.featured.title: Öne Çıkanlar
-view.explore.featured.subtitle: Discord tarafından onaylanmış başarılı botlar
-view.explore.trending.title: Trendler
-view.explore.trending.subtitle: Hızla popüler olan botlar
-view.explore.new.title: Yeni
-view.explore.new.subtitle: Yeni eklenen botlar
-view.explore.most_voted.title: En Çok Oy Alanlar
-view.explore.most_voted.subtitle: Bu ay en çok oy alan botlar
-view.explore.most_popular.title: En Popüler
-view.explore.most_popular.subtitle: En fazla sunucuda bulunan Botlar
-view.explore.see_all.button: Hepsini Gör
-view.explore.categories.title: Kategorileri Keşfet
-view.explore.category.subtitle: '{} kategorisindeki botlar'
-view.explore.footer.support_server.button: Destek Sunucusu
-view.explore.footer.bug_report.button: Hata Bildir
-view.explore.footer.about.button: Hakkında
-view.explore.footer.privacy_policy.button: Gizlilik Politikası
-view.top_charts.most_votes: En Çok Oy Alanlar
-view.top_charts.most_servers: En Çok Eklenenler
-view.top_charts.bot.subtitle.servers.plural: '{} sunucu'
-view.top_charts.bot.subtitle.votes.plural: '{} oy'
-view.top_charts.bot.subtitle.servers.singular: '{} sunucu'
-view.top_charts.bot.subtitle.votes.singular: '{} Oy'
-view.account.login.guest: Misafir
+global.button.cancel: Cancel
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
+view.bot.hide.button: Hide Bot
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Discord ile Giriş Yap
-view.account.login.error: Giriş yapılırken bir hata oluştu. Lütfen tekrar dene.
-view.account.login.error.button: Giriş sayfasına geri dön
 view.account.my_bots.button: Botlarım
-view.account.favorites.button: Favorilerim
 view.account.add_bot.button: Bot Ekle
-view.account.remove_ads.button: Reklamları Kaldır
-view.account.advertise.button: Reklam Ver
 view.account.settings.button: Ayarlar
-view.my_bots.title: Botlarım
-view.my_bots.subtitle: Sana ait botlar. Hesabım sayfasındaki Bot Ekle düğmesine tıklayarak kendi botunu ekleyebilirsin. #Keep capitalization consistent
-view.my_bots.none: Herhangi bir bota sahip değilsin
-view.favorites.title: Favorilerim
-view.favorites.subtitle: Bir botun sayfasında bulunan kalp düğmesine tıklayarak, favori botlarını buraya ekleyebilirsin
-view.favorites.none: Herhangi bir favorini botun yok
-view.add_bot.title: Bot Ekle
-view.add_bot.subtitle: Botunu 3. parti bir siteye ekleyersen, botun otamatik olarak uygulamaya da eklenir.
-view.add_bot.note: 'Not: Botunu başka bir siteye ekledikten sonra, botun uygulamada hemen gözükmeyebilir.'
-view.settings.theme.title: Tema
-view.settings.theme.system.radio: Sistem Teması
-view.settings.theme.dark.radio: Karanlık
-view.settings.theme.light.radio: Aydınlık
-view.settings.language.title: Dil
-view.settings.language.placeholder: Dil Seç
-view.settings.language.help_translate.button: Uygulamayı çevirmeye yardım et
-view.settings.support.title: Destek
-view.settings.support.support_server.button: Destek Sunucusu
-view.settings.support.report_a_bug.button: Hata Bildir
-view.settings.account.title: Hesabım
-view.settings.account.advanced.button: Gelişmiş
-view.settings.account.log_out.button: Çıkış Yap
-view.settings.account.log_out.alert_dialog.title: Çıkış Yap
-view.settings.account.log_out.alert_dialog.text: Çıkış yapmak istediğinden emin misin?
-view.settings.account.log_out.alert_dialog.cancel.button: İptal
-view.settings.account.log_out.alert_dialog.log_out.button: Çıkış Yap
-view.settings.account.delete_account.button: Hesabı Sil
-view.settings.account.delete_account.alert_dialog.title: Hesabı Sil
-view.settings.account.delete_account.alert_dialog.text: Bu hesabı silmek istediğine emin misin? Bu işlem geri alınamaz.
-view.settings.account.delete_account.alert_dialog.cancel.button: İptal
-view.settings.account.delete_account.alert_dialog.yes.button: 'Evet'
-view.settings.info.title: Bilgi
-view.settings.info.about.button: Hakkında
-view.settings.info.about.popup.legalese: Telif Hakkı © {} Tetracyl. Tüm Hakları Saklıdır.
-view.settings.info.privacy_policy.button: Gizlilik Politikası
-view.bot.reported.title: '{} Şikayet Edildi'
-view.bot.reported.subtitle: '{} botunu şu sebepten dolayı şikayet ettin:'
-view.bot.reported.button.okay: Tamam
-view.user.bots: Botlar
-view.search.hint: Ara...
-view.search.title: Ara
-view.search.subtitle.noQuery: Bir bot ara...
-view.search.subtitle.query: '{} için sonuçlar gösteriliyor'
-view.search.none: Sonuç Bulunamadı
-view.welcome.title: Discord için Botlar
-view.welcome.subtitle: '{}+ Discord botuna göz at! Discord hesabınla giriş yaparak hemen göz atmaya başla.'
+view.account.settings.description: Settings & preferences
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
+view.my_bots.subtitle: Manage your Discord bots
+view.add_bot.subtitle: Submit your bot to bot lists
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
+view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Discord ile Giriş Yap
 view.welcome.skip.button: Şimdilik Atla
-view.remove_ads.title: Reklamları Kaldır
-view.remove_ads.subtitle: Uygulamadaki tüm reklamları kaldırır
-view.remove_ads.error.load_product: Ürün yüklenirken bilinmeyen bir hata oluştu.
-view.remove_ads.error.verify_purchase: Satın alma işlemini doğrularken bilinmeyen bir hata oluştu.
-view.remove_ads.error.try_again: Lütfen daha sonra tekrar dene veya destek sunucusuna katıl.
-view.remove_ads.error.join_server: Lütfen destek sunucumuza katıl.
-view.remove_ads.purchase: Satın Al
-view.remove_ads.thank_you.title: Satın aldığın için teşekkürler
-view.remove_ads.thank_you.subtitle: Satın aldığın için teşekkürler
-view.remove_ads.error.store_problem: Market ile ilgili bir sorun oluştu.
-view.remove_ads.error.try_again_later: Lütfen daha sonra tekrar dene.
-view.remove_ads.error.purchase_not_allowed: Bu cihazın veya kullanıcının satın alma işlemi yapmasına izin verilmiyor.
-view.remove_ads.error.purchase_invalid: Satın alma başarısız.
-view.remove_ads.error.purchase_in_progress: Bu satın alma işlemi zaten devam ediyor. Lütfen sabırlı ol.
-view.remove_ads.error.product_already_purchased: Bu ürünü zaten satın almışsın.
-view.remove_ads.error.unknown_error: 'Bilinmeyen bir hata oluştu: {}.'
-view.remove_ads.error.title: Bir Hata Oluştu
-view.remove_ads.error.not_logging_in: Bu ürünü satın alabilmek için giriş yapmış olmanız gerekiyor.
-view.remove_ads.button.join_server: Destek Sunucusuna Katıl
-view.remove_ads.button.okay: Tamam
-view.promote.introduction.promote_your_bot.title: Botunu Tanıt
-view.promote.introduction.promote_your_bot.body: Trafiğini ve sunucu sayısını artırmak için botunuzu uygulama aracılığıyla tanıtın.
-view.promote.introduction.how_it_works.title: Nasıl çalışır?
-view.promote.introduction.how_it_works.body: Botunuzu tanıtmak için keşfet sayfasındaki birçok yerden birini seçin.
-view.promote.introduction.track_your_ads.title: Reklamlarınızı takip edin
-view.promote.introduction.track_your_ads.body: Reklamlarınızın canlı bir pano aracılığıyla nasıl performans gösterdiğini izleyin.
-view.promote.get_started.button: Başla
-view.login.error.title: Oturum açarken bir hata oluştu
-view.login.error.subtitle: Lütfen tekrar deneyin veya oturum açma konusunda yardım almak için aşağıdaki destek sunucusuna katılın.
-view.login.error.retry.button: Tekrar Dene
-view.login.error.support_server.button: Destek Sunucusu
-view.login.logging_in.title: Giriş yapılıyor
-view.advanced.usage_data.title: Kullanım Verileri
-view.advanced.usage_data.switch1.title: Çökme verilerini gönder
-view.advanced.usage_data.switch2.title: Performans verilerini gönder
-view.advanced.usage_data.switch3.title: Analitik verileri gönder
-view.advanced.promoted_bots.title: Tanıtılan Botlar
-view.advanced.promoted_bots.switch1.title: Sahip olduğum tanıtılan botları göster
-view.advanced.promoted_bots.switch2.title: Sahip olmadığım tanıtılan botları göster
-view.advanced.promoted_bots.switch3.title: Tanıtılan bot yer tutucularını göster
-view.advanced.promoted_bots.remove_ads_alert.title: Reklamları Kaldır
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: İptal
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Satın Al
-view.advanced.promoted_bots.remove_ads_alert.text: Tanıtılan bot tercihlerinizi değiştirmek için premium satın almanız gerekiyor.
+view.welcome.subtitle: Find the perfect bot for your server
+view.explore.browse_categories.description: Discover bots by category
+view.explore.browse_categories.title: Browse Categories
+view.explore.category.subtitle: '{} kategorisindeki botlar'
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
+view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.featured.title: Öne Çıkanlar
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: En Popüler
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: En Çok Oy Alanlar
+view.top_charts.most_popular: En Popüler
+view.top_charts.most_voted: En Çok Oy Alanlar
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: Hesabım
+view.navigation.settings: Ayarlar
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason
