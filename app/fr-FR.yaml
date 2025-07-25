@@ -77,8 +77,7 @@ view.top_charts.most_popular: Les plus populaires
 view.top_charts.most_voted: Les plus votés
 view.submit_bot.error.title: Échec du chargement des listes de bots
 view.submit_bot.error.description: Nous n'avons pas pu charger les listes de bots disponibles. Veuillez réessayer plus tard.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Se déconnecter
 view.alert.sign_out.message: Êtes-vous sûr de vouloir vous déconnecter ?
 view.alert.sign_out.cancel: Annuler
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} n'a pas de lien d'invitation."
 view.alert.error.open_invite_failed: Échec de l'ouverture du lien d'invitation.
 view.alert.error.discord_not_installed: Impossible d'ouvrir Discord. Veuillez vous assurer que Discord est installé sur votre appareil.
 view.alert.error.open_support_failed: Échec de l'ouverture du lien du serveur de support.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Supprimer le compte
 view.alert.delete_account.message: Êtes-vous sûr de vouloir supprimer votre compte ? Cette action ne peut pas être annulée et supprimera définitivement toutes vos données.
 view.alert.delete_account.confirm: Supprimer
 view.alert.delete_account.final.title: Supprimer le compte
 view.alert.delete_account.final.message: Cela effacera définitivement votre compte et les données associées. Êtes-vous sûr ?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Signaler un Bot
 view.report.header.title: Signaler un Bot
 view.report.header.description: Aidez-nous à maintenir la sécurité de la communauté en signalant du contenu inapproprié ou des problèmes.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Merci pour votre rapport. Nous l'examinerons
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Veuillez sélectionner une raison pour le signalement.
 view.report.validation.no_details: Veuillez fournir des détails supplémentaires sur le problème.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Chargement des détails du bot...
 view.error.bot_not_found: Bot introuvable.
 view.loading.categories: Chargement des catégories...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Compte
 view.navigation.settings: Réglages
 view.navigation.categories: Catégories
 view.navigation.bot_details: Détails du Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Recherches suggérées
 view.search.placeholder: Rechercher des bots...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Rejoindre le serveur de support de l'application
 view.remove_ads.description: Désactiver définitivement les publicités dans l'application
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Sélectionner une raison
