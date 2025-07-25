@@ -1,5 +1,4 @@
 ---
-global.title: Discord ボット
 global.navbar.explore: 探検
 global.navbar.top_charts: トップチャート
 global.navbar.account: アカウント
@@ -7,210 +6,126 @@ global.navbar.search: 検索
 global.app_bar.explore: 探検
 global.app_bar.top_charts: トップチャート
 global.app_bar.account: アカウント
-global.app_bar.advanced: 高度な設定
-global.app_bar.login: ログイン
 global.app_bar.settings: 設定
-global.app_bar.language: 言語
-global.app_bar.report: '報告する'
-global.app_bar.categories: カテゴリ
 global.app_bar.remove_ads: 広告の削除
-global.app_bar.promote: 促進
-global.tag.music: 音楽
-global.tag.pokemon: ポケットモンスター #KEEP AS IS
-global.tag.soundboard: サウンドボード
-global.tag.moderation: 節度
-global.tag.minecraft: マインクラフト #KEEP AS IS
-global.tag.trivia: トリビア
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: 社交
-global.tag.fun: 楽しい
-global.tag.economy: 経済
-global.tag.anime: キャラクター #KEEP AS IS
-global.tag.game: ゲーム
-global.tag.meme: ミーム
-global.tag.leveling: レベリング
-global.tag.roleplay: ロールプレイ
-global.tag.logging: ロギング
-global.tag.utility: 効用
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: 多目的
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: 暗号 #KEEP AS IS
-global.tag.top_charts: トップチャート
-global.footer.contact: '連絡先：support@discordbots.app'
 global.footer.info: Discord ボット AppはDiscordまたはサポートされているDiscordボットリストのいずれとも連携していません。
-global.login_alert.title: ログイン
-global.login_alert.cancel.button: キャンセル
-global.login_alert.login.button: ログイン
-global.rate_dialog.title: Discord ボットアプリを評価する
-global.rate_dialog.subtitle: このアプリが気に入ったら、少し時間をかけてレビューしてください。それは本当に私たちを助けます、そしてそれはあなたに1分以上かかるべきではありません
-global.rate_dialog.button.rate: 割合
-global.rate_dialog.button.no_thanks: 結構です
-global.rate_dialog.button.maybe_later: 後でかもしれません
-global.promoted_bot.placeholder.title: Botをここに宣伝してください！
-global.promoted_bot.subtitle: 昇格
-global.pop_up_menu_button.remove_ads.button: 広告の削除
-global.pop_up_menu_button.advertise.button: 広告する
-global.pop_up_menu_button.usage_data.button: 使用状況データ
-global.bot.button.advertise: 広告
-view.bot.add.button: 追加
-view.bot.chip.prefix: 'プレフィックス：{}'
-view.bot.chip.servers: '{} サーバー'
-view.bot.chip.server: '{} サーバー'
-view.bot.chip.votes: '{} 投票'
-view.bot.chip.vote: '{} 投票'
-view.bot.menu.report: 報告する
-view.bot.menu.copy_id: IDをコピー
-view.bot.menu.copy_id.snack_bar: コピーされた{} のID
-view.bot.menu.hide: 隠れる
-view.bot.menu.hide.alert_dialog.title: 隠れる {}
-view.bot.menu.hide.alert_dialog.text: '{} を非表示にしてよろしいですか？'
-view.bot.menu.hide.alert_dialog.cancel.button: キャンセル
-view.bot.menu.hide.alert_dialog.yes.button: 'はい'
-view.bot.website.button: Webサイト
-view.bot.support_server.button: サポートサーバー
-view.bot.vote.button: 投票
-view.bot.favorite.login_alert: このボットをお気に入りに追加するには、ログインする必要があります。
-view.bot.report.login_alert: このボットを報告するには、ログインする必要があります。
-view.bot.hide.login_alert: このボットを非表示にするには、ログインする必要があります。
-view.bot.copy.snackbar: コピーされた{} のID
-view.report.report_reason.title: 報告の理由
-view.report.report_reason.hint: 理由を選択してください
-view.report.report_reason.empty: 理由を選択してください
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: ここに詳細を書いてください...
-view.report.additional_information.empty: 理由を選択してください
-view.report.submit.button: 送信
-view.report.report_reason.dropdown.option1: 不適切/ NSFWコンテンツ
-view.report.report_reason.dropdown.option2: 長期間オフライン
-view.report.report_reason.dropdown.option3: 誤解を招く機能と説明
-view.report.report_reason.dropdown.option4: ボットが機能しない
-view.report.report_reason.dropdown.option5: 招待リンクが機能していません。
-view.report.report_reanos.dropdown.option6: その他の理由
-view.explore.title: 探検
-view.explore.featured.title: 特集
-view.explore.featured.subtitle: Discordに認証されたトップBot
-view.explore.trending.title: トレンド
-view.explore.trending.subtitle: 注目のBot
-view.explore.new.title: 新着
-view.explore.new.subtitle: 最近追加されたBot
-view.explore.most_voted.title: 高評価
-view.explore.most_voted.subtitle: 今月一番評価を集めたBot
-view.explore.most_popular.title: 人気
-view.explore.most_popular.subtitle: 最も多くのサーバーに追加されたBot
-view.explore.see_all.button: 全て表示
-view.explore.categories.title: カテゴリーを見る
-view.explore.category.subtitle: '{} カテゴリーのBot'
-view.explore.footer.support_server.button: サポートサーバー
-view.explore.footer.bug_report.button: バグを報告
-view.explore.footer.about.button: このAppについて
-view.explore.footer.privacy_policy.button: プライバシーポリシー
-view.top_charts.most_votes: 評価順
-view.top_charts.most_servers: サーバー数順
-view.top_charts.bot.subtitle.servers.plural: '{} サーバー'
-view.top_charts.bot.subtitle.votes.plural: '{} 投票'
-view.top_charts.bot.subtitle.servers.singular: '{} サーバー'
-view.top_charts.bot.subtitle.votes.singular: '{} 投票'
-view.account.login.guest: ゲスト
+global.button.cancel: Cancel
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
+view.bot.hide.button: Hide Bot
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Discordでログイン
-view.account.login.error: ログイン中にエラーが発生しました。もう一度やり直してください。
-view.account.login.error.button: ログイン画面に戻る
 view.account.my_bots.button: マイBot
-view.account.favorites.button: お気に入り
 view.account.add_bot.button: Botを追加
-view.account.remove_ads.button: 広告の削除
-view.account.advertise.button: 広告する
 view.account.settings.button: 設定
-view.my_bots.title: マイBot
-view.my_bots.subtitle: あなたが所有しているBotです。アカウントページの「Botを追加」ボタンで自分のBotを追加できます。 #Keep capitalization consistent
-view.my_bots.none: あなたはBotを所有していません。
-view.favorites.title: お気に入り
-view.favorites.subtitle: Botページのハートボタンをクリックして、お気に入りのBotを追加します。
-view.favorites.none: お気に入りのBotがありません。
-view.add_bot.title: Botを追加
-view.add_bot.subtitle: アプリにBotを自動的に追加するには、サードパーティーBotリストに追加します。
-view.add_bot.note: '注: Botを別のBotリストに追加すると、すぐにアプリに表示されない場合があります。'
-view.settings.theme.title: テーマ
-view.settings.theme.system.radio: システム設定
-view.settings.theme.dark.radio: ダーク
-view.settings.theme.light.radio: ライト
-view.settings.language.title: 言語
-view.settings.language.placeholder: 言語を選択
-view.settings.language.help_translate.button: アプリの翻訳を支援する
-view.settings.support.title: サポート
-view.settings.support.support_server.button: サポートサーバー
-view.settings.support.report_a_bug.button: バグの報告
-view.settings.account.title: アカウント
-view.settings.account.advanced.button: 高度な設定
-view.settings.account.log_out.button: ログアウト
-view.settings.account.log_out.alert_dialog.title: ログアウト
-view.settings.account.log_out.alert_dialog.text: ログアウトしてもよろしいですか？
-view.settings.account.log_out.alert_dialog.cancel.button: キャンセル
-view.settings.account.log_out.alert_dialog.log_out.button: ログアウト
-view.settings.account.delete_account.button: アカウントの削除
-view.settings.account.delete_account.alert_dialog.title: アカウントの削除
-view.settings.account.delete_account.alert_dialog.text: アカウントを削除してもよろしいですか？この操作は元に戻せません。
-view.settings.account.delete_account.alert_dialog.cancel.button: キャンセル
-view.settings.account.delete_account.alert_dialog.yes.button: 'はい'
-view.settings.info.title: 情報
-view.settings.info.about.button: このAppについて
-view.settings.info.about.popup.legalese: Copyright ©︎ {} Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: プライバシーポリシー
-view.bot.reported.title: 報告 {}
-view.bot.reported.subtitle: '次の理由により、{} の報告に成功しました。'
-view.bot.reported.button.okay: わかった
-view.user.bots: ボット
-view.search.hint: 検索...
-view.search.title: 検索
-view.search.subtitle.noQuery: ボットを検索...
-view.search.subtitle.query: '{} の検索結果を表示する'
-view.search.none: 結果が見つかりません
-view.welcome.title: Discord ボット
-view.welcome.subtitle: '{} + Discordボットを閲覧してください！ Discordアカウントでログインすることから始めましょう。'
+view.account.settings.description: Settings & preferences
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
+view.my_bots.subtitle: Manage your Discord bots
+view.add_bot.subtitle: Submit your bot to bot lists
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
+view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Discordでログイン
 view.welcome.skip.button: 今すぐスキップ
-view.remove_ads.title: 広告の削除
-view.remove_ads.subtitle: アプリからすべての広告を削除します
-view.remove_ads.error.load_product: 製品のロード中に不明なエラーが発生しました。
-view.remove_ads.error.verify_purchase: 購入の確認中に不明なエラーが発生しました。
-view.remove_ads.error.try_again: 後で再試行するか、サポートサーバーに参加してください。
-view.remove_ads.error.join_server: サポートサーバーに参加してください。
-view.remove_ads.purchase: 購入
-view.remove_ads.thank_you.title: ご購入いただきありがとうございます
-view.remove_ads.thank_you.subtitle: すべての広告が削除されました
-view.remove_ads.error.store_problem: 店に問題がありました。
-view.remove_ads.error.try_again_later: 後でもう一度やり直してください。
-view.remove_ads.error.purchase_not_allowed: このデバイスまたはユーザーは購入できません。
-view.remove_ads.error.purchase_invalid: 購入が無効です。
-view.remove_ads.error.purchase_in_progress: この購入はすでに進行中です。しばらくお待ち下さい。
-view.remove_ads.error.product_already_purchased: この商品はすでに購入済みです
-view.remove_ads.error.unknown_error: '不明なエラーが発生しました: {}。'
-view.remove_ads.error.title: エラーが発生しました
-view.remove_ads.error.not_logging_in: この商品にアクセスするにはログインしてください。
-view.remove_ads.button.join_server: サポートサーバーに参加
-view.remove_ads.button.okay: わかった
-view.promote.introduction.promote_your_bot.title: Botを宣伝する
-view.promote.introduction.promote_your_bot.body: トラフィックとサーバー数を増やすために、アプリを通じてBotをプロモートします。
-view.promote.introduction.how_it_works.title: 仕組み
-view.promote.introduction.how_it_works.body: Botを促進するために探索ページで多くのスロットのうちのいずれかを選択します。
-view.promote.introduction.track_your_ads.title: 広告を追跡する
-view.promote.introduction.track_your_ads.body: ライブダッシュボードを通して広告がどのように実行されているかを監視します。
-view.promote.get_started.button: はじめましょう!
-view.login.error.title: ログイン中にエラーが発生しました。
-view.login.error.subtitle: 再試行するか、以下のサポートサーバーに参加してログインを助けてもらいましょう。
-view.login.error.retry.button: リトライ
-view.login.error.support_server.button: サポートサーバー
-view.login.logging_in.title: ログイン中...
-view.advanced.usage_data.title: 使用状況データ
-view.advanced.usage_data.switch1.title: クラッシュデータを送信
-view.advanced.usage_data.switch2.title: パフォーマンスデータを送信
-view.advanced.usage_data.switch3.title: 分析データを送信する
-view.advanced.promoted_bots.title: プロモートBot数
-view.advanced.promoted_bots.switch1.title: 自分が所有しているプロモートBotを表示
-view.advanced.promoted_bots.switch2.title: 自分が所有していないプロモートBotを表示
-view.advanced.promoted_bots.switch3.title: プロモートされたBotのプレースホルダを表示
-view.advanced.promoted_bots.remove_ads_alert.title: 広告の削除
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: キャンセル
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: 購入
-view.advanced.promoted_bots.remove_ads_alert.text: プロモートBot設定を変更するにはプレミアムを購入する必要があります。
+view.welcome.subtitle: Find the perfect bot for your server
+view.explore.browse_categories.description: Discover bots by category
+view.explore.browse_categories.title: Browse Categories
+view.explore.category.subtitle: '{} カテゴリーのBot'
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
+view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.featured.title: 特集
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: 人気
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: 高評価
+view.top_charts.most_popular: 人気
+view.top_charts.most_voted: 高評価
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: アカウント
+view.navigation.settings: 設定
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason
