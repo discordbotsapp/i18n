@@ -28,8 +28,8 @@ view.bot.stats.servers: خوادم
 view.bot.stats.votes: أصوات
 view.bot.promoted: مروج
 view.bot.see_all: عرض الكل
-view.account.login.button: تسجيل الدخول باستخدام Discord
-view.account.my_bots.button: البوتات الخاصة بي
+view.account.login.button: تسجيل الدخول باستخدام ديسكورد
+view.account.my_bots.button: البوت الخاص بي
 view.account.add_bot.button: إضافة بوت
 view.account.settings.button: الإعدادات
 view.account.settings.description: الإعدادات والتفضيلات
@@ -56,7 +56,7 @@ view.languages.title: اللغة
 view.welcome.title: مرحباً بك في Bots for Discord
 view.welcome.discover.title: "اكتشف {} بوت Discord"
 view.welcome.discover.subtitle: ابحث عن البوت المثالي لخادمك
-view.welcome.login.button: تسجيل الدخول باستخدام Discord
+view.welcome.login.button: تسجيل الدخول باستخدام ديسكورد
 view.welcome.skip.button: تخطي الآن
 view.welcome.subtitle: ابحث عن البوت المثالي لخادمك
 view.explore.browse_categories.description: اكتشف البوتات حسب الفئة
@@ -66,7 +66,7 @@ view.explore.discord_server.description: انضم إلى مجتمع Discord ال
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: تحتاج مساعدة أو تريد المساهمة؟
 view.explore.featured.description: بوتات عالية الجودة ومُتحقق منها بواسطة Discord
-view.explore.featured.title: المميزة
+view.explore.featured.title: المتميز
 view.explore.highest_rated.description: البوتات ذات أعلى التقييمات من المستخدمين
 view.explore.highest_rated.title: الأعلى تقييماً
 view.explore.most_popular.description: البوتات الموجودة في أكثر الخوادم
@@ -77,8 +77,7 @@ view.top_charts.most_popular: الأكثر شعبية
 view.top_charts.most_voted: الأكثر تصويتاً
 view.submit_bot.error.title: فشل في تحميل قوائم البوتات
 view.submit_bot.error.description: لم نتمكن من تحميل قوائم البوتات المتاحة. يرجى المحاولة مرة أخرى لاحقاً.
-
-# حوارات التنبيه ورسائل الخطأ
+#Alert dialogs and error messages
 view.alert.sign_out.title: تسجيل الخروج
 view.alert.sign_out.message: هل أنت متأكد من أنك تريد تسجيل الخروج؟
 view.alert.sign_out.cancel: إلغاء
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} لا يحتوي على رابط دعوة."
 view.alert.error.open_invite_failed: فشل في فتح رابط الدعوة.
 view.alert.error.discord_not_installed: غير قادر على فتح Discord. يرجى التأكد من تثبيت Discord على جهازك.
 view.alert.error.open_support_failed: فشل في فتح رابط خادم الدعم.
-
-# حوارات حذف الحساب
+#Delete account dialogs
 view.alert.delete_account.title: حذف الحساب
 view.alert.delete_account.message: هل أنت متأكد من أنك تريد حذف حسابك؟ هذا الإجراء لا يمكن التراجع عنه وسيقوم بحذف جميع بياناتك نهائياً.
 view.alert.delete_account.confirm: حذف
 view.alert.delete_account.final.title: حذف الحساب
 view.alert.delete_account.final.message: سيؤدي هذا إلى محو حسابك والبيانات المرتبطة به نهائياً. هل أنت متأكد؟
-
-# شاشة الإبلاغ عن البوت
+#Report bot screen
 view.report.title: الإبلاغ عن البوت
 view.report.header.title: الإبلاغ عن البوت
 view.report.header.description: ساعدنا في الحفاظ على أمان المجتمع من خلال الإبلاغ عن المحتوى غير المناسب أو المشاكل.
@@ -115,25 +112,20 @@ view.report.submit.success.message: شكراً لك على البلاغ. سنق�
 view.report.submit.success.ok: موافق
 view.report.validation.no_reason: يرجى اختيار سبب للإبلاغ.
 view.report.validation.no_details: يرجى تقديم تفاصيل إضافية حول المشكلة.
-
-# حالات التحميل والخطأ
+#Loading and error states
 view.loading.bot_details: جارٍ تحميل تفاصيل البوت...
 view.error.bot_not_found: البوت غير موجود.
 view.loading.categories: جارٍ تحميل الفئات...
-
-# عناوين التنقل
+#Navigation headers
 view.navigation.account: الحساب
 view.navigation.settings: الإعدادات
 view.navigation.categories: الفئات
 view.navigation.bot_details: تفاصيل البوت
-
-# اقتراحات البحث
+#Search suggestions
 view.search.suggestions.title: عمليات بحث مقترحة
 view.search.placeholder: البحث عن البوتات...
-
-# الدعم والإعلانات
+#Support and ads
 view.support.server.description: انضم إلى خادم دعم التطبيق
 view.remove_ads.description: إيقاف الإعلانات داخل التطبيق نهائياً
-
-# القائمة السفلية
+#Bottom sheet
 view.bottom_sheet.select_reason: اختيار السبب
