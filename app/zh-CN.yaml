@@ -1,5 +1,4 @@
 ---
-global.title: Discord之箱
 global.navbar.explore: 探险
 global.navbar.top_charts: 热门图标
 global.navbar.account: 户口
@@ -7,219 +6,126 @@ global.navbar.search: 搜索
 global.app_bar.explore: 探险
 global.app_bar.top_charts: 热门图标
 global.app_bar.account: 户口
-global.app_bar.advanced: 高级
-global.app_bar.login: 登入
 global.app_bar.settings: 设置
-global.app_bar.language: 语言
-global.app_bar.report: '投诉 {}'
-global.app_bar.categories: 类别
 global.app_bar.remove_ads: 移除广告
-
-global.tag.music: 音乐
-global.tag.pokemon: 宝可梦 #KEEP AS IS
-global.tag.soundboard: 音板
-global.tag.moderation: 管理
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: 琐事游戏
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: 社交
-global.tag.fun: 趣味
-global.tag.economy: 经济模拟游戏
-global.tag.anime: 动漫 #KEEP AS IS
-global.tag.game: 游戏
-global.tag.meme: 模因
-global.tag.leveling: 等级
-global.tag.roleplay: 角色扮演
-global.tag.logging: 日志记录
-global.tag.utility: 实用
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: 多用途
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: 加密币 #KEEP AS IS
-global.tag.top_charts: 热门图标
-global.footer.contact: '联系: support@discordbots.app'
 global.footer.info: Discord Bots 应用程序不与 Discord 或任何支持的 Discord 机器人列表连接。
-global.login_alert.title: 登入
-global.login_alert.cancel.button: 取消
-global.login_alert.login.button: 登入
-global.button.sign_in: Sign In
 global.button.cancel: Cancel
-global.rate_dialog.title:
-global.rate_dialog.subtitle: 如果你喜欢这个应用，请花一点时间来审阅！
-global.rate_dialog.button.rate: 评分
-global.rate_dialog.button.no_thanks: 不，谢谢
-global.rate_dialog.button.maybe_later: 之后吧
-
-global.pop_up_menu_button.remove_ads.button: 移除广告
-
-global.pop_up_menu_button.usage_data.button: 数据用途
-
-view.bot.add.button: 添加
-view.bot.stats.votes: Votes
-view.bot.stats.servers: Servers
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.ratings: RATINGS
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.button: Un-hide Bot
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.title: Hide Bot
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
 view.bot.hide.button: Hide Bot
-view.bot.chip.prefix: '前缀：{}'
-view.bot.chip.servers: '{} 服务器'
-view.bot.chip.server: '{} 服务器'
-view.bot.chip.votes: '{} 票'
-view.bot.chip.vote: '{} 票'
-view.bot.menu.report: 举报
-view.bot.menu.copy_id: 复制ID
-view.bot.menu.copy_id.snack_bar: 已复制{}的ID
-view.bot.menu.hide: 隐藏
-view.bot.menu.hide.alert_dialog.title: 隐藏 {}
-view.bot.menu.hide.alert_dialog.text: '您确定要隐藏 {} 吗？'
-view.bot.menu.hide.alert_dialog.cancel.button: 取消
-view.bot.menu.hide.alert_dialog.yes.button: '是'
-view.bot.website.button: 网站
-view.bot.support_server.button: 支援服务器
-view.bot.vote.button: 投票
-view.bot.report.login_alert: 您必须登录才能报告此机器人。
-view.bot.hide.login_alert: 你必须登录才能隐藏此机器人。
-view.bot.copy.snackbar: 已复制{}的ID
-view.report.report_reason.title: 举报原因
-view.report.report_reason.hint: 选择原因
-view.report.report_reason.empty: 请选择一个原因
-view.report.additional_information.title: 附加信息
-view.report.additional_information.hint: 在此输入更多详细信息...
-view.report.additional_information.empty: 请选择一个原因
-view.report.submit.button: 发送
-view.report.report_reason.dropdown.option1: 不当/NSFW内容
-view.report.report_reason.dropdown.option2: 长时间离线
-view.report.report_reason.dropdown.option3: 误导性功能和描述
-view.report.report_reason.dropdown.option4: 机器人不可用
-view.report.report_reason.dropdown.option5: 邀請連結無效
-view.report.report_reanos.dropdown.option6: 其它原因
-view.explore.title: 探险
-view.explore.featured.title: 推荐
-view.explore.featured.subtitle: 由 Discord 验证的顶级机器人
-view.explore.trending.title: 热门
-view.explore.trending.subtitle: 正在迅速获得关注的新机器人
-view.explore.new.title: 新
-view.explore.new.subtitle: 最近新增
-view.explore.most_voted.title: 最多票数
-view.explore.most_voted.subtitle: 本月投票最多的机器人
-view.explore.most_popular.title: 最热门
-view.explore.most_popular.subtitle: 大多数服务器中的机器人数
-view.explore.see_all.button: 查看全部
-view.explore.categories.title: 探索类别
-view.explore.category.subtitle: 在 {} 类别中的机器人
-view.explore.footer.support_server.button: 支援服务器
-view.explore.footer.bug_report.button: 错误报告
-view.explore.footer.about.button: 关于软件
-view.explore.footer.privacy_policy.button: 隐私政策
-view.top_charts.most_votes: 最多票数
-view.top_charts.most_servers: 最多服务器
-view.top_charts.bot.subtitle.servers.plural: '{} 服务器'
-view.top_charts.bot.subtitle.votes.plural: '{} 票'
-view.top_charts.bot.subtitle.servers.singular: '{} 服务器'
-view.top_charts.bot.subtitle.votes.singular: '{} 票'
-view.account.login.guest: 访客
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: 用 Discord 登录
-view.account.login.error: 加载时出错。请重试。
-view.account.login.error.button: 返回登录界面
 view.account.my_bots.button: 我的机器人
 view.account.add_bot.button: 添加机器人
-view.account.remove_ads.button: 移除广告
-
 view.account.settings.button: 设置
 view.account.settings.description: Settings & preferences
-view.account.help.button: Help & Support
-view.account.help.description: Get help and support
-view.account.quick_actions.title: Quick Actions
 view.account.profile.fallback_username: Discord User
 view.account.profile.fallback_email: No email
-view.my_bots.title: 我的机器人
 view.my_bots.subtitle: Manage your Discord bots
-view.my_bots.none: 您没有任何机器人
-view.add_bot.title: 添加机器人
 view.add_bot.subtitle: Submit your bot to bot lists
-view.add_bot.note: '注意：您的机器人在添加到另一个机器人列表后可能无法立即出现在应用中。'
-view.settings.theme.title: 主题
-view.settings.theme.system.radio: 系统
-view.settings.theme.dark.radio: 夜间模式
-view.settings.theme.light.radio: 亮色模式
-view.settings.language.title: 语言
-view.settings.language.placeholder: 选择语言
-view.settings.language.help_translate.button: 帮助翻译这个应用
-view.settings.support.title: 支援
-view.settings.support.support_server.button: 支援服务器
-view.settings.support.report_a_bug.button: 报告错误
-view.settings.account.title: 户口
-view.settings.account.advanced.button: 高级
-view.settings.account.log_out.button: 登出
-view.settings.account.log_out.alert_dialog.title: 登出
-view.settings.account.log_out.alert_dialog.text: 您确定要注销吗？
-view.settings.account.log_out.alert_dialog.cancel.button: 取消
-view.settings.account.log_out.alert_dialog.log_out.button: 登出
-view.settings.account.delete_account.button: 删除帐户
-view.settings.account.delete_account.alert_dialog.title: 删除帐户
-view.settings.account.delete_account.alert_dialog.text: 您确定要删除您的帐户吗？此操作无法撤消。
-view.settings.account.delete_account.alert_dialog.cancel.button: 取消
-view.settings.account.delete_account.alert_dialog.yes.button: '是'
-view.settings.info.title: 资料
-view.settings.info.about.button: 关于软件
-view.settings.info.about.popup.legalese: 版权所有 © Tetracyl。保留所有权利。
-view.settings.info.privacy_policy.button: 隐私政策
-view.bot.reported.title: 已报告{}
-view.bot.reported.subtitle: '由于以下原因，您已成功报告{}：'
-view.bot.reported.button.okay: 好的
-view.user.bots: 机器人
-view.search.hint: 搜索...
-view.search.title: 搜索
-view.search.placeholder: Search for bots...
-view.search.subtitle.noQuery: 搜索机器人...
-view.search.subtitle.query: 没有{}的搜索结果
-view.search.none: 未找到任何結果
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
 view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: 用 Discord 登录
 view.welcome.skip.button: 暂时跳过
+view.welcome.subtitle: Find the perfect bot for your server
 view.explore.browse_categories.description: Discover bots by category
-view.top_charts.most_voted: Most Voted
-view.top_charts.most_popular: Most Popular
 view.explore.browse_categories.title: Browse Categories
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_voted.description: Bots with the most votes this month
+view.explore.category.subtitle: 在 {} 类别中的机器人
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
 view.explore.featured.description: Top notch bots that are verified by Discord
-view.remove_ads.title: 移除广告
-view.remove_ads.subtitle: 移除应用程序中的所有广告
-view.remove_ads.error.load_product: 加载产品时发生未知错误。
-view.remove_ads.error.verify_purchase: 尝试登录时发生未知的错误。
-view.remove_ads.error.try_again: 请稍后再试或加入支持服务器。
-view.remove_ads.error.join_server: 请加入到支持服务器。
-view.remove_ads.purchase: 已购买
-view.remove_ads.thank_you.title: 感谢您的购买。
-view.remove_ads.thank_you.subtitle: 所有广告已被删除
-view.remove_ads.error.store_problem: 商店出现问题。
-view.remove_ads.error.try_again_later: 请稍后再试。
-view.remove_ads.error.purchase_not_allowed: 此设备或用户不允许购买。
-view.remove_ads.error.purchase_invalid: 此购买无效。
-view.remove_ads.error.purchase_in_progress: 此购买已在进行中。请耐心等待！
-view.remove_ads.error.product_already_purchased: 该产品已被购买。
-view.remove_ads.error.unknown_error: '发生未知错误：{}。'
-view.remove_ads.error.title: 发生错误
-view.remove_ads.error.not_logging_in: 您必须登录才能购买该商品。
-view.remove_ads.button.join_server: 加入支援服务器
-view.remove_ads.button.okay: 好的
-
-view.login.error.title: 登录时发生错误
-view.login.error.subtitle: 请重试或加入下面的支持服务器以帮助登录。
-view.login.error.retry.button: 重试
-view.login.error.support_server.button: 支援服务器
-view.login.logging_in.title: 登录中...
-view.advanced.usage_data.title: 数据用途
-view.advanced.usage_data.switch1.title: 发送崩溃数据
-view.advanced.usage_data.switch2.title: 发送性能数据
-view.advanced.usage_data.switch3.title: 发送分析数据
-
+view.explore.featured.title: 推荐
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: 最热门
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: 最多票数
+view.top_charts.most_popular: 最热门
+view.top_charts.most_voted: 最多票数
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: 户口
+view.navigation.settings: 设置
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason

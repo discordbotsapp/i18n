@@ -1,5 +1,4 @@
 ---
-global.title: Bot untuk Discord
 global.navbar.explore: Teroka
 global.navbar.top_charts: Carta Tertinggi
 global.navbar.account: Akaun
@@ -7,219 +6,126 @@ global.navbar.search: Cari
 global.app_bar.explore: Teroka
 global.app_bar.top_charts: Carta Tertinggi
 global.app_bar.account: Akaun
-global.app_bar.advanced: Lanjutan
-global.app_bar.login: Log Masuk
 global.app_bar.settings: Tetapan
-global.app_bar.language: Bahasa
-global.app_bar.report: 'Melaporkan {}'
-global.app_bar.categories: Kategori
 global.app_bar.remove_ads: Membuang Iklan
-
-global.tag.music: Muzik
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Papan bunyi
-global.tag.moderation: Moderation
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Sosial
-global.tag.fun: Seronok
-global.tag.economy: Ekonomi
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Permainan
-global.tag.meme: Meme
-global.tag.leveling: Bertahap
-global.tag.roleplay: Bermain sebagai peranan
-global.tag.logging: Logging
-global.tag.utility: Utiliti
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Pelbagai Guna
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Carta Tertinggi
-global.footer.contact: 'Hubungi: support@discordbots.app'
 global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Log Masuk
-global.login_alert.cancel.button: Batal
-global.login_alert.login.button: Log Masuk
-global.button.sign_in: Sign In
 global.button.cancel: Cancel
-global.rate_dialog.title: Rate Bots for Discord App
-global.rate_dialog.subtitle: Jika kamu suka aplikasi ini, tolong ambil sedikit daripada masa anda untuk menilaikannya! Ini dapat membantu kami dan ia tidak akan mengambil lebih daripada seminit.
-global.rate_dialog.button.rate: MENILAI
-global.rate_dialog.button.no_thanks: TIDAK MAHU
-global.rate_dialog.button.maybe_later: MUNGKIN NANTI
-
-global.pop_up_menu_button.remove_ads.button: Membuang Iklan
-
-global.pop_up_menu_button.usage_data.button: Usage Data
-
-view.bot.add.button: MENAMBAH
-view.bot.stats.votes: Votes
-view.bot.stats.servers: Servers
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.ratings: RATINGS
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.button: Un-hide Bot
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.title: Hide Bot
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
 view.bot.hide.button: Hide Bot
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} pelayan'
-view.bot.chip.server: '{} pelayan'
-view.bot.chip.votes: '{} pengundian'
-view.bot.chip.vote: '{} pengundian'
-view.bot.menu.report: Melaporkan
-view.bot.menu.copy_id: Menyalin ID
-view.bot.menu.copy_id.snack_bar: Anda telah berjaya menyalinkan ID {}
-view.bot.menu.hide: Simpan
-view.bot.menu.hide.alert_dialog.title: Sembunyi {}
-view.bot.menu.hide.alert_dialog.text: 'Adakah anda pasti anda mahu menyembunyikan {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Batal
-view.bot.menu.hide.alert_dialog.yes.button: 'Ya'
-view.bot.website.button: Laman web
-view.bot.support_server.button: Pelayan Pertolongan
-view.bot.vote.button: Undi
-view.bot.report.login_alert: Anda perlu log masuk untuk melaporkan bot ini.
-view.bot.hide.login_alert: Anda perlu log masuk untuk menyembunyikan bot ini.
-view.bot.copy.snackbar: Anda telah berjaya menyalinkan ID {}
-view.report.report_reason.title: Alasan untuk Melaporkan
-view.report.report_reason.hint: Pilih sesuatu sebab
-view.report.report_reason.empty: Tolong pilih satu sebab
-view.report.additional_information.title: Informasi tambahan
-view.report.additional_information.hint: Masukkan informasi tambahan di sini...
-view.report.additional_information.empty: Tolong pilih satu sebab
-view.report.submit.button: Hantar
-view.report.report_reason.dropdown.option1: Kandungan tidak sesuai
-view.report.report_reason.dropdown.option2: Offline untuk masa yang lama
-view.report.report_reason.dropdown.option3: Informasi atau ciri yang tidak betul
-view.report.report_reason.dropdown.option4: Bot tidak berfungsi
-view.report.report_reason.dropdown.option5: Link tidak berfungsi
-view.report.report_reanos.dropdown.option6: Alasan lain
-view.explore.title: Teroka
-view.explore.featured.title: Berciri
-view.explore.featured.subtitle: Bot yang terbaik dan telah diverifikasi oleh Discord
-view.explore.trending.title: Trending
-view.explore.trending.subtitle: Bot baharu yang telah menarik tumpuan dengan cepat
-view.explore.new.title: Baharu
-view.explore.new.subtitle: Bot yang baru ditambahkan
-view.explore.most_voted.title: Paling diundikan
-view.explore.most_voted.subtitle: Bot yang mempunyai undian yang paling banyak untuk bulan ini
-view.explore.most_popular.title: Paling popular
-view.explore.most_popular.subtitle: Bot didalam beberapa server
-view.explore.see_all.button: Nampak Semua
-view.explore.categories.title: Terokai Ketagori
-view.explore.category.subtitle: Bot dalam kategori {}
-view.explore.footer.support_server.button: Pelayan Pertolongan
-view.explore.footer.bug_report.button: Laporan Gangguan Aplikasi (Bug Report)
-view.explore.footer.about.button: Tentang Kami
-view.explore.footer.privacy_policy.button: Dasar Privasi
-view.top_charts.most_votes: Undian Paling Banyak
-view.top_charts.most_servers: Pelayan Paling Banyak
-view.top_charts.bot.subtitle.servers.plural: '{} pelayan'
-view.top_charts.bot.subtitle.votes.plural: '{} pengundian'
-view.top_charts.bot.subtitle.servers.singular: '{} pelayan'
-view.top_charts.bot.subtitle.votes.singular: '{} pengundian'
-view.account.login.guest: Tetamu
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Log in dengan Discord
-view.account.login.error: Sesuatu masalah telah menimbul apabila anda telah log masuk. Cuba lagi sekali.
-view.account.login.error.button: Balik kepada log masuk
 view.account.my_bots.button: Bot Saya
 view.account.add_bot.button: Tambah Bot
-view.account.remove_ads.button: Membuang Iklan
-
 view.account.settings.button: Tetapan
 view.account.settings.description: Settings & preferences
-view.account.help.button: Help & Support
-view.account.help.description: Get help and support
-view.account.quick_actions.title: Quick Actions
 view.account.profile.fallback_username: Discord User
 view.account.profile.fallback_email: No email
-view.my_bots.title: Bot Saya
 view.my_bots.subtitle: Manage your Discord bots
-view.my_bots.none: Anda tidak mempunyai sebarang bot
-view.add_bot.title: Tambah Bot
 view.add_bot.subtitle: Submit your bot to bot lists
-view.add_bot.note: 'Nota: Bot anda tidak akan muncul dalam aplikasi dengan segera selepas menambahkan dalam senarai bot lain.'
-view.settings.theme.title: Tema
-view.settings.theme.system.radio: Sistem
-view.settings.theme.dark.radio: Gelap
-view.settings.theme.light.radio: Terang
-view.settings.language.title: Bahasa
-view.settings.language.placeholder: Pilih satu bahasa
-view.settings.language.help_translate.button: Bantu menterjemahkan aplikasi ini
-view.settings.support.title: Pertolongan
-view.settings.support.support_server.button: Pelayan Pertolongan
-view.settings.support.report_a_bug.button: Melaporkan Sesuatu Kesalahan dalam Aplikasi
-view.settings.account.title: Akaun
-view.settings.account.advanced.button: Lanjutan
-view.settings.account.log_out.button: Log Keluar
-view.settings.account.log_out.alert_dialog.title: Log Keluar
-view.settings.account.log_out.alert_dialog.text: Adakah anda pasti anda mahu log keluar?
-view.settings.account.log_out.alert_dialog.cancel.button: Batal
-view.settings.account.log_out.alert_dialog.log_out.button: Log Keluar
-view.settings.account.delete_account.button: Memadam Akaun
-view.settings.account.delete_account.alert_dialog.title: Memadam Akaun
-view.settings.account.delete_account.alert_dialog.text: Adakah anda pasti anda mahu memadam akaun ini? Aksi ini tidak boleh dibatalkan.
-view.settings.account.delete_account.alert_dialog.cancel.button: Batal
-view.settings.account.delete_account.alert_dialog.yes.button: 'Ya'
-view.settings.info.title: Info
-view.settings.info.about.button: Tentang Kami
-view.settings.info.about.popup.legalese: Hak cipta © {} Tetracyl. Semua hak cipta terpelihara.
-view.settings.info.privacy_policy.button: Dasar Privasi
-view.bot.reported.title: '{} Telah Dilaporkan'
-view.bot.reported.subtitle: 'Anda telah berjaya melaporkan {} atas alasan:'
-view.bot.reported.button.okay: Baik
-view.user.bots: Bot
-view.search.hint: Cari...
-view.search.title: Cari
-view.search.placeholder: Search for bots...
-view.search.subtitle.noQuery: Cari sesuatu bot...
-view.search.subtitle.query: Menunjukkan hasil carian untuk {}
-view.search.none: Tiada Carian Ditemui
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
 view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Log in dengan Discord
 view.welcome.skip.button: Skip untuk Sekarang
+view.welcome.subtitle: Find the perfect bot for your server
 view.explore.browse_categories.description: Discover bots by category
-view.top_charts.most_voted: Most Voted
-view.top_charts.most_popular: Most Popular
 view.explore.browse_categories.title: Browse Categories
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_voted.description: Bots with the most votes this month
+view.explore.category.subtitle: Bot dalam kategori {}
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
 view.explore.featured.description: Top notch bots that are verified by Discord
-view.remove_ads.title: Membuang Iklan
-view.remove_ads.subtitle: Membuang semua iklan daripada aplikasi ini
-view.remove_ads.error.load_product: Sesuatu masalah tertimbul apabila memuat turun data untuk produk ini.
-view.remove_ads.error.verify_purchase: Sesuatu masalah telah menimbul apabila pembelian anda sedang menjalani verifikasi.
-view.remove_ads.error.try_again: Tolong cuba sebentar lagi atau sertai pelayan pertolongan.
-view.remove_ads.error.join_server: Tolong sertai pelayan pertolongan.
-view.remove_ads.purchase: Membeli
-view.remove_ads.thank_you.title: Terima kasih atas pembelian anda
-view.remove_ads.thank_you.subtitle: Semua iklan telah dikeluarkan
-view.remove_ads.error.store_problem: Terdapat sesuatu masalah dengan kedai ini.
-view.remove_ads.error.try_again_later: Tolong cuba sebentar lagi.
-view.remove_ads.error.purchase_not_allowed: Peranti atau pengguna ini tidak dibenarkan untuk membeli.
-view.remove_ads.error.purchase_invalid: Pembelian ini tidak sah.
-view.remove_ads.error.purchase_in_progress: Pembelian ini sedang dijalankan. Tolong bersabar.
-view.remove_ads.error.product_already_purchased: Produk ini telah dibeli.
-view.remove_ads.error.unknown_error: 'Sesuatu masalah tertimbul: {}.'
-view.remove_ads.error.title: Sesuatu Masalah telah Muncul
-view.remove_ads.error.not_logging_in: Anda perlu log masuk untuk membuat pembelian atas produk ini.
-view.remove_ads.button.join_server: Sertai Pelayan Pertolongan
-view.remove_ads.button.okay: Baik
-
-view.login.error.title: Ralat telah berlaku semasa melog masuk anda
-view.login.error.subtitle: Sila cuba lagi atau sertai server sokongan berikut untuk bantuan dengan melog masuk.
-view.login.error.retry.button: Cuba lagi
-view.login.error.support_server.button: Pelayan Pertolongan
-view.login.logging_in.title: Sedang log masuk anda dalam
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-
+view.explore.featured.title: Berciri
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Paling popular
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: Paling diundikan
+view.top_charts.most_popular: Paling popular
+view.top_charts.most_voted: Paling diundikan
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: Akaun
+view.navigation.settings: Tetapan
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason

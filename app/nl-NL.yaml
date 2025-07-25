@@ -1,5 +1,4 @@
 ---
-global.title: Bots voor Discord
 global.navbar.explore: Goede morgen
 global.navbar.top_charts: Zie je wel dat ik nederlands kan
 global.navbar.account: Kan jij dat ook
@@ -7,219 +6,126 @@ global.navbar.search: Search
 global.app_bar.explore: Goede morgen
 global.app_bar.top_charts: Zie je wel dat ik nederlands kan
 global.app_bar.account: Kan jij dat ook
-global.app_bar.advanced: Geavanceerd
-global.app_bar.login: Hoi
 global.app_bar.settings: Dag
-global.app_bar.language: Dus je leest dit
-global.app_bar.report: 'Ok dat is echt stom maar goed je moet het er mee doen he'
-global.app_bar.categories: Ok
 global.app_bar.remove_ads: Verwijder Advertenties
-
-global.tag.music: Dus wat will je
-global.tag.pokemon: O jezus crisis #KEEP AS IS
-global.tag.soundboard: Alstublieft
-global.tag.moderation: Dank u
-global.tag.minecraft: Meneer #KEEP AS IS
-global.tag.trivia: Mevrouw
-global.tag.fortnite: Hek #KEEP AS IS
-global.tag.spotify: Bek #KEEP AS IS
-global.tag.social: Douw
-global.tag.fun: Mouw
-global.tag.economy: Houw
-global.tag.anime: Enconomie #KEEP AS IS
-global.tag.game: Spel
-global.tag.meme: Meem
-global.tag.leveling: Meme
-global.tag.roleplay: Rollenspel
-global.tag.logging: Registreren
-global.tag.utility: Hulpverlenend
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Meervoudig
-global.tag.twitch: Heet #KEEP AS IS
-global.tag.crypto: Warm #KEEP AS IS
-global.tag.top_charts: Zie je wel dat ik nederlands kan
-global.footer.contact: 'Lauw'
 global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Hoi
-global.login_alert.cancel.button: Miauwt
-global.login_alert.login.button: Hoi
-global.button.sign_in: Sign In
 global.button.cancel: Cancel
-global.rate_dialog.title: Rate Bots for Discord App
-global.rate_dialog.subtitle: Nee.
-global.rate_dialog.button.rate: Ja
-global.rate_dialog.button.no_thanks: Hoi
-global.rate_dialog.button.maybe_later: Dag
-
-global.pop_up_menu_button.remove_ads.button: Verwijder Advertenties
-
-global.pop_up_menu_button.usage_data.button: Usage Data
-
-view.bot.add.button: Morgen
-view.bot.stats.votes: Votes
-view.bot.stats.servers: Servers
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.ratings: RATINGS
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.button: Un-hide Bot
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.title: Hide Bot
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
 view.bot.hide.button: Hide Bot
-view.bot.chip.prefix: 'Idioot'
-view.bot.chip.servers: 'Hoer'
-view.bot.chip.server: 'Kleine slet'
-view.bot.chip.votes: 'Seks ding'
-view.bot.chip.vote: 'Baby'
-view.bot.menu.report: Verslag
-view.bot.menu.copy_id: Kopieer
-view.bot.menu.copy_id.snack_bar: '{}''s ID gekopieerd'
-view.bot.menu.hide: Verberg
-view.bot.menu.hide.alert_dialog.title: Verberg {}
-view.bot.menu.hide.alert_dialog.text: 'Weet je zeker dat je %@ wilt negeren?'
-view.bot.menu.hide.alert_dialog.cancel.button: Miauwt
-view.bot.menu.hide.alert_dialog.yes.button: 'Varianten'
-view.bot.website.button: Website
-view.bot.support_server.button: Steun server
-view.bot.vote.button: Stem
-view.bot.report.login_alert: Je moet ingelogd zijn om deze bot te rapporteren.
-view.bot.hide.login_alert: Je moet minimaal ingelogd zijn om deze bot te verbergen.
-view.bot.copy.snackbar: '{}''s ID gekopieerd'
-view.report.report_reason.title: Reden voor rapportering
-view.report.report_reason.hint: Selecteer een reden
-view.report.report_reason.empty: Selecteer alstublieft een reden
-view.report.additional_information.title: Extra informatie
-view.report.additional_information.hint: Voer aanvullende gegevens in ...
-view.report.additional_information.empty: Selecteer alstublieft een reden
-view.report.submit.button: Verzend
-view.report.report_reason.dropdown.option1: Belangrijk!/NSFW content
-view.report.report_reason.dropdown.option2: Niet online voor een lange tijd
-view.report.report_reason.dropdown.option3: Misleidende functies en beschrijving
-view.report.report_reason.dropdown.option4: Bot werkt/reageerd niet!
-view.report.report_reason.dropdown.option5: Uitnodigingslink werkt niet of is ongeldig
-view.report.report_reanos.dropdown.option6: Andere reden
-view.explore.title: Goede morgen
-view.explore.featured.title: Aanbevolen
-view.explore.featured.subtitle: Top bots die zijn geverifieerd door discord
-view.explore.trending.title: Populair
-view.explore.trending.subtitle: Nieuwe bots die snel grip krijgen
-view.explore.new.title: Nieuw
-view.explore.new.subtitle: Onlangs toegevoegde bots
-view.explore.most_voted.title: Meeste Stemmen
-view.explore.most_voted.subtitle: Bots met de meeste stemmen deze maand
-view.explore.most_popular.title: Meest Populair
-view.explore.most_popular.subtitle: Bots in de meeste servers
-view.explore.see_all.button: Alles bekijken
-view.explore.categories.title: Categorieën verkennen
-view.explore.category.subtitle: Bots in de {} categorie
-view.explore.footer.support_server.button: Steun server
-view.explore.footer.bug_report.button: Bug rapportage
-view.explore.footer.about.button: Over
-view.explore.footer.privacy_policy.button: Privacybeleid
-view.top_charts.most_votes: Meeste stemmen
-view.top_charts.most_servers: Meeste Servers
-view.top_charts.bot.subtitle.servers.plural: 'Hoer'
-view.top_charts.bot.subtitle.votes.plural: 'Seks ding'
-view.top_charts.bot.subtitle.servers.singular: 'Kleine slet'
-view.top_charts.bot.subtitle.votes.singular: 'Baby'
-view.account.login.guest: Gast
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Inloggen met Discord
-view.account.login.error: Er is een fout opgetreden bij het inloggen. Probeer het opnieuw.
-view.account.login.error.button: Ga terug naar inloggen
 view.account.my_bots.button: Mijn Bots
 view.account.add_bot.button: Bot Toevoegen
-view.account.remove_ads.button: Verwijder Advertenties
-
 view.account.settings.button: Dag
 view.account.settings.description: Settings & preferences
-view.account.help.button: Help & Support
-view.account.help.description: Get help and support
-view.account.quick_actions.title: Quick Actions
 view.account.profile.fallback_username: Discord User
 view.account.profile.fallback_email: No email
-view.my_bots.title: Mijn Bots
 view.my_bots.subtitle: Manage your Discord bots
-view.my_bots.none: U heeft geen bots
-view.add_bot.title: Bot Toevoegen
 view.add_bot.subtitle: Submit your bot to bot lists
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
-view.settings.language.title: Dus je leest dit
-view.settings.language.placeholder: Choose a language
-view.settings.language.help_translate.button: Help translate the app
-view.settings.support.title: Support
-view.settings.support.support_server.button: Steun server
-view.settings.support.report_a_bug.button: Report A Bug
-view.settings.account.title: Kan jij dat ook
-view.settings.account.advanced.button: Geavanceerd
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Miauwt
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Miauwt
-view.settings.account.delete_account.alert_dialog.yes.button: 'Varianten'
-view.settings.info.title: Info
-view.settings.info.about.button: Over
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Privacybeleid
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
-view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.placeholder: Search for bots...
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
 view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Inloggen met Discord
 view.welcome.skip.button: Skip for Now
+view.welcome.subtitle: Find the perfect bot for your server
 view.explore.browse_categories.description: Discover bots by category
-view.top_charts.most_voted: Most Voted
-view.top_charts.most_popular: Most Popular
 view.explore.browse_categories.title: Browse Categories
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_voted.description: Bots with the most votes this month
+view.explore.category.subtitle: Bots in de {} categorie
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
 view.explore.featured.description: Top notch bots that are verified by Discord
-view.remove_ads.title: Verwijder Advertenties
-view.remove_ads.subtitle: Removes all ads from the app
-view.remove_ads.error.load_product: An unknown error occurred while loading the product.
-view.remove_ads.error.verify_purchase: An unknown error occurred while verifying your purchase.
-view.remove_ads.error.try_again: Please try again later or join the support server.
-view.remove_ads.error.join_server: Please join the support server.
-view.remove_ads.purchase: Purchase
-view.remove_ads.thank_you.title: Thank you for your purchase
-view.remove_ads.thank_you.subtitle: All ads have now been removed
-view.remove_ads.error.store_problem: There was a problem with the store.
-view.remove_ads.error.try_again_later: Please try again later.
-view.remove_ads.error.purchase_not_allowed: This device or user is not allowed to make the purchase.
-view.remove_ads.error.purchase_invalid: The purchase is invalid.
-view.remove_ads.error.purchase_in_progress: This purchase is already in progress. Please be patient.
-view.remove_ads.error.product_already_purchased: This product has already been purchased.
-view.remove_ads.error.unknown_error: 'An unknown error occurred: {}.'
-view.remove_ads.error.title: An Error Occurred
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
-view.remove_ads.button.join_server: Join Support Server
-view.remove_ads.button.okay: Okay
-
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
-view.login.error.retry.button: Retry
-view.login.error.support_server.button: Steun server
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-
+view.explore.featured.title: Aanbevolen
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Meest Populair
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: Meeste Stemmen
+view.top_charts.most_popular: Meest Populair
+view.top_charts.most_voted: Meeste Stemmen
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: Kan jij dat ook
+view.navigation.settings: Dag
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason

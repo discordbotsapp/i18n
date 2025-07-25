@@ -1,5 +1,4 @@
 ---
-global.title: Bots för Discord
 global.navbar.explore: Upptäck
 global.navbar.top_charts: Topplistor
 global.navbar.account: Konto
@@ -7,219 +6,126 @@ global.navbar.search: Sök
 global.app_bar.explore: Upptäck
 global.app_bar.top_charts: Topplistor
 global.app_bar.account: Konto
-global.app_bar.advanced: Avancerat
-global.app_bar.login: Logga in
 global.app_bar.settings: Inställningar
-global.app_bar.language: Språk
-global.app_bar.report: 'Anmäl {}'
-global.app_bar.categories: Kategorier
 global.app_bar.remove_ads: Ta bort reklam
-
-global.tag.music: Musik
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Ljudbord
-global.tag.moderation: Moderera
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Skoj
-global.tag.economy: Ekonomi
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Spel
-global.tag.meme: Meme
-global.tag.leveling: Nivå
-global.tag.roleplay: Rollspel
-global.tag.logging: Loggar
-global.tag.utility: Verktyg
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multifunktionell
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Krypto #KEEP AS IS
-global.tag.top_charts: Topplistor
-global.footer.contact: 'Kontakt: support@discordbots.app'
 global.footer.info: Bots for Discord-appen är inte anslutna till Discord eller någon av Discord Bot listorna som stöds.
-global.login_alert.title: Logga in
-global.login_alert.cancel.button: Avbryt
-global.login_alert.login.button: Logga in
-global.button.sign_in: Sign In
 global.button.cancel: Cancel
-global.rate_dialog.title: Betygsätt Bots for Discord appen
-global.rate_dialog.subtitle: Om du gillar den här appen, ta lite av din tid att granska den! Det hjälper oss verkligen och det borde inte ta mer än en minut.
-global.rate_dialog.button.rate: Betygsätt
-global.rate_dialog.button.no_thanks: NEJ TACK
-global.rate_dialog.button.maybe_later: KANSKE SENARE
-
-global.pop_up_menu_button.remove_ads.button: Ta bort reklam
-
-global.pop_up_menu_button.usage_data.button: Användningsdata
-
-view.bot.add.button: LÄGG TILL
-view.bot.stats.votes: Votes
-view.bot.stats.servers: Servers
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.ratings: RATINGS
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.button: Un-hide Bot
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.title: Hide Bot
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
 view.bot.hide.button: Hide Bot
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servrar'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} röster'
-view.bot.chip.vote: '{} rösta'
-view.bot.menu.report: Anmäl
-view.bot.menu.copy_id: Kopiera ID
-view.bot.menu.copy_id.snack_bar: Kopierade {}'s ID
-view.bot.menu.hide: Dölj
-view.bot.menu.hide.alert_dialog.title: Dölj {}
-view.bot.menu.hide.alert_dialog.text: 'Är du säker på att du vill dölja {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Avbryt
-view.bot.menu.hide.alert_dialog.yes.button: 'Ja'
-view.bot.website.button: Hemsida
-view.bot.support_server.button: Support server
-view.bot.vote.button: Rösta
-view.bot.report.login_alert: Du måste vara inloggad för att rapportera denna bot.
-view.bot.hide.login_alert: Du måste vara inloggad för att dölja denna bot.
-view.bot.copy.snackbar: Kopierade {}'s ID
-view.report.report_reason.title: Anledning till rapportering
-view.report.report_reason.hint: Välj en orsak
-view.report.report_reason.empty: Vänligen ange ett skäl
-view.report.additional_information.title: Mer information
-view.report.additional_information.hint: Ange ytterligare detaljer här...
-view.report.additional_information.empty: Vänligen ange ett skäl
-view.report.submit.button: Skicka
-view.report.report_reason.dropdown.option1: Innapropriat/NSFW innehåll
-view.report.report_reason.dropdown.option2: Offline under lång tid
-view.report.report_reason.dropdown.option3: Vilseledande funktioner och beskrivning
-view.report.report_reason.dropdown.option4: Boten fungerar inte
-view.report.report_reason.dropdown.option5: Inbjudningslänken fungerar inte
-view.report.report_reanos.dropdown.option6: Annan orsak
-view.explore.title: Upptäck
-view.explore.featured.title: Utvalda
-view.explore.featured.subtitle: Bots i toppklass som verifieras av Discord
-view.explore.trending.title: Trendar
-view.explore.trending.subtitle: Nya bottar som snabbt blir populära
-view.explore.new.title: Ny
-view.explore.new.subtitle: Senast tillagda
-view.explore.most_voted.title: Flest röster
-view.explore.most_voted.subtitle: Bots med flest röster denna månad
-view.explore.most_popular.title: Mest Populära
-view.explore.most_popular.subtitle: Bots i flest servrar
-view.explore.see_all.button: Se alla
-view.explore.categories.title: Utforska kategorier
-view.explore.category.subtitle: Bots i kategorin {}
-view.explore.footer.support_server.button: Support server
-view.explore.footer.bug_report.button: Buggrapport
-view.explore.footer.about.button: Om
-view.explore.footer.privacy_policy.button: Sekretesspolicy
-view.top_charts.most_votes: Flest röster
-view.top_charts.most_servers: Flest servrar
-view.top_charts.bot.subtitle.servers.plural: '{} servrar'
-view.top_charts.bot.subtitle.votes.plural: '{} röster'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} rösta'
-view.account.login.guest: Gäst
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Logga in med Discord
-view.account.login.error: Ett fel uppstod vid inloggning. Försök igen senare.
-view.account.login.error.button: Tillbaka till inloggning
 view.account.my_bots.button: Mina botar
 view.account.add_bot.button: Lägg till bot
-view.account.remove_ads.button: Ta bort reklam
-
 view.account.settings.button: Inställningar
 view.account.settings.description: Settings & preferences
-view.account.help.button: Help & Support
-view.account.help.description: Get help and support
-view.account.quick_actions.title: Quick Actions
 view.account.profile.fallback_username: Discord User
 view.account.profile.fallback_email: No email
-view.my_bots.title: Mina botar
 view.my_bots.subtitle: Manage your Discord bots
-view.my_bots.none: Du äger inga botar
-view.add_bot.title: Lägg till bot
 view.add_bot.subtitle: Submit your bot to bot lists
-view.add_bot.note: 'Obs: Din bot kanske inte omedelbart visas i appen efter att den lagts till i en annan bot lista.'
-view.settings.theme.title: Tema
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Mörkt
-view.settings.theme.light.radio: Ljust
-view.settings.language.title: Språk
-view.settings.language.placeholder: Välj ett språk
-view.settings.language.help_translate.button: Hjälp till att översätta appen
-view.settings.support.title: Kundtjänst
-view.settings.support.support_server.button: Support server
-view.settings.support.report_a_bug.button: Rapportera en bugg
-view.settings.account.title: Konto
-view.settings.account.advanced.button: Avancerat
-view.settings.account.log_out.button: Logga ut
-view.settings.account.log_out.alert_dialog.title: Logga ut
-view.settings.account.log_out.alert_dialog.text: Är du säker på att du vill logga ut?
-view.settings.account.log_out.alert_dialog.cancel.button: Avbryt
-view.settings.account.log_out.alert_dialog.log_out.button: Logga ut
-view.settings.account.delete_account.button: Radera konto
-view.settings.account.delete_account.alert_dialog.title: Radera konto
-view.settings.account.delete_account.alert_dialog.text: Är du säker på att du vill radera ditt konto? Denna åtgärd kan inte ångras.
-view.settings.account.delete_account.alert_dialog.cancel.button: Avbryt
-view.settings.account.delete_account.alert_dialog.yes.button: 'Ja'
-view.settings.info.title: Info
-view.settings.info.about.button: Om
-view.settings.info.about.popup.legalese: Copyright © {} Tetractyl. Med ensamrätt.
-view.settings.info.privacy_policy.button: Sekretesspolicy
-view.bot.reported.title: Anmäld {}
-view.bot.reported.subtitle: 'Du har rapporterat {} av följande skäl:'
-view.bot.reported.button.okay: Okej
-view.user.bots: Botar
-view.search.hint: Sök...
-view.search.title: Sök
-view.search.placeholder: Search for bots...
-view.search.subtitle.noQuery: Sök efter en bot...
-view.search.subtitle.query: Visar sökresultat för {}
-view.search.none: Inga resultat hittades
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
 view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Logga in med Discord
 view.welcome.skip.button: Hoppa över för stunden
+view.welcome.subtitle: Find the perfect bot for your server
 view.explore.browse_categories.description: Discover bots by category
-view.top_charts.most_voted: Most Voted
-view.top_charts.most_popular: Most Popular
 view.explore.browse_categories.title: Browse Categories
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_voted.description: Bots with the most votes this month
+view.explore.category.subtitle: Bots i kategorin {}
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
 view.explore.featured.description: Top notch bots that are verified by Discord
-view.remove_ads.title: Ta bort reklam
-view.remove_ads.subtitle: Tar bort alla annonser från appen
-view.remove_ads.error.load_product: Ett fel uppstod vid laddning av objektet.
-view.remove_ads.error.verify_purchase: Ett okänt problem uppstod när vi verifierade ditt köp.
-view.remove_ads.error.try_again: Försök igen senare eller gå med i supportservern.
-view.remove_ads.error.join_server: Vänligen gå med i supportservern.
-view.remove_ads.purchase: Köp
-view.remove_ads.thank_you.title: Tack för ditt köp
-view.remove_ads.thank_you.subtitle: Alla annonser har nu tagits bort
-view.remove_ads.error.store_problem: Det uppstod ett problem med butiken.
-view.remove_ads.error.try_again_later: Vänligen försök igen senare.
-view.remove_ads.error.purchase_not_allowed: Den här enheten eller användaren får inte göra köpet.
-view.remove_ads.error.purchase_invalid: Köpet är ogiltigt.
-view.remove_ads.error.purchase_in_progress: Detta köp pågår redan. Var vänlig och vänta.
-view.remove_ads.error.product_already_purchased: Denna produkt har redan köpts.
-view.remove_ads.error.unknown_error: 'Ett okänt fel uppstod: {}.'
-view.remove_ads.error.title: Ett fel uppstod
-view.remove_ads.error.not_logging_in: Du måste vara inloggad för att köpa denna produkt.
-view.remove_ads.button.join_server: Anslut till support servern
-view.remove_ads.button.okay: Okej
-
-view.login.error.title: Det uppstod ett fel vid inloggning
-view.login.error.subtitle: Försök igen eller gå med i supportservern nedan för hjälp med att logga in.
-view.login.error.retry.button: Försök igen
-view.login.error.support_server.button: Support server
-view.login.logging_in.title: Loggar in dig
-view.advanced.usage_data.title: Användningsdata
-view.advanced.usage_data.switch1.title: Skicka kraschdata
-view.advanced.usage_data.switch2.title: Skicka prestandadata
-view.advanced.usage_data.switch3.title: Skicka analysdata
-
+view.explore.featured.title: Utvalda
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Mest Populära
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: Flest röster
+view.top_charts.most_popular: Mest Populära
+view.top_charts.most_voted: Flest röster
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: Konto
+view.navigation.settings: Inställningar
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason
