@@ -1,131 +1,139 @@
 ---
-global.navbar.explore: Explore
-global.navbar.top_charts: Top Charts
-global.navbar.account: Account
-global.navbar.search: Search
-global.app_bar.explore: Explore
-global.app_bar.top_charts: Top Charts
-global.app_bar.account: Account
-global.app_bar.settings: Settings
-global.app_bar.remove_ads: Remove Ads
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.button.cancel: Cancel
-global.button.sign_in: Sign In
-global.support_server.join: Join Support Server
-view.bot.add.button: Add
-view.bot.hide.button: Hide Bot
-view.bot.hide.title: Hide Bot
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.unhide.button: Un-hide Bot
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.stats.ratings: RATINGS
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.servers: Servers
-view.bot.stats.votes: Votes
-view.bot.promoted: Promoted
-view.bot.see_all: See All
-view.account.login.button: Login with Discord
-view.account.my_bots.button: My Bots
-view.account.add_bot.button: Add Bot
-view.account.settings.button: Settings
-view.account.settings.description: Settings & preferences
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.subtitle: Manage your Discord bots
-view.add_bot.subtitle: Submit your bot to bot lists
-view.settings.appearance.title: Appearance
-view.settings.appearance.dark: Dark
-view.settings.appearance.light: Light
-view.settings.language.title: Language
-view.settings.hidden_bots.title: Hidden Bots
-view.settings.hidden_bots.description: Manage hidden bots
-view.settings.privacy.title: Privacy
-view.settings.privacy.description: Privacy settings
-view.settings.coming_soon.title: Coming Soon
-view.settings.coming_soon.privacy: Privacy settings coming soon!
-view.settings.sign_in_required.title: Sign In Required
-view.settings.sign_in_required.message: You need to sign in to access settings.
-view.settings.sign_out.title: Sign Out
-view.settings.sign_out.description: Sign out of your account
-view.theme.title: Theme
-view.languages.title: Language
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.discover.title: "Discover {} Discord Bots"
-view.welcome.discover.subtitle: Find the perfect bot for your server
-view.welcome.login.button: Login with Discord
-view.welcome.skip.button: Skip for Now
-view.welcome.subtitle: Find the perfect bot for your server
-view.explore.browse_categories.description: Discover bots by category
-view.explore.browse_categories.title: Browse Categories
-view.explore.category.subtitle: Bots in the {} category
-view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+global.navbar.explore: एक्सप्लोर
+global.navbar.top_charts: टॉप चार्ट्स
+global.navbar.account: खाता
+global.navbar.search: खोजें
+global.app_bar.explore: एक्सप्लोर
+global.app_bar.top_charts: टॉप चार्ट्स
+global.app_bar.account: खाता
+global.app_bar.settings: सेटिंग्स
+global.app_bar.remove_ads: विज्ञापन हटाएं
+global.footer.info: Bots for Discord App का Discord या किसी भी समर्थित Discord Bot Lists से कोई संबंध नहीं है। # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: रद्द करें
+global.button.sign_in: साइन इन करें
+global.support_server.join: सपोर्ट सर्वर से जुड़ें
+view.bot.add.button: जोड़ें
+view.bot.hide.button: Bot छुपाएं
+view.bot.hide.title: Bot छुपाएं
+view.bot.hide.message: क्या आप वाकई इस bot को छुपाना चाहते हैं?
+view.bot.hide.login_required.title: साइन इन आवश्यक
+view.bot.hide.login_required.message: Bots छुपाने के लिए आपको साइन इन करना होगा।
+view.bot.unhide.button: Bot दिखाएं
+view.bot.unhide.title: Bot दिखाएं
+view.bot.unhide.message: क्या आप वाकई इस bot को दिखाना चाहते हैं?
+view.bot.stats.ratings: रेटिंग्स
+view.bot.stats.server_count: सर्वर काउंट
+view.bot.stats.vote_count: वोट काउंट
+view.bot.stats.servers: सर्वर्स
+view.bot.stats.votes: वोट्स
+view.bot.promoted: प्रमोटेड
+view.bot.see_all: सभी देखें
+view.account.login.button: Discord के साथ लॉगिन करें
+view.account.my_bots.button: मेरे Bots
+view.account.add_bot.button: Bot जोड़ें
+view.account.settings.button: सेटिंग्स
+view.account.settings.description: सेटिंग्स और प्राथमिकताएं
+view.account.profile.fallback_username: Discord उपयोगकर्ता
+view.account.profile.fallback_email: कोई ईमेल नहीं
+view.my_bots.subtitle: अपने Discord bots का प्रबंधन करें
+view.add_bot.subtitle: अपने bot को bot lists में सबमिट करें
+view.settings.appearance.title: दिखावट
+view.settings.appearance.dark: डार्क
+view.settings.appearance.light: लाइट
+view.settings.language.title: भाषा
+view.settings.hidden_bots.title: छुपे हुए Bots
+view.settings.hidden_bots.description: छुपे हुए bots का प्रबंधन करें
+view.settings.privacy.title: गोपनीयता
+view.settings.privacy.description: गोपनीयता सेटिंग्स
+view.settings.coming_soon.title: जल्द आ रहा है
+view.settings.coming_soon.privacy: गोपनीयता सेटिंग्स जल्द आ रही हैं!
+view.settings.sign_in_required.title: साइन इन आवश्यक
+view.settings.sign_in_required.message: सेटिंग्स एक्सेस करने के लिए आपको साइन इन करना होगा।
+view.settings.sign_out.title: साइन आउट
+view.settings.sign_out.description: अपने खाते से साइन आउट करें
+view.theme.title: थीम
+view.languages.title: भाषा
+view.welcome.title: Bots for Discord में आपका स्वागत है
+view.welcome.discover.title: "{} Discord Bots खोजें"
+view.welcome.discover.subtitle: अपने सर्वर के लिए सही bot खोजें
+view.welcome.login.button: Discord के साथ लॉगिन करें
+view.welcome.skip.button: अभी छोड़ें
+view.welcome.subtitle: अपने सर्वर के लिए सही bot खोजें
+view.explore.browse_categories.description: श्रेणी के अनुसार bots खोजें
+view.explore.browse_categories.title: श्रेणियां ब्राउज़ करें
+view.explore.category.subtitle: {} श्रेणी में Bots
+view.explore.discord_server.description: Bot सिफारिशों, ऐप समर्थन, या अनुवाद और बीटा परीक्षण में शामिल होने के लिए हमारे Discord समुदाय से जुड़ें।
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: Need Help or Want to Contribute?
-view.explore.featured.description: Top notch bots that are verified by Discord
-view.explore.featured.title: Featured
-view.explore.highest_rated.description: Bots with the highest ratings from users
-view.explore.highest_rated.title: Highest Rated
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Most Popular
-view.explore.most_voted.description: Bots with the most votes this month
-view.explore.most_voted.title: Most Voted
-view.top_charts.most_popular: Most Popular
-view.top_charts.most_voted: Most Voted
-view.submit_bot.error.title: Failed to Load Bot Lists
-view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-#Alert dialogs and error messages
-view.alert.sign_out.title: Sign Out
-view.alert.sign_out.message: Are you sure you want to sign out?
-view.alert.sign_out.cancel: Cancel
-view.alert.sign_out.confirm: Sign Out
-view.alert.error.title: Error
-view.alert.error.sign_out_failed: Failed to sign out. Please try again.
-view.alert.error.sign_in_failed: Failed to sign in. Please try again.
-view.alert.error.delete_account_failed: Failed to delete account. Please try again.
-view.alert.error.submit_report_failed: Failed to submit report. Please try again.
-view.alert.error.no_invite_link: "{} doesn't have an invite link."
-view.alert.error.open_invite_failed: Failed to open invite link.
-view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
-view.alert.error.open_support_failed: Failed to open support server link.
-#Delete account dialogs
-view.alert.delete_account.title: Delete Account
-view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
-view.alert.delete_account.confirm: Delete
-view.alert.delete_account.final.title: Delete Account
-view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-#Report bot screen
-view.report.title: Report Bot
-view.report.header.title: Report Bot
-view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
-view.report.reason.title: Report Reason
-view.report.reason.select: Select a reason
-view.report.details.title: Additional Details
-view.report.details.placeholder: Please provide specific details about the issue...
-view.report.submit.button: Submit Report
-view.report.submit.submitting: Submitting...
-view.report.submit.success.title: Report Submitted
-view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
-view.report.submit.success.ok: OK
-view.report.validation.no_reason: Please select a reason for reporting.
-view.report.validation.no_details: Please provide additional details about the issue.
-#Loading and error states
-view.loading.bot_details: Loading bot details...
-view.error.bot_not_found: Bot not found.
-view.loading.categories: Loading categories...
-#Navigation headers
-view.navigation.account: Account
-view.navigation.settings: Settings
-view.navigation.categories: Categories
-view.navigation.bot_details: Bot Details
-#Search suggestions
-view.search.suggestions.title: Suggested searches
-view.search.placeholder: Search for bots...
-#Support and ads
-view.support.server.description: Join the app's support server
-view.remove_ads.description: Permanently disable in-app ads
-#Bottom sheet
-view.bottom_sheet.select_reason: Select Reason
+view.explore.discord_server.title: सहायता चाहिए या योगदान देना चाहते हैं?
+view.explore.featured.description: Discord द्वारा सत्यापित शीर्ष गुणवत्ता वाले bots
+view.explore.featured.title: फीचर्ड
+view.explore.highest_rated.description: उपयोगकर्ताओं से सबसे अधिक रेटिंग वाले bots
+view.explore.highest_rated.title: सबसे अधिक रेटेड
+view.explore.most_popular.description: सबसे अधिक सर्वर्स में मौजूद bots
+view.explore.most_popular.title: सबसे लोकप्रिय
+view.explore.most_voted.description: इस महीने सबसे अधिक वोट पाने वाले bots
+view.explore.most_voted.title: सबसे अधिक वोटेड
+view.top_charts.most_popular: सबसे लोकप्रिय
+view.top_charts.most_voted: सबसे अधिक वोटेड
+view.submit_bot.error.title: Bot Lists लोड करने में विफल
+view.submit_bot.error.description: हम उपलब्ध bot lists लोड नहीं कर सके। कृपया बाद में पुनः प्रयास करें।
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: साइन आउट
+view.alert.sign_out.message: क्या आप वाकई साइन आउट करना चाहते हैं?
+view.alert.sign_out.cancel: रद्द करें
+view.alert.sign_out.confirm: साइन आउट
+view.alert.error.title: त्रुटि
+view.alert.error.sign_out_failed: साइन आउट करने में विफल। कृपया पुनः प्रयास करें।
+view.alert.error.sign_in_failed: साइन इन करने में विफल। कृपया पुनः प्रयास करें।
+view.alert.error.delete_account_failed: खाता हटाने में विफल। कृपया पुनः प्रयास करें।
+view.alert.error.submit_report_failed: रिपोर्ट सबमिट करने में विफल। कृपया पुनः प्रयास करें।
+view.alert.error.no_invite_link: "{} के पास कोई आमंत्रण लिंक नहीं है।"
+view.alert.error.open_invite_failed: आमंत्रण लिंक खोलने में विफल।
+view.alert.error.discord_not_installed: Discord खोलने में असमर्थ। कृपया सुनिश्चित करें कि आपके डिवाइस पर Discord इंस्टॉल है।
+view.alert.error.open_support_failed: सपोर्ट सर्वर लिंक खोलने में विफल।
+
+# Delete account dialogs
+view.alert.delete_account.title: खाता हटाएं
+view.alert.delete_account.message: क्या आप वाकई अपना खाता हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती और आपका सारा डेटा स्थायी रूप से हटा देगी।
+view.alert.delete_account.confirm: हटाएं
+view.alert.delete_account.final.title: खाता हटाएं
+view.alert.delete_account.final.message: यह आपके खाते और संबंधित डेटा को स्थायी रूप से मिटा देगा। क्या आप निश्चित हैं?
+
+# Report bot screen
+view.report.title: Bot की रिपोर्ट करें
+view.report.header.title: Bot की रिपोर्ट करें
+view.report.header.description: अनुचित सामग्री या समस्याओं की रिपोर्ट करके समुदाय को सुरक्षित रखने में हमारी सहायता करें।
+view.report.reason.title: रिपोर्ट का कारण
+view.report.reason.select: एक कारण चुनें
+view.report.details.title: अतिरिक्त विवरण
+view.report.details.placeholder: कृपया समस्या के बारे में विशिष्ट विवरण प्रदान करें...
+view.report.submit.button: रिपोर्ट सबमिट करें
+view.report.submit.submitting: सबमिट कर रहे हैं...
+view.report.submit.success.title: रिपोर्ट सबमिट हुई
+view.report.submit.success.message: आपकी रिपोर्ट के लिए धन्यवाद। हम इसकी समीक्षा करेंगे और उचित कार्रवाई करेंगे।
+view.report.submit.success.ok: ठीक है
+view.report.validation.no_reason: कृपया रिपोर्ट करने का कारण चुनें।
+view.report.validation.no_details: कृपया समस्या के बारे में अतिरिक्त विवरण प्रदान करें।
+
+# Loading and error states
+view.loading.bot_details: Bot विवरण लोड कर रहे हैं...
+view.error.bot_not_found: Bot नहीं मिला।
+view.loading.categories: श्रेणियां लोड कर रहे हैं...
+
+# Navigation headers
+view.navigation.account: खाता
+view.navigation.settings: सेटिंग्स
+view.navigation.categories: श्रेणियां
+view.navigation.bot_details: Bot विवरण
+
+# Search suggestions
+view.search.suggestions.title: सुझावित खोजें
+view.search.placeholder: Bots के लिए खोजें...
+
+# Support and ads
+view.support.server.description: ऐप के सपोर्ट सर्वर से जुड़ें
+view.remove_ads.description: इन-ऐप विज्ञापनों को स्थायी रूप से अक्षम करें
+
+# Bottom sheet
+view.bottom_sheet.select_reason: कारण चुनें

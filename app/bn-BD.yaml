@@ -2,130 +2,130 @@
 global.navbar.explore: ঘুরে দেখুন
 global.navbar.top_charts: শীর্ষ তালিকা
 global.navbar.account: অ্যাকাউন্ট
-global.navbar.search: Search
+global.navbar.search: অনুসন্ধান
 global.app_bar.explore: ঘুরে দেখুন
 global.app_bar.top_charts: শীর্ষ তালিকা
 global.app_bar.account: অ্যাকাউন্ট
 global.app_bar.settings: সেটিংস
-global.app_bar.remove_ads: Remove Ads
-global.footer.info: ডিসকর্ড অ্যাপের জন্য বটগুলি ডিসকর্ড বা সমর্থিত কোনও ডিসকর্ড বট তালিকার সাথে অনুমোদিত নয়
-global.button.cancel: Cancel
-global.button.sign_in: Sign In
-global.support_server.join: Join Support Server
-view.bot.add.button: Add
-view.bot.hide.button: Hide Bot
-view.bot.hide.title: Hide Bot
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.unhide.button: Un-hide Bot
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.stats.ratings: RATINGS
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.servers: Servers
-view.bot.stats.votes: Votes
-view.bot.promoted: Promoted
-view.bot.see_all: See All
-view.account.login.button: Login with Discord
-view.account.my_bots.button: My Bots
-view.account.add_bot.button: Add Bot
+global.app_bar.remove_ads: বিজ্ঞাপন সরান
+global.footer.info: Bots for Discord App Discord বা সমর্থিত কোনো Discord Bot Lists এর সাথে অধিভুক্ত নয়। # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: বাতিল
+global.button.sign_in: সাইন ইন
+global.support_server.join: সাপোর্ট সার্ভারে যোগ দিন
+view.bot.add.button: যোগ করুন
+view.bot.hide.button: Bot লুকান
+view.bot.hide.title: Bot লুকান
+view.bot.hide.message: আপনি কি নিশ্চিত যে এই bot টি লুকাতে চান?
+view.bot.hide.login_required.title: সাইন ইন প্রয়োজন
+view.bot.hide.login_required.message: Bot লুকানোর জন্য আপনাকে সাইন ইন করতে হবে।
+view.bot.unhide.button: Bot প্রদর্শন করুন
+view.bot.unhide.title: Bot প্রদর্শন করুন
+view.bot.unhide.message: আপনি কি নিশ্চিত যে এই bot টি প্রদর্শন করতে চান?
+view.bot.stats.ratings: রেটিং
+view.bot.stats.server_count: সার্ভার সংখ্যা
+view.bot.stats.vote_count: ভোট সংখ্যা
+view.bot.stats.servers: সার্ভার
+view.bot.stats.votes: ভোট
+view.bot.promoted: প্রচারিত
+view.bot.see_all: সব দেখুন
+view.account.login.button: Discord দিয়ে লগইন করুন
+view.account.my_bots.button: আমার Bot গুলি
+view.account.add_bot.button: Bot যোগ করুন
 view.account.settings.button: সেটিংস
-view.account.settings.description: Settings & preferences
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.subtitle: Manage your Discord bots
-view.add_bot.subtitle: Submit your bot to bot lists
-view.settings.appearance.title: Appearance
-view.settings.appearance.dark: Dark
-view.settings.appearance.light: Light
-view.settings.language.title: Language
-view.settings.hidden_bots.title: Hidden Bots
-view.settings.hidden_bots.description: Manage hidden bots
-view.settings.privacy.title: Privacy
-view.settings.privacy.description: Privacy settings
-view.settings.coming_soon.title: Coming Soon
-view.settings.coming_soon.privacy: Privacy settings coming soon!
-view.settings.sign_in_required.title: Sign In Required
-view.settings.sign_in_required.message: You need to sign in to access settings.
-view.settings.sign_out.title: Sign Out
-view.settings.sign_out.description: Sign out of your account
-view.theme.title: Theme
-view.languages.title: Language
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.discover.title: "Discover {} Discord Bots"
-view.welcome.discover.subtitle: Find the perfect bot for your server
-view.welcome.login.button: Login with Discord
-view.welcome.skip.button: Skip for Now
-view.welcome.subtitle: Find the perfect bot for your server
-view.explore.browse_categories.description: Discover bots by category
-view.explore.browse_categories.title: Browse Categories
-view.explore.category.subtitle: Bots in the {} category
-view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.account.settings.description: সেটিংস এবং পছন্দসমূহ
+view.account.profile.fallback_username: Discord ব্যবহারকারী
+view.account.profile.fallback_email: কোনো ইমেইল নেই
+view.my_bots.subtitle: আপনার Discord bot গুলি পরিচালনা করুন
+view.add_bot.subtitle: Bot তালিকায় আপনার bot জমা দিন
+view.settings.appearance.title: চেহারা
+view.settings.appearance.dark: অন্ধকার
+view.settings.appearance.light: উজ্জ্বল
+view.settings.language.title: ভাষা
+view.settings.hidden_bots.title: লুকানো Bot গুলি
+view.settings.hidden_bots.description: লুকানো bot গুলি পরিচালনা করুন
+view.settings.privacy.title: গোপনীয়তা
+view.settings.privacy.description: গোপনীয়তা সেটিংস
+view.settings.coming_soon.title: শীঘ্রই আসছে
+view.settings.coming_soon.privacy: গোপনীয়তা সেটিংস শীঘ্রই আসছে!
+view.settings.sign_in_required.title: সাইন ইন প্রয়োজন
+view.settings.sign_in_required.message: সেটিংস অ্যাক্সেস করার জন্য আপনাকে সাইন ইন করতে হবে।
+view.settings.sign_out.title: সাইন আউট
+view.settings.sign_out.description: আপনার অ্যাকাউন্ট থেকে সাইন আউট করুন
+view.theme.title: থিম
+view.languages.title: ভাষা
+view.welcome.title: Bots for Discord এ স্বাগতম
+view.welcome.discover.title: "{} Discord Bot আবিষ্কার করুন"
+view.welcome.discover.subtitle: আপনার সার্ভারের জন্য নিখুঁত bot খুঁজুন
+view.welcome.login.button: Discord দিয়ে লগইন করুন
+view.welcome.skip.button: এখনের জন্য এড়িয়ে যান
+view.welcome.subtitle: আপনার সার্ভারের জন্য নিখুঁত bot খুঁজুন
+view.explore.browse_categories.description: ক্যাটেগরি অনুযায়ী bot আবিষ্কার করুন
+view.explore.browse_categories.title: ক্যাটেগরি ব্রাউজ করুন
+view.explore.category.subtitle: {} ক্যাটেগরির Bot গুলি
+view.explore.discord_server.description: Bot সুপারিশ, অ্যাপ সাপোর্ট, অথবা অনুবাদ এবং বেটা টেস্টিং এ জড়িত হওয়ার জন্য আমাদের Discord কমিউনিটিতে যোগ দিন।
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: Need Help or Want to Contribute?
-view.explore.featured.description: Top notch bots that are verified by Discord
-view.explore.featured.title: Featured
-view.explore.highest_rated.description: Bots with the highest ratings from users
-view.explore.highest_rated.title: Highest Rated
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Most Popular
-view.explore.most_voted.description: Bots with the most votes this month
-view.explore.most_voted.title: Most Voted
-view.top_charts.most_popular: Most Popular
-view.top_charts.most_voted: Most Voted
-view.submit_bot.error.title: Failed to Load Bot Lists
-view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+view.explore.discord_server.title: সাহায্য প্রয়োজন বা অবদান রাখতে চান?
+view.explore.featured.description: Discord দ্বারা যাচাইকৃত উচ্চমানের bot গুলি
+view.explore.featured.title: বৈশিষ্ট্যযুক্ত
+view.explore.highest_rated.description: ব্যবহারকারীদের দ্বারা সর্বোচ্চ রেটিংপ্রাপ্ত bot গুলি
+view.explore.highest_rated.title: সর্বোচ্চ রেটিং
+view.explore.most_popular.description: সবচেয়ে বেশি সার্ভারে থাকা bot গুলি
+view.explore.most_popular.title: সবচেয়ে জনপ্রিয়
+view.explore.most_voted.description: এই মাসে সবচেয়ে বেশি ভোট পাওয়া bot গুলি
+view.explore.most_voted.title: সর্বাধিক ভোটপ্রাপ্ত
+view.top_charts.most_popular: সবচেয়ে জনপ্রিয়
+view.top_charts.most_voted: সর্বাধিক ভোটপ্রাপ্ত
+view.submit_bot.error.title: Bot তালিকা লোড করতে ব্যর্থ
+view.submit_bot.error.description: আমরা উপলব্ধ bot তালিকা লোড করতে পারিনি। পরে আবার চেষ্টা করুন।
 #Alert dialogs and error messages
-view.alert.sign_out.title: Sign Out
-view.alert.sign_out.message: Are you sure you want to sign out?
-view.alert.sign_out.cancel: Cancel
-view.alert.sign_out.confirm: Sign Out
-view.alert.error.title: Error
-view.alert.error.sign_out_failed: Failed to sign out. Please try again.
-view.alert.error.sign_in_failed: Failed to sign in. Please try again.
-view.alert.error.delete_account_failed: Failed to delete account. Please try again.
-view.alert.error.submit_report_failed: Failed to submit report. Please try again.
-view.alert.error.no_invite_link: "{} doesn't have an invite link."
-view.alert.error.open_invite_failed: Failed to open invite link.
-view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
-view.alert.error.open_support_failed: Failed to open support server link.
+view.alert.sign_out.title: সাইন আউট
+view.alert.sign_out.message: আপনি কি নিশ্চিত যে সাইন আউট করতে চান?
+view.alert.sign_out.cancel: বাতিল
+view.alert.sign_out.confirm: সাইন আউট
+view.alert.error.title: ত্রুটি
+view.alert.error.sign_out_failed: সাইন আউট করতে ব্যর্থ। পুনরায় চেষ্টা করুন।
+view.alert.error.sign_in_failed: সাইন ইন করতে ব্যর্থ। পুনরায় চেষ্টা করুন।
+view.alert.error.delete_account_failed: অ্যাকাউন্ট মুছতে ব্যর্থ। পুনরায় চেষ্টা করুন।
+view.alert.error.submit_report_failed: রিপোর্ট জমা দিতে ব্যর্থ। পুনরায় চেষ্টা করুন।
+view.alert.error.no_invite_link: "{} এর কোনো আমন্ত্রণ লিংক নেই।"
+view.alert.error.open_invite_failed: আমন্ত্রণ লিংক খুলতে ব্যর্থ।
+view.alert.error.discord_not_installed: Discord খুলতে অক্ষম। আপনার ডিভাইসে Discord ইনস্টল করা আছে কিনা নিশ্চিত করুন।
+view.alert.error.open_support_failed: সাপোর্ট সার্ভার লিংক খুলতে ব্যর্থ।
 #Delete account dialogs
-view.alert.delete_account.title: Delete Account
-view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
-view.alert.delete_account.confirm: Delete
-view.alert.delete_account.final.title: Delete Account
-view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+view.alert.delete_account.title: অ্যাকাউন্ট মুছুন
+view.alert.delete_account.message: আপনি কি নিশ্চিত যে আপনার অ্যাকাউন্ট মুছতে চান? এই কাজটি পূর্বাবস্থায় ফেরানো যাবে না এবং স্থায়ীভাবে আপনার সকল তথ্য মুছে ফেলবে।
+view.alert.delete_account.confirm: মুছুন
+view.alert.delete_account.final.title: অ্যাকাউন্ট মুছুন
+view.alert.delete_account.final.message: এটি স্থায়ীভাবে আপনার অ্যাকাউন্ট এবং সংশ্লিষ্ট তথ্য মুছে ফেলবে। আপনি কি নিশ্চিত?
 #Report bot screen
-view.report.title: Report Bot
-view.report.header.title: Report Bot
-view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
-view.report.reason.title: Report Reason
-view.report.reason.select: Select a reason
-view.report.details.title: Additional Details
-view.report.details.placeholder: Please provide specific details about the issue...
-view.report.submit.button: Submit Report
-view.report.submit.submitting: Submitting...
-view.report.submit.success.title: Report Submitted
-view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
-view.report.submit.success.ok: OK
-view.report.validation.no_reason: Please select a reason for reporting.
-view.report.validation.no_details: Please provide additional details about the issue.
+view.report.title: Bot রিপোর্ট করুন
+view.report.header.title: Bot রিপোর্ট করুন
+view.report.header.description: অনুপযুক্ত কনটেন্ট বা সমস্যা রিপোর্ট করে কমিউনিটিকে নিরাপদ রাখতে আমাদের সাহায্য করুন।
+view.report.reason.title: রিপোর্টের কারণ
+view.report.reason.select: একটি কারণ নির্বাচন করুন
+view.report.details.title: অতিরিক্ত বিবরণ
+view.report.details.placeholder: সমস্যা সম্পর্কে নির্দিষ্ট বিবরণ প্রদান করুন...
+view.report.submit.button: রিপোর্ট জমা দিন
+view.report.submit.submitting: জমা দেওয়া হচ্ছে...
+view.report.submit.success.title: রিপোর্ট জমা হয়েছে
+view.report.submit.success.message: আপনার রিপোর্টের জন্য ধন্যবাদ। আমরা এটি পর্যালোচনা করে যথাযথ ব্যবস্থা গ্রহণ করব।
+view.report.submit.success.ok: ঠিক আছে
+view.report.validation.no_reason: রিপোর্ট করার জন্য একটি কারণ নির্বাচন করুন।
+view.report.validation.no_details: সমস্যা সম্পর্কে অতিরিক্ত বিবরণ প্রদান করুন।
 #Loading and error states
-view.loading.bot_details: Loading bot details...
-view.error.bot_not_found: Bot not found.
-view.loading.categories: Loading categories...
+view.loading.bot_details: Bot এর বিবরণ লোড হচ্ছে...
+view.error.bot_not_found: Bot পাওয়া যায়নি।
+view.loading.categories: ক্যাটেগরি লোড হচ্ছে...
 #Navigation headers
 view.navigation.account: অ্যাকাউন্ট
 view.navigation.settings: সেটিংস
-view.navigation.categories: Categories
-view.navigation.bot_details: Bot Details
+view.navigation.categories: ক্যাটেগরি
+view.navigation.bot_details: Bot বিবরণ
 #Search suggestions
-view.search.suggestions.title: Suggested searches
-view.search.placeholder: Search for bots...
+view.search.suggestions.title: প্রস্তাবিত অনুসন্ধান
+view.search.placeholder: Bot এর জন্য অনুসন্ধান করুন...
 #Support and ads
-view.support.server.description: Join the app's support server
-view.remove_ads.description: Permanently disable in-app ads
+view.support.server.description: অ্যাপের সাপোর্ট সার্ভারে যোগ দিন
+view.remove_ads.description: স্থায়ীভাবে ইন-অ্যাপ বিজ্ঞাপন নিষ্ক্রিয় করুন
 #Bottom sheet
-view.bottom_sheet.select_reason: Select Reason
+view.bottom_sheet.select_reason: কারণ নির্বাচন করুন

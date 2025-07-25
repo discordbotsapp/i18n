@@ -1,189 +1,139 @@
 ---
-global.title: Bots for Discord
-global.navbar.explore: Explore
-global.navbar.top_charts: Top Charts
-global.navbar.account: Account
-global.app_bar.explore: Explore
-global.app_bar.top_charts: Top Charts
-global.app_bar.account: Account
-global.app_bar.login: Login
-global.app_bar.settings: Settings
-global.app_bar.language: Language
-global.app_bar.report: 'Report {}'
-global.app_bar.categories: Categories
-global.tag.music: Music
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Game
-global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top Charts
-global.footer.contact: 'Contact: support@discordbots.app'
-global.footer.info: Discord Bots App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Login
-global.login_alert.cancel.button: Cancel
-global.login_alert.login.button: Login
-global.button.sign_in: Sign In
-global.button.cancel: Cancel
-global.rate_dialog.title: Rate Discord Bots
-global.rate_dialog.subtitle: If you like this app, please take a little bit of your time to review it! It really helps us and it shouldn't take you more than one minute.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: NO THANKS
-global.rate_dialog.button.maybe_later: MAYBE LATER
-view.bot.add.button: ADD
-view.bot.stats.votes: Votes
-view.bot.stats.servers: Servers
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.ratings: RATINGS
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.button: Un-hide Bot
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.title: Hide Bot
-view.bot.hide.button: Hide Bot
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} votes'
-view.bot.chip.vote: '{} vote'
-view.bot.menu.report: Report
-view.bot.menu.copy_id: Copy ID
-view.bot.menu.copy_id.snack_bar: Copied {}'s ID
-view.bot.menu.hide: Hide
-view.bot.menu.hide.alert_dialog.title: Hide {}
-view.bot.menu.hide.alert_dialog.text: 'Are you sure you want to hide {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancel
-view.bot.menu.hide.alert_dialog.yes.button: 'Yes'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
-view.bot.vote.button: Vote
-view.bot.report.login_alert: You must be logged in to report this bot.
-view.bot.hide.login_alert: You must be logged in to hide this bot.
-view.bot.copy.snackbar: Copied {}'s ID
-view.report.report_reason.title: Reason for Reporting
-view.report.report_reason.hint: Select a reason
-view.report.report_reason.empty: Please select a reason
-view.report.additional_information.title: Additional Information
-view.report.additional_information.hint: Enter additional details here...
-view.report.additional_information.empty: Please select a reason
-view.report.submit.button: Submit
-view.report.report_reason.dropdown.option1: Innapropriate/NSFW content
-view.report.report_reason.dropdown.option2: Offline for a long period of time
-view.report.report_reason.dropdown.option3: Misleading features and description
-view.report.report_reason.dropdown.option4: Bot does not work
-view.report.report_reason.dropdown.option5: Invite link does not work
-view.report.report_reanos.dropdown.option6: Other reason
-view.explore.title: Explore
-view.explore.featured.title: Featured
-view.explore.featured.subtitle: Top notch bots that are verified by Discord
-view.explore.trending.title: Trending
-view.explore.trending.subtitle: New bots that are gaining traction quickly
-view.explore.new.title: New
-view.explore.new.subtitle: Recently added bots
-view.explore.most_voted.title: Most Voted
-view.explore.most_voted.subtitle: Bots with the most votes this month
-view.explore.see_all.button: See All
-view.explore.categories.title: Explore Categories
-view.explore.category.subtitle: Bots in the {} category
-view.explore.footer.support_server.button: Support Server
-view.explore.footer.bug_report.button: Bug Report
-view.explore.footer.terms_and_conditions.button: Terms & Conditions
-view.explore.footer.privacy_policy.button: Privacy Policy
-view.top_charts.most_votes: Most Votes
-view.top_charts.most_servers: Most Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} votes'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} vote'
-view.account.login.guest: Guest
-view.account.login.button: Login with Discord
-view.account.login.error: An error occured while logging you in. Please try again.
-view.account.login.error.button: Go back to login
-view.account.my_bots.button: My Bots
-view.account.add_bot.button: Add Bot
-view.account.remove_ads.button: Remove Ads
-view.account.settings.button: Settings
-view.account.settings.description: Settings & preferences
-view.account.help.button: Help & Support
-view.account.help.description: Get help and support
-view.account.quick_actions.title: Quick Actions
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.title: My Bots
-view.my_bots.subtitle: Manage your Discord bots
-view.my_bots.none: You do not own any bots
-view.add_bot.title: Add Bot
-view.add_bot.subtitle: Submit your bot to bot lists
-view.add_bot.note: 'Note: Your bot may not instantly appear in the app after adding it to another bot list.'
-view.settings.theme.title: Theme
-view.settings.theme.system.radio: System
-view.settings.theme.dark.radio: Dark
-view.settings.theme.light.radio: Light
-view.settings.language.title: Language
-view.settings.language.placeholder: Choose a language
-view.settings.support.title: Support
-view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: Report A Bug
-view.settings.account.title: Account
-view.settings.account.log_out.button: Log Out
-view.settings.account.log_out.alert_dialog.title: Log Out
-view.settings.account.log_out.alert_dialog.text: Are you sure you want to log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Cancel
-view.settings.account.log_out.alert_dialog.log_out.button: Log Out
-view.settings.account.delete_account.button: Delete Account
-view.settings.account.delete_account.alert_dialog.title: Delete Account
-view.settings.account.delete_account.alert_dialog.text: Are you sure you want to delete your account? This action cannot be undone.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancel
-view.settings.account.delete_account.alert_dialog.yes.button: 'Yes'
-view.settings.data.title: Data
-view.settings.data.about.button: About
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
-view.settings.data.terms_and_conditions.button: Terms & Conditions
-view.settings.data.privacy_policy.button: Privacy Policy
-view.under_maintenance.title: Under Maintenance
-view.under_maintenance.subtitle: The app is currently undergoing maintenance and will be back soon. Please check the support server for updates.
-view.under_maintenance.retry.button: Retry
-view.under_maintenance.support_server.button: Support Server
-view.no_internet.title: No Internet Connection
-view.no_internet.subtitle: No internet connection found. Please check your connection then try again
-view.no_internet.retry: Retry
-view.bot.reported.title: Reported {}
-view.bot.reported.subtitle: 'You have successfully reported {} for the following reason:'
-view.bot.reported.button.okay: Okay
-view.user.bots: Bots
-view.search.hint: Search...
-view.search.title: Search
-view.search.placeholder: Search for bots...
-view.search.subtitle.noQuery: Search for a bot...
-view.search.subtitle.query: Showing search results for {}
-view.search.none: No Results Found
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.login.button: Login with Discord
-view.welcome.skip.button: Skip for Now
-view.explore.browse_categories.description: Discover bots by category
-view.top_charts.most_voted: Most Voted
-view.top_charts.most_popular: Most Popular
-view.explore.browse_categories.title: Browse Categories
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Most Popular
-view.explore.most_voted.description: Bots with the most votes this month
-view.explore.featured.description: Top notch bots that are verified by Discord
+global.navbar.explore: สำรวจ
+global.navbar.top_charts: ชาร์ตยอดนิยม
+global.navbar.account: บัญชี
+global.navbar.search: ค้นหา
+global.app_bar.explore: สำรวจ
+global.app_bar.top_charts: ชาร์ตยอดนิยม
+global.app_bar.account: บัญชี
+global.app_bar.settings: การตั้งค่า
+global.app_bar.remove_ads: ลบโฆษณา
+global.footer.info: Bots for Discord App ไม่ได้เกี่ยวข้องกับ Discord หรือ Discord Bot Lists ที่สนับสนุน # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: ยกเลิก
+global.button.sign_in: เข้าสู่ระบบ
+global.support_server.join: เข้าร่วมเซิร์ฟเวอร์สนับสนุน
+view.bot.add.button: เพิ่ม
+view.bot.hide.button: ซ่อนบอท
+view.bot.hide.title: ซ่อนบอท
+view.bot.hide.message: คุณแน่ใจหรือว่าต้องการซ่อนบอทนี้?
+view.bot.hide.login_required.title: ต้องเข้าสู่ระบบ
+view.bot.hide.login_required.message: คุณต้องเข้าสู่ระบบเพื่อซ่อนบอท
+view.bot.unhide.button: แสดงบอท
+view.bot.unhide.title: แสดงบอท
+view.bot.unhide.message: คุณแน่ใจหรือว่าต้องการแสดงบอทนี้?
+view.bot.stats.ratings: คะแนน
+view.bot.stats.server_count: จำนวนเซิร์ฟเวอร์
+view.bot.stats.vote_count: จำนวนโหวต
+view.bot.stats.servers: เซิร์ฟเวอร์
+view.bot.stats.votes: โหวต
+view.bot.promoted: เลื่อนตำแหน่ง
+view.bot.see_all: ดูทั้งหมด
+view.account.login.button: เข้าสู่ระบบด้วย Discord
+view.account.my_bots.button: บอทของฉัน
+view.account.add_bot.button: เพิ่มบอท
+view.account.settings.button: การตั้งค่า
+view.account.settings.description: การตั้งค่าและความชอบ
+view.account.profile.fallback_username: ผู้ใช้ Discord
+view.account.profile.fallback_email: ไม่มีอีเมล
+view.my_bots.subtitle: จัดการบอท Discord ของคุณ
+view.add_bot.subtitle: ส่งบอทของคุณไปยังรายการบอท
+view.settings.appearance.title: รูปลักษณ์
+view.settings.appearance.dark: มืด
+view.settings.appearance.light: สว่าง
+view.settings.language.title: ภาษา
+view.settings.hidden_bots.title: บอทที่ซ่อน
+view.settings.hidden_bots.description: จัดการบอทที่ซ่อน
+view.settings.privacy.title: ความเป็นส่วนตัว
+view.settings.privacy.description: การตั้งค่าความเป็นส่วนตัว
+view.settings.coming_soon.title: เร็วๆ นี้
+view.settings.coming_soon.privacy: การตั้งค่าความเป็นส่วนตัวเร็วๆ นี้!
+view.settings.sign_in_required.title: ต้องเข้าสู่ระบบ
+view.settings.sign_in_required.message: คุณต้องเข้าสู่ระบบเพื่อเข้าถึงการตั้งค่า
+view.settings.sign_out.title: ออกจากระบบ
+view.settings.sign_out.description: ออกจากระบบบัญชีของคุณ
+view.theme.title: ธีม
+view.languages.title: ภาษา
+view.welcome.title: ยินดีต้อนรับสู่ Bots for Discord
+view.welcome.discover.title: "ค้นหา {} บอท Discord"
+view.welcome.discover.subtitle: ค้นหาบอทที่เหมาะสมสำหรับเซิร์ฟเวอร์ของคุณ
+view.welcome.login.button: เข้าสู่ระบบด้วย Discord
+view.welcome.skip.button: ข้ามไปก่อน
+view.welcome.subtitle: ค้นหาบอทที่เหมาะสมสำหรับเซิร์ฟเวอร์ของคุณ
+view.explore.browse_categories.description: ค้นหาบอทตามหมวดหมู่
+view.explore.browse_categories.title: เรียกดูหมวดหมู่
+view.explore.category.subtitle: บอทในหมวดหมู่ {}
+view.explore.discord_server.description: เข้าร่วมชุมชน Discord ของเราเพื่อขอคำแนะนำบอท สนับสนุนแอป หรือมีส่วนร่วมในการแปลและทดสอบเบต้า
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: ต้องการความช่วยเหลือหรือต้องการมีส่วนร่วม?
+view.explore.featured.description: บอทระดับสูงที่ได้รับการยืนยันจาก Discord
+view.explore.featured.title: เด่น
+view.explore.highest_rated.description: บอทที่มีคะแนนสูงสุดจากผู้ใช้
+view.explore.highest_rated.title: คะแนนสูงสุด
+view.explore.most_popular.description: บอทที่อยู่ในเซิร์ฟเวอร์มากที่สุด
+view.explore.most_popular.title: ยอดนิยมที่สุด
+view.explore.most_voted.description: บอทที่มีโหวตมากที่สุดในเดือนนี้
+view.explore.most_voted.title: โหวตมากที่สุด
+view.top_charts.most_popular: ยอดนิยมที่สุด
+view.top_charts.most_voted: โหวตมากที่สุด
+view.submit_bot.error.title: ไม่สามารถโหลดรายการบอท
+view.submit_bot.error.description: เราไม่สามารถโหลดรายการบอทที่มีอยู่ได้ กรุณาลองอีกครั้งในภายหลัง
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: ออกจากระบบ
+view.alert.sign_out.message: คุณแน่ใจหรือว่าต้องการออกจากระบบ?
+view.alert.sign_out.cancel: ยกเลิก
+view.alert.sign_out.confirm: ออกจากระบบ
+view.alert.error.title: ข้อผิดพลาด
+view.alert.error.sign_out_failed: ไม่สามารถออกจากระบบได้ กรุณาลองอีกครั้ง
+view.alert.error.sign_in_failed: ไม่สามารถเข้าสู่ระบบได้ กรุณาลองอีกครั้ง
+view.alert.error.delete_account_failed: ไม่สามารถลบบัญชีได้ กรุณาลองอีกครั้ง
+view.alert.error.submit_report_failed: ไม่สามารถส่งรายงานได้ กรุณาลองอีกครั้ง
+view.alert.error.no_invite_link: "{} ไม่มีลิงก์เชิญ"
+view.alert.error.open_invite_failed: ไม่สามารถเปิดลิงก์เชิญได้
+view.alert.error.discord_not_installed: ไม่สามารถเปิด Discord ได้ กรุณาตรวจสอบว่า Discord ได้รับการติดตั้งบนอุปกรณ์ของคุณแล้ว
+view.alert.error.open_support_failed: ไม่สามารถเปิดลิงก์เซิร์ฟเวอร์สนับสนุนได้
+
+# Delete account dialogs
+view.alert.delete_account.title: ลบบัญชี
+view.alert.delete_account.message: คุณแน่ใจหรือว่าต้องการลบบัญชีของคุณ? การกระทำนี้ไม่สามารถยกเลิกได้และจะลบข้อมูลทั้งหมดของคุณอย่างถาวร
+view.alert.delete_account.confirm: ลบ
+view.alert.delete_account.final.title: ลบบัญชี
+view.alert.delete_account.final.message: การกระทำนี้จะลบบัญชีและข้อมูลที่เกี่ยวข้องของคุณอย่างถาวร คุณแน่ใจหรือไม่?
+
+# Report bot screen
+view.report.title: รายงานบอท
+view.report.header.title: รายงานบอท
+view.report.header.description: ช่วยเราให้ชุมชนปลอดภัยโดยการรายงานเนื้อหาที่ไม่เหมาะสมหรือปัญหาต่างๆ
+view.report.reason.title: เหตุผลในการรายงาน
+view.report.reason.select: เลือกเหตุผล
+view.report.details.title: รายละเอียดเพิ่มเติม
+view.report.details.placeholder: กรุณาให้รายละเอียดเฉพาะเจาะจงเกี่ยวกับปัญหา...
+view.report.submit.button: ส่งรายงาน
+view.report.submit.submitting: กำลังส่ง...
+view.report.submit.success.title: ส่งรายงานแล้ว
+view.report.submit.success.message: ขอบคุณสำหรับรายงานของคุณ เราจะตรวจสอบและดำเนินการที่เหมาะสม
+view.report.submit.success.ok: ตกลง
+view.report.validation.no_reason: กรุณาเลือกเหตุผลในการรายงาน
+view.report.validation.no_details: กรุณาให้รายละเอียดเพิ่มเติมเกี่ยวกับปัญหา
+
+# Loading and error states
+view.loading.bot_details: กำลังโหลดรายละเอียดบอท...
+view.error.bot_not_found: ไม่พบบอท
+view.loading.categories: กำลังโหลดหมวดหมู่...
+
+# Navigation headers
+view.navigation.account: บัญชี
+view.navigation.settings: การตั้งค่า
+view.navigation.categories: หมวดหมู่
+view.navigation.bot_details: รายละเอียดบอท
+
+# Search suggestions
+view.search.suggestions.title: การค้นหาที่แนะนำ
+view.search.placeholder: ค้นหาบอท...
+
+# Support and ads
+view.support.server.description: เข้าร่วมเซิร์ฟเวอร์สนับสนุนของแอป
+view.remove_ads.description: ปิดใช้งานโฆษณาในแอปอย่างถาวร
+
+# Bottom sheet
+view.bottom_sheet.select_reason: เลือกเหตุผล

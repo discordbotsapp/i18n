@@ -2,130 +2,138 @@
 global.navbar.explore: Explorează
 global.navbar.top_charts: Top-ul Graficelor
 global.navbar.account: Cont
-global.navbar.search: Căutaţi
+global.navbar.search: Căutare
 global.app_bar.explore: Explorează
 global.app_bar.top_charts: Top-ul Graficelor
 global.app_bar.account: Cont
 global.app_bar.settings: Setări
 global.app_bar.remove_ads: Elimină reclamele
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.button.cancel: Cancel
-global.button.sign_in: Sign In
-global.support_server.join: Join Support Server
-view.bot.add.button: Add
-view.bot.hide.button: Hide Bot
-view.bot.hide.title: Hide Bot
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.unhide.button: Un-hide Bot
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.stats.ratings: RATINGS
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.servers: Servers
-view.bot.stats.votes: Votes
-view.bot.promoted: Promoted
-view.bot.see_all: See All
+global.footer.info: Bots for Discord App nu este afiliat cu Discord sau cu oricare dintre Discord Bot Lists susținute.
+global.button.cancel: Anulează
+global.button.sign_in: Conectează-te
+global.support_server.join: Alătură-te serverului de suport
+view.bot.add.button: Adaugă
+view.bot.hide.button: Ascunde Bot-ul
+view.bot.hide.title: Ascunde Bot-ul
+view.bot.hide.message: Sunteți sigur că doriți să ascundeți acest bot?
+view.bot.hide.login_required.title: Conectare necesară
+view.bot.hide.login_required.message: Trebuie să vă conectați pentru a ascunde bot-uri.
+view.bot.unhide.button: Afișează Bot-ul
+view.bot.unhide.title: Afișează Bot-ul
+view.bot.unhide.message: Sunteți sigur că doriți să afișați acest bot?
+view.bot.stats.ratings: EVALUĂRI
+view.bot.stats.server_count: NUMĂRUL DE SERVERE
+view.bot.stats.vote_count: NUMĂRUL DE VOTURI
+view.bot.stats.servers: Servere
+view.bot.stats.votes: Voturi
+view.bot.promoted: Promovat
+view.bot.see_all: Vezi toate
 view.account.login.button: Conectează-te cu Discord
-view.account.my_bots.button: Boții mei
-view.account.add_bot.button: Adaugă bot
+view.account.my_bots.button: Bot-urile mele
+view.account.add_bot.button: Adaugă Bot
 view.account.settings.button: Setări
-view.account.settings.description: Settings & preferences
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.subtitle: Manage your Discord bots
-view.add_bot.subtitle: Submit your bot to bot lists
-view.settings.appearance.title: Appearance
-view.settings.appearance.dark: Dark
-view.settings.appearance.light: Light
-view.settings.language.title: Language
-view.settings.hidden_bots.title: Hidden Bots
-view.settings.hidden_bots.description: Manage hidden bots
-view.settings.privacy.title: Privacy
-view.settings.privacy.description: Privacy settings
-view.settings.coming_soon.title: Coming Soon
-view.settings.coming_soon.privacy: Privacy settings coming soon!
-view.settings.sign_in_required.title: Sign In Required
-view.settings.sign_in_required.message: You need to sign in to access settings.
-view.settings.sign_out.title: Sign Out
-view.settings.sign_out.description: Sign out of your account
-view.theme.title: Theme
-view.languages.title: Language
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.discover.title: "Discover {} Discord Bots"
-view.welcome.discover.subtitle: Find the perfect bot for your server
+view.account.settings.description: Setări și preferințe
+view.account.profile.fallback_username: Utilizator Discord
+view.account.profile.fallback_email: Fără email
+view.my_bots.subtitle: Gestionează bot-urile tale Discord
+view.add_bot.subtitle: Trimite bot-ul tău în listele de bot-uri
+view.settings.appearance.title: Aspect
+view.settings.appearance.dark: Întunecat
+view.settings.appearance.light: Luminos
+view.settings.language.title: Limbă
+view.settings.hidden_bots.title: Bot-uri ascunse
+view.settings.hidden_bots.description: Gestionează bot-urile ascunse
+view.settings.privacy.title: Confidențialitate
+view.settings.privacy.description: Setări de confidențialitate
+view.settings.coming_soon.title: În curând
+view.settings.coming_soon.privacy: Setările de confidențialitate vin în curând!
+view.settings.sign_in_required.title: Conectare necesară
+view.settings.sign_in_required.message: Trebuie să vă conectați pentru a accesa setările.
+view.settings.sign_out.title: Deconectare
+view.settings.sign_out.description: Deconectați-vă din cont
+view.theme.title: Temă
+view.languages.title: Limbă
+view.welcome.title: Bun venit la Bots for Discord
+view.welcome.discover.title: "Descoperă {} Bot-uri Discord"
+view.welcome.discover.subtitle: Găsește bot-ul perfect pentru serverul tău
 view.welcome.login.button: Conectează-te cu Discord
 view.welcome.skip.button: Omite pentru moment
-view.welcome.subtitle: Find the perfect bot for your server
-view.explore.browse_categories.description: Discover bots by category
-view.explore.browse_categories.title: Browse Categories
-view.explore.category.subtitle: Boți în categoria {}
-view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.welcome.subtitle: Găsește bot-ul perfect pentru serverul tău
+view.explore.browse_categories.description: Descoperă bot-uri după categorie
+view.explore.browse_categories.title: Răsfoiește categoriile
+view.explore.category.subtitle: Bot-uri în categoria {}
+view.explore.discord_server.description: Alătură-te comunității noastre Discord pentru recomandări de bot-uri, suport pentru aplicație sau pentru a te implica în traduceri și testare beta.
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: Need Help or Want to Contribute?
-view.explore.featured.description: Top notch bots that are verified by Discord
-view.explore.featured.title: Recomandat
-view.explore.highest_rated.description: Bots with the highest ratings from users
-view.explore.highest_rated.title: Highest Rated
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Cele mai popular
-view.explore.most_voted.description: Bots with the most votes this month
-view.explore.most_voted.title: Cei mai votați
-view.top_charts.most_popular: Cele mai popular
-view.top_charts.most_voted: Cei mai votați
-view.submit_bot.error.title: Failed to Load Bot Lists
-view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-#Alert dialogs and error messages
-view.alert.sign_out.title: Sign Out
-view.alert.sign_out.message: Are you sure you want to sign out?
-view.alert.sign_out.cancel: Cancel
-view.alert.sign_out.confirm: Sign Out
-view.alert.error.title: Error
-view.alert.error.sign_out_failed: Failed to sign out. Please try again.
-view.alert.error.sign_in_failed: Failed to sign in. Please try again.
-view.alert.error.delete_account_failed: Failed to delete account. Please try again.
-view.alert.error.submit_report_failed: Failed to submit report. Please try again.
-view.alert.error.no_invite_link: "{} doesn't have an invite link."
-view.alert.error.open_invite_failed: Failed to open invite link.
-view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
-view.alert.error.open_support_failed: Failed to open support server link.
-#Delete account dialogs
-view.alert.delete_account.title: Delete Account
-view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
-view.alert.delete_account.confirm: Delete
-view.alert.delete_account.final.title: Delete Account
-view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-#Report bot screen
-view.report.title: Report Bot
-view.report.header.title: Report Bot
-view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
-view.report.reason.title: Report Reason
-view.report.reason.select: Select a reason
-view.report.details.title: Additional Details
-view.report.details.placeholder: Please provide specific details about the issue...
-view.report.submit.button: Submit Report
-view.report.submit.submitting: Submitting...
-view.report.submit.success.title: Report Submitted
-view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.explore.discord_server.title: Ai nevoie de ajutor sau vrei să contribui?
+view.explore.featured.description: Bot-uri de top care sunt verificate de Discord
+view.explore.featured.title: Recomandate
+view.explore.highest_rated.description: Bot-uri cu cele mai înalte evaluări de la utilizatori
+view.explore.highest_rated.title: Cel mai bine evaluate
+view.explore.most_popular.description: Bot-uri în cele mai multe servere
+view.explore.most_popular.title: Cele mai populare
+view.explore.most_voted.description: Bot-uri cu cele mai multe voturi în această lună
+view.explore.most_voted.title: Cele mai votate
+view.top_charts.most_popular: Cele mai populare
+view.top_charts.most_voted: Cele mai votate
+view.submit_bot.error.title: Eșec la încărcarea listelor de Bot-uri
+view.submit_bot.error.description: Nu am putut încărca listele de bot-uri disponibile. Vă rugăm să încercați din nou mai târziu.
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: Deconectare
+view.alert.sign_out.message: Sunteți sigur că doriți să vă deconectați?
+view.alert.sign_out.cancel: Anulează
+view.alert.sign_out.confirm: Deconectare
+view.alert.error.title: Eroare
+view.alert.error.sign_out_failed: Eșec la deconectare. Vă rugăm să încercați din nou.
+view.alert.error.sign_in_failed: Eșec la conectare. Vă rugăm să încercați din nou.
+view.alert.error.delete_account_failed: Eșec la ștergerea contului. Vă rugăm să încercați din nou.
+view.alert.error.submit_report_failed: Eșec la trimiterea raportului. Vă rugăm să încercați din nou.
+view.alert.error.no_invite_link: "{} nu are un link de invitație."
+view.alert.error.open_invite_failed: Eșec la deschiderea link-ului de invitație.
+view.alert.error.discord_not_installed: Nu se poate deschide Discord. Vă rugăm să vă asigurați că Discord este instalat pe dispozitivul dumneavoastră.
+view.alert.error.open_support_failed: Eșec la deschiderea link-ului serverului de suport.
+
+# Delete account dialogs
+view.alert.delete_account.title: Șterge contul
+view.alert.delete_account.message: Sunteți sigur că doriți să vă ștergeți contul? Această acțiune nu poate fi anulată și va elimina permanent toate datele dumneavoastră.
+view.alert.delete_account.confirm: Șterge
+view.alert.delete_account.final.title: Șterge contul
+view.alert.delete_account.final.message: Aceasta va șterge permanent contul și datele asociate. Sunteți sigur?
+
+# Report bot screen
+view.report.title: Raportează Bot-ul
+view.report.header.title: Raportează Bot-ul
+view.report.header.description: Ajută-ne să menținem comunitatea sigură prin raportarea conținutului nepotrivit sau a problemelor.
+view.report.reason.title: Motivul raportului
+view.report.reason.select: Selectează un motiv
+view.report.details.title: Detalii suplimentare
+view.report.details.placeholder: Vă rugăm să furnizați detalii specifice despre problemă...
+view.report.submit.button: Trimite raportul
+view.report.submit.submitting: Se trimite...
+view.report.submit.success.title: Raport trimis
+view.report.submit.success.message: Vă mulțumim pentru raport. Îl vom examina și vom lua măsurile corespunzătoare.
 view.report.submit.success.ok: OK
-view.report.validation.no_reason: Please select a reason for reporting.
-view.report.validation.no_details: Please provide additional details about the issue.
-#Loading and error states
-view.loading.bot_details: Loading bot details...
-view.error.bot_not_found: Bot not found.
-view.loading.categories: Loading categories...
-#Navigation headers
+view.report.validation.no_reason: Vă rugăm să selectați un motiv pentru raportare.
+view.report.validation.no_details: Vă rugăm să furnizați detalii suplimentare despre problemă.
+
+# Loading and error states
+view.loading.bot_details: Se încarcă detaliile bot-ului...
+view.error.bot_not_found: Bot-ul nu a fost găsit.
+view.loading.categories: Se încarcă categoriile...
+
+# Navigation headers
 view.navigation.account: Cont
 view.navigation.settings: Setări
-view.navigation.categories: Categories
-view.navigation.bot_details: Bot Details
-#Search suggestions
-view.search.suggestions.title: Suggested searches
-view.search.placeholder: Search for bots...
-#Support and ads
-view.support.server.description: Join the app's support server
-view.remove_ads.description: Permanently disable in-app ads
-#Bottom sheet
-view.bottom_sheet.select_reason: Select Reason
+view.navigation.categories: Categorii
+view.navigation.bot_details: Detalii Bot
+
+# Search suggestions
+view.search.suggestions.title: Căutări sugerate
+view.search.placeholder: Caută bot-uri...
+
+# Support and ads
+view.support.server.description: Alătură-te serverului de suport al aplicației
+view.remove_ads.description: Dezactivează permanent reclamele din aplicație
+
+# Bottom sheet
+view.bottom_sheet.select_reason: Selectează motivul

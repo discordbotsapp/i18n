@@ -8,124 +8,132 @@ global.app_bar.top_charts: Κορυφαία Λίστα
 global.app_bar.account: Λογαριασμός
 global.app_bar.settings: Ρυθμίσεις
 global.app_bar.remove_ads: Κατάργηση διαφημίσεων
-global.footer.info: Η εφαρμογή Bots for Discord δεν συσχετίζεται με το Discord ή οποιοδήποτε από τις άλλες Discord Bot λίστες που υποστηρίζονται.
-global.button.cancel: Cancel
-global.button.sign_in: Sign In
-global.support_server.join: Join Support Server
-view.bot.add.button: Add
-view.bot.hide.button: Hide Bot
-view.bot.hide.title: Hide Bot
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.unhide.button: Un-hide Bot
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.stats.ratings: RATINGS
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.servers: Servers
-view.bot.stats.votes: Votes
-view.bot.promoted: Promoted
-view.bot.see_all: See All
+global.footer.info: Η εφαρμογή Bots for Discord δεν συσχετίζεται με το Discord ή οποιοδήποτε από τις άλλες Discord Bot λίστες που υποστηρίζονται. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: Ακύρωση
+global.button.sign_in: Σύνδεση
+global.support_server.join: Συμμετοχή στον Διακομιστή Υποστήριξης
+view.bot.add.button: Προσθήκη
+view.bot.hide.button: Απόκρυψη Bot
+view.bot.hide.title: Απόκρυψη Bot
+view.bot.hide.message: Είστε σίγουροι ότι θέλετε να αποκρύψετε αυτό το bot;
+view.bot.hide.login_required.title: Απαιτείται Σύνδεση
+view.bot.hide.login_required.message: Πρέπει να συνδεθείτε για να αποκρύψετε bots.
+view.bot.unhide.button: Εμφάνιση Bot
+view.bot.unhide.title: Εμφάνιση Bot
+view.bot.unhide.message: Είστε σίγουροι ότι θέλετε να εμφανίσετε αυτό το bot;
+view.bot.stats.ratings: ΑΞΙΟΛΟΓΗΣΕΙΣ
+view.bot.stats.server_count: ΑΡΙΘΜΟΣ ΔΙΑΚΟΜΙΣΤΩΝ
+view.bot.stats.vote_count: ΑΡΙΘΜΟΣ ΨΗΦΩΝ
+view.bot.stats.servers: Διακομιστές
+view.bot.stats.votes: Ψήφοι
+view.bot.promoted: Προωθημένο
+view.bot.see_all: Προβολή Όλων
 view.account.login.button: Είσοδος με Discord
 view.account.my_bots.button: Τα Bots Μου
 view.account.add_bot.button: Προσθήκη Bot
 view.account.settings.button: Ρυθμίσεις
-view.account.settings.description: Settings & preferences
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.subtitle: Manage your Discord bots
-view.add_bot.subtitle: Submit your bot to bot lists
-view.settings.appearance.title: Appearance
-view.settings.appearance.dark: Dark
-view.settings.appearance.light: Light
-view.settings.language.title: Language
-view.settings.hidden_bots.title: Hidden Bots
-view.settings.hidden_bots.description: Manage hidden bots
-view.settings.privacy.title: Privacy
-view.settings.privacy.description: Privacy settings
-view.settings.coming_soon.title: Coming Soon
-view.settings.coming_soon.privacy: Privacy settings coming soon!
-view.settings.sign_in_required.title: Sign In Required
-view.settings.sign_in_required.message: You need to sign in to access settings.
-view.settings.sign_out.title: Sign Out
-view.settings.sign_out.description: Sign out of your account
-view.theme.title: Theme
-view.languages.title: Language
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.discover.title: "Discover {} Discord Bots"
-view.welcome.discover.subtitle: Find the perfect bot for your server
+view.account.settings.description: Ρυθμίσεις και προτιμήσεις
+view.account.profile.fallback_username: Χρήστης Discord
+view.account.profile.fallback_email: Δεν υπάρχει email
+view.my_bots.subtitle: Διαχείριση των Discord bots σας
+view.add_bot.subtitle: Υποβάλετε το bot σας σε λίστες bots
+view.settings.appearance.title: Εμφάνιση
+view.settings.appearance.dark: Σκούρο
+view.settings.appearance.light: Ανοιχτό
+view.settings.language.title: Γλώσσα
+view.settings.hidden_bots.title: Κρυφά Bots
+view.settings.hidden_bots.description: Διαχείριση κρυφών bots
+view.settings.privacy.title: Απόρρητο
+view.settings.privacy.description: Ρυθμίσεις απορρήτου
+view.settings.coming_soon.title: Έρχεται Σύντομα
+view.settings.coming_soon.privacy: Οι ρυθμίσεις απορρήτου έρχονται σύντομα!
+view.settings.sign_in_required.title: Απαιτείται Σύνδεση
+view.settings.sign_in_required.message: Πρέπει να συνδεθείτε για να αποκτήσετε πρόσβαση στις ρυθμίσεις.
+view.settings.sign_out.title: Αποσύνδεση
+view.settings.sign_out.description: Αποσύνδεση από τον λογαριασμό σας
+view.theme.title: Θέμα
+view.languages.title: Γλώσσα
+view.welcome.title: Καλώς ήρθατε στο Bots for Discord
+view.welcome.discover.title: "Ανακαλύψτε {} Discord Bots"
+view.welcome.discover.subtitle: Βρείτε το τέλειο bot για τον διακομιστή σας
 view.welcome.login.button: Είσοδος με Discord
 view.welcome.skip.button: Παράλειψη για την ώρα
-view.welcome.subtitle: Find the perfect bot for your server
-view.explore.browse_categories.description: Discover bots by category
-view.explore.browse_categories.title: Browse Categories
-view.explore.category.subtitle: Bot στην κατηγορία {}
-view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.welcome.subtitle: Βρείτε το τέλειο bot για τον διακομιστή σας
+view.explore.browse_categories.description: Ανακαλύψτε bots ανά κατηγορία
+view.explore.browse_categories.title: Περιήγηση Κατηγοριών
+view.explore.category.subtitle: Bots στην κατηγορία {}
+view.explore.discord_server.description: Συμμετάσχετε στην κοινότητα Discord για συστάσεις bots, υποστήριξη εφαρμογής, ή για να συμμετάσχετε σε μεταφράσεις και beta δοκιμές.
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: Need Help or Want to Contribute?
-view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.discord_server.title: Χρειάζεστε Βοήθεια ή Θέλετε να Συνεισφέρετε;
+view.explore.featured.description: Κορυφαία bots που είναι επαληθευμένα από το Discord
 view.explore.featured.title: Προτεινόμενα
-view.explore.highest_rated.description: Bots with the highest ratings from users
-view.explore.highest_rated.title: Highest Rated
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Τα πιο δημοφιλή
-view.explore.most_voted.description: Bots with the most votes this month
+view.explore.highest_rated.description: Bots με τις υψηλότερες αξιολογήσεις από χρήστες
+view.explore.highest_rated.title: Υψηλότερη Αξιολόγηση
+view.explore.most_popular.description: Bots στους περισσότερους διακομιστές
+view.explore.most_popular.title: Τα πιο Δημοφιλή
+view.explore.most_voted.description: Bots με τις περισσότερες ψήφους αυτόν τον μήνα
 view.explore.most_voted.title: Περισσότερες Ψήφοι
-view.top_charts.most_popular: Τα πιο δημοφιλή
+view.top_charts.most_popular: Τα πιο Δημοφιλή
 view.top_charts.most_voted: Περισσότερες Ψήφοι
-view.submit_bot.error.title: Failed to Load Bot Lists
-view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-#Alert dialogs and error messages
-view.alert.sign_out.title: Sign Out
-view.alert.sign_out.message: Are you sure you want to sign out?
-view.alert.sign_out.cancel: Cancel
-view.alert.sign_out.confirm: Sign Out
-view.alert.error.title: Error
-view.alert.error.sign_out_failed: Failed to sign out. Please try again.
-view.alert.error.sign_in_failed: Failed to sign in. Please try again.
-view.alert.error.delete_account_failed: Failed to delete account. Please try again.
-view.alert.error.submit_report_failed: Failed to submit report. Please try again.
-view.alert.error.no_invite_link: "{} doesn't have an invite link."
-view.alert.error.open_invite_failed: Failed to open invite link.
-view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
-view.alert.error.open_support_failed: Failed to open support server link.
-#Delete account dialogs
-view.alert.delete_account.title: Delete Account
-view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
-view.alert.delete_account.confirm: Delete
-view.alert.delete_account.final.title: Delete Account
-view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-#Report bot screen
-view.report.title: Report Bot
-view.report.header.title: Report Bot
-view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
-view.report.reason.title: Report Reason
-view.report.reason.select: Select a reason
-view.report.details.title: Additional Details
-view.report.details.placeholder: Please provide specific details about the issue...
-view.report.submit.button: Submit Report
-view.report.submit.submitting: Submitting...
-view.report.submit.success.title: Report Submitted
-view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
-view.report.submit.success.ok: OK
-view.report.validation.no_reason: Please select a reason for reporting.
-view.report.validation.no_details: Please provide additional details about the issue.
-#Loading and error states
-view.loading.bot_details: Loading bot details...
-view.error.bot_not_found: Bot not found.
-view.loading.categories: Loading categories...
-#Navigation headers
+view.submit_bot.error.title: Αποτυχία Φόρτωσης Λιστών Bot
+view.submit_bot.error.description: Δεν μπορέσαμε να φορτώσουμε τις διαθέσιμες λίστες bots. Παρακαλώ δοκιμάστε ξανά αργότερα.
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: Αποσύνδεση
+view.alert.sign_out.message: Είστε σίγουροι ότι θέλετε να αποσυνδεθείτε;
+view.alert.sign_out.cancel: Ακύρωση
+view.alert.sign_out.confirm: Αποσύνδεση
+view.alert.error.title: Σφάλμα
+view.alert.error.sign_out_failed: Αποτυχία αποσύνδεσης. Παρακαλώ δοκιμάστε ξανά.
+view.alert.error.sign_in_failed: Αποτυχία σύνδεσης. Παρακαλώ δοκιμάστε ξανά.
+view.alert.error.delete_account_failed: Αποτυχία διαγραφής λογαριασμού. Παρακαλώ δοκιμάστε ξανά.
+view.alert.error.submit_report_failed: Αποτυχία υποβολής αναφοράς. Παρακαλώ δοκιμάστε ξανά.
+view.alert.error.no_invite_link: "Το {} δεν έχει σύνδεσμο πρόσκλησης."
+view.alert.error.open_invite_failed: Αποτυχία ανοίγματος συνδέσμου πρόσκλησης.
+view.alert.error.discord_not_installed: Αδυναμία ανοίγματος Discord. Παρακαλώ βεβαιωθείτε ότι το Discord είναι εγκατεστημένο στη συσκευή σας.
+view.alert.error.open_support_failed: Αποτυχία ανοίγματος συνδέσμου διακομιστή υποστήριξης.
+
+# Delete account dialogs
+view.alert.delete_account.title: Διαγραφή Λογαριασμού
+view.alert.delete_account.message: Είστε σίγουροι ότι θέλετε να διαγράψετε τον λογαριασμό σας; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί και θα καταργήσει μόνιμα όλα τα δεδομένα σας.
+view.alert.delete_account.confirm: Διαγραφή
+view.alert.delete_account.final.title: Διαγραφή Λογαριασμού
+view.alert.delete_account.final.message: Αυτό θα διαγράψει μόνιμα τον λογαριασμό σας και τα σχετικά δεδομένα. Είστε σίγουροι;
+
+# Report bot screen
+view.report.title: Αναφορά Bot
+view.report.header.title: Αναφορά Bot
+view.report.header.description: Βοηθήστε μας να διατηρήσουμε την κοινότητα ασφαλή αναφέροντας ακατάλληλο περιεχόμενο ή προβλήματα.
+view.report.reason.title: Λόγος Αναφοράς
+view.report.reason.select: Επιλέξτε έναν λόγο
+view.report.details.title: Επιπλέον Λεπτομέρειες
+view.report.details.placeholder: Παρακαλώ δώστε συγκεκριμένες λεπτομέρειες για το πρόβλημα...
+view.report.submit.button: Υποβολή Αναφοράς
+view.report.submit.submitting: Υποβολή...
+view.report.submit.success.title: Η Αναφορά Υποβλήθηκε
+view.report.submit.success.message: Σας ευχαριστούμε για την αναφορά σας. Θα την εξετάσουμε και θα λάβουμε τα κατάλληλα μέτρα.
+view.report.submit.success.ok: Εντάξει
+view.report.validation.no_reason: Παρακαλώ επιλέξτε έναν λόγο για την αναφορά.
+view.report.validation.no_details: Παρακαλώ δώστε επιπλέον λεπτομέρειες για το πρόβλημα.
+
+# Loading and error states
+view.loading.bot_details: Φόρτωση λεπτομερειών bot...
+view.error.bot_not_found: Το bot δεν βρέθηκε.
+view.loading.categories: Φόρτωση κατηγοριών...
+
+# Navigation headers
 view.navigation.account: Λογαριασμός
 view.navigation.settings: Ρυθμίσεις
-view.navigation.categories: Categories
-view.navigation.bot_details: Bot Details
-#Search suggestions
-view.search.suggestions.title: Suggested searches
-view.search.placeholder: Search for bots...
-#Support and ads
-view.support.server.description: Join the app's support server
-view.remove_ads.description: Permanently disable in-app ads
-#Bottom sheet
-view.bottom_sheet.select_reason: Select Reason
+view.navigation.categories: Κατηγορίες
+view.navigation.bot_details: Λεπτομέρειες Bot
+
+# Search suggestions
+view.search.suggestions.title: Προτεινόμενες αναζητήσεις
+view.search.placeholder: Αναζήτηση για bots...
+
+# Support and ads
+view.support.server.description: Συμμετάσχετε στον διακομιστή υποστήριξης της εφαρμογής
+view.remove_ads.description: Μόνιμη απενεργοποίηση διαφημίσεων εντός εφαρμογής
+
+# Bottom sheet
+view.bottom_sheet.select_reason: Επιλέξτε Λόγο

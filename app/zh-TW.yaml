@@ -1,131 +1,139 @@
 ---
 global.navbar.explore: 探索
-global.navbar.top_charts: 頂部圖表
-global.navbar.account: 帳號
+global.navbar.top_charts: 排行榜
+global.navbar.account: 帳戶
 global.navbar.search: 搜尋
 global.app_bar.explore: 探索
-global.app_bar.top_charts: 頂部圖表
-global.app_bar.account: 帳號
-global.app_bar.settings: 設置
-global.app_bar.remove_ads: 刪除廣告
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.button.cancel: Cancel
-global.button.sign_in: Sign In
-global.support_server.join: Join Support Server
-view.bot.add.button: Add
-view.bot.hide.button: Hide Bot
-view.bot.hide.title: Hide Bot
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.unhide.button: Un-hide Bot
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.stats.ratings: RATINGS
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.servers: Servers
-view.bot.stats.votes: Votes
-view.bot.promoted: Promoted
-view.bot.see_all: See All
-view.account.login.button: 用 Discord 帳號登入
+global.app_bar.top_charts: 排行榜
+global.app_bar.account: 帳戶
+global.app_bar.settings: 設定
+global.app_bar.remove_ads: 移除廣告
+global.footer.info: Bots for Discord App 與 Discord 或任何支援的 Discord Bot Lists 無關聯。
+global.button.cancel: 取消
+global.button.sign_in: 登入
+global.support_server.join: 加入支援伺服器
+view.bot.add.button: 新增
+view.bot.hide.button: 隱藏機器人
+view.bot.hide.title: 隱藏機器人
+view.bot.hide.message: 您確定要隱藏此機器人嗎？
+view.bot.hide.login_required.title: 需要登入
+view.bot.hide.login_required.message: 您需要登入才能隱藏機器人。
+view.bot.unhide.button: 取消隱藏機器人
+view.bot.unhide.title: 取消隱藏機器人
+view.bot.unhide.message: 您確定要取消隱藏此機器人嗎？
+view.bot.stats.ratings: 評分
+view.bot.stats.server_count: 伺服器數量
+view.bot.stats.vote_count: 投票數量
+view.bot.stats.servers: 伺服器
+view.bot.stats.votes: 投票
+view.bot.promoted: 推廣
+view.bot.see_all: 查看全部
+view.account.login.button: 使用 Discord 登入
 view.account.my_bots.button: 我的機器人
-view.account.add_bot.button: 添加機器人
-view.account.settings.button: 設置
-view.account.settings.description: Settings & preferences
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.subtitle: Manage your Discord bots
-view.add_bot.subtitle: Submit your bot to bot lists
-view.settings.appearance.title: Appearance
-view.settings.appearance.dark: Dark
-view.settings.appearance.light: Light
-view.settings.language.title: Language
-view.settings.hidden_bots.title: Hidden Bots
-view.settings.hidden_bots.description: Manage hidden bots
-view.settings.privacy.title: Privacy
-view.settings.privacy.description: Privacy settings
-view.settings.coming_soon.title: Coming Soon
-view.settings.coming_soon.privacy: Privacy settings coming soon!
-view.settings.sign_in_required.title: Sign In Required
-view.settings.sign_in_required.message: You need to sign in to access settings.
-view.settings.sign_out.title: Sign Out
-view.settings.sign_out.description: Sign out of your account
-view.theme.title: Theme
-view.languages.title: Language
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.discover.title: "Discover {} Discord Bots"
-view.welcome.discover.subtitle: Find the perfect bot for your server
-view.welcome.login.button: 用 Discord 帳號登入
-view.welcome.skip.button: 先跳過
-view.welcome.subtitle: Find the perfect bot for your server
-view.explore.browse_categories.description: Discover bots by category
-view.explore.browse_categories.title: Browse Categories
-view.explore.category.subtitle: 機器人在 {} 類別
-view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.account.add_bot.button: 新增機器人
+view.account.settings.button: 設定
+view.account.settings.description: 設定與偏好
+view.account.profile.fallback_username: Discord 使用者
+view.account.profile.fallback_email: 無電子郵件
+view.my_bots.subtitle: 管理您的 Discord 機器人
+view.add_bot.subtitle: 將您的機器人提交至機器人清單
+view.settings.appearance.title: 外觀
+view.settings.appearance.dark: 深色
+view.settings.appearance.light: 淺色
+view.settings.language.title: 語言
+view.settings.hidden_bots.title: 隱藏的機器人
+view.settings.hidden_bots.description: 管理隱藏的機器人
+view.settings.privacy.title: 隱私
+view.settings.privacy.description: 隱私設定
+view.settings.coming_soon.title: 即將推出
+view.settings.coming_soon.privacy: 隱私設定即將推出！
+view.settings.sign_in_required.title: 需要登入
+view.settings.sign_in_required.message: 您需要登入才能存取設定。
+view.settings.sign_out.title: 登出
+view.settings.sign_out.description: 登出您的帳戶
+view.theme.title: 主題
+view.languages.title: 語言
+view.welcome.title: 歡迎使用 Bots for Discord
+view.welcome.discover.title: "探索 {} 個 Discord 機器人"
+view.welcome.discover.subtitle: 為您的伺服器尋找完美的機器人
+view.welcome.login.button: 使用 Discord 登入
+view.welcome.skip.button: 暫時跳過
+view.welcome.subtitle: 為您的伺服器尋找完美的機器人
+view.explore.browse_categories.description: 依類別探索機器人
+view.explore.browse_categories.title: 瀏覽類別
+view.explore.category.subtitle: {} 類別中的機器人
+view.explore.discord_server.description: 加入我們的 Discord 社群以獲得機器人推薦、應用程式支援，或參與翻譯和測試版測試。
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: Need Help or Want to Contribute?
-view.explore.featured.description: Top notch bots that are verified by Discord
-view.explore.featured.title: 推薦
-view.explore.highest_rated.description: Bots with the highest ratings from users
-view.explore.highest_rated.title: Highest Rated
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Most Popular
-view.explore.most_voted.description: Bots with the most votes this month
-view.explore.most_voted.title: 最高票
-view.top_charts.most_popular: Most Popular
-view.top_charts.most_voted: 最高票
-view.submit_bot.error.title: Failed to Load Bot Lists
-view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-#Alert dialogs and error messages
-view.alert.sign_out.title: Sign Out
-view.alert.sign_out.message: Are you sure you want to sign out?
-view.alert.sign_out.cancel: Cancel
-view.alert.sign_out.confirm: Sign Out
-view.alert.error.title: Error
-view.alert.error.sign_out_failed: Failed to sign out. Please try again.
-view.alert.error.sign_in_failed: Failed to sign in. Please try again.
-view.alert.error.delete_account_failed: Failed to delete account. Please try again.
-view.alert.error.submit_report_failed: Failed to submit report. Please try again.
-view.alert.error.no_invite_link: "{} doesn't have an invite link."
-view.alert.error.open_invite_failed: Failed to open invite link.
-view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
-view.alert.error.open_support_failed: Failed to open support server link.
-#Delete account dialogs
-view.alert.delete_account.title: Delete Account
-view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
-view.alert.delete_account.confirm: Delete
-view.alert.delete_account.final.title: Delete Account
-view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-#Report bot screen
-view.report.title: Report Bot
-view.report.header.title: Report Bot
-view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
-view.report.reason.title: Report Reason
-view.report.reason.select: Select a reason
-view.report.details.title: Additional Details
-view.report.details.placeholder: Please provide specific details about the issue...
-view.report.submit.button: Submit Report
-view.report.submit.submitting: Submitting...
-view.report.submit.success.title: Report Submitted
-view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
-view.report.submit.success.ok: OK
-view.report.validation.no_reason: Please select a reason for reporting.
-view.report.validation.no_details: Please provide additional details about the issue.
-#Loading and error states
-view.loading.bot_details: Loading bot details...
-view.error.bot_not_found: Bot not found.
-view.loading.categories: Loading categories...
-#Navigation headers
-view.navigation.account: 帳號
-view.navigation.settings: 設置
-view.navigation.categories: Categories
-view.navigation.bot_details: Bot Details
-#Search suggestions
-view.search.suggestions.title: Suggested searches
-view.search.placeholder: Search for bots...
-#Support and ads
-view.support.server.description: Join the app's support server
-view.remove_ads.description: Permanently disable in-app ads
-#Bottom sheet
-view.bottom_sheet.select_reason: Select Reason
+view.explore.discord_server.title: 需要協助或想要貢獻？
+view.explore.featured.description: 經 Discord 驗證的頂級機器人
+view.explore.featured.title: 精選
+view.explore.highest_rated.description: 使用者評分最高的機器人
+view.explore.highest_rated.title: 最高評分
+view.explore.most_popular.description: 在最多伺服器中的機器人
+view.explore.most_popular.title: 最受歡迎
+view.explore.most_voted.description: 本月獲得最多投票的機器人
+view.explore.most_voted.title: 最多投票
+view.top_charts.most_popular: 最受歡迎
+view.top_charts.most_voted: 最多投票
+view.submit_bot.error.title: 無法載入機器人清單
+view.submit_bot.error.description: 我們無法載入可用的機器人清單。請稍後再試。
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: 登出
+view.alert.sign_out.message: 您確定要登出嗎？
+view.alert.sign_out.cancel: 取消
+view.alert.sign_out.confirm: 登出
+view.alert.error.title: 錯誤
+view.alert.error.sign_out_failed: 登出失敗。請重試。
+view.alert.error.sign_in_failed: 登入失敗。請重試。
+view.alert.error.delete_account_failed: 刪除帳戶失敗。請重試。
+view.alert.error.submit_report_failed: 提交回報失敗。請重試。
+view.alert.error.no_invite_link: "{} 沒有邀請連結。"
+view.alert.error.open_invite_failed: 開啟邀請連結失敗。
+view.alert.error.discord_not_installed: 無法開啟 Discord。請確保您的裝置已安裝 Discord。
+view.alert.error.open_support_failed: 開啟支援伺服器連結失敗。
+
+# Delete account dialogs
+view.alert.delete_account.title: 刪除帳戶
+view.alert.delete_account.message: 您確定要刪除您的帳戶嗎？此操作無法復原，將永久移除您的所有資料。
+view.alert.delete_account.confirm: 刪除
+view.alert.delete_account.final.title: 刪除帳戶
+view.alert.delete_account.final.message: 這將永久清除您的帳戶和相關資料。您確定嗎？
+
+# Report bot screen
+view.report.title: 回報機器人
+view.report.header.title: 回報機器人
+view.report.header.description: 透過回報不當內容或問題來協助我們維護社群安全。
+view.report.reason.title: 回報原因
+view.report.reason.select: 選擇原因
+view.report.details.title: 額外詳情
+view.report.details.placeholder: 請提供關於此問題的具體詳情...
+view.report.submit.button: 提交回報
+view.report.submit.submitting: 提交中...
+view.report.submit.success.title: 回報已提交
+view.report.submit.success.message: 感謝您的回報。我們將審核並採取適當措施。
+view.report.submit.success.ok: 確定
+view.report.validation.no_reason: 請選擇回報原因。
+view.report.validation.no_details: 請提供關於此問題的額外詳情。
+
+# Loading and error states
+view.loading.bot_details: 載入機器人詳情中...
+view.error.bot_not_found: 找不到機器人。
+view.loading.categories: 載入類別中...
+
+# Navigation headers
+view.navigation.account: 帳戶
+view.navigation.settings: 設定
+view.navigation.categories: 類別
+view.navigation.bot_details: 機器人詳情
+
+# Search suggestions
+view.search.suggestions.title: 建議的搜尋
+view.search.placeholder: 搜尋機器人...
+
+# Support and ads
+view.support.server.description: 加入應用程式的支援伺服器
+view.remove_ads.description: 永久停用應用程式內廣告
+
+# Bottom sheet
+view.bottom_sheet.select_reason: 選擇原因
