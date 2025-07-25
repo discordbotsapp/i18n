@@ -66,7 +66,7 @@ view.explore.discord_server.description: Csatlakozzon Discord közösségünkhö
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: Segítségre van szüksége vagy szeretne közreműködni?
 view.explore.featured.description: Kiváló minőségű botok, amelyeket a Discord hitelesített
-view.explore.featured.title: Kiemelt
+view.explore.featured.title: Felfedezés
 view.explore.highest_rated.description: A felhasználók által legmagasabbra értékelt botok
 view.explore.highest_rated.title: Legmagasabb Értékelésű
 view.explore.most_popular.description: A legtöbb szerveren található botok
@@ -77,8 +77,7 @@ view.top_charts.most_popular: Legnépszerűbb
 view.top_charts.most_voted: Legtöbb Szavazattal
 view.submit_bot.error.title: Bot Listák Betöltése Sikertelen
 view.submit_bot.error.description: Nem tudtuk betölteni az elérhető bot listákat. Kérjük, próbálja újra később.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Kijelentkezés
 view.alert.sign_out.message: Biztosan ki szeretne jelentkezni?
 view.alert.sign_out.cancel: Mégse
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} nem rendelkezik meghívó linkkel."
 view.alert.error.open_invite_failed: Meghívó link megnyitása sikertelen.
 view.alert.error.discord_not_installed: Nem sikerült megnyitni a Discordot. Kérjük, győződjön meg róla, hogy a Discord telepítve van az eszközén.
 view.alert.error.open_support_failed: Támogatási szerver link megnyitása sikertelen.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Fiók Törlése
 view.alert.delete_account.message: Biztosan törölni szeretné a fiókját? Ez a művelet nem vonható vissza és véglegesen eltávolítja az összes adatát.
 view.alert.delete_account.confirm: Törlés
 view.alert.delete_account.final.title: Fiók Törlése
 view.alert.delete_account.final.message: Ez véglegesen törli a fiókját és a kapcsolódó adatokat. Biztos benne?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Bot Jelentése
 view.report.header.title: Bot Jelentése
 view.report.header.description: Segítsen biztonságban tartani a közösséget a nem megfelelő tartalom vagy problémák jelentésével.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Köszönjük a jelentését. Felülvizsgálj
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Kérjük, válasszon okot a jelentéshez.
 view.report.validation.no_details: Kérjük, adjon meg további részleteket a problémáról.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Bot részletek betöltése...
 view.error.bot_not_found: Bot nem található.
 view.loading.categories: Kategóriák betöltése...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Fiók
 view.navigation.settings: Beállítások
 view.navigation.categories: Kategóriák
 view.navigation.bot_details: Bot Részletek
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Javasolt keresések
 view.search.placeholder: Keresés botokra...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Csatlakozás az alkalmazás támogatási szerveréhez
 view.remove_ads.description: Alkalmazáson belüli hirdetések végleges letiltása
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Ok Kiválasztása
