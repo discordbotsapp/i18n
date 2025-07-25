@@ -1,5 +1,4 @@
 ---
-global.title: Bots for Discord
 global.navbar.explore: Tuklasin
 global.navbar.top_charts: Top charts
 global.navbar.account: Kwenta / Tuos
@@ -7,210 +6,126 @@ global.navbar.search: Maghanap
 global.app_bar.explore: Tuklasin
 global.app_bar.top_charts: Top charts
 global.app_bar.account: Kwenta / Tuos
-global.app_bar.advanced: Advanced
-global.app_bar.login: Login
 global.app_bar.settings: Settings
-global.app_bar.language: Language
-global.app_bar.report: 'Ulat {}'
-global.app_bar.categories: Kategorya
 global.app_bar.remove_ads: Tanggalin ang ads
-global.app_bar.promote: Promote
-global.tag.music: Musika
-global.tag.pokemon: Pokemon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Namumuno
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Sosyal
-global.tag.fun: Saya
-global.tag.economy: Ekonomiya
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Laro
-global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Dula / Dula-dulahan
-global.tag.logging: Logging
-global.tag.utility: Utility
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Multipurpose
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Crypto #KEEP AS IS
-global.tag.top_charts: Top charts
-global.footer.contact: 'Contact: supporta@discordbots.app'
 global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: Login
-global.login_alert.cancel.button: Cancelado
-global.login_alert.login.button: Login
-global.rate_dialog.title: Rate Bots for Discord App
-global.rate_dialog.subtitle: Kung gusto mo ang app na ito, mangyaring maglaan ng kaunting oras upang suriin ito! Talagang nakakatulong ito sa amin at hindi ka dapat tumagal ng higit sa isang minuto.
-global.rate_dialog.button.rate: RATE
-global.rate_dialog.button.no_thanks: SALAMAT NALANG
-global.rate_dialog.button.maybe_later: MAMAYA NALANG
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
-global.pop_up_menu_button.remove_ads.button: Tanggalin ang ads
-global.pop_up_menu_button.advertise.button: Advertise
-global.pop_up_menu_button.usage_data.button: Usage Data
-global.bot.button.advertise: ADVERTISE
-view.bot.add.button: LAGAY
-view.bot.chip.prefix: 'Prefix: {}'
-view.bot.chip.servers: '{} servers'
-view.bot.chip.server: '{} server'
-view.bot.chip.votes: '{} mga boto'
-view.bot.chip.vote: '{} boto'
-view.bot.menu.report: Ulat
-view.bot.menu.copy_id: Kopya ID
-view.bot.menu.copy_id.snack_bar: Na kopya {}'s ID
-view.bot.menu.hide: Tago
-view.bot.menu.hide.alert_dialog.title: Tago {}
-view.bot.menu.hide.alert_dialog.text: 'Sigurado ka bang gusto mo itago {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Cancelado
-view.bot.menu.hide.alert_dialog.yes.button: 'Oo'
-view.bot.website.button: Website
-view.bot.support_server.button: Support Server
-view.bot.vote.button: Boto
-view.bot.favorite.login_alert: Dapat kang naka-log in upang idagdag ang bot na ito sa iyong mga paborito.
-view.bot.report.login_alert: Dapat kang naka-log in upang iulat ang bot na ito.
-view.bot.hide.login_alert: Dapat ay naka-log in ka upang itago ang bot na ito.
-view.bot.copy.snackbar: Na kopya {}'s ID
-view.report.report_reason.title: Dahilan ng Pag-uulat
-view.report.report_reason.hint: Dahilan ng Pag-uulat
-view.report.report_reason.empty: Maglagay ng dahilan
-view.report.additional_information.title: Karagdagang Impormasyon
-view.report.additional_information.hint: Maglagay ng mga karagdagang detalye dito...
-view.report.additional_information.empty: Maglagay ng dahilan
-view.report.submit.button: Ipasa
-view.report.report_reason.dropdown.option1: Hindi naaangkop/NSFW na nilalaman
-view.report.report_reason.dropdown.option2: Offline sa mahabang panahon
-view.report.report_reason.dropdown.option3: Mapanlinlang na mga tampok at paglalarawan
-view.report.report_reason.dropdown.option4: Hindi gumagana ang bot
-view.report.report_reason.dropdown.option5: Hindi gumagana ang link ng imbitasyon
-view.report.report_reanos.dropdown.option6: Iba pang dahilan
-view.explore.title: Tuklasin
-view.explore.featured.title: Itinatampok
-view.explore.featured.subtitle: Mga nangungunang bot na na-verify ng Discord
-view.explore.trending.title: Trending
-view.explore.trending.subtitle: Mga bagong bot na mabilis na nakakakuha ng traksyon
-view.explore.new.title: Bago
-view.explore.new.subtitle: Kamakailang idinagdag na mga bot
-view.explore.most_voted.title: Karamihan ang bumoto
-view.explore.most_voted.subtitle: Bots na madaming boto ngayon
-view.explore.most_popular.title: Pinaka-sikat
-view.explore.most_popular.subtitle: Bots in the most servers
-view.explore.see_all.button: Tingnan lahat
-view.explore.categories.title: Galugarin ang Mga Kategorya
-view.explore.category.subtitle: Bots ay nasa {} kategorya
-view.explore.footer.support_server.button: Support Server
-view.explore.footer.bug_report.button: Ulat ng Bug
-view.explore.footer.about.button: Tungkol sa
-view.explore.footer.privacy_policy.button: Patakaran sa Privacy
-view.top_charts.most_votes: Karamihan sa mga Boto
-view.top_charts.most_servers: Karamihan na Servers
-view.top_charts.bot.subtitle.servers.plural: '{} servers'
-view.top_charts.bot.subtitle.votes.plural: '{} mga boto'
-view.top_charts.bot.subtitle.servers.singular: '{} server'
-view.top_charts.bot.subtitle.votes.singular: '{} boto'
-view.account.login.guest: Bisita
+global.button.cancel: Cancel
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
+view.bot.hide.button: Hide Bot
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Mag-login gamit ang Discord
-view.account.login.error: May naganap na error habang nagla-log in ka. Pakisubukang muli.
-view.account.login.error.button: Bumalik para mag log-in
 view.account.my_bots.button: Bots ko
-view.account.favorites.button: Paborito
 view.account.add_bot.button: Magdagdag ng Bot
-view.account.remove_ads.button: Tanggalin ang ads
-view.account.advertise.button: Advertise
 view.account.settings.button: Settings
-view.my_bots.title: Bots ko
-view.my_bots.subtitle: Mga bot na pagmamay-ari mo. Maaari mong idagdag ang iyong sariling bot sa pamamagitan ng pag-click sa Add Bot button sa pahina ng Account. #Keep capitalization consistent
-view.my_bots.none: Wala kang pagmamay-ari ng anumang mga bot
-view.favorites.title: Paborito
-view.favorites.subtitle: Idagdag ang iyong mga paboritong bot dito sa pamamagitan ng pag-click sa heart button sa page ng bot
-view.favorites.none: Wala kang anumang mga paborito
-view.add_bot.title: Magdagdag ng Bot
-view.add_bot.subtitle: Idagdag ang iyong bot sa isang 3rd party na listahan ng bot upang awtomatikong idagdag ito sa app.
-view.add_bot.note: 'Tandaan: Maaaring hindi agad na lumabas ang iyong bot sa app pagkatapos itong idagdag sa isa pang listahan ng bot.'
-view.settings.theme.title: Tema
-view.settings.theme.system.radio: Sistema
-view.settings.theme.dark.radio: Dilim
-view.settings.theme.light.radio: Ilaw
+view.account.settings.description: Settings & preferences
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
+view.my_bots.subtitle: Manage your Discord bots
+view.add_bot.subtitle: Submit your bot to bot lists
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
 view.settings.language.title: Language
-view.settings.language.placeholder: Pumili ng wika
-view.settings.language.help_translate.button: Help translate the app
-view.settings.support.title: Supporta
-view.settings.support.support_server.button: Support Server
-view.settings.support.report_a_bug.button: I-report ang isang bug
-view.settings.account.title: Kwenta / Tuos
-view.settings.account.advanced.button: Advanced
-view.settings.account.log_out.button: Log out
-view.settings.account.log_out.alert_dialog.title: Log out
-view.settings.account.log_out.alert_dialog.text: Sigurado ka bang gusto mong mag-log out?
-view.settings.account.log_out.alert_dialog.cancel.button: Cancelado
-view.settings.account.log_out.alert_dialog.log_out.button: Log out
-view.settings.account.delete_account.button: Tanggalin ang account
-view.settings.account.delete_account.alert_dialog.title: Tanggalin ang account
-view.settings.account.delete_account.alert_dialog.text: Sigurado ka ba na gusto mo tanggalin account mo? ang aksyon na ito ay hindi pwede baguhin.
-view.settings.account.delete_account.alert_dialog.cancel.button: Cancelado
-view.settings.account.delete_account.alert_dialog.yes.button: 'Oo'
-view.settings.info.title: Info
-view.settings.info.about.button: Tungkol sa
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: Patakaran sa Privacy
-view.bot.reported.title: Ulat {}
-view.bot.reported.subtitle: 'Matagumpay mong naiulat ang {} para sa sumusunod na dahilan:'
-view.bot.reported.button.okay: Sige
-view.user.bots: Bots
-view.search.hint: Maghanap...
-view.search.title: Maghanap
-view.search.subtitle.noQuery: Maghanap ng bots...
-view.search.subtitle.query: Pinapakita ang results para sa {}
-view.search.none: Walang resultang nakita
-view.welcome.title: Bots for Discord
-view.welcome.subtitle: Mag-browse sa {}+ Discord bots! Magsimula sa pamamagitan ng pag-log in gamit ang iyong Discord account.
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
+view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Mag-login gamit ang Discord
 view.welcome.skip.button: Laktawan muna ngayon
-view.remove_ads.title: Tanggalin ang ads
-view.remove_ads.subtitle: Inaalis ang lahat ng ad sa app
-view.remove_ads.error.load_product: Isang hindi kilalang error ang naganap habang nilo-load ang produkto.
-view.remove_ads.error.verify_purchase: Isang hindi kilalang error ang naganap habang bini-verify ang iyong pagbili.
-view.remove_ads.error.try_again: Pakisubukang muli sa ibang pagkakataon o sumali sa server ng suporta.
-view.remove_ads.error.join_server: Mangyaring sumali sa server ng suporta.
-view.remove_ads.purchase: Bili na
-view.remove_ads.thank_you.title: Salamat sa pag bili
-view.remove_ads.thank_you.subtitle: Naalis na ang nilalaman
-view.remove_ads.error.store_problem: Nag ka problema yung tindahan.
-view.remove_ads.error.try_again_later: Pakisubukang muli mamaya.
-view.remove_ads.error.purchase_not_allowed: Ang device o user na ito ay hindi pinapayagang bumili.
-view.remove_ads.error.purchase_invalid: Ang petsa ay imbalido.
-view.remove_ads.error.purchase_in_progress: Isinasagawa na ang pagbiling ito. Pagpasensyahan niyo na po.
-view.remove_ads.error.product_already_purchased: Ang produktong ito ay nabili na.
-view.remove_ads.error.unknown_error: 'Isang hindi kilalang error ang naganap: {}.'
-view.remove_ads.error.title: May pagkakamaling naganap
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
-view.remove_ads.button.join_server: Sumali sa Server ng Suporta
-view.remove_ads.button.okay: Sige
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
-view.login.error.retry.button: Ulitin
-view.login.error.support_server.button: Support Server
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: Tanggalin ang ads
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Cancelado
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Bili na
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.welcome.subtitle: Find the perfect bot for your server
+view.explore.browse_categories.description: Discover bots by category
+view.explore.browse_categories.title: Browse Categories
+view.explore.category.subtitle: Bots ay nasa {} kategorya
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
+view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.featured.title: Itinatampok
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Pinaka-sikat
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: Karamihan ang bumoto
+view.top_charts.most_popular: Pinaka-sikat
+view.top_charts.most_voted: Karamihan ang bumoto
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: Kwenta / Tuos
+view.navigation.settings: Settings
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason
