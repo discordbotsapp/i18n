@@ -1,11 +1,11 @@
 ---
 global.navbar.explore: Tuklasin
 global.navbar.top_charts: Nangungunang Charts
-global.navbar.account: Account
+global.navbar.account: Kwenta / Tuos
 global.navbar.search: Maghanap
 global.app_bar.explore: Tuklasin
 global.app_bar.top_charts: Nangungunang Charts
-global.app_bar.account: Account
+global.app_bar.account: Kwenta / Tuos
 global.app_bar.settings: Mga Setting
 global.app_bar.remove_ads: Tanggalin ang mga Ad
 global.footer.info: Bots for Discord App ay hindi kaakibat ng Discord o anumang sa mga Discord Bot Lists na sinusuportahan.
@@ -77,8 +77,7 @@ view.top_charts.most_popular: Pinaka-sikat
 view.top_charts.most_voted: Pinakamaraming Boto
 view.submit_bot.error.title: Hindi ma-load ang mga Bot List
 view.submit_bot.error.description: Hindi namin ma-load ang mga available na bot list. Pakisubukan ulit mamaya.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Mag-sign Out
 view.alert.sign_out.message: Sigurado ka bang gusto mong mag-sign out?
 view.alert.sign_out.cancel: Kanselahin
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "Walang invite link ang {}."
 view.alert.error.open_invite_failed: Hindi naging matagumpay ang pagbukas ng invite link.
 view.alert.error.discord_not_installed: Hindi mabuksan ang Discord. Pakisiguro na naka-install ang Discord sa inyong device.
 view.alert.error.open_support_failed: Hindi naging matagumpay ang pagbukas ng support server link.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: I-delete ang Account
 view.alert.delete_account.message: Sigurado ka bang gusto mong i-delete ang inyong account? Hindi na ito mababalik at permanenteng matatanggal ang lahat ng inyong data.
 view.alert.delete_account.confirm: I-delete
 view.alert.delete_account.final.title: I-delete ang Account
 view.alert.delete_account.final.message: Permanenteng mababura ang inyong account at mga kaugnay na data. Sigurado kayo?
-
-# Report bot screen
+#Report bot screen
 view.report.title: I-report ang Bot
 view.report.header.title: I-report ang Bot
 view.report.header.description: Tulungan namin na panatilihing ligtas ang community sa pamamagitan ng pag-report ng hindi naaangkop na content o mga isyu.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Salamat sa inyong report. Susuriin namin ito
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Pakipili ang dahilan para sa pag-report.
 view.report.validation.no_details: Pakibigay ang karagdagang mga detalye tungkol sa isyu.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Nilo-load ang mga detalye ng bot...
 view.error.bot_not_found: Hindi nahanap ang bot.
 view.loading.categories: Nilo-load ang mga kategorya...
-
-# Navigation headers
-view.navigation.account: Account
+#Navigation headers
+view.navigation.account: Kwenta / Tuos
 view.navigation.settings: Mga Setting
 view.navigation.categories: Mga Kategorya
 view.navigation.bot_details: Mga Detalye ng Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Mga iminumungkahing paghahanap
 view.search.placeholder: Maghanap ng mga bot...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Sumali sa support server ng app
 view.remove_ads.description: Permanenteng i-disable ang mga in-app ad
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Pumili ng Dahilan

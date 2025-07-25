@@ -77,8 +77,7 @@ view.top_charts.most_popular: Mest populära
 view.top_charts.most_voted: Mest röstade
 view.submit_bot.error.title: Kunde inte ladda bot-listor
 view.submit_bot.error.description: Vi kunde inte ladda tillgängliga bot-listor. Försök igen senare.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Logga ut
 view.alert.sign_out.message: Är du säker på att du vill logga ut?
 view.alert.sign_out.cancel: Avbryt
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} har ingen inbjudningslänk."
 view.alert.error.open_invite_failed: Kunde inte öppna inbjudningslänk.
 view.alert.error.discord_not_installed: Kan inte öppna Discord. Se till att Discord är installerat på din enhet.
 view.alert.error.open_support_failed: Kunde inte öppna supportserverlänk.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Ta bort konto
 view.alert.delete_account.message: Är du säker på att du vill ta bort ditt konto? Denna åtgärd kan inte ångras och kommer permanent ta bort all din data.
 view.alert.delete_account.confirm: Ta bort
 view.alert.delete_account.final.title: Ta bort konto
 view.alert.delete_account.final.message: Detta kommer permanent radera ditt konto och tillhörande data. Är du säker?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Rapportera bot
 view.report.header.title: Rapportera bot
 view.report.header.description: Hjälp oss hålla communityn säker genom att rapportera olämpligt innehåll eller problem.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Tack för din rapport. Vi kommer granska den
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Vänligen välj en anledning för rapportering.
 view.report.validation.no_details: Vänligen ange ytterligare detaljer om problemet.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Laddar bot-detaljer...
 view.error.bot_not_found: Bot hittades inte.
 view.loading.categories: Laddar kategorier...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Konto
 view.navigation.settings: Inställningar
 view.navigation.categories: Kategorier
 view.navigation.bot_details: Bot-detaljer
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Föreslagna sökningar
 view.search.placeholder: Sök efter botar...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Gå med i appens supportserver
 view.remove_ads.description: Inaktivera reklam i appen permanent
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Välj anledning

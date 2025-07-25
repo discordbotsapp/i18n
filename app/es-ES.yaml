@@ -15,12 +15,12 @@ global.support_server.join: Unirse al Servidor de Soporte
 view.bot.add.button: Añadir
 view.bot.hide.button: Ocultar Bot
 view.bot.hide.title: Ocultar Bot
-view.bot.hide.message: ¿Estás seguro de que quieres ocultar este bot?
+view.bot.hide.message: '¿Estás seguro de que quieres ocultar este bot?'
 view.bot.hide.login_required.title: Inicio de Sesión Requerido
 view.bot.hide.login_required.message: Necesitas iniciar sesión para ocultar bots.
 view.bot.unhide.button: Mostrar Bot
 view.bot.unhide.title: Mostrar Bot
-view.bot.unhide.message: ¿Estás seguro de que quieres mostrar este bot?
+view.bot.unhide.message: '¿Estás seguro de que quieres mostrar este bot?'
 view.bot.stats.ratings: CALIFICACIONES
 view.bot.stats.server_count: NÚMERO DE SERVIDORES
 view.bot.stats.vote_count: NÚMERO DE VOTOS
@@ -46,7 +46,7 @@ view.settings.hidden_bots.description: Gestionar bots ocultos
 view.settings.privacy.title: Privacidad
 view.settings.privacy.description: Configuración de privacidad
 view.settings.coming_soon.title: Próximamente
-view.settings.coming_soon.privacy: ¡Configuración de privacidad próximamente!
+view.settings.coming_soon.privacy: '¡Configuración de privacidad próximamente!'
 view.settings.sign_in_required.title: Inicio de Sesión Requerido
 view.settings.sign_in_required.message: Necesitas iniciar sesión para acceder a los ajustes.
 view.settings.sign_out.title: Cerrar Sesión
@@ -64,7 +64,7 @@ view.explore.browse_categories.title: Explorar Categorías
 view.explore.category.subtitle: Bots en la categoría de {}
 view.explore.discord_server.description: Únete a nuestra comunidad de Discord para recomendaciones de bots, soporte de la aplicación, o para participar en traducciones y pruebas beta.
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: ¿Necesitas Ayuda o Quieres Contribuir?
+view.explore.discord_server.title: '¿Necesitas Ayuda o Quieres Contribuir?'
 view.explore.featured.description: Bots de primera calidad verificados por Discord
 view.explore.featured.title: Destacados
 view.explore.highest_rated.description: Bots con las calificaciones más altas de los usuarios
@@ -77,10 +77,9 @@ view.top_charts.most_popular: Más Popular
 view.top_charts.most_voted: Más Votados
 view.submit_bot.error.title: Error al Cargar Listas de Bots
 view.submit_bot.error.description: No pudimos cargar las listas de bots disponibles. Por favor, inténtalo de nuevo más tarde.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Cerrar Sesión
-view.alert.sign_out.message: ¿Estás seguro de que quieres cerrar sesión?
+view.alert.sign_out.message: '¿Estás seguro de que quieres cerrar sesión?'
 view.alert.sign_out.cancel: Cancelar
 view.alert.sign_out.confirm: Cerrar Sesión
 view.alert.error.title: Error
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} no tiene un enlace de invitación."
 view.alert.error.open_invite_failed: Error al abrir el enlace de invitación.
 view.alert.error.discord_not_installed: No se puede abrir Discord. Por favor, asegúrate de que Discord esté instalado en tu dispositivo.
 view.alert.error.open_support_failed: Error al abrir el enlace del servidor de soporte.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Eliminar Cuenta
-view.alert.delete_account.message: ¿Estás seguro de que quieres eliminar tu cuenta? Esta acción no se puede deshacer y eliminará permanentemente todos tus datos.
+view.alert.delete_account.message: '¿Estás seguro de que quieres eliminar tu cuenta? Esta acción no se puede deshacer y eliminará permanentemente todos tus datos.'
 view.alert.delete_account.confirm: Eliminar
 view.alert.delete_account.final.title: Eliminar Cuenta
 view.alert.delete_account.final.message: Esto eliminará permanentemente tu cuenta y datos asociados. ¿Estás seguro?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Reportar Bot
 view.report.header.title: Reportar Bot
 view.report.header.description: Ayúdanos a mantener la comunidad segura reportando contenido inapropiado o problemas.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Gracias por tu reporte. Lo revisaremos y tom
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Por favor, selecciona un motivo para el reporte.
 view.report.validation.no_details: Por favor, proporciona detalles adicionales sobre el problema.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Cargando detalles del bot...
 view.error.bot_not_found: Bot no encontrado.
 view.loading.categories: Cargando categorías...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Cuenta
 view.navigation.settings: Ajustes
 view.navigation.categories: Categorías
 view.navigation.bot_details: Detalles del Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Búsquedas sugeridas
 view.search.placeholder: Buscar bots...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Únete al servidor de soporte de la aplicación
 view.remove_ads.description: Desactivar permanentemente los anuncios en la aplicación
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Seleccionar Motivo

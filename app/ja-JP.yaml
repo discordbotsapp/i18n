@@ -61,7 +61,7 @@ view.welcome.skip.button: 今すぐスキップ
 view.welcome.subtitle: サーバーにぴったりのBotを見つけましょう
 view.explore.browse_categories.description: カテゴリー別にBotを発見
 view.explore.browse_categories.title: カテゴリーを閲覧
-view.explore.category.subtitle: {}カテゴリーのBot
+view.explore.category.subtitle: '{}カテゴリーのBot'
 view.explore.discord_server.description: Bot推薦、アプリサポート、翻訳やベータテストへの参加については、Discordコミュニティにご参加ください。
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: ヘルプが必要ですか？または貢献したいですか？
@@ -77,8 +77,7 @@ view.top_charts.most_popular: 人気
 view.top_charts.most_voted: 高評価
 view.submit_bot.error.title: Bot Listの読み込みに失敗しました
 view.submit_bot.error.description: 利用可能なBot Listを読み込むことができませんでした。後でもう一度お試しください。
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: サインアウト
 view.alert.sign_out.message: サインアウトしてもよろしいですか？
 view.alert.sign_out.cancel: キャンセル
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{}には招待リンクがありません。"
 view.alert.error.open_invite_failed: 招待リンクを開くのに失敗しました。
 view.alert.error.discord_not_installed: Discordを開くことができません。お使いのデバイスにDiscordがインストールされていることを確認してください。
 view.alert.error.open_support_failed: サポートサーバーリンクを開くのに失敗しました。
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: アカウントを削除
 view.alert.delete_account.message: アカウントを削除してもよろしいですか？この操作は元に戻すことができず、すべてのデータが完全に削除されます。
 view.alert.delete_account.confirm: 削除
 view.alert.delete_account.final.title: アカウントを削除
 view.alert.delete_account.final.message: アカウントと関連データが完全に削除されます。よろしいですか？
-
-# Report bot screen
+#Report bot screen
 view.report.title: Botを報告
 view.report.header.title: Botを報告
 view.report.header.description: 不適切なコンテンツや問題を報告して、コミュニティの安全を保つお手伝いをしてください。
@@ -115,25 +112,20 @@ view.report.submit.success.message: レポートありがとうございます�
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: 報告の理由を選択してください。
 view.report.validation.no_details: 問題について追加の詳細を入力してください。
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Bot詳細を読み込み中...
 view.error.bot_not_found: Botが見つかりません。
 view.loading.categories: カテゴリーを読み込み中...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: アカウント
 view.navigation.settings: 設定
 view.navigation.categories: カテゴリー
 view.navigation.bot_details: Bot詳細
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: 検索候補
 view.search.placeholder: Botを検索...
-
-# Support and ads
+#Support and ads
 view.support.server.description: アプリのサポートサーバーに参加
 view.remove_ads.description: アプリ内広告を完全に無効化
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: 理由を選択

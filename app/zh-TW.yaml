@@ -1,13 +1,13 @@
 ---
 global.navbar.explore: 探索
-global.navbar.top_charts: 排行榜
-global.navbar.account: 帳戶
+global.navbar.top_charts: 頂部圖表
+global.navbar.account: 帳號
 global.navbar.search: 搜尋
 global.app_bar.explore: 探索
-global.app_bar.top_charts: 排行榜
-global.app_bar.account: 帳戶
-global.app_bar.settings: 設定
-global.app_bar.remove_ads: 移除廣告
+global.app_bar.top_charts: 頂部圖表
+global.app_bar.account: 帳號
+global.app_bar.settings: 設置
+global.app_bar.remove_ads: 刪除廣告
 global.footer.info: Bots for Discord App 與 Discord 或任何支援的 Discord Bot Lists 無關聯。
 global.button.cancel: 取消
 global.button.sign_in: 登入
@@ -28,10 +28,10 @@ view.bot.stats.servers: 伺服器
 view.bot.stats.votes: 投票
 view.bot.promoted: 推廣
 view.bot.see_all: 查看全部
-view.account.login.button: 使用 Discord 登入
+view.account.login.button: 用 Discord 帳號登入
 view.account.my_bots.button: 我的機器人
-view.account.add_bot.button: 新增機器人
-view.account.settings.button: 設定
+view.account.add_bot.button: 添加機器人
+view.account.settings.button: 設置
 view.account.settings.description: 設定與偏好
 view.account.profile.fallback_username: Discord 使用者
 view.account.profile.fallback_email: 無電子郵件
@@ -56,29 +56,28 @@ view.languages.title: 語言
 view.welcome.title: 歡迎使用 Bots for Discord
 view.welcome.discover.title: "探索 {} 個 Discord 機器人"
 view.welcome.discover.subtitle: 為您的伺服器尋找完美的機器人
-view.welcome.login.button: 使用 Discord 登入
-view.welcome.skip.button: 暫時跳過
+view.welcome.login.button: 用 Discord 帳號登入
+view.welcome.skip.button: 先跳過
 view.welcome.subtitle: 為您的伺服器尋找完美的機器人
 view.explore.browse_categories.description: 依類別探索機器人
 view.explore.browse_categories.title: 瀏覽類別
-view.explore.category.subtitle: {} 類別中的機器人
+view.explore.category.subtitle: 機器人在 {} 類別
 view.explore.discord_server.description: 加入我們的 Discord 社群以獲得機器人推薦、應用程式支援，或參與翻譯和測試版測試。
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: 需要協助或想要貢獻？
 view.explore.featured.description: 經 Discord 驗證的頂級機器人
-view.explore.featured.title: 精選
+view.explore.featured.title: 推薦
 view.explore.highest_rated.description: 使用者評分最高的機器人
 view.explore.highest_rated.title: 最高評分
 view.explore.most_popular.description: 在最多伺服器中的機器人
 view.explore.most_popular.title: 最受歡迎
 view.explore.most_voted.description: 本月獲得最多投票的機器人
-view.explore.most_voted.title: 最多投票
+view.explore.most_voted.title: 最高票
 view.top_charts.most_popular: 最受歡迎
-view.top_charts.most_voted: 最多投票
+view.top_charts.most_voted: 最高票
 view.submit_bot.error.title: 無法載入機器人清單
 view.submit_bot.error.description: 我們無法載入可用的機器人清單。請稍後再試。
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: 登出
 view.alert.sign_out.message: 您確定要登出嗎？
 view.alert.sign_out.cancel: 取消
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} 沒有邀請連結。"
 view.alert.error.open_invite_failed: 開啟邀請連結失敗。
 view.alert.error.discord_not_installed: 無法開啟 Discord。請確保您的裝置已安裝 Discord。
 view.alert.error.open_support_failed: 開啟支援伺服器連結失敗。
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: 刪除帳戶
 view.alert.delete_account.message: 您確定要刪除您的帳戶嗎？此操作無法復原，將永久移除您的所有資料。
 view.alert.delete_account.confirm: 刪除
 view.alert.delete_account.final.title: 刪除帳戶
 view.alert.delete_account.final.message: 這將永久清除您的帳戶和相關資料。您確定嗎？
-
-# Report bot screen
+#Report bot screen
 view.report.title: 回報機器人
 view.report.header.title: 回報機器人
 view.report.header.description: 透過回報不當內容或問題來協助我們維護社群安全。
@@ -115,25 +112,20 @@ view.report.submit.success.message: 感謝您的回報。我們將審核並採�
 view.report.submit.success.ok: 確定
 view.report.validation.no_reason: 請選擇回報原因。
 view.report.validation.no_details: 請提供關於此問題的額外詳情。
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: 載入機器人詳情中...
 view.error.bot_not_found: 找不到機器人。
 view.loading.categories: 載入類別中...
-
-# Navigation headers
-view.navigation.account: 帳戶
-view.navigation.settings: 設定
+#Navigation headers
+view.navigation.account: 帳號
+view.navigation.settings: 設置
 view.navigation.categories: 類別
 view.navigation.bot_details: 機器人詳情
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: 建議的搜尋
 view.search.placeholder: 搜尋機器人...
-
-# Support and ads
+#Support and ads
 view.support.server.description: 加入應用程式的支援伺服器
 view.remove_ads.description: 永久停用應用程式內廣告
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: 選擇原因

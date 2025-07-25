@@ -1,14 +1,14 @@
 ---
 global.navbar.explore: Explorar
 global.navbar.top_charts: Mais Populares
-global.navbar.account: Conta
+global.navbar.account: Perfil
 global.navbar.search: Buscar
 global.app_bar.explore: Explorar
 global.app_bar.top_charts: Mais Populares
-global.app_bar.account: Conta
-global.app_bar.settings: Configurações
+global.app_bar.account: Perfil
+global.app_bar.settings: Definições
 global.app_bar.remove_ads: Remover Anúncios
-global.footer.info: Bots for Discord App não é afiliado ao Discord ou a qualquer uma das Discord Bot Lists suportadas. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App não é afiliado ao Discord ou a qualquer uma das Discord Bot Lists suportadas.
 global.button.cancel: Cancelar
 global.button.sign_in: Entrar
 global.support_server.join: Entrar no Servidor de Suporte
@@ -31,7 +31,7 @@ view.bot.see_all: Ver Todos
 view.account.login.button: Entrar com Discord
 view.account.my_bots.button: Meus Bots
 view.account.add_bot.button: Adicionar Bot
-view.account.settings.button: Configurações
+view.account.settings.button: Definições
 view.account.settings.description: Configurações e preferências
 view.account.profile.fallback_username: Usuário Discord
 view.account.profile.fallback_email: Sem email
@@ -77,8 +77,7 @@ view.top_charts.most_popular: Mais Populares
 view.top_charts.most_voted: Mais Votados
 view.submit_bot.error.title: Falha ao Carregar Listas de Bots
 view.submit_bot.error.description: Não foi possível carregar as listas de bots disponíveis. Tente novamente mais tarde.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Sair
 view.alert.sign_out.message: Tem certeza de que deseja sair?
 view.alert.sign_out.cancel: Cancelar
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} não possui um link de convite."
 view.alert.error.open_invite_failed: Falha ao abrir link de convite.
 view.alert.error.discord_not_installed: Não foi possível abrir o Discord. Certifique-se de que o Discord esteja instalado no seu dispositivo.
 view.alert.error.open_support_failed: Falha ao abrir link do servidor de suporte.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Excluir Conta
 view.alert.delete_account.message: Tem certeza de que deseja excluir sua conta? Esta ação não pode ser desfeita e removerá permanentemente todos os seus dados.
 view.alert.delete_account.confirm: Excluir
 view.alert.delete_account.final.title: Excluir Conta
 view.alert.delete_account.final.message: Isso apagará permanentemente sua conta e dados associados. Tem certeza?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Denunciar Bot
 view.report.header.title: Denunciar Bot
 view.report.header.description: Ajude-nos a manter a comunidade segura relatando conteúdo inadequado ou problemas.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Obrigado pela sua denúncia. Iremos analisá
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Por favor, selecione um motivo para a denúncia.
 view.report.validation.no_details: Por favor, forneça detalhes adicionais sobre o problema.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Carregando detalhes do bot...
 view.error.bot_not_found: Bot não encontrado.
 view.loading.categories: Carregando categorias...
-
-# Navigation headers
-view.navigation.account: Conta
-view.navigation.settings: Configurações
+#Navigation headers
+view.navigation.account: Perfil
+view.navigation.settings: Definições
 view.navigation.categories: Categorias
 view.navigation.bot_details: Detalhes do Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Pesquisas sugeridas
 view.search.placeholder: Pesquisar por bots...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Junte-se ao servidor de suporte do app
 view.remove_ads.description: Desabilitar permanentemente anúncios no app
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Selecionar Motivo

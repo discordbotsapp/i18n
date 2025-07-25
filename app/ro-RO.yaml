@@ -77,8 +77,7 @@ view.top_charts.most_popular: Cele mai populare
 view.top_charts.most_voted: Cele mai votate
 view.submit_bot.error.title: Eșec la încărcarea listelor de Bot-uri
 view.submit_bot.error.description: Nu am putut încărca listele de bot-uri disponibile. Vă rugăm să încercați din nou mai târziu.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Deconectare
 view.alert.sign_out.message: Sunteți sigur că doriți să vă deconectați?
 view.alert.sign_out.cancel: Anulează
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} nu are un link de invitație."
 view.alert.error.open_invite_failed: Eșec la deschiderea link-ului de invitație.
 view.alert.error.discord_not_installed: Nu se poate deschide Discord. Vă rugăm să vă asigurați că Discord este instalat pe dispozitivul dumneavoastră.
 view.alert.error.open_support_failed: Eșec la deschiderea link-ului serverului de suport.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Șterge contul
 view.alert.delete_account.message: Sunteți sigur că doriți să vă ștergeți contul? Această acțiune nu poate fi anulată și va elimina permanent toate datele dumneavoastră.
 view.alert.delete_account.confirm: Șterge
 view.alert.delete_account.final.title: Șterge contul
 view.alert.delete_account.final.message: Aceasta va șterge permanent contul și datele asociate. Sunteți sigur?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Raportează Bot-ul
 view.report.header.title: Raportează Bot-ul
 view.report.header.description: Ajută-ne să menținem comunitatea sigură prin raportarea conținutului nepotrivit sau a problemelor.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Vă mulțumim pentru raport. Îl vom examina
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Vă rugăm să selectați un motiv pentru raportare.
 view.report.validation.no_details: Vă rugăm să furnizați detalii suplimentare despre problemă.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Se încarcă detaliile bot-ului...
 view.error.bot_not_found: Bot-ul nu a fost găsit.
 view.loading.categories: Se încarcă categoriile...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Cont
 view.navigation.settings: Setări
 view.navigation.categories: Categorii
 view.navigation.bot_details: Detalii Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Căutări sugerate
 view.search.placeholder: Caută bot-uri...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Alătură-te serverului de suport al aplicației
 view.remove_ads.description: Dezactivează permanent reclamele din aplicație
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Selectează motivul
