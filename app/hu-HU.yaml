@@ -1,5 +1,4 @@
 ---
-global.title: Botok a Discordhoz
 global.navbar.explore: Felfedezés
 global.navbar.top_charts: Legjobb Charts
 global.navbar.account: Fiók
@@ -7,210 +6,126 @@ global.navbar.search: Keresés
 global.app_bar.explore: Felfedezés
 global.app_bar.top_charts: Legjobb Charts
 global.app_bar.account: Fiók
-global.app_bar.advanced: Fejlett
-global.app_bar.login: Bejelentkezés
 global.app_bar.settings: Beállítások
-global.app_bar.language: Nyelv
-global.app_bar.report: '{} bejelentése'
-global.app_bar.categories: Kategóriák
 global.app_bar.remove_ads: Hirdetések Eltávolítása
-global.app_bar.promote: Promotált
-global.tag.music: Zene
-global.tag.pokemon: Pokémon #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderációs
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: Apróságok
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: Közösségi
-global.tag.fun: Szórakozás
-global.tag.economy: Pénz
-global.tag.anime: Anime #KEEP AS IS
-global.tag.game: Játék
-global.tag.meme: Mémek
-global.tag.leveling: Szint
-global.tag.roleplay: Szerepjáték
-global.tag.logging: Logolás
-global.tag.utility: Segédprogram
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: Többcélú
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: Kriptovaluta #KEEP AS IS
-global.tag.top_charts: Legjobb Charts
-global.footer.contact: 'Kapcsolat: support@discordbots.app'
 global.footer.info: A Bots for Discord App nem áll kapcsolatban a Discorddal vagy a támogatott Discord botlistákkal.
-global.login_alert.title: Bejelentkezés
-global.login_alert.cancel.button: Mégse
-global.login_alert.login.button: Bejelentkezés
-global.rate_dialog.title: Értéked a Bots for Discord Appot
-global.rate_dialog.subtitle: Ha tetszik az alkalmazás, kérünk szánj egy kis időt hogy értékelj minket! Ez sokat segít nekünk és nem tarthat tovább egy percnél.
-global.rate_dialog.button.rate: ÉRTÉKELÉS
-global.rate_dialog.button.no_thanks: KÖSZÖNÖM NEM
-global.rate_dialog.button.maybe_later: TALÁN KÉSŐBB
-global.promoted_bot.placeholder.title: Hirdesd a Botodat itt!
-global.promoted_bot.subtitle: Promótált
-global.pop_up_menu_button.remove_ads.button: Hirdetések Eltávolítása
-global.pop_up_menu_button.advertise.button: Hirdetés
-global.pop_up_menu_button.usage_data.button: Használt adat
-global.bot.button.advertise: HIRDETÉS
-view.bot.add.button: HOZZÁAD
-view.bot.chip.prefix: 'Előtag: {}'
-view.bot.chip.servers: '{} szerveren'
-view.bot.chip.server: '{} szerveren'
-view.bot.chip.votes: '{} szavazat'
-view.bot.chip.vote: '{} szavazat'
-view.bot.menu.report: Jelentés
-view.bot.menu.copy_id: ID másolása
-view.bot.menu.copy_id.snack_bar: Másolva a {} ID-ja
-view.bot.menu.hide: Elrejt
-view.bot.menu.hide.alert_dialog.title: Elrejt {}
-view.bot.menu.hide.alert_dialog.text: 'Biztosan el akarja rejteni a következőt {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: Mégse
-view.bot.menu.hide.alert_dialog.yes.button: 'Igen'
-view.bot.website.button: Weboldal
-view.bot.support_server.button: Támogatási Szerver
-view.bot.vote.button: Szavazás
-view.bot.favorite.login_alert: Be kell jelentkezned ahhoz hogy botot adhass a kedvenceid közé.
-view.bot.report.login_alert: Be kell jelentkezned ahhoz hogy botot jelenthess.
-view.bot.hide.login_alert: Be kell jelentkezned hogy elrejthesd ezt a botot.
-view.bot.copy.snackbar: Másolva a {} ID-ja
-view.report.report_reason.title: Jelentés oka
-view.report.report_reason.hint: Válasszon egy indokot
-view.report.report_reason.empty: Kérjük válassz egy indokot
-view.report.additional_information.title: További információk
-view.report.additional_information.hint: Adjon meg további részleteket...
-view.report.additional_information.empty: Kérjük válassz egy indokot
-view.report.submit.button: Küldés
-view.report.report_reason.dropdown.option1: Nem megfelelő/NSFW tartalom
-view.report.report_reason.dropdown.option2: Hosszú ideje offline
-view.report.report_reason.dropdown.option3: Félrevezető tulajdonság és információ
-view.report.report_reason.dropdown.option4: A bot nem működik
-view.report.report_reason.dropdown.option5: A meghívó link nem működik
-view.report.report_reanos.dropdown.option6: Egyéb ok
-view.explore.title: Felfedezés
-view.explore.featured.title: Felfedezés
-view.explore.featured.subtitle: Kiváló botok amelyeket a Discord ellenőrzött
-view.explore.trending.title: Népszerű
-view.explore.trending.subtitle: Új botok, amelyek felkapottak
-view.explore.new.title: Új
-view.explore.new.subtitle: Utoljára hozzáadott botok
-view.explore.most_voted.title: Legtöbb Szavazattal
-view.explore.most_voted.subtitle: A legtöbb szavazattal rendelkező botok a hónapban
-view.explore.most_popular.title: Legnépszerűbb
-view.explore.most_popular.subtitle: A legtöbb szerveren lévő botok
-view.explore.see_all.button: Összes
-view.explore.categories.title: Kategóriák Felfedezése
-view.explore.category.subtitle: Botok a {} kategóriában
-view.explore.footer.support_server.button: Támogatási Szerver
-view.explore.footer.bug_report.button: Hibajelentés
-view.explore.footer.about.button: Rólunk
-view.explore.footer.privacy_policy.button: Adatvédelmi Irányelvek
-view.top_charts.most_votes: Legtöbb Szavazat
-view.top_charts.most_servers: Legtöbb Szerver
-view.top_charts.bot.subtitle.servers.plural: '{} szerveren'
-view.top_charts.bot.subtitle.votes.plural: '{} szavazat'
-view.top_charts.bot.subtitle.servers.singular: '{} szerveren'
-view.top_charts.bot.subtitle.votes.singular: '{} szavazat'
-view.account.login.guest: Vendég
+global.button.cancel: Cancel
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
+view.bot.hide.button: Hide Bot
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: Bejelentkezés Discorddal
-view.account.login.error: Hiba történt a bejelentkezés során. Kérlek próbáld újra.
-view.account.login.error.button: Vissza a bejelentkezéshez
 view.account.my_bots.button: A botjaim
-view.account.favorites.button: Kedvencek
 view.account.add_bot.button: Bot Hozzáadása
-view.account.remove_ads.button: Hirdetések Eltávolítása
-view.account.advertise.button: Hirdetés
 view.account.settings.button: Beállítások
-view.my_bots.title: A botjaim
-view.my_bots.subtitle: Ezek a botok a tieid. Hozzá tudod adni ha rányomsz a Botok Hozzáadása gombra a Fiók fülön. #Keep capitalization consistent
-view.my_bots.none: Nincsenek botjaid
-view.favorites.title: Kedvencek
-view.favorites.subtitle: Add hozzá a kedvenc botjaidhoz, kattints a szív gombra a bot oldalán
-view.favorites.none: Nincsenek kedvenceid
-view.add_bot.title: Bot Hozzáadása
-view.add_bot.subtitle: Add hozzá egy harmadik féltől származó bot listához és automatikusan bekerül az appba.
-view.add_bot.note: 'Megjegyzés: Előfordulhat hogy az ön botja nem jelenik meg rögtön amikor hozzáadja egy bot listához.'
-view.settings.theme.title: Téma
-view.settings.theme.system.radio: Rendszer
-view.settings.theme.dark.radio: Sötét
-view.settings.theme.light.radio: Világos
-view.settings.language.title: Nyelv
-view.settings.language.placeholder: Nyelv kiválasztása
-view.settings.language.help_translate.button: Segíts lefordítani az appot
-view.settings.support.title: Támogatás
-view.settings.support.support_server.button: Támogatási Szerver
-view.settings.support.report_a_bug.button: Hibajelentés
-view.settings.account.title: Fiók
-view.settings.account.advanced.button: Fejlett
-view.settings.account.log_out.button: Kijelentkezés
-view.settings.account.log_out.alert_dialog.title: Kijelentkezés
-view.settings.account.log_out.alert_dialog.text: Biztosan ki szeretnél jelentkezni?
-view.settings.account.log_out.alert_dialog.cancel.button: Mégse
-view.settings.account.log_out.alert_dialog.log_out.button: Kijelentkezés
-view.settings.account.delete_account.button: Fiók Törlése
-view.settings.account.delete_account.alert_dialog.title: Fiók Törlése
-view.settings.account.delete_account.alert_dialog.text: Biztosan törölni szeretnéd a fiókot? Ez a művelet nem visszavonható.
-view.settings.account.delete_account.alert_dialog.cancel.button: Mégse
-view.settings.account.delete_account.alert_dialog.yes.button: 'Igen'
-view.settings.info.title: Információ
-view.settings.info.about.button: Rólunk
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. Minden jog fenntartva.
-view.settings.info.privacy_policy.button: Adatvédelmi Irányelvek
-view.bot.reported.title: Bejelentve {}
-view.bot.reported.subtitle: 'Sikeresen jelentetted {} a következő indokkal:'
-view.bot.reported.button.okay: Rendben
-view.user.bots: Botok
-view.search.hint: Keresés...
-view.search.title: Keresés
-view.search.subtitle.noQuery: Bot keresése...
-view.search.subtitle.query: A {} keresési eredmények láthatóak
-view.search.none: Nincs találat
-view.welcome.title: Botok a Discordhoz
-view.welcome.subtitle: Keressen a {}+ Discord botok között! Kezdje azzal hogy belép a Discord fiókjába.
+view.account.settings.description: Settings & preferences
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
+view.my_bots.subtitle: Manage your Discord bots
+view.add_bot.subtitle: Submit your bot to bot lists
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
+view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: Bejelentkezés Discorddal
 view.welcome.skip.button: Most Kihagyás
-view.remove_ads.title: Hirdetések Eltávolítása
-view.remove_ads.subtitle: Eltávolítja az összes hirdetést az appból
-view.remove_ads.error.load_product: Ismeretlen hiba történt a termék betöltése között.
-view.remove_ads.error.verify_purchase: Ismeretlen hiba történt a vásárlás ellenőrzésekor.
-view.remove_ads.error.try_again: Kérjük próbáld újra később vagy csatlakozz a szerverünkhöz.
-view.remove_ads.error.join_server: Kérjük csatlakozz a szerverünkhöz.
-view.remove_ads.purchase: Vásárlás
-view.remove_ads.thank_you.title: Köszönjük a vásárlást
-view.remove_ads.thank_you.subtitle: Az összes hirdetést eltávolítottuk
-view.remove_ads.error.store_problem: Probléma adódott a bolttal.
-view.remove_ads.error.try_again_later: Kérjük, próbálja meg később.
-view.remove_ads.error.purchase_not_allowed: Ez az eszköz vagy felhasználó nem engedélyezett vásárlásra.
-view.remove_ads.error.purchase_invalid: A vásárlás érvénytelen.
-view.remove_ads.error.purchase_in_progress: A vásárlás feldolgozás alatt. Kérjük szíves türelmed.
-view.remove_ads.error.product_already_purchased: Ez a termék már meg lett vásárolva.
-view.remove_ads.error.unknown_error: 'Ismeretlen hiba történt: {}.'
-view.remove_ads.error.title: Hiba lépett fel
-view.remove_ads.error.not_logging_in: Be kell jelentkezned hogy megvásárold ezt a terméket.
-view.remove_ads.button.join_server: Csatlakozz a szerverünkhöz
-view.remove_ads.button.okay: Rendben
-view.promote.introduction.promote_your_bot.title: Promotáld a bototdat
-view.promote.introduction.promote_your_bot.body: Népszerűsítse botját az alkalmazáson keresztül, hogy növelje forgalmát és szervereinek számát.
-view.promote.introduction.how_it_works.title: Hogy mükődik
-view.promote.introduction.how_it_works.body: Válasszon egyet a felfedezőoldalon található számos hely közül, ahol a botját népszerűsítheti.
-view.promote.introduction.track_your_ads.title: Trackeld a hirdetéseidet
-view.promote.introduction.track_your_ads.body: Egy élő műszerfalon keresztül nyomon követheti, hogyan teljesítenek a hirdetései.
-view.promote.get_started.button: Kezdjünk bele
-view.login.error.title: Egy hiba történt miközben bejelenkeztetünk téged
-view.login.error.subtitle: Kérjük, próbáld meg újra, vagy csatlakozz az alábbi támogatási szerverhez, hogy segítséget kapj a bejelentkezéshez.
-view.login.error.retry.button: Újra
-view.login.error.support_server.button: Támogatási Szerver
-view.login.logging_in.title: Bejelentkeztetünk téged
-view.advanced.usage_data.title: Használt adat
-view.advanced.usage_data.switch1.title: Kifagyott adat küldése
-view.advanced.usage_data.switch2.title: Teljesítmény adat küldése
-view.advanced.usage_data.switch3.title: Analitika adat küldése
-view.advanced.promoted_bots.title: Promotált botok
-view.advanced.promoted_bots.switch1.title: Mutasd ami én promotáltam
-view.advanced.promoted_bots.switch2.title: Mutasd a promotált botokat amiket nem az én tulajdonom
-view.advanced.promoted_bots.switch3.title: Promótált bot helytartók megjelenítése
-view.advanced.promoted_bots.remove_ads_alert.title: Hirdetések Eltávolítása
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: Mégse
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: Vásárlás
-view.advanced.promoted_bots.remove_ads_alert.text: Prémiumot kell vásárolnod ahhoz, hogy megváltoztathasd a hirdetett bot preferenciáit.
+view.welcome.subtitle: Find the perfect bot for your server
+view.explore.browse_categories.description: Discover bots by category
+view.explore.browse_categories.title: Browse Categories
+view.explore.category.subtitle: Botok a {} kategóriában
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
+view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.featured.title: Felfedezés
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Legnépszerűbb
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: Legtöbb Szavazattal
+view.top_charts.most_popular: Legnépszerűbb
+view.top_charts.most_voted: Legtöbb Szavazattal
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: Fiók
+view.navigation.settings: Beállítások
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason
