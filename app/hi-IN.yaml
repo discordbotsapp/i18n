@@ -8,7 +8,7 @@ global.app_bar.top_charts: टॉप चार्ट्स
 global.app_bar.account: खाता
 global.app_bar.settings: सेटिंग्स
 global.app_bar.remove_ads: विज्ञापन हटाएं
-global.footer.info: Bots for Discord App का Discord या किसी भी समर्थित Discord Bot Lists से कोई संबंध नहीं है। # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App का Discord या किसी भी समर्थित Discord Bot Lists से कोई संबंध नहीं है।
 global.button.cancel: रद्द करें
 global.button.sign_in: साइन इन करें
 global.support_server.join: सपोर्ट सर्वर से जुड़ें
@@ -61,7 +61,7 @@ view.welcome.skip.button: अभी छोड़ें
 view.welcome.subtitle: अपने सर्वर के लिए सही bot खोजें
 view.explore.browse_categories.description: श्रेणी के अनुसार bots खोजें
 view.explore.browse_categories.title: श्रेणियां ब्राउज़ करें
-view.explore.category.subtitle: {} श्रेणी में Bots
+view.explore.category.subtitle: '{} श्रेणी में Bots'
 view.explore.discord_server.description: Bot सिफारिशों, ऐप समर्थन, या अनुवाद और बीटा परीक्षण में शामिल होने के लिए हमारे Discord समुदाय से जुड़ें।
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: सहायता चाहिए या योगदान देना चाहते हैं?
@@ -77,8 +77,7 @@ view.top_charts.most_popular: सबसे लोकप्रिय
 view.top_charts.most_voted: सबसे अधिक वोटेड
 view.submit_bot.error.title: Bot Lists लोड करने में विफल
 view.submit_bot.error.description: हम उपलब्ध bot lists लोड नहीं कर सके। कृपया बाद में पुनः प्रयास करें।
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: साइन आउट
 view.alert.sign_out.message: क्या आप वाकई साइन आउट करना चाहते हैं?
 view.alert.sign_out.cancel: रद्द करें
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} के पास कोई आमंत्�
 view.alert.error.open_invite_failed: आमंत्रण लिंक खोलने में विफल।
 view.alert.error.discord_not_installed: Discord खोलने में असमर्थ। कृपया सुनिश्चित करें कि आपके डिवाइस पर Discord इंस्टॉल है।
 view.alert.error.open_support_failed: सपोर्ट सर्वर लिंक खोलने में विफल।
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: खाता हटाएं
 view.alert.delete_account.message: क्या आप वाकई अपना खाता हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती और आपका सारा डेटा स्थायी रूप से हटा देगी।
 view.alert.delete_account.confirm: हटाएं
 view.alert.delete_account.final.title: खाता हटाएं
 view.alert.delete_account.final.message: यह आपके खाते और संबंधित डेटा को स्थायी रूप से मिटा देगा। क्या आप निश्चित हैं?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Bot की रिपोर्ट करें
 view.report.header.title: Bot की रिपोर्ट करें
 view.report.header.description: अनुचित सामग्री या समस्याओं की रिपोर्ट करके समुदाय को सुरक्षित रखने में हमारी सहायता करें।
@@ -115,25 +112,20 @@ view.report.submit.success.message: आपकी रिपोर्ट के �
 view.report.submit.success.ok: ठीक है
 view.report.validation.no_reason: कृपया रिपोर्ट करने का कारण चुनें।
 view.report.validation.no_details: कृपया समस्या के बारे में अतिरिक्त विवरण प्रदान करें।
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Bot विवरण लोड कर रहे हैं...
 view.error.bot_not_found: Bot नहीं मिला।
 view.loading.categories: श्रेणियां लोड कर रहे हैं...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: खाता
 view.navigation.settings: सेटिंग्स
 view.navigation.categories: श्रेणियां
 view.navigation.bot_details: Bot विवरण
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: सुझावित खोजें
 view.search.placeholder: Bots के लिए खोजें...
-
-# Support and ads
+#Support and ads
 view.support.server.description: ऐप के सपोर्ट सर्वर से जुड़ें
 view.remove_ads.description: इन-ऐप विज्ञापनों को स्थायी रूप से अक्षम करें
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: कारण चुनें

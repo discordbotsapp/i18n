@@ -8,7 +8,7 @@ global.app_bar.top_charts: শীর্ষ তালিকা
 global.app_bar.account: অ্যাকাউন্ট
 global.app_bar.settings: সেটিংস
 global.app_bar.remove_ads: বিজ্ঞাপন সরান
-global.footer.info: Bots for Discord App Discord বা সমর্থিত কোনো Discord Bot Lists এর সাথে অধিভুক্ত নয়। # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App Discord বা সমর্থিত কোনো Discord Bot Lists এর সাথে অধিভুক্ত নয়।
 global.button.cancel: বাতিল
 global.button.sign_in: সাইন ইন
 global.support_server.join: সাপোর্ট সার্ভারে যোগ দিন
@@ -61,7 +61,7 @@ view.welcome.skip.button: এখনের জন্য এড়িয়ে য
 view.welcome.subtitle: আপনার সার্ভারের জন্য নিখুঁত bot খুঁজুন
 view.explore.browse_categories.description: ক্যাটেগরি অনুযায়ী bot আবিষ্কার করুন
 view.explore.browse_categories.title: ক্যাটেগরি ব্রাউজ করুন
-view.explore.category.subtitle: {} ক্যাটেগরির Bot গুলি
+view.explore.category.subtitle: '{} ক্যাটেগরির Bot গুলি'
 view.explore.discord_server.description: Bot সুপারিশ, অ্যাপ সাপোর্ট, অথবা অনুবাদ এবং বেটা টেস্টিং এ জড়িত হওয়ার জন্য আমাদের Discord কমিউনিটিতে যোগ দিন।
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: সাহায্য প্রয়োজন বা অবদান রাখতে চান?

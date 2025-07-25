@@ -77,8 +77,7 @@ view.top_charts.most_popular: Mest Populær
 view.top_charts.most_voted: Mest Stemt
 view.submit_bot.error.title: Klarte Ikke å Laste Bot Lister
 view.submit_bot.error.description: Vi kunne ikke laste de tilgjengelige bot listene. Vennligst prøv igjen senere.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Logg Ut
 view.alert.sign_out.message: Er du sikker på at du vil logge ut?
 view.alert.sign_out.cancel: Avbryt
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} har ikke en invitasjonslenke."
 view.alert.error.open_invite_failed: Klarte ikke å åpne invitasjonslenke.
 view.alert.error.discord_not_installed: Kan ikke åpne Discord. Vennligst sørg for at Discord er installert på enheten din.
 view.alert.error.open_support_failed: Klarte ikke å åpne support server lenke.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Slett Konto
 view.alert.delete_account.message: Er du sikker på at du vil slette kontoen din? Denne handlingen kan ikke angres og vil permanent fjerne alle dine data.
 view.alert.delete_account.confirm: Slett
 view.alert.delete_account.final.title: Slett Konto
 view.alert.delete_account.final.message: Dette vil permanent slette kontoen din og tilhørende data. Er du sikker?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Rapporter Bot
 view.report.header.title: Rapporter Bot
 view.report.header.description: Hjelp oss å holde fellesskapet trygt ved å rapportere upassende innhold eller problemer.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Takk for rapporten din. Vi vil gjennomgå de
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Vennligst velg en årsak for rapportering.
 view.report.validation.no_details: Vennligst oppgi ytterligere detaljer om problemet.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Laster bot detaljer...
 view.error.bot_not_found: Bot ikke funnet.
 view.loading.categories: Laster kategorier...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Konto
 view.navigation.settings: Innstillinger
 view.navigation.categories: Kategorier
 view.navigation.bot_details: Bot Detaljer
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Foreslåtte søk
 view.search.placeholder: Søk etter bots...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Bli med i appens support server
 view.remove_ads.description: Deaktiver reklamer i appen permanent
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Velg Årsak

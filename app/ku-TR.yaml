@@ -8,7 +8,7 @@ global.app_bar.top_charts: هێڵکارییە بەرزەکان
 global.app_bar.account: هەژمار
 global.app_bar.settings: رێکخستنەکان
 global.app_bar.remove_ads: لابردنی ڕیکلامەکان
-global.footer.info: Bots for Discord App پەیوەندی نییە بە Discord یان هیچ یەکێک لە Discord Bot Lists ەکانەوە کە پشتگیری دەکرێن. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App پەیوەندی نییە بە Discord یان هیچ یەکێک لە Discord Bot Lists ەکانەوە کە پشتگیری دەکرێن.
 global.button.cancel: هەڵوەشاندنەوە
 global.button.sign_in: چوونە ژوورەوە
 global.support_server.join: بەشداری لە سێرڤەری پشتگیری
@@ -28,9 +28,9 @@ view.bot.stats.servers: سێرڤەرەکان
 view.bot.stats.votes: دەنگەکان
 view.bot.promoted: پێشخستراو
 view.bot.see_all: تەماشای هەموو
-view.account.login.button: چوونە ژوورەوە لەڕێگەی Discord ەوە
-view.account.my_bots.button: Bot ەکانم
-view.account.add_bot.button: زیادکردنی Bot
+view.account.login.button: چوونە ژوورەوە لەڕێگەی دیسکۆردوە
+view.account.my_bots.button: بۆتەکانم
+view.account.add_bot.button: زیادکردنی بۆت
 view.account.settings.button: رێکخستنەکان
 view.account.settings.description: رێکخستنەکان و هەڵبژاردنەکان
 view.account.profile.fallback_username: بەکارهێنەری Discord
@@ -56,12 +56,12 @@ view.languages.title: زمان
 view.welcome.title: بەخێرهاتن بۆ Bots for Discord
 view.welcome.discover.title: "دۆزینەوەی {} Discord Bot"
 view.welcome.discover.subtitle: دۆزینەوەی bot ی تەواو بۆ سێرڤەرەکەت
-view.welcome.login.button: چوونە ژوورەوە لەڕێگەی Discord ەوە
+view.welcome.login.button: چوونە ژوورەوە لەڕێگەی دیسکۆردوە
 view.welcome.skip.button: بازدان بۆ ئێستا
 view.welcome.subtitle: دۆزینەوەی bot ی تەواو بۆ سێرڤەرەکەت
 view.explore.browse_categories.description: دۆزینەوەی bot ەکان بەپێی جۆر
 view.explore.browse_categories.title: گەڕان لە جۆرەکان
-view.explore.category.subtitle: Bot ەکان لە جۆری {}
+view.explore.category.subtitle: بۆتەکان لە جۆری {}
 view.explore.discord_server.description: بەشداری بکە لە کۆمەڵگای Discord ەکەماندا بۆ پێشنیارکردنی bot، پشتگیری ئەپ، یان بەشداریکردن لە وەرگێڕان و تاقیکردنەوەی beta.
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: یارمەتیت دەوێت یان دەتەوێت بەشداری بکەیت؟
@@ -77,8 +77,7 @@ view.top_charts.most_popular: بەناوبانگترین
 view.top_charts.most_voted: زۆرترین دەنگ
 view.submit_bot.error.title: شکستی بارکردنی لیستی Bot ەکان
 view.submit_bot.error.description: نەمانتوانی لیستی bot ە بەردەستەکان بار بکەین. تکایە دوبارە هەوڵ بدەوە.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: چوونە دەرەوە
 view.alert.sign_out.message: دڵنیایت لەوەی دەتەوێت بچیتە دەرەوە؟
 view.alert.sign_out.cancel: هەڵوەشاندنەوە
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} بەستەری بانگهێشتی نییە.
 view.alert.error.open_invite_failed: شکستی کردنەوەی بەستەری بانگهێشت.
 view.alert.error.discord_not_installed: ناتوانرێت Discord بکرێتەوە. تکایە دڵنیا بە لەوەی Discord دامەزراوە لەسەر ئامێرەکەت.
 view.alert.error.open_support_failed: شکستی کردنەوەی بەستەری سێرڤەری پشتگیری.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: سڕینەوەی هەژمار
 view.alert.delete_account.message: دڵنیایت لەوەی دەتەوێت هەژمارەکەت بسڕیتەوە؟ ئەم کارە ناگەڕێتەوە و بە تەواوی هەموو داتاکانت دەسڕێتەوە.
 view.alert.delete_account.confirm: سڕینەوە
 view.alert.delete_account.final.title: سڕینەوەی هەژمار
 view.alert.delete_account.final.message: ئەمە بە تەواوی هەژمارەکەت و داتا پەیوەندیدارەکان دەسڕێتەوە. دڵنیایت؟
-
-# Report bot screen
+#Report bot screen
 view.report.title: گزارشتکردنی Bot
 view.report.header.title: گزارشتکردنی Bot
 view.report.header.description: یارمەتیمان بدە کۆمەڵگاکە بپارێزین بە گزارشتکردنی ناوەڕۆکی نەگونجاو یان کێشەکان.
@@ -115,25 +112,20 @@ view.report.submit.success.message: سوپاس بۆ گزارشتەکەت. بین
 view.report.submit.success.ok: باشە
 view.report.validation.no_reason: تکایە هۆکارێک بۆ گزارشتکردن هەڵبژێرە.
 view.report.validation.no_details: تکایە وردەکارییە زیادەکان دەربارەی کێشەکە بنووسە.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: بارکردنی وردەکارییەکانی bot...
 view.error.bot_not_found: Bot نەدۆزرایەوە.
 view.loading.categories: بارکردنی جۆرەکان...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: هەژمار
 view.navigation.settings: رێکخستنەکان
 view.navigation.categories: جۆرەکان
 view.navigation.bot_details: وردەکارییەکانی Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: گەڕانە پێشنیارکراوەکان
 view.search.placeholder: گەڕان بۆ bot ەکان...
-
-# Support and ads
+#Support and ads
 view.support.server.description: بەشداری لە سێرڤەری پشتگیری ئەپەکە
 view.remove_ads.description: لەکارخستنی ڕیکلامەکانی ناو ئەپ بۆ هەمیشە
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: هەڵبژاردنی هۆکار

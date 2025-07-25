@@ -8,7 +8,7 @@ global.app_bar.top_charts: Top Charts
 global.app_bar.account: Konto
 global.app_bar.settings: Einstellungen
 global.app_bar.remove_ads: Werbung entfernen
-global.footer.info: Bots for Discord App steht nicht mit Discord oder einer der unterstützten Discord Bot Listen in Verbindung. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App steht nicht mit Discord oder einer der unterstützten Discord Bot Listen in Verbindung.
 global.button.cancel: Abbrechen
 global.button.sign_in: Anmelden
 global.support_server.join: Support Server beitreten
@@ -77,8 +77,7 @@ view.top_charts.most_popular: Am beliebtesten
 view.top_charts.most_voted: Am meisten abgestimmt
 view.submit_bot.error.title: Fehler beim Laden der Bot-Listen
 view.submit_bot.error.description: Die verfügbaren Bot-Listen konnten nicht geladen werden. Bitte versuchen Sie es später erneut.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Abmelden
 view.alert.sign_out.message: Sind Sie sicher, dass Sie sich abmelden möchten?
 view.alert.sign_out.cancel: Abbrechen
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} hat keinen Einladungslink."
 view.alert.error.open_invite_failed: Einladungslink öffnen fehlgeschlagen.
 view.alert.error.discord_not_installed: Discord kann nicht geöffnet werden. Bitte stellen Sie sicher, dass Discord auf Ihrem Gerät installiert ist.
 view.alert.error.open_support_failed: Support Server Link öffnen fehlgeschlagen.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Konto löschen
 view.alert.delete_account.message: Sind Sie sicher, dass Sie Ihr Konto löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden und wird alle Ihre Daten dauerhaft entfernen.
 view.alert.delete_account.confirm: Löschen
 view.alert.delete_account.final.title: Konto löschen
 view.alert.delete_account.final.message: Dies wird Ihr Konto und die zugehörigen Daten dauerhaft löschen. Sind Sie sicher?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Bot melden
 view.report.header.title: Bot melden
 view.report.header.description: Helfen Sie uns, die Community sicher zu halten, indem Sie unangemessene Inhalte oder Probleme melden.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Vielen Dank für Ihre Meldung. Wir werden si
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Bitte wählen Sie einen Grund für die Meldung.
 view.report.validation.no_details: Bitte geben Sie zusätzliche Details zum Problem an.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Bot-Details werden geladen...
 view.error.bot_not_found: Bot nicht gefunden.
 view.loading.categories: Kategorien werden geladen...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Konto
 view.navigation.settings: Einstellungen
 view.navigation.categories: Kategorien
 view.navigation.bot_details: Bot-Details
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Suchvorschläge
 view.search.placeholder: Nach Bots suchen...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Treten Sie dem Support-Server der App bei
 view.remove_ads.description: In-App-Werbung dauerhaft deaktivieren
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Grund auswählen

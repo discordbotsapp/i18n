@@ -70,15 +70,14 @@ view.explore.featured.title: In Evidenza
 view.explore.highest_rated.description: Bot con le valutazioni più alte dagli utenti
 view.explore.highest_rated.title: Più Votati
 view.explore.most_popular.description: Bot presenti nel maggior numero di server
-view.explore.most_popular.title: Più Popolari
+view.explore.most_popular.title: Più Popolare
 view.explore.most_voted.description: Bot con più voti questo mese
 view.explore.most_voted.title: Più Votati
-view.top_charts.most_popular: Più Popolari
+view.top_charts.most_popular: Più Popolare
 view.top_charts.most_voted: Più Votati
 view.submit_bot.error.title: Impossibile Caricare le Liste Bot
 view.submit_bot.error.description: Non siamo riusciti a caricare le liste bot disponibili. Riprova più tardi.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Disconnetti
 view.alert.sign_out.message: Sei sicuro di voler disconnetterti?
 view.alert.sign_out.cancel: Annulla
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} non ha un link di invito."
 view.alert.error.open_invite_failed: Impossibile aprire il link di invito.
 view.alert.error.discord_not_installed: Impossibile aprire Discord. Assicurati che Discord sia installato sul tuo dispositivo.
 view.alert.error.open_support_failed: Impossibile aprire il link del server di supporto.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Elimina Account
 view.alert.delete_account.message: Sei sicuro di voler eliminare il tuo account? Questa azione non può essere annullata e rimuoverà permanentemente tutti i tuoi dati.
 view.alert.delete_account.confirm: Elimina
 view.alert.delete_account.final.title: Elimina Account
 view.alert.delete_account.final.message: Questo eliminerà permanentemente il tuo account e i dati associati. Sei sicuro?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Segnala Bot
 view.report.header.title: Segnala Bot
 view.report.header.description: Aiutaci a mantenere la comunità sicura segnalando contenuti inappropriati o problemi.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Grazie per la tua segnalazione. La esaminere
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Seleziona un motivo per la segnalazione.
 view.report.validation.no_details: Fornisci dettagli aggiuntivi sul problema.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Caricamento dettagli bot...
 view.error.bot_not_found: Bot non trovato.
 view.loading.categories: Caricamento categorie...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Account
 view.navigation.settings: Impostazioni
 view.navigation.categories: Categorie
 view.navigation.bot_details: Dettagli Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Ricerche suggerite
 view.search.placeholder: Cerca bot...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Unisciti al server di supporto dell'app
 view.remove_ads.description: Disabilita permanentemente gli annunci nell'app
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Seleziona Motivo

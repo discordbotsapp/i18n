@@ -8,7 +8,7 @@ global.app_bar.top_charts: En İyiler
 global.app_bar.account: Hesabım
 global.app_bar.settings: Ayarlar
 global.app_bar.remove_ads: Reklamları Kaldır
-global.footer.info: Bots for Discord uygulaması, Discord veya desteklenen Discord Bot Listelerinden herhangi biri ile bağlantılı değildir. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord uygulaması, Discord veya desteklenen Discord Bot Listelerinden herhangi biri ile bağlantılı değildir.
 global.button.cancel: İptal
 global.button.sign_in: Giriş Yap
 global.support_server.join: Destek Sunucusuna Katıl
@@ -61,7 +61,7 @@ view.welcome.skip.button: Şimdilik Atla
 view.welcome.subtitle: Sunucunuz için mükemmel botu bulun
 view.explore.browse_categories.description: Kategoriye göre botları keşfedin
 view.explore.browse_categories.title: Kategorilere Göz Atın
-view.explore.category.subtitle: {} kategorisindeki botlar
+view.explore.category.subtitle: '{} kategorisindeki botlar'
 view.explore.discord_server.description: Bot önerileri, uygulama desteği veya çeviriler ve beta testlere katılım için Discord topluluğumuza katılın.
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: Yardıma mı İhtiyacınız Var veya Katkıda Bulunmak mı İstiyorsunuz?
@@ -77,8 +77,7 @@ view.top_charts.most_popular: En Popüler
 view.top_charts.most_voted: En Çok Oy Alanlar
 view.submit_bot.error.title: Bot Listeleri Yüklenemedi
 view.submit_bot.error.description: Mevcut bot listelerini yükleyemedik. Lütfen daha sonra tekrar deneyin.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Çıkış Yap
 view.alert.sign_out.message: Çıkış yapmak istediğinizden emin misiniz?
 view.alert.sign_out.cancel: İptal
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} botunun davet bağlantısı yok."
 view.alert.error.open_invite_failed: Davet bağlantısı açılamadı.
 view.alert.error.discord_not_installed: Discord açılamıyor. Lütfen Discord'un cihazınızda yüklü olduğundan emin olun.
 view.alert.error.open_support_failed: Destek sunucusu bağlantısı açılamadı.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Hesabı Sil
 view.alert.delete_account.message: Hesabınızı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz ve tüm verilerinizi kalıcı olarak kaldıracaktır.
 view.alert.delete_account.confirm: Sil
 view.alert.delete_account.final.title: Hesabı Sil
 view.alert.delete_account.final.message: Bu işlem hesabınızı ve ilişkili verileri kalıcı olarak silecektir. Emin misiniz?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Botu Bildir
 view.report.header.title: Botu Bildir
 view.report.header.description: Uygunsuz içerik veya sorunları bildirerek topluluğumuzun güvenliğini korumamıza yardımcı olun.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Raporunuz için teşekkür ederiz. İnceleye
 view.report.submit.success.ok: Tamam
 view.report.validation.no_reason: Lütfen bildirim için bir neden seçin.
 view.report.validation.no_details: Lütfen sorun hakkında ek detaylar verin.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Bot detayları yükleniyor...
 view.error.bot_not_found: Bot bulunamadı.
 view.loading.categories: Kategoriler yükleniyor...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Hesabım
 view.navigation.settings: Ayarlar
 view.navigation.categories: Kategoriler
 view.navigation.bot_details: Bot Detayları
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Önerilen aramalar
 view.search.placeholder: Bot arayın...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Uygulamanın destek sunucusuna katılın
 view.remove_ads.description: Uygulama içi reklamları kalıcı olarak devre dışı bırakın
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Neden Seçin
