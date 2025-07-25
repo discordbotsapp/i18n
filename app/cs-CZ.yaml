@@ -8,7 +8,7 @@ global.app_bar.top_charts: Žebříčky nejlepších
 global.app_bar.account: Účet
 global.app_bar.settings: Nastavení
 global.app_bar.remove_ads: Odstranit reklamy
-global.footer.info: Aplikace Bots for Discord není spojena s Discord Inc. ani s žádným z podporovaných Discord Bot Listů. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Aplikace Bots for Discord není spojena s Discord Inc. ani s žádným z podporovaných Discord Bot Listů.
 global.button.cancel: Zrušit
 global.button.sign_in: Přihlásit se
 global.support_server.join: Připojit se k Support Serveru
@@ -77,8 +77,7 @@ view.top_charts.most_popular: Nejpopulárnější
 view.top_charts.most_voted: Nejvíce hlasované
 view.submit_bot.error.title: Nepodařilo se načíst Bot Listy
 view.submit_bot.error.description: Nepodařilo se nám načíst dostupné bot listy. Zkuste to prosím později.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Odhlásit se
 view.alert.sign_out.message: Opravdu se chcete odhlásit?
 view.alert.sign_out.cancel: Zrušit
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} nemá odkaz na pozvánku."
 view.alert.error.open_invite_failed: Otevření odkazu na pozvánku se nezdařilo.
 view.alert.error.discord_not_installed: Nelze otevřít Discord. Ujistěte se prosím, že máte Discord nainstalovaný na vašem zařízení.
 view.alert.error.open_support_failed: Otevření odkazu na support server se nezdařilo.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Smazat účet
 view.alert.delete_account.message: Opravdu chcete smazat svůj účet? Tuto akci nelze vrátit zpět a trvale odstraní všechna vaša data.
 view.alert.delete_account.confirm: Smazat
 view.alert.delete_account.final.title: Smazat účet
 view.alert.delete_account.final.message: Toto trvale vymaže váš účet a související data. Jste si jisti?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Nahlásit bota
 view.report.header.title: Nahlásit bota
 view.report.header.description: Pomozte nám udržet komunitu bezpečnou nahlášením nevhodného obsahu nebo problémů.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Děkujeme za vaše nahlášení. Zkontroluje
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Vyberte prosím důvod nahlášení.
 view.report.validation.no_details: Uveďte prosím další podrobnosti o problému.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Načítají se podrobnosti bota...
 view.error.bot_not_found: Bot nebyl nalezen.
 view.loading.categories: Načítají se kategorie...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Účet
 view.navigation.settings: Nastavení
 view.navigation.categories: Kategorie
 view.navigation.bot_details: Podrobnosti bota
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Navrhovaná vyhledávání
 view.search.placeholder: Hledat boty...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Připojte se k support serveru aplikace
 view.remove_ads.description: Trvale zakázat reklamy v aplikaci
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Vybrat důvod
