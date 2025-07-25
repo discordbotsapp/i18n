@@ -1,0 +1,139 @@
+---
+global.navbar.explore: Досліджувати
+global.navbar.top_charts: Топ Рейтинги
+global.navbar.account: Акаунт
+global.navbar.search: Пошук
+global.app_bar.explore: Досліджувати
+global.app_bar.top_charts: Топ Рейтинги
+global.app_bar.account: Акаунт
+global.app_bar.settings: Налаштування
+global.app_bar.remove_ads: Видалити рекламу
+global.footer.info: Bots for Discord App не пов'язаний з Discord або будь-якими підтримуваними Discord Bot Lists. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: Скасувати
+global.button.sign_in: Увійти
+global.support_server.join: Приєднатися до сервера підтримки
+view.bot.add.button: Додати
+view.bot.hide.button: Приховати бота
+view.bot.hide.title: Приховати бота
+view.bot.hide.message: Ви впевнені, що хочете приховати цього бота?
+view.bot.hide.login_required.title: Потрібен вхід
+view.bot.hide.login_required.message: Вам потрібно увійти, щоб приховувати ботів.
+view.bot.unhide.button: Показати бота
+view.bot.unhide.title: Показати бота
+view.bot.unhide.message: Ви впевнені, що хочете показати цього бота?
+view.bot.stats.ratings: РЕЙТИНГИ
+view.bot.stats.server_count: КІЛЬКІСТЬ СЕРВЕРІВ
+view.bot.stats.vote_count: КІЛЬКІСТЬ ГОЛОСІВ
+view.bot.stats.servers: Сервери
+view.bot.stats.votes: Голоси
+view.bot.promoted: Просувається
+view.bot.see_all: Переглянути все
+view.account.login.button: Увійти через Discord
+view.account.my_bots.button: Мої боти
+view.account.add_bot.button: Додати бота
+view.account.settings.button: Налаштування
+view.account.settings.description: Налаштування та переваги
+view.account.profile.fallback_username: Користувач Discord
+view.account.profile.fallback_email: Немає електронної пошти
+view.my_bots.subtitle: Керуйте вашими Discord ботами
+view.add_bot.subtitle: Подайте вашого бота до списків ботів
+view.settings.appearance.title: Зовнішній вигляд
+view.settings.appearance.dark: Темна
+view.settings.appearance.light: Світла
+view.settings.language.title: Мова
+view.settings.hidden_bots.title: Приховані боти
+view.settings.hidden_bots.description: Керування прихованими ботами
+view.settings.privacy.title: Приватність
+view.settings.privacy.description: Налаштування приватності
+view.settings.coming_soon.title: Незабаром
+view.settings.coming_soon.privacy: Налаштування приватності незабаром!
+view.settings.sign_in_required.title: Потрібен вхід
+view.settings.sign_in_required.message: Вам потрібно увійти для доступу до налаштувань.
+view.settings.sign_out.title: Вийти
+view.settings.sign_out.description: Вийти з вашого акаунта
+view.theme.title: Тема
+view.languages.title: Мова
+view.welcome.title: Ласкаво просимо до Bots for Discord
+view.welcome.discover.title: "Відкрийте {} Discord ботів"
+view.welcome.discover.subtitle: Знайдіть ідеального бота для вашого сервера
+view.welcome.login.button: Увійти через Discord
+view.welcome.skip.button: Поки що пропустити
+view.welcome.subtitle: Знайдіть ідеального бота для вашого сервера
+view.explore.browse_categories.description: Відкривайте ботів за категоріями
+view.explore.browse_categories.title: Переглянути категорії
+view.explore.category.subtitle: Боти в категорії {}
+view.explore.discord_server.description: Приєднайтесь до нашої Discord спільноти для рекомендацій ботів, підтримки додатку або участі в перекладах та бета-тестуванні.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Потрібна допомога або хочете зробити внесок?
+view.explore.featured.description: Першокласні боти, що перевірені Discord
+view.explore.featured.title: Рекомендовані
+view.explore.highest_rated.description: Боти з найвищими рейтингами від користувачів
+view.explore.highest_rated.title: Найвищий рейтинг
+view.explore.most_popular.description: Боти на найбільшій кількості серверів
+view.explore.most_popular.title: Найпопулярніші
+view.explore.most_voted.description: Боти з найбільшою кількістю голосів цього місяця
+view.explore.most_voted.title: Найбільше голосів
+view.top_charts.most_popular: Найпопулярніші
+view.top_charts.most_voted: Найбільше голосів
+view.submit_bot.error.title: Не вдалося завантажити списки ботів
+view.submit_bot.error.description: Ми не змогли завантажити доступні списки ботів. Будь ласка, спробуйте пізніше.
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: Вийти
+view.alert.sign_out.message: Ви впевнені, що хочете вийти?
+view.alert.sign_out.cancel: Скасувати
+view.alert.sign_out.confirm: Вийти
+view.alert.error.title: Помилка
+view.alert.error.sign_out_failed: Не вдалося вийти. Будь ласка, спробуйте знову.
+view.alert.error.sign_in_failed: Не вдалося увійти. Будь ласка, спробуйте знову.
+view.alert.error.delete_account_failed: Не вдалося видалити акаунт. Будь ласка, спробуйте знову.
+view.alert.error.submit_report_failed: Не вдалося подати скаргу. Будь ласка, спробуйте знову.
+view.alert.error.no_invite_link: "{} не має посилання для запрошення."
+view.alert.error.open_invite_failed: Не вдалося відкрити посилання запрошення.
+view.alert.error.discord_not_installed: Неможливо відкрити Discord. Переконайтеся, що Discord встановлено на вашому пристрої.
+view.alert.error.open_support_failed: Не вдалося відкрити посилання сервера підтримки.
+
+# Delete account dialogs
+view.alert.delete_account.title: Видалити акаунт
+view.alert.delete_account.message: Ви впевнені, що хочете видалити свій акаунт? Цю дію неможливо скасувати і вона назавжди видалить усі ваші дані.
+view.alert.delete_account.confirm: Видалити
+view.alert.delete_account.final.title: Видалити акаунт
+view.alert.delete_account.final.message: Це назавжди видалить ваш акаунт та пов'язані з ним дані. Ви впевнені?
+
+# Report bot screen
+view.report.title: Поскаржитися на бота
+view.report.header.title: Поскаржитися на бота
+view.report.header.description: Допоможіть нам підтримувати безпеку спільноти, повідомляючи про неприйнятний контент або проблеми.
+view.report.reason.title: Причина скарги
+view.report.reason.select: Виберіть причину
+view.report.details.title: Додаткові деталі
+view.report.details.placeholder: Будь ласка, надайте конкретні деталі про проблему...
+view.report.submit.button: Подати скаргу
+view.report.submit.submitting: Подача...
+view.report.submit.success.title: Скаргу подано
+view.report.submit.success.message: Дякуємо за вашу скаргу. Ми розглянемо її та вживемо відповідних заходів.
+view.report.submit.success.ok: Гаразд
+view.report.validation.no_reason: Будь ласка, виберіть причину для скарги.
+view.report.validation.no_details: Будь ласка, надайте додаткові деталі про проблему.
+
+# Loading and error states
+view.loading.bot_details: Завантаження деталей бота...
+view.error.bot_not_found: Бота не знайдено.
+view.loading.categories: Завантаження категорій...
+
+# Navigation headers
+view.navigation.account: Акаунт
+view.navigation.settings: Налаштування
+view.navigation.categories: Категорії
+view.navigation.bot_details: Деталі бота
+
+# Search suggestions
+view.search.suggestions.title: Пропоновані пошуки
+view.search.placeholder: Шукати ботів...
+
+# Support and ads
+view.support.server.description: Приєднайтеся до сервера підтримки додатку
+view.remove_ads.description: Назавжди відключити рекламу в додатку
+
+# Bottom sheet
+view.bottom_sheet.select_reason: Вибрати причину

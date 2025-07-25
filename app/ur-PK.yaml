@@ -1,0 +1,139 @@
+---
+global.navbar.explore: دریافت کریں
+global.navbar.top_charts: ٹاپ چارٹس
+global.navbar.account: اکاؤنٹ
+global.navbar.search: تلاش
+global.app_bar.explore: دریافت کریں
+global.app_bar.top_charts: ٹاپ چارٹس
+global.app_bar.account: اکاؤنٹ
+global.app_bar.settings: سیٹنگز
+global.app_bar.remove_ads: اشتہارات ہٹائیں
+global.footer.info: Bots for Discord App کا Discord یا کسی بھی تعاون یافتہ Discord Bot Lists سے کوئی تعلق نہیں ہے۔ # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: منسوخ
+global.button.sign_in: سائن ان
+global.support_server.join: سپورٹ سرور میں شامل ہوں
+view.bot.add.button: شامل کریں
+view.bot.hide.button: بوٹ چھپائیں
+view.bot.hide.title: بوٹ چھپائیں
+view.bot.hide.message: کیا آپ واقعی اس بوٹ کو چھپانا چاہتے ہیں؟
+view.bot.hide.login_required.title: سائن ان درکار
+view.bot.hide.login_required.message: بوٹس چھپانے کے لیے آپ کو سائن ان کرنا ضروری ہے۔
+view.bot.unhide.button: بوٹ دکھائیں
+view.bot.unhide.title: بوٹ دکھائیں
+view.bot.unhide.message: کیا آپ واقعی اس بوٹ کو دکھانا چاہتے ہیں؟
+view.bot.stats.ratings: ریٹنگز
+view.bot.stats.server_count: سرور کی تعداد
+view.bot.stats.vote_count: ووٹ کی تعداد
+view.bot.stats.servers: سرورز
+view.bot.stats.votes: ووٹس
+view.bot.promoted: فروغ دیا گیا
+view.bot.see_all: سب دیکھیں
+view.account.login.button: Discord کے ساتھ لاگ ان کریں
+view.account.my_bots.button: میرے بوٹس
+view.account.add_bot.button: بوٹ شامل کریں
+view.account.settings.button: سیٹنگز
+view.account.settings.description: سیٹنگز اور ترجیحات
+view.account.profile.fallback_username: Discord صارف
+view.account.profile.fallback_email: کوئی ای میل نہیں
+view.my_bots.subtitle: اپنے Discord بوٹس کا انتظام کریں
+view.add_bot.subtitle: اپنا بوٹ بوٹ فہرستوں میں جمع کریں
+view.settings.appearance.title: ظاہری شکل
+view.settings.appearance.dark: تاریک
+view.settings.appearance.light: روشن
+view.settings.language.title: زبان
+view.settings.hidden_bots.title: چھپے ہوئے بوٹس
+view.settings.hidden_bots.description: چھپے ہوئے بوٹس کا انتظام کریں
+view.settings.privacy.title: رازداری
+view.settings.privacy.description: رازداری کی سیٹنگز
+view.settings.coming_soon.title: جلد آ رہا ہے
+view.settings.coming_soon.privacy: رازداری کی سیٹنگز جلد آ رہی ہیں!
+view.settings.sign_in_required.title: سائن ان درکار
+view.settings.sign_in_required.message: سیٹنگز تک رسائی کے لیے آپ کو سائن ان کرنا ضروری ہے۔
+view.settings.sign_out.title: سائن آؤٹ
+view.settings.sign_out.description: اپنے اکاؤنٹ سے سائن آؤٹ کریں
+view.theme.title: تھیم
+view.languages.title: زبان
+view.welcome.title: Bots for Discord میں خوش آمدید
+view.welcome.discover.title: "{} Discord بوٹس دریافت کریں"
+view.welcome.discover.subtitle: اپنے سرور کے لیے بہترین بوٹ تلاش کریں
+view.welcome.login.button: Discord کے ساتھ لاگ ان کریں
+view.welcome.skip.button: فی الوقت چھوڑیں
+view.welcome.subtitle: اپنے سرور کے لیے بہترین بوٹ تلاش کریں
+view.explore.browse_categories.description: کیٹگری کے ذریعے بوٹس دریافت کریں
+view.explore.browse_categories.title: کیٹگریز براؤز کریں
+view.explore.category.subtitle: {} کیٹگری میں بوٹس
+view.explore.discord_server.description: بوٹ کی تجاویز، ایپ سپورٹ، یا ترجمے اور بیٹا ٹیسٹنگ میں شامل ہونے کے لیے ہماری Discord کمیونٹی میں شامل ہوں۔
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: مدد چاہیے یا تعاون کرنا چاہتے ہیں؟
+view.explore.featured.description: اعلیٰ درجے کے بوٹس جو Discord کے ذریعے تصدیق شدہ ہیں
+view.explore.featured.title: نمایاں
+view.explore.highest_rated.description: صارفین کی جانب سے سب سے زیادہ ریٹنگ والے بوٹس
+view.explore.highest_rated.title: سب سے زیادہ ریٹنگ
+view.explore.most_popular.description: سب سے زیادہ سرورز میں موجود بوٹس
+view.explore.most_popular.title: سب سے مقبول
+view.explore.most_voted.description: اس مہینے سب سے زیادہ ووٹ والے بوٹس
+view.explore.most_voted.title: سب سے زیادہ ووٹ
+view.top_charts.most_popular: سب سے مقبول
+view.top_charts.most_voted: سب سے زیادہ ووٹ
+view.submit_bot.error.title: بوٹ فہرستیں لوڈ کرنے میں ناکام
+view.submit_bot.error.description: ہم دستیاب بوٹ فہرستیں لوڈ نہیں کر سکے۔ براہ کرم بعد میں دوبارہ کوشش کریں۔
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: سائن آؤٹ
+view.alert.sign_out.message: کیا آپ واقعی سائن آؤٹ کرنا چاہتے ہیں؟
+view.alert.sign_out.cancel: منسوخ
+view.alert.sign_out.confirm: سائن آؤٹ
+view.alert.error.title: خرابی
+view.alert.error.sign_out_failed: سائن آؤٹ میں ناکام۔ براہ کرم دوبارہ کوشش کریں۔
+view.alert.error.sign_in_failed: سائن ان میں ناکام۔ براہ کرم دوبارہ کوشش کریں۔
+view.alert.error.delete_account_failed: اکاؤنٹ ڈیلیٹ کرنے میں ناکام۔ براہ کرم دوبارہ کوشش کریں۔
+view.alert.error.submit_report_failed: رپورٹ جمع کرنے میں ناکام۔ براہ کرم دوبارہ کوشش کریں۔
+view.alert.error.no_invite_link: "{} کے پاس کوئی دعوت کا لنک نہیں ہے۔"
+view.alert.error.open_invite_failed: دعوت کا لنک کھولنے میں ناکام۔
+view.alert.error.discord_not_installed: Discord کھولنے میں ناکام۔ براہ کرم یقینی بنائیں کہ Discord آپ کے ڈیوائس پر انسٹال ہے۔
+view.alert.error.open_support_failed: سپورٹ سرور کا لنک کھولنے میں ناکام۔
+
+# Delete account dialogs
+view.alert.delete_account.title: اکاؤنٹ ڈیلیٹ کریں
+view.alert.delete_account.message: کیا آپ واقعی اپنا اکاؤنٹ ڈیلیٹ کرنا چاہتے ہیں؟ یہ عمل واپس نہیں ہو سکتا اور آپ کا تمام ڈیٹا ہمیشہ کے لیے ختم ہو جائے گا۔
+view.alert.delete_account.confirm: ڈیلیٹ کریں
+view.alert.delete_account.final.title: اکاؤنٹ ڈیلیٹ کریں
+view.alert.delete_account.final.message: یہ آپ کے اکاؤنٹ اور اس سے منسلک ڈیٹا کو ہمیشہ کے لیے ختم کر دے گا۔ کیا آپ یقین رکھتے ہیں؟
+
+# Report bot screen
+view.report.title: بوٹ کی رپورٹ کریں
+view.report.header.title: بوٹ کی رپورٹ کریں
+view.report.header.description: نامناسب مواد یا مسائل کی رپورٹ کر کے کمیونٹی کو محفوظ رکھنے میں ہماری مدد کریں۔
+view.report.reason.title: رپورٹ کی وجہ
+view.report.reason.select: ایک وجہ منتخب کریں
+view.report.details.title: اضافی تفصیلات
+view.report.details.placeholder: براہ کرم مسئلے کے بارے میں مخصوص تفصیلات فراہم کریں...
+view.report.submit.button: رپورٹ جمع کریں
+view.report.submit.submitting: جمع کر رہے ہیں...
+view.report.submit.success.title: رپورٹ جمع ہو گئی
+view.report.submit.success.message: آپ کی رپورٹ کے لیے شکریہ۔ ہم اس کا جائزہ لیں گے اور مناسب اقدام کریں گے۔
+view.report.submit.success.ok: ٹھیک ہے
+view.report.validation.no_reason: براہ کرم رپورٹ کے لیے ایک وجہ منتخب کریں۔
+view.report.validation.no_details: براہ کرم مسئلے کے بارے میں اضافی تفصیلات فراہم کریں۔
+
+# Loading and error states
+view.loading.bot_details: بوٹ کی تفصیلات لوڈ کر رہے ہیں...
+view.error.bot_not_found: بوٹ نہیں ملا۔
+view.loading.categories: کیٹگریز لوڈ کر رہے ہیں...
+
+# Navigation headers
+view.navigation.account: اکاؤنٹ
+view.navigation.settings: سیٹنگز
+view.navigation.categories: کیٹگریز
+view.navigation.bot_details: بوٹ کی تفصیلات
+
+# Search suggestions
+view.search.suggestions.title: تجویز کردہ تلاش
+view.search.placeholder: بوٹس تلاش کریں...
+
+# Support and ads
+view.support.server.description: ایپ کے سپورٹ سرور میں شامل ہوں
+view.remove_ads.description: ایپ کے اندر اشتہارات کو مستقل طور پر غیر فعال کریں
+
+# Bottom sheet
+view.bottom_sheet.select_reason: وجہ منتخب کریں

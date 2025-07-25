@@ -1,0 +1,139 @@
+---
+global.navbar.explore: کاوش
+global.navbar.top_charts: نمودارهای برتر
+global.navbar.account: حساب کاربری
+global.navbar.search: جستجو
+global.app_bar.explore: کاوش
+global.app_bar.top_charts: نمودارهای برتر
+global.app_bar.account: حساب کاربری
+global.app_bar.settings: تنظیمات
+global.app_bar.remove_ads: حذف تبلیغات
+global.footer.info: Bots for Discord App وابسته به Discord یا هیچ یک از Discord Bot Lists پشتیبانی شده نیست. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: لغو
+global.button.sign_in: ورود
+global.support_server.join: پیوستن به سرور پشتیبانی
+view.bot.add.button: اضافه کردن
+view.bot.hide.button: مخفی کردن ربات
+view.bot.hide.title: مخفی کردن ربات
+view.bot.hide.message: آیا مطمئن هستید که می‌خواهید این ربات را مخفی کنید؟
+view.bot.hide.login_required.title: ورود الزامی است
+view.bot.hide.login_required.message: برای مخفی کردن ربات‌ها باید وارد شوید.
+view.bot.unhide.button: نمایش ربات
+view.bot.unhide.title: نمایش ربات
+view.bot.unhide.message: آیا مطمئن هستید که می‌خواهید این ربات را نمایش دهید؟
+view.bot.stats.ratings: امتیازات
+view.bot.stats.server_count: تعداد سرور
+view.bot.stats.vote_count: تعداد رای
+view.bot.stats.servers: سرورها
+view.bot.stats.votes: رای‌ها
+view.bot.promoted: ترویج شده
+view.bot.see_all: مشاهده همه
+view.account.login.button: ورود با Discord
+view.account.my_bots.button: ربات‌های من
+view.account.add_bot.button: اضافه کردن ربات
+view.account.settings.button: تنظیمات
+view.account.settings.description: تنظیمات و ترجیحات
+view.account.profile.fallback_username: کاربر Discord
+view.account.profile.fallback_email: ایمیل وجود ندارد
+view.my_bots.subtitle: مدیریت ربات‌های Discord شما
+view.add_bot.subtitle: ربات خود را به فهرست ربات‌ها اضافه کنید
+view.settings.appearance.title: ظاهر
+view.settings.appearance.dark: تیره
+view.settings.appearance.light: روشن
+view.settings.language.title: زبان
+view.settings.hidden_bots.title: ربات‌های مخفی
+view.settings.hidden_bots.description: مدیریت ربات‌های مخفی
+view.settings.privacy.title: حریم خصوصی
+view.settings.privacy.description: تنظیمات حریم خصوصی
+view.settings.coming_soon.title: به زودی
+view.settings.coming_soon.privacy: تنظیمات حریم خصوصی به زودی!
+view.settings.sign_in_required.title: ورود الزامی است
+view.settings.sign_in_required.message: برای دسترسی به تنظیمات باید وارد شوید.
+view.settings.sign_out.title: خروج
+view.settings.sign_out.description: خروج از حساب کاربری
+view.theme.title: پوسته
+view.languages.title: زبان
+view.welcome.title: به Bots for Discord خوش آمدید
+view.welcome.discover.title: "کشف {} ربات Discord"
+view.welcome.discover.subtitle: ربات مناسب برای سرور خود را پیدا کنید
+view.welcome.login.button: ورود با Discord
+view.welcome.skip.button: فعلاً رد کردن
+view.welcome.subtitle: ربات مناسب برای سرور خود را پیدا کنید
+view.explore.browse_categories.description: کشف ربات‌ها بر اساس دسته‌بندی
+view.explore.browse_categories.title: مرور دسته‌بندی‌ها
+view.explore.category.subtitle: ربات‌ها در دسته {}
+view.explore.discord_server.description: به جامعه Discord ما بپیوندید برای توصیه‌های ربات، پشتیبانی برنامه، یا شرکت در ترجمه و آزمایش بتا.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: نیاز به کمک دارید یا می‌خواهید مشارکت کنید؟
+view.explore.featured.description: ربات‌های عالی که توسط Discord تأیید شده‌اند
+view.explore.featured.title: ویژه
+view.explore.highest_rated.description: ربات‌ها با بالاترین امتیاز از کاربران
+view.explore.highest_rated.title: بالاترین امتیاز
+view.explore.most_popular.description: ربات‌ها در بیشترین سرورها
+view.explore.most_popular.title: محبوب‌ترین
+view.explore.most_voted.description: ربات‌ها با بیشترین رای این ماه
+view.explore.most_voted.title: پررای‌ترین
+view.top_charts.most_popular: محبوب‌ترین
+view.top_charts.most_voted: پررای‌ترین
+view.submit_bot.error.title: بارگذاری فهرست ربات‌ها ناموفق بود
+view.submit_bot.error.description: نتوانستیم فهرست ربات‌های موجود را بارگذاری کنیم. لطفاً بعداً دوباره تلاش کنید.
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: خروج
+view.alert.sign_out.message: آیا مطمئن هستید که می‌خواهید خارج شوید؟
+view.alert.sign_out.cancel: لغو
+view.alert.sign_out.confirm: خروج
+view.alert.error.title: خطا
+view.alert.error.sign_out_failed: خروج ناموفق بود. لطفاً دوباره تلاش کنید.
+view.alert.error.sign_in_failed: ورود ناموفق بود. لطفاً دوباره تلاش کنید.
+view.alert.error.delete_account_failed: حذف حساب ناموفق بود. لطفاً دوباره تلاش کنید.
+view.alert.error.submit_report_failed: ارسال گزارش ناموفق بود. لطفاً دوباره تلاش کنید.
+view.alert.error.no_invite_link: "{} لینک دعوت ندارد."
+view.alert.error.open_invite_failed: باز کردن لینک دعوت ناموفق بود.
+view.alert.error.discord_not_installed: نمی‌توان Discord را باز کرد. لطفاً اطمینان حاصل کنید که Discord روی دستگاه شما نصب است.
+view.alert.error.open_support_failed: باز کردن لینک سرور پشتیبانی ناموفق بود.
+
+# Delete account dialogs
+view.alert.delete_account.title: حذف حساب
+view.alert.delete_account.message: آیا مطمئن هستید که می‌خواهید حساب خود را حذف کنید؟ این عمل قابل بازگشت نیست و تمام داده‌های شما را برای همیشه حذف می‌کند.
+view.alert.delete_account.confirm: حذف
+view.alert.delete_account.final.title: حذف حساب
+view.alert.delete_account.final.message: این کار حساب و داده‌های مرتبط با آن را برای همیشه پاک می‌کند. آیا مطمئن هستید؟
+
+# Report bot screen
+view.report.title: گزارش ربات
+view.report.header.title: گزارش ربات
+view.report.header.description: با گزارش محتوای نامناسب یا مشکلات، به ما کمک کنید تا جامعه را امن نگه داریم.
+view.report.reason.title: دلیل گزارش
+view.report.reason.select: دلیلی انتخاب کنید
+view.report.details.title: جزئیات اضافی
+view.report.details.placeholder: لطفاً جزئیات مشخصی در مورد مشکل ارائه دهید...
+view.report.submit.button: ارسال گزارش
+view.report.submit.submitting: در حال ارسال...
+view.report.submit.success.title: گزارش ارسال شد
+view.report.submit.success.message: متشکرم از گزارش شما. ما آن را بررسی کرده و اقدام مناسب انجام خواهیم داد.
+view.report.submit.success.ok: باشه
+view.report.validation.no_reason: لطفاً دلیلی برای گزارش انتخاب کنید.
+view.report.validation.no_details: لطفاً جزئیات اضافی در مورد مشکل ارائه دهید.
+
+# Loading and error states
+view.loading.bot_details: بارگذاری جزئیات ربات...
+view.error.bot_not_found: ربات یافت نشد.
+view.loading.categories: بارگذاری دسته‌بندی‌ها...
+
+# Navigation headers
+view.navigation.account: حساب کاربری
+view.navigation.settings: تنظیمات
+view.navigation.categories: دسته‌بندی‌ها
+view.navigation.bot_details: جزئیات ربات
+
+# Search suggestions
+view.search.suggestions.title: جستجوهای پیشنهادی
+view.search.placeholder: جستجو برای ربات‌ها...
+
+# Support and ads
+view.support.server.description: به سرور پشتیبانی برنامه بپیوندید
+view.remove_ads.description: تبلیغات درون برنامه‌ای را برای همیشه غیرفعال کنید
+
+# Bottom sheet
+view.bottom_sheet.select_reason: انتخاب دلیل

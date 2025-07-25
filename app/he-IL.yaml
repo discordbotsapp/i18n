@@ -1,0 +1,139 @@
+---
+global.navbar.explore: חקור
+global.navbar.top_charts: דירוגים
+global.navbar.account: חשבון
+global.navbar.search: חפש
+global.app_bar.explore: חקור
+global.app_bar.top_charts: דירוגים
+global.app_bar.account: חשבון
+global.app_bar.settings: הגדרות
+global.app_bar.remove_ads: הסר פרסומות
+global.footer.info: Bots for Discord App אינו קשור ל-Discord או לכל אחת מרשימות הבוטים של Discord הנתמכות. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: ביטול
+global.button.sign_in: התחבר
+global.support_server.join: הצטרף לשרת התמיכה
+view.bot.add.button: הוסף
+view.bot.hide.button: הסתר בוט
+view.bot.hide.title: הסתר בוט
+view.bot.hide.message: האם אתה בטוח שברצונך להסתיר את הבוט הזה?
+view.bot.hide.login_required.title: נדרשת התחברות
+view.bot.hide.login_required.message: עליך להתחבר כדי להסתיר בוטים.
+view.bot.unhide.button: הצג בוט
+view.bot.unhide.title: הצג בוט
+view.bot.unhide.message: האם אתה בטוח שברצונך להציג את הבוט הזה?
+view.bot.stats.ratings: דירוגים
+view.bot.stats.server_count: מספר שרתים
+view.bot.stats.vote_count: מספר הצבעות
+view.bot.stats.servers: שרתים
+view.bot.stats.votes: הצבעות
+view.bot.promoted: מקודם
+view.bot.see_all: ראה הכל
+view.account.login.button: התחבר עם Discord
+view.account.my_bots.button: הבוטים שלי
+view.account.add_bot.button: הוסף בוט
+view.account.settings.button: הגדרות
+view.account.settings.description: הגדרות והעדפות
+view.account.profile.fallback_username: משתמש Discord
+view.account.profile.fallback_email: אין אימייל
+view.my_bots.subtitle: נהל את בוטי Discord שלך
+view.add_bot.subtitle: שלח את הבוט שלך לרשימות בוטים
+view.settings.appearance.title: מראה
+view.settings.appearance.dark: כהה
+view.settings.appearance.light: בהיר
+view.settings.language.title: שפה
+view.settings.hidden_bots.title: בוטים מוסתרים
+view.settings.hidden_bots.description: נהל בוטים מוסתרים
+view.settings.privacy.title: פרטיות
+view.settings.privacy.description: הגדרות פרטיות
+view.settings.coming_soon.title: בקרוב
+view.settings.coming_soon.privacy: הגדרות פרטיות בקרוב!
+view.settings.sign_in_required.title: נדרשת התחברות
+view.settings.sign_in_required.message: עליך להתחבר כדי לגשת להגדרות.
+view.settings.sign_out.title: התנתק
+view.settings.sign_out.description: התנתק מהחשבון שלך
+view.theme.title: ערכת נושא
+view.languages.title: שפה
+view.welcome.title: ברוך הבא ל-Bots for Discord
+view.welcome.discover.title: "גלה {} בוטים של Discord"
+view.welcome.discover.subtitle: מצא את הבוט המושלם לשרת שלך
+view.welcome.login.button: התחבר עם Discord
+view.welcome.skip.button: דלג לעת עתה
+view.welcome.subtitle: מצא את הבוט המושלם לשרת שלך
+view.explore.browse_categories.description: גלה בוטים לפי קטגוריה
+view.explore.browse_categories.title: עיין בקטגוריות
+view.explore.category.subtitle: בוטים בקטגוריית {}
+view.explore.discord_server.description: הצטרף לקהילת Discord שלנו להמלצות בוטים, תמיכה באפליקציה, או להשתתף בתרגומים ובדיקות בטא.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: צריך עזרה או רוצה לתרום?
+view.explore.featured.description: בוטים מעולים המאושרים על ידי Discord
+view.explore.featured.title: מומלצים
+view.explore.highest_rated.description: בוטים עם הדירוגים הגבוהים ביותר מהמשתמשים
+view.explore.highest_rated.title: בעלי הדירוג הגבוה ביותר
+view.explore.most_popular.description: בוטים שנמצאים ברוב השרתים
+view.explore.most_popular.title: הפופולריים ביותר
+view.explore.most_voted.description: בוטים עם הכי הרבה הצבעות החודש
+view.explore.most_voted.title: הכי מוצבעים
+view.top_charts.most_popular: הפופולריים ביותר
+view.top_charts.most_voted: הכי מוצבעים
+view.submit_bot.error.title: כשל בטעינת רשימות הבוטים
+view.submit_bot.error.description: לא יכולנו לטעון את רשימות הבוטים הזמינות. אנא נסה שוב מאוחר יותר.
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: התנתק
+view.alert.sign_out.message: האם אתה בטוח שברצונך להתנתק?
+view.alert.sign_out.cancel: ביטול
+view.alert.sign_out.confirm: התנתק
+view.alert.error.title: שגיאה
+view.alert.error.sign_out_failed: ההתנתקות נכשלה. אנא נסה שוב.
+view.alert.error.sign_in_failed: ההתחברות נכשלה. אנא נסה שוב.
+view.alert.error.delete_account_failed: מחיקת החשבון נכשלה. אנא נסה שוב.
+view.alert.error.submit_report_failed: שליחת הדיווח נכשלה. אנא נסה שוב.
+view.alert.error.no_invite_link: "ל-{} אין קישור הזמנה."
+view.alert.error.open_invite_failed: פתיחת קישור ההזמנה נכשלה.
+view.alert.error.discord_not_installed: לא ניתן לפתוח את Discord. אנא ודא ש-Discord מותקן במכשיר שלך.
+view.alert.error.open_support_failed: פתיחת קישור שרת התמיכה נכשלה.
+
+# Delete account dialogs
+view.alert.delete_account.title: מחק חשבון
+view.alert.delete_account.message: האם אתה בטוח שברצונך למחוק את החשבון שלך? פעולה זו אינה ניתנת לביטול ותסיר לצמיתות את כל הנתונים שלך.
+view.alert.delete_account.confirm: מחק
+view.alert.delete_account.final.title: מחק חשבון
+view.alert.delete_account.final.message: זה ימחק לצמיתות את החשבון והנתונים הקשורים אליו. האם אתה בטוח?
+
+# Report bot screen
+view.report.title: דווח על בוט
+view.report.header.title: דווח על בוט
+view.report.header.description: עזור לנו לשמור על הקהילה בטוחה על ידי דיווח על תוכן לא הולם או בעיות.
+view.report.reason.title: סיבת הדיווח
+view.report.reason.select: בחר סיבה
+view.report.details.title: פרטים נוספים
+view.report.details.placeholder: אנא ספק פרטים ספציפיים על הבעיה...
+view.report.submit.button: שלח דיווח
+view.report.submit.submitting: שולח...
+view.report.submit.success.title: הדיווח נשלח
+view.report.submit.success.message: תודה על הדיווח שלך. נבדוק אותו ונבצע פעולה מתאימה.
+view.report.submit.success.ok: אישור
+view.report.validation.no_reason: אנא בחר סיבה לדיווח.
+view.report.validation.no_details: אנא ספק פרטים נוספים על הבעיה.
+
+# Loading and error states
+view.loading.bot_details: טוען פרטי בוט...
+view.error.bot_not_found: הבוט לא נמצא.
+view.loading.categories: טוען קטגוריות...
+
+# Navigation headers
+view.navigation.account: חשבון
+view.navigation.settings: הגדרות
+view.navigation.categories: קטגוריות
+view.navigation.bot_details: פרטי בוט
+
+# Search suggestions
+view.search.suggestions.title: חיפושים מוצעים
+view.search.placeholder: חפש בוטים...
+
+# Support and ads
+view.support.server.description: הצטרף לשרת התמיכה של האפליקציה
+view.remove_ads.description: השבת פרסומות באפליקציה לצמיתות
+
+# Bottom sheet
+view.bottom_sheet.select_reason: בחר סיבה
