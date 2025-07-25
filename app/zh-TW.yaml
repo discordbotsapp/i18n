@@ -1,5 +1,4 @@
 ---
-global.title: Bots for Discord
 global.navbar.explore: 探索
 global.navbar.top_charts: 頂部圖表
 global.navbar.account: 帳號
@@ -7,210 +6,126 @@ global.navbar.search: 搜尋
 global.app_bar.explore: 探索
 global.app_bar.top_charts: 頂部圖表
 global.app_bar.account: 帳號
-global.app_bar.advanced: Advanced
-global.app_bar.login: 登入
 global.app_bar.settings: 設置
-global.app_bar.language: 語言
-global.app_bar.report: '回報 {}'
-global.app_bar.categories: 類別
 global.app_bar.remove_ads: 刪除廣告
-global.app_bar.promote: Promote
-global.tag.music: 音樂
-global.tag.pokemon: 寶可夢 #KEEP AS IS
-global.tag.soundboard: Soundboard
-global.tag.moderation: 管理
-global.tag.minecraft: Minecraft #KEEP AS IS
-global.tag.trivia: 益智遊戲
-global.tag.fortnite: Fortnite #KEEP AS IS
-global.tag.spotify: Spotify #KEEP AS IS
-global.tag.social: 社交
-global.tag.fun: 娛樂
-global.tag.economy: 經濟
-global.tag.anime: 動漫 #KEEP AS IS
-global.tag.game: 遊戲
-global.tag.meme: 迷因
-global.tag.leveling: 等級
-global.tag.roleplay: 角色扮演
-global.tag.logging: 日誌
-global.tag.utility: 功能
-global.tag.reddit: Reddit #KEEP AS IS
-global.tag.multipurpose: 多用途
-global.tag.twitch: Twitch #KEEP AS IS
-global.tag.crypto: 加密貨幣 #KEEP AS IS
-global.tag.top_charts: 頂部圖表
-global.footer.contact: '聯繫: support@discordbots.app'
 global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.login_alert.title: 登入
-global.login_alert.cancel.button: 取消
-global.login_alert.login.button: 登入
-global.rate_dialog.title: Rate Bots for Discord App
-global.rate_dialog.subtitle: 如果你喜歡這個應用，請花一點時間來審閱！
-global.rate_dialog.button.rate: 評價
-global.rate_dialog.button.no_thanks: 不，謝謝
-global.rate_dialog.button.maybe_later: 以後吧
-global.promoted_bot.placeholder.title: Advertise Your Bot Here!
-global.promoted_bot.subtitle: Promoted
-global.pop_up_menu_button.remove_ads.button: 刪除廣告
-global.pop_up_menu_button.advertise.button: Advertise
-global.pop_up_menu_button.usage_data.button: Usage Data
-global.bot.button.advertise: ADVERTISE
-view.bot.add.button: 添加
-view.bot.chip.prefix: '前綴：{}'
-view.bot.chip.servers: '{} 伺服器'
-view.bot.chip.server: '{} 伺服器'
-view.bot.chip.votes: '{} 人投票'
-view.bot.chip.vote: '{} 投票'
-view.bot.menu.report: 回報
-view.bot.menu.copy_id: 複製ID
-view.bot.menu.copy_id.snack_bar: 已複製 {} 的ID
-view.bot.menu.hide: 隱藏
-view.bot.menu.hide.alert_dialog.title: 隱藏 {}
-view.bot.menu.hide.alert_dialog.text: '你確定你要隱藏 {}?'
-view.bot.menu.hide.alert_dialog.cancel.button: 取消
-view.bot.menu.hide.alert_dialog.yes.button: '確認'
-view.bot.website.button: 網站
-view.bot.support_server.button: 支持伺服器
-view.bot.vote.button: 投票
-view.bot.favorite.login_alert: 你必須登入才能該機器人添加到你的最愛。
-view.bot.report.login_alert: 您必須登入才能舉報機器人.
-view.bot.hide.login_alert: 您必須登入才能隱藏機器人
-view.bot.copy.snackbar: 已複製 {} 的ID
-view.report.report_reason.title: 舉報原因
-view.report.report_reason.hint: 選擇原因
-view.report.report_reason.empty: 請輸入原因
-view.report.additional_information.title: 附加資料
-view.report.additional_information.hint: 在此輸入更多詳細信息...
-view.report.additional_information.empty: 請輸入原因
-view.report.submit.button: 提交
-view.report.report_reason.dropdown.option1: 不當/ NSFW內容
-view.report.report_reason.dropdown.option2: 長時間離線
-view.report.report_reason.dropdown.option3: 誤導性功能和描述
-view.report.report_reason.dropdown.option4: 機器人不執行
-view.report.report_reason.dropdown.option5: 邀請鏈接不起作用
-view.report.report_reanos.dropdown.option6: 其他原因
-view.explore.title: 探索
-view.explore.featured.title: 推薦
-view.explore.featured.subtitle: 經過Discord驗證的頂級機器人
-view.explore.trending.title: 熱門
-view.explore.trending.subtitle: 迅速獲得關注的新機器人
-view.explore.new.title: 新的機器人
-view.explore.new.subtitle: 最近新增的機器人
-view.explore.most_voted.title: 最高票
-view.explore.most_voted.subtitle: 本月投票最多的機器人
-view.explore.most_popular.title: Most Popular
-view.explore.most_popular.subtitle: Bots in the most servers
-view.explore.see_all.button: 查看全部
-view.explore.categories.title: 瀏覽類別
-view.explore.category.subtitle: 機器人在 {} 類別
-view.explore.footer.support_server.button: 支持伺服器
-view.explore.footer.bug_report.button: 回報錯誤
-view.explore.footer.about.button: 關於
-view.explore.footer.privacy_policy.button: 隱私政策
-view.top_charts.most_votes: 最高票
-view.top_charts.most_servers: 最多伺服器
-view.top_charts.bot.subtitle.servers.plural: '{} 伺服器'
-view.top_charts.bot.subtitle.votes.plural: '{} 人投票'
-view.top_charts.bot.subtitle.servers.singular: '{} 伺服器'
-view.top_charts.bot.subtitle.votes.singular: '{} 投票'
-view.account.login.guest: 訪客
+global.button.cancel: Cancel
+global.button.sign_in: Sign In
+global.support_server.join: Join Support Server
+view.bot.add.button: Add
+view.bot.hide.button: Hide Bot
+view.bot.hide.title: Hide Bot
+view.bot.hide.message: Are you sure you want to hide this bot?
+view.bot.hide.login_required.title: Sign In Required
+view.bot.hide.login_required.message: You need to sign in to hide bots.
+view.bot.unhide.button: Un-hide Bot
+view.bot.unhide.title: Un-hide Bot
+view.bot.unhide.message: Are you sure you want to un-hide this bot?
+view.bot.stats.ratings: RATINGS
+view.bot.stats.server_count: SERVER COUNT
+view.bot.stats.vote_count: VOTE COUNT
+view.bot.stats.servers: Servers
+view.bot.stats.votes: Votes
+view.bot.promoted: Promoted
+view.bot.see_all: See All
 view.account.login.button: 用 Discord 帳號登入
-view.account.login.error: 載入資料時發生錯誤。請重試。
-view.account.login.error.button: 返回登入頁面
 view.account.my_bots.button: 我的機器人
-view.account.favorites.button: 我的最愛
 view.account.add_bot.button: 添加機器人
-view.account.remove_ads.button: 刪除廣告
-view.account.advertise.button: Advertise
 view.account.settings.button: 設置
-view.my_bots.title: 我的機器人
-view.my_bots.subtitle: 你擁有的機器人。你可以通過點擊帳戶頁面中的“添加機器人”按鈕添加你自己的機器人。 #Keep capitalization consistent
-view.my_bots.none: 您沒有擁有的機器人
-view.favorites.title: 我的最愛
-view.favorites.subtitle: 點擊機器人頁面上的愛心按鈕 將您最喜歡的機器人添加到這裡
-view.favorites.none: 您沒有任何收藏
-view.add_bot.title: 添加機器人
-view.add_bot.subtitle: 將您的機器人添加到第三方機器人列表中以自動添加到應用中。
-view.add_bot.note: '注意：您的機器人在添加到另一個機器人列表後可能無法立即出現在應用中。'
-view.settings.theme.title: 佈景主題
-view.settings.theme.system.radio: 系統
-view.settings.theme.dark.radio: 深色
-view.settings.theme.light.radio: 亮色
-view.settings.language.title: 語言
-view.settings.language.placeholder: 選擇語言
-view.settings.language.help_translate.button: Help translate the app
-view.settings.support.title: 技術支援
-view.settings.support.support_server.button: 支持伺服器
-view.settings.support.report_a_bug.button: 回報錯誤
-view.settings.account.title: 帳號
-view.settings.account.advanced.button: Advanced
-view.settings.account.log_out.button: 登出
-view.settings.account.log_out.alert_dialog.title: 登出
-view.settings.account.log_out.alert_dialog.text: 你確定要登出嗎？
-view.settings.account.log_out.alert_dialog.cancel.button: 取消
-view.settings.account.log_out.alert_dialog.log_out.button: 登出
-view.settings.account.delete_account.button: 刪除帳號
-view.settings.account.delete_account.alert_dialog.title: 刪除帳號
-view.settings.account.delete_account.alert_dialog.text: 您確定要刪除您的帳戶嗎？此操作無法撤消。
-view.settings.account.delete_account.alert_dialog.cancel.button: 取消
-view.settings.account.delete_account.alert_dialog.yes.button: '確認'
-view.settings.info.title: 資訊
-view.settings.info.about.button: 關於
-view.settings.info.about.popup.legalese: Copyright © {} Tetracyl. All rights reserved.
-view.settings.info.privacy_policy.button: 隱私政策
-view.bot.reported.title: 已檢舉 {}
-view.bot.reported.subtitle: '由於以下原因，您已成功舉報{}：'
-view.bot.reported.button.okay: 確定
-view.user.bots: 機器人
-view.search.hint: 正在搜尋...
-view.search.title: 搜尋
-view.search.subtitle.noQuery: 搜尋機器人...
-view.search.subtitle.query: 顯示下列的搜尋結果：{}
-view.search.none: 找不到結果
-view.welcome.title: Bots for Discord
-view.welcome.subtitle: 通過{} + Discord機器人瀏覽！通過登錄您的Discord帳號來開始
+view.account.settings.description: Settings & preferences
+view.account.profile.fallback_username: Discord User
+view.account.profile.fallback_email: No email
+view.my_bots.subtitle: Manage your Discord bots
+view.add_bot.subtitle: Submit your bot to bot lists
+view.settings.appearance.title: Appearance
+view.settings.appearance.dark: Dark
+view.settings.appearance.light: Light
+view.settings.language.title: Language
+view.settings.hidden_bots.title: Hidden Bots
+view.settings.hidden_bots.description: Manage hidden bots
+view.settings.privacy.title: Privacy
+view.settings.privacy.description: Privacy settings
+view.settings.coming_soon.title: Coming Soon
+view.settings.coming_soon.privacy: Privacy settings coming soon!
+view.settings.sign_in_required.title: Sign In Required
+view.settings.sign_in_required.message: You need to sign in to access settings.
+view.settings.sign_out.title: Sign Out
+view.settings.sign_out.description: Sign out of your account
+view.theme.title: Theme
+view.languages.title: Language
+view.welcome.title: Welcome to Bots for Discord
+view.welcome.discover.title: "Discover {} Discord Bots"
+view.welcome.discover.subtitle: Find the perfect bot for your server
 view.welcome.login.button: 用 Discord 帳號登入
 view.welcome.skip.button: 先跳過
-view.remove_ads.title: 刪除廣告
-view.remove_ads.subtitle: 在應用程序中刪除所有廣告
-view.remove_ads.error.load_product: 載入產品時發生錯誤
-view.remove_ads.error.verify_purchase: 驗證您的購買時發生未知錯誤。
-view.remove_ads.error.try_again: 請稍後重試或加入支持伺服器
-view.remove_ads.error.join_server: 請加入支持伺服器
-view.remove_ads.purchase: 購買
-view.remove_ads.thank_you.title: 感謝你的消費
-view.remove_ads.thank_you.subtitle: 廣告已被移除
-view.remove_ads.error.store_problem: 商店出現了問題。
-view.remove_ads.error.try_again_later: 請稍後再試
-view.remove_ads.error.purchase_not_allowed: 不允許該設備或用戶進行購買。
-view.remove_ads.error.purchase_invalid: 購買無效
-view.remove_ads.error.purchase_in_progress: 這項購買已經在進行中。 請耐心等待。
-view.remove_ads.error.product_already_purchased: 這個物品已購買了@
-view.remove_ads.error.unknown_error: '發生了未知錯誤。'
-view.remove_ads.error.title: 發生錯誤
-view.remove_ads.error.not_logging_in: You must be logged in to purchase this product.
-view.remove_ads.button.join_server: 加入支持伺服器
-view.remove_ads.button.okay: 確定
-view.promote.introduction.promote_your_bot.title: Promote your bot
-view.promote.introduction.promote_your_bot.body: Promote your bot through the app to increase its traffic and server count.
-view.promote.introduction.how_it_works.title: How it works
-view.promote.introduction.how_it_works.body: Choose one of many slots on the explore page to promote your bot on.
-view.promote.introduction.track_your_ads.title: Track your ads
-view.promote.introduction.track_your_ads.body: Monitor how your advertisements are performing through a live dashboard.
-view.promote.get_started.button: Get Started
-view.login.error.title: An error occurred while logging you in
-view.login.error.subtitle: Please try again or join the support server below for help with logging in.
-view.login.error.retry.button: 請重試
-view.login.error.support_server.button: 支持伺服器
-view.login.logging_in.title: Logging you in
-view.advanced.usage_data.title: Usage Data
-view.advanced.usage_data.switch1.title: Send crash data
-view.advanced.usage_data.switch2.title: Send performance data
-view.advanced.usage_data.switch3.title: Send analytics data
-view.advanced.promoted_bots.title: Promoted Bots
-view.advanced.promoted_bots.switch1.title: Show promoted bots I own
-view.advanced.promoted_bots.switch2.title: Show promoted bots I don't own
-view.advanced.promoted_bots.switch3.title: Show promoted bot placeholders
-view.advanced.promoted_bots.remove_ads_alert.title: 刪除廣告
-view.advanced.promoted_bots.remove_ads_alert.cancel.button: 取消
-view.advanced.promoted_bots.remove_ads_alert.purchase.button: 購買
-view.advanced.promoted_bots.remove_ads_alert.text: You must purchase premium to change your promoted bot preferences.
+view.welcome.subtitle: Find the perfect bot for your server
+view.explore.browse_categories.description: Discover bots by category
+view.explore.browse_categories.title: Browse Categories
+view.explore.category.subtitle: 機器人在 {} 類別
+view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.fallback_name: Bots for Discord
+view.explore.discord_server.title: Need Help or Want to Contribute?
+view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.featured.title: 推薦
+view.explore.highest_rated.description: Bots with the highest ratings from users
+view.explore.highest_rated.title: Highest Rated
+view.explore.most_popular.description: Bots in the most servers
+view.explore.most_popular.title: Most Popular
+view.explore.most_voted.description: Bots with the most votes this month
+view.explore.most_voted.title: 最高票
+view.top_charts.most_popular: Most Popular
+view.top_charts.most_voted: 最高票
+view.submit_bot.error.title: Failed to Load Bot Lists
+view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
+#Alert dialogs and error messages
+view.alert.sign_out.title: Sign Out
+view.alert.sign_out.message: Are you sure you want to sign out?
+view.alert.sign_out.cancel: Cancel
+view.alert.sign_out.confirm: Sign Out
+view.alert.error.title: Error
+view.alert.error.sign_out_failed: Failed to sign out. Please try again.
+view.alert.error.sign_in_failed: Failed to sign in. Please try again.
+view.alert.error.delete_account_failed: Failed to delete account. Please try again.
+view.alert.error.submit_report_failed: Failed to submit report. Please try again.
+view.alert.error.no_invite_link: "{} doesn't have an invite link."
+view.alert.error.open_invite_failed: Failed to open invite link.
+view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
+view.alert.error.open_support_failed: Failed to open support server link.
+#Delete account dialogs
+view.alert.delete_account.title: Delete Account
+view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
+view.alert.delete_account.confirm: Delete
+view.alert.delete_account.final.title: Delete Account
+view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
+#Report bot screen
+view.report.title: Report Bot
+view.report.header.title: Report Bot
+view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
+view.report.reason.title: Report Reason
+view.report.reason.select: Select a reason
+view.report.details.title: Additional Details
+view.report.details.placeholder: Please provide specific details about the issue...
+view.report.submit.button: Submit Report
+view.report.submit.submitting: Submitting...
+view.report.submit.success.title: Report Submitted
+view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.report.submit.success.ok: OK
+view.report.validation.no_reason: Please select a reason for reporting.
+view.report.validation.no_details: Please provide additional details about the issue.
+#Loading and error states
+view.loading.bot_details: Loading bot details...
+view.error.bot_not_found: Bot not found.
+view.loading.categories: Loading categories...
+#Navigation headers
+view.navigation.account: 帳號
+view.navigation.settings: 設置
+view.navigation.categories: Categories
+view.navigation.bot_details: Bot Details
+#Search suggestions
+view.search.suggestions.title: Suggested searches
+view.search.placeholder: Search for bots...
+#Support and ads
+view.support.server.description: Join the app's support server
+view.remove_ads.description: Permanently disable in-app ads
+#Bottom sheet
+view.bottom_sheet.select_reason: Select Reason
