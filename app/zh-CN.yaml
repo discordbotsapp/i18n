@@ -1,14 +1,14 @@
 ---
-global.navbar.explore: 探索
-global.navbar.top_charts: 排行榜
-global.navbar.account: 账户
+global.navbar.explore: 探险
+global.navbar.top_charts: 热门图标
+global.navbar.account: 户口
 global.navbar.search: 搜索
-global.app_bar.explore: 探索
-global.app_bar.top_charts: 排行榜
-global.app_bar.account: 账户
+global.app_bar.explore: 探险
+global.app_bar.top_charts: 热门图标
+global.app_bar.account: 户口
 global.app_bar.settings: 设置
 global.app_bar.remove_ads: 移除广告
-global.footer.info: Bots for Discord App 与 Discord 或任何支持的 Discord Bot Lists 无关联。# Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: 'Bots for Discord App 与 Discord 或任何支持的 Discord Bot Lists 无关联。# Keep "Bots for Discord App" and "Discord Bot Lists" as is'
 global.button.cancel: 取消
 global.button.sign_in: 登录
 global.support_server.join: 加入支持服务器
@@ -28,9 +28,9 @@ view.bot.stats.servers: 服务器
 view.bot.stats.votes: 投票
 view.bot.promoted: 推广
 view.bot.see_all: 查看全部
-view.account.login.button: 使用 Discord 登录
-view.account.my_bots.button: 我的 Bot
-view.account.add_bot.button: 添加 Bot
+view.account.login.button: 用 Discord 登录
+view.account.my_bots.button: 我的机器人
+view.account.add_bot.button: 添加机器人
 view.account.settings.button: 设置
 view.account.settings.description: 设置和偏好
 view.account.profile.fallback_username: Discord 用户
@@ -56,29 +56,28 @@ view.languages.title: 语言
 view.welcome.title: 欢迎来到 Bots for Discord
 view.welcome.discover.title: "发现 {} 个 Discord Bot"
 view.welcome.discover.subtitle: 为您的服务器找到完美的 bot
-view.welcome.login.button: 使用 Discord 登录
+view.welcome.login.button: 用 Discord 登录
 view.welcome.skip.button: 暂时跳过
 view.welcome.subtitle: 为您的服务器找到完美的 bot
 view.explore.browse_categories.description: 按类别发现 bot
 view.explore.browse_categories.title: 浏览类别
-view.explore.category.subtitle: {} 类别中的 Bot
+view.explore.category.subtitle: 在 {} 类别中的机器人
 view.explore.discord_server.description: 加入我们的 Discord 社区，获取 bot 推荐、应用支持，或参与翻译和测试。
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: 需要帮助或想要贡献？
 view.explore.featured.description: 由 Discord 验证的顶级 bot
-view.explore.featured.title: 精选
+view.explore.featured.title: 推荐
 view.explore.highest_rated.description: 用户评分最高的 bot
 view.explore.highest_rated.title: 评分最高
 view.explore.most_popular.description: 在最多服务器中的 bot
-view.explore.most_popular.title: 最受欢迎
+view.explore.most_popular.title: 最热门
 view.explore.most_voted.description: 本月获得最多投票的 bot
-view.explore.most_voted.title: 最多投票
-view.top_charts.most_popular: 最受欢迎
-view.top_charts.most_voted: 最多投票
+view.explore.most_voted.title: 最多票数
+view.top_charts.most_popular: 最热门
+view.top_charts.most_voted: 最多票数
 view.submit_bot.error.title: 无法加载 Bot 列表
 view.submit_bot.error.description: 我们无法加载可用的 bot 列表。请稍后重试。
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: 退出登录
 view.alert.sign_out.message: 您确定要退出登录吗？
 view.alert.sign_out.cancel: 取消
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} 没有邀请链接。"
 view.alert.error.open_invite_failed: 打开邀请链接失败。
 view.alert.error.discord_not_installed: 无法打开 Discord。请确保您的设备上已安装 Discord。
 view.alert.error.open_support_failed: 打开支持服务器链接失败。
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: 删除账户
 view.alert.delete_account.message: 您确定要删除您的账户吗？此操作无法撤销，将永久删除您的所有数据。
 view.alert.delete_account.confirm: 删除
 view.alert.delete_account.final.title: 删除账户
 view.alert.delete_account.final.message: 这将永久删除您的账户和相关数据。您确定吗？
-
-# Report bot screen
+#Report bot screen
 view.report.title: 举报 Bot
 view.report.header.title: 举报 Bot
 view.report.header.description: 通过举报不当内容或问题来帮助我们保持社区安全。
@@ -115,25 +112,20 @@ view.report.submit.success.message: 感谢您的举报。我们将审核并采�
 view.report.submit.success.ok: 确定
 view.report.validation.no_reason: 请选择举报原因。
 view.report.validation.no_details: 请提供问题的其他详情。
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: 正在加载 bot 详情...
 view.error.bot_not_found: 未找到 bot。
 view.loading.categories: 正在加载类别...
-
-# Navigation headers
-view.navigation.account: 账户
+#Navigation headers
+view.navigation.account: 户口
 view.navigation.settings: 设置
 view.navigation.categories: 类别
 view.navigation.bot_details: Bot 详情
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: 推荐搜索
 view.search.placeholder: 搜索 bot...
-
-# Support and ads
+#Support and ads
 view.support.server.description: 加入应用的支持服务器
 view.remove_ads.description: 永久禁用应用内广告
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: 选择原因
