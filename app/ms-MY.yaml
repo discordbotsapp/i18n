@@ -77,8 +77,7 @@ view.top_charts.most_popular: Paling Popular
 view.top_charts.most_voted: Paling Banyak Diundi
 view.submit_bot.error.title: Gagal Memuatkan Senarai Bot
 view.submit_bot.error.description: Kami tidak dapat memuatkan senarai bot yang tersedia. Sila cuba lagi kemudian.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Log Keluar
 view.alert.sign_out.message: Adakah anda pasti mahu log keluar?
 view.alert.sign_out.cancel: Batal
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} tidak mempunyai pautan jemputan."
 view.alert.error.open_invite_failed: Gagal membuka pautan jemputan.
 view.alert.error.discord_not_installed: Tidak dapat membuka Discord. Sila pastikan Discord dipasang pada peranti anda.
 view.alert.error.open_support_failed: Gagal membuka pautan server sokongan.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Padam Akaun
 view.alert.delete_account.message: Adakah anda pasti mahu memadamkan akaun anda? Tindakan ini tidak dapat dibuat asal dan akan memadamkan semua data anda secara kekal.
 view.alert.delete_account.confirm: Padam
 view.alert.delete_account.final.title: Padam Akaun
 view.alert.delete_account.final.message: Ini akan memadamkan akaun dan data berkaitan anda secara kekal. Adakah anda pasti?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Lapor Bot
 view.report.header.title: Lapor Bot
 view.report.header.description: Bantu kami memastikan komuniti selamat dengan melaporkan kandungan atau isu yang tidak sesuai.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Terima kasih atas laporan anda. Kami akan me
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Sila pilih sebab untuk melaporkan.
 view.report.validation.no_details: Sila berikan butiran tambahan tentang isu tersebut.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Memuatkan butiran bot...
 view.error.bot_not_found: Bot tidak dijumpai.
 view.loading.categories: Memuatkan kategori...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Akaun
 view.navigation.settings: Tetapan
 view.navigation.categories: Kategori
 view.navigation.bot_details: Butiran Bot
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Cadangan carian
 view.search.placeholder: Cari bot...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Sertai server sokongan aplikasi
 view.remove_ads.description: Lumpuhkan iklan dalam aplikasi secara kekal
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Pilih Sebab
