@@ -8,124 +8,132 @@ global.app_bar.top_charts: Лучшее
 global.app_bar.account: Аккаунт
 global.app_bar.settings: Настройки
 global.app_bar.remove_ads: Убрать рекламу
-global.footer.info: Приложение Bots for Discord не связано с Discord или любым из поддерживаемых списков ботов Discord.
-global.button.cancel: Cancel
-global.button.sign_in: Sign In
-global.support_server.join: Join Support Server
-view.bot.add.button: Add
-view.bot.hide.button: Hide Bot
-view.bot.hide.title: Hide Bot
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.unhide.button: Un-hide Bot
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.stats.ratings: RATINGS
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.servers: Servers
-view.bot.stats.votes: Votes
-view.bot.promoted: Promoted
-view.bot.see_all: See All
+global.footer.info: Приложение Bots for Discord не связано с Discord или любым из поддерживаемых списков ботов Discord. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.button.cancel: Отмена
+global.button.sign_in: Войти
+global.support_server.join: Присоединиться к серверу поддержки
+view.bot.add.button: Добавить
+view.bot.hide.button: Скрыть бота
+view.bot.hide.title: Скрыть бота
+view.bot.hide.message: Вы уверены, что хотите скрыть этого бота?
+view.bot.hide.login_required.title: Требуется вход
+view.bot.hide.login_required.message: Вам необходимо войти в систему, чтобы скрывать ботов.
+view.bot.unhide.button: Показать бота
+view.bot.unhide.title: Показать бота
+view.bot.unhide.message: Вы уверены, что хотите показать этого бота?
+view.bot.stats.ratings: РЕЙТИНГИ
+view.bot.stats.server_count: КОЛИЧЕСТВО СЕРВЕРОВ
+view.bot.stats.vote_count: КОЛИЧЕСТВО ГОЛОСОВ
+view.bot.stats.servers: Серверы
+view.bot.stats.votes: Голоса
+view.bot.promoted: Продвигаемый
+view.bot.see_all: Посмотреть все
 view.account.login.button: Войти через Discord
 view.account.my_bots.button: Мои боты
 view.account.add_bot.button: Добавить бота
 view.account.settings.button: Настройки
-view.account.settings.description: Settings & preferences
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.subtitle: Manage your Discord bots
-view.add_bot.subtitle: Submit your bot to bot lists
-view.settings.appearance.title: Appearance
-view.settings.appearance.dark: Dark
-view.settings.appearance.light: Light
-view.settings.language.title: Language
-view.settings.hidden_bots.title: Hidden Bots
-view.settings.hidden_bots.description: Manage hidden bots
-view.settings.privacy.title: Privacy
-view.settings.privacy.description: Privacy settings
-view.settings.coming_soon.title: Coming Soon
-view.settings.coming_soon.privacy: Privacy settings coming soon!
-view.settings.sign_in_required.title: Sign In Required
-view.settings.sign_in_required.message: You need to sign in to access settings.
-view.settings.sign_out.title: Sign Out
-view.settings.sign_out.description: Sign out of your account
-view.theme.title: Theme
-view.languages.title: Language
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.discover.title: "Discover {} Discord Bots"
-view.welcome.discover.subtitle: Find the perfect bot for your server
+view.account.settings.description: Настройки и предпочтения
+view.account.profile.fallback_username: Пользователь Discord
+view.account.profile.fallback_email: Нет email
+view.my_bots.subtitle: Управляйте своими Discord ботами
+view.add_bot.subtitle: Отправьте своего бота в списки ботов
+view.settings.appearance.title: Внешний вид
+view.settings.appearance.dark: Тёмная
+view.settings.appearance.light: Светлая
+view.settings.language.title: Язык
+view.settings.hidden_bots.title: Скрытые боты
+view.settings.hidden_bots.description: Управление скрытыми ботами
+view.settings.privacy.title: Конфиденциальность
+view.settings.privacy.description: Настройки конфиденциальности
+view.settings.coming_soon.title: Скоро будет
+view.settings.coming_soon.privacy: Настройки конфиденциальности скоро появятся!
+view.settings.sign_in_required.title: Требуется вход
+view.settings.sign_in_required.message: Вам необходимо войти в систему для доступа к настройкам.
+view.settings.sign_out.title: Выйти
+view.settings.sign_out.description: Выйти из вашего аккаунта
+view.theme.title: Тема
+view.languages.title: Язык
+view.welcome.title: Добро пожаловать в Bots for Discord
+view.welcome.discover.title: "Откройте для себя {} Discord ботов"
+view.welcome.discover.subtitle: Найдите идеального бота для своего сервера
 view.welcome.login.button: Войти через Discord
 view.welcome.skip.button: Пропустить сейчас
-view.welcome.subtitle: Find the perfect bot for your server
-view.explore.browse_categories.description: Discover bots by category
-view.explore.browse_categories.title: Browse Categories
+view.welcome.subtitle: Найдите идеального бота для своего сервера
+view.explore.browse_categories.description: Открывайте ботов по категориям
+view.explore.browse_categories.title: Просмотр категорий
 view.explore.category.subtitle: Боты в категории {}
-view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.description: Присоединитесь к нашему Discord сообществу для рекомендаций ботов, поддержки приложения или участия в переводах и бета-тестировании.
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: Need Help or Want to Contribute?
-view.explore.featured.description: Top notch bots that are verified by Discord
+view.explore.discord_server.title: Нужна помощь или хотите внести вклад?
+view.explore.featured.description: Первоклассные боты, верифицированные Discord
 view.explore.featured.title: Рекомендуемые
-view.explore.highest_rated.description: Bots with the highest ratings from users
-view.explore.highest_rated.title: Highest Rated
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Популярное
-view.explore.most_voted.description: Bots with the most votes this month
-view.explore.most_voted.title: Большинство голосов
-view.top_charts.most_popular: Популярное
-view.top_charts.most_voted: Большинство голосов
-view.submit_bot.error.title: Failed to Load Bot Lists
-view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-#Alert dialogs and error messages
-view.alert.sign_out.title: Sign Out
-view.alert.sign_out.message: Are you sure you want to sign out?
-view.alert.sign_out.cancel: Cancel
-view.alert.sign_out.confirm: Sign Out
-view.alert.error.title: Error
-view.alert.error.sign_out_failed: Failed to sign out. Please try again.
-view.alert.error.sign_in_failed: Failed to sign in. Please try again.
-view.alert.error.delete_account_failed: Failed to delete account. Please try again.
-view.alert.error.submit_report_failed: Failed to submit report. Please try again.
-view.alert.error.no_invite_link: "{} doesn't have an invite link."
-view.alert.error.open_invite_failed: Failed to open invite link.
-view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
-view.alert.error.open_support_failed: Failed to open support server link.
-#Delete account dialogs
-view.alert.delete_account.title: Delete Account
-view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
-view.alert.delete_account.confirm: Delete
-view.alert.delete_account.final.title: Delete Account
-view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-#Report bot screen
-view.report.title: Report Bot
-view.report.header.title: Report Bot
-view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
-view.report.reason.title: Report Reason
-view.report.reason.select: Select a reason
-view.report.details.title: Additional Details
-view.report.details.placeholder: Please provide specific details about the issue...
-view.report.submit.button: Submit Report
-view.report.submit.submitting: Submitting...
-view.report.submit.success.title: Report Submitted
-view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
-view.report.submit.success.ok: OK
-view.report.validation.no_reason: Please select a reason for reporting.
-view.report.validation.no_details: Please provide additional details about the issue.
-#Loading and error states
-view.loading.bot_details: Loading bot details...
-view.error.bot_not_found: Bot not found.
-view.loading.categories: Loading categories...
-#Navigation headers
+view.explore.highest_rated.description: Боты с самыми высокими оценками от пользователей
+view.explore.highest_rated.title: Самые высоко оценённые
+view.explore.most_popular.description: Боты на большинстве серверов
+view.explore.most_popular.title: Самые популярные
+view.explore.most_voted.description: Боты с наибольшим количеством голосов в этом месяце
+view.explore.most_voted.title: Самые популярные по голосам
+view.top_charts.most_popular: Самые популярные
+view.top_charts.most_voted: Самые популярные по голосам
+view.submit_bot.error.title: Не удалось загрузить списки ботов
+view.submit_bot.error.description: Мы не смогли загрузить доступные списки ботов. Пожалуйста, попробуйте позже.
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: Выйти
+view.alert.sign_out.message: Вы уверены, что хотите выйти?
+view.alert.sign_out.cancel: Отмена
+view.alert.sign_out.confirm: Выйти
+view.alert.error.title: Ошибка
+view.alert.error.sign_out_failed: Не удалось выйти. Пожалуйста, попробуйте ещё раз.
+view.alert.error.sign_in_failed: Не удалось войти. Пожалуйста, попробуйте ещё раз.
+view.alert.error.delete_account_failed: Не удалось удалить аккаунт. Пожалуйста, попробуйте ещё раз.
+view.alert.error.submit_report_failed: Не удалось отправить жалобу. Пожалуйста, попробуйте ещё раз.
+view.alert.error.no_invite_link: "У {} нет ссылки для приглашения."
+view.alert.error.open_invite_failed: Не удалось открыть ссылку приглашения.
+view.alert.error.discord_not_installed: Не удаётся открыть Discord. Пожалуйста, убедитесь, что Discord установлен на вашем устройстве.
+view.alert.error.open_support_failed: Не удалось открыть ссылку на сервер поддержки.
+
+# Delete account dialogs
+view.alert.delete_account.title: Удалить аккаунт
+view.alert.delete_account.message: Вы уверены, что хотите удалить свой аккаунт? Это действие нельзя отменить, и оно навсегда удалит все ваши данные.
+view.alert.delete_account.confirm: Удалить
+view.alert.delete_account.final.title: Удалить аккаунт
+view.alert.delete_account.final.message: Это навсегда удалит ваш аккаунт и связанные данные. Вы уверены?
+
+# Report bot screen
+view.report.title: Пожаловаться на бота
+view.report.header.title: Пожаловаться на бота
+view.report.header.description: Помогите нам поддерживать безопасность сообщества, сообщая о неподобающем контенте или проблемах.
+view.report.reason.title: Причина жалобы
+view.report.reason.select: Выберите причину
+view.report.details.title: Дополнительные детали
+view.report.details.placeholder: Пожалуйста, предоставьте конкретные детали о проблеме...
+view.report.submit.button: Отправить жалобу
+view.report.submit.submitting: Отправка...
+view.report.submit.success.title: Жалоба отправлена
+view.report.submit.success.message: Спасибо за вашу жалобу. Мы рассмотрим её и примем соответствующие меры.
+view.report.submit.success.ok: ОК
+view.report.validation.no_reason: Пожалуйста, выберите причину для жалобы.
+view.report.validation.no_details: Пожалуйста, предоставьте дополнительные детали о проблеме.
+
+# Loading and error states
+view.loading.bot_details: Загрузка информации о боте...
+view.error.bot_not_found: Бот не найден.
+view.loading.categories: Загрузка категорий...
+
+# Navigation headers
 view.navigation.account: Аккаунт
 view.navigation.settings: Настройки
-view.navigation.categories: Categories
-view.navigation.bot_details: Bot Details
-#Search suggestions
-view.search.suggestions.title: Suggested searches
-view.search.placeholder: Search for bots...
-#Support and ads
-view.support.server.description: Join the app's support server
-view.remove_ads.description: Permanently disable in-app ads
-#Bottom sheet
-view.bottom_sheet.select_reason: Select Reason
+view.navigation.categories: Категории
+view.navigation.bot_details: Информация о боте
+
+# Search suggestions
+view.search.suggestions.title: Предлагаемые поисковые запросы
+view.search.placeholder: Поиск ботов...
+
+# Support and ads
+view.support.server.description: Присоединиться к серверу поддержки приложения
+view.remove_ads.description: Навсегда отключить рекламу в приложении
+
+# Bottom sheet
+view.bottom_sheet.select_reason: Выберите причину

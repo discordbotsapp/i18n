@@ -1,131 +1,139 @@
 ---
 global.navbar.explore: Teroka
-global.navbar.top_charts: Carta Tertinggi
+global.navbar.top_charts: Carta Teratas
 global.navbar.account: Akaun
 global.navbar.search: Cari
 global.app_bar.explore: Teroka
-global.app_bar.top_charts: Carta Tertinggi
+global.app_bar.top_charts: Carta Teratas
 global.app_bar.account: Akaun
 global.app_bar.settings: Tetapan
-global.app_bar.remove_ads: Membuang Iklan
-global.footer.info: Bots for Discord App is not affiliated with Discord or any of the Discord Bot Lists supported.
-global.button.cancel: Cancel
-global.button.sign_in: Sign In
-global.support_server.join: Join Support Server
-view.bot.add.button: Add
-view.bot.hide.button: Hide Bot
-view.bot.hide.title: Hide Bot
-view.bot.hide.message: Are you sure you want to hide this bot?
-view.bot.hide.login_required.title: Sign In Required
-view.bot.hide.login_required.message: You need to sign in to hide bots.
-view.bot.unhide.button: Un-hide Bot
-view.bot.unhide.title: Un-hide Bot
-view.bot.unhide.message: Are you sure you want to un-hide this bot?
-view.bot.stats.ratings: RATINGS
-view.bot.stats.server_count: SERVER COUNT
-view.bot.stats.vote_count: VOTE COUNT
-view.bot.stats.servers: Servers
-view.bot.stats.votes: Votes
-view.bot.promoted: Promoted
-view.bot.see_all: See All
-view.account.login.button: Log in dengan Discord
+global.app_bar.remove_ads: Buang Iklan
+global.footer.info: Bots for Discord App tidak bergabung dengan Discord atau mana-mana Discord Bot Lists yang disokong.
+global.button.cancel: Batal
+global.button.sign_in: Log Masuk
+global.support_server.join: Sertai Server Sokongan
+view.bot.add.button: Tambah
+view.bot.hide.button: Sembunyikan Bot
+view.bot.hide.title: Sembunyikan Bot
+view.bot.hide.message: Adakah anda pasti mahu menyembunyikan bot ini?
+view.bot.hide.login_required.title: Log Masuk Diperlukan
+view.bot.hide.login_required.message: Anda perlu log masuk untuk menyembunyikan bot.
+view.bot.unhide.button: Tunjuk Semula Bot
+view.bot.unhide.title: Tunjuk Semula Bot
+view.bot.unhide.message: Adakah anda pasti mahu menunjukkan semula bot ini?
+view.bot.stats.ratings: PENILAIAN
+view.bot.stats.server_count: BILANGAN SERVER
+view.bot.stats.vote_count: BILANGAN UNDI
+view.bot.stats.servers: Server
+view.bot.stats.votes: Undi
+view.bot.promoted: Dipromosikan
+view.bot.see_all: Lihat Semua
+view.account.login.button: Log Masuk dengan Discord
 view.account.my_bots.button: Bot Saya
 view.account.add_bot.button: Tambah Bot
 view.account.settings.button: Tetapan
-view.account.settings.description: Settings & preferences
-view.account.profile.fallback_username: Discord User
-view.account.profile.fallback_email: No email
-view.my_bots.subtitle: Manage your Discord bots
-view.add_bot.subtitle: Submit your bot to bot lists
-view.settings.appearance.title: Appearance
-view.settings.appearance.dark: Dark
-view.settings.appearance.light: Light
-view.settings.language.title: Language
-view.settings.hidden_bots.title: Hidden Bots
-view.settings.hidden_bots.description: Manage hidden bots
-view.settings.privacy.title: Privacy
-view.settings.privacy.description: Privacy settings
-view.settings.coming_soon.title: Coming Soon
-view.settings.coming_soon.privacy: Privacy settings coming soon!
-view.settings.sign_in_required.title: Sign In Required
-view.settings.sign_in_required.message: You need to sign in to access settings.
-view.settings.sign_out.title: Sign Out
-view.settings.sign_out.description: Sign out of your account
-view.theme.title: Theme
-view.languages.title: Language
-view.welcome.title: Welcome to Bots for Discord
-view.welcome.discover.title: "Discover {} Discord Bots"
-view.welcome.discover.subtitle: Find the perfect bot for your server
-view.welcome.login.button: Log in dengan Discord
-view.welcome.skip.button: Skip untuk Sekarang
-view.welcome.subtitle: Find the perfect bot for your server
-view.explore.browse_categories.description: Discover bots by category
-view.explore.browse_categories.title: Browse Categories
+view.account.settings.description: Tetapan & keutamaan
+view.account.profile.fallback_username: Pengguna Discord
+view.account.profile.fallback_email: Tiada e-mel
+view.my_bots.subtitle: Urus bot Discord anda
+view.add_bot.subtitle: Hantar bot anda ke senarai bot
+view.settings.appearance.title: Penampilan
+view.settings.appearance.dark: Gelap
+view.settings.appearance.light: Cerah
+view.settings.language.title: Bahasa
+view.settings.hidden_bots.title: Bot Tersembunyi
+view.settings.hidden_bots.description: Urus bot tersembunyi
+view.settings.privacy.title: Privasi
+view.settings.privacy.description: Tetapan privasi
+view.settings.coming_soon.title: Akan Datang
+view.settings.coming_soon.privacy: Tetapan privasi akan datang tidak lama lagi!
+view.settings.sign_in_required.title: Log Masuk Diperlukan
+view.settings.sign_in_required.message: Anda perlu log masuk untuk mengakses tetapan.
+view.settings.sign_out.title: Log Keluar
+view.settings.sign_out.description: Log keluar dari akaun anda
+view.theme.title: Tema
+view.languages.title: Bahasa
+view.welcome.title: Selamat Datang ke Bots for Discord
+view.welcome.discover.title: "Temui {} Discord Bot"
+view.welcome.discover.subtitle: Cari bot yang sempurna untuk server anda
+view.welcome.login.button: Log Masuk dengan Discord
+view.welcome.skip.button: Langkau Buat Masa Ini
+view.welcome.subtitle: Cari bot yang sempurna untuk server anda
+view.explore.browse_categories.description: Temui bot mengikut kategori
+view.explore.browse_categories.title: Layari Kategori
 view.explore.category.subtitle: Bot dalam kategori {}
-view.explore.discord_server.description: Join our Discord community for bot recommendations, app support, or to get involved with translations and beta testing.
+view.explore.discord_server.description: Sertai komuniti Discord kami untuk cadangan bot, sokongan aplikasi, atau untuk terlibat dengan terjemahan dan ujian beta.
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: Need Help or Want to Contribute?
-view.explore.featured.description: Top notch bots that are verified by Discord
-view.explore.featured.title: Berciri
-view.explore.highest_rated.description: Bots with the highest ratings from users
-view.explore.highest_rated.title: Highest Rated
-view.explore.most_popular.description: Bots in the most servers
-view.explore.most_popular.title: Paling popular
-view.explore.most_voted.description: Bots with the most votes this month
-view.explore.most_voted.title: Paling diundikan
-view.top_charts.most_popular: Paling popular
-view.top_charts.most_voted: Paling diundikan
-view.submit_bot.error.title: Failed to Load Bot Lists
-view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-#Alert dialogs and error messages
-view.alert.sign_out.title: Sign Out
-view.alert.sign_out.message: Are you sure you want to sign out?
-view.alert.sign_out.cancel: Cancel
-view.alert.sign_out.confirm: Sign Out
-view.alert.error.title: Error
-view.alert.error.sign_out_failed: Failed to sign out. Please try again.
-view.alert.error.sign_in_failed: Failed to sign in. Please try again.
-view.alert.error.delete_account_failed: Failed to delete account. Please try again.
-view.alert.error.submit_report_failed: Failed to submit report. Please try again.
-view.alert.error.no_invite_link: "{} doesn't have an invite link."
-view.alert.error.open_invite_failed: Failed to open invite link.
-view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
-view.alert.error.open_support_failed: Failed to open support server link.
-#Delete account dialogs
-view.alert.delete_account.title: Delete Account
-view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
-view.alert.delete_account.confirm: Delete
-view.alert.delete_account.final.title: Delete Account
-view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-#Report bot screen
-view.report.title: Report Bot
-view.report.header.title: Report Bot
-view.report.header.description: Help us keep the community safe by reporting inappropriate content or issues.
-view.report.reason.title: Report Reason
-view.report.reason.select: Select a reason
-view.report.details.title: Additional Details
-view.report.details.placeholder: Please provide specific details about the issue...
-view.report.submit.button: Submit Report
-view.report.submit.submitting: Submitting...
-view.report.submit.success.title: Report Submitted
-view.report.submit.success.message: Thank you for your report. We will review it and take appropriate action.
+view.explore.discord_server.title: Perlukan Bantuan atau Mahu Menyumbang?
+view.explore.featured.description: Bot terbaik yang disahkan oleh Discord
+view.explore.featured.title: Pilihan Utama
+view.explore.highest_rated.description: Bot dengan penilaian tertinggi daripada pengguna
+view.explore.highest_rated.title: Penilaian Tertinggi
+view.explore.most_popular.description: Bot dalam server paling banyak
+view.explore.most_popular.title: Paling Popular
+view.explore.most_voted.description: Bot dengan undi paling banyak bulan ini
+view.explore.most_voted.title: Paling Banyak Diundi
+view.top_charts.most_popular: Paling Popular
+view.top_charts.most_voted: Paling Banyak Diundi
+view.submit_bot.error.title: Gagal Memuatkan Senarai Bot
+view.submit_bot.error.description: Kami tidak dapat memuatkan senarai bot yang tersedia. Sila cuba lagi kemudian.
+
+# Alert dialogs and error messages
+view.alert.sign_out.title: Log Keluar
+view.alert.sign_out.message: Adakah anda pasti mahu log keluar?
+view.alert.sign_out.cancel: Batal
+view.alert.sign_out.confirm: Log Keluar
+view.alert.error.title: Ralat
+view.alert.error.sign_out_failed: Gagal log keluar. Sila cuba lagi.
+view.alert.error.sign_in_failed: Gagal log masuk. Sila cuba lagi.
+view.alert.error.delete_account_failed: Gagal memadamkan akaun. Sila cuba lagi.
+view.alert.error.submit_report_failed: Gagal menghantar laporan. Sila cuba lagi.
+view.alert.error.no_invite_link: "{} tidak mempunyai pautan jemputan."
+view.alert.error.open_invite_failed: Gagal membuka pautan jemputan.
+view.alert.error.discord_not_installed: Tidak dapat membuka Discord. Sila pastikan Discord dipasang pada peranti anda.
+view.alert.error.open_support_failed: Gagal membuka pautan server sokongan.
+
+# Delete account dialogs
+view.alert.delete_account.title: Padam Akaun
+view.alert.delete_account.message: Adakah anda pasti mahu memadamkan akaun anda? Tindakan ini tidak dapat dibuat asal dan akan memadamkan semua data anda secara kekal.
+view.alert.delete_account.confirm: Padam
+view.alert.delete_account.final.title: Padam Akaun
+view.alert.delete_account.final.message: Ini akan memadamkan akaun dan data berkaitan anda secara kekal. Adakah anda pasti?
+
+# Report bot screen
+view.report.title: Lapor Bot
+view.report.header.title: Lapor Bot
+view.report.header.description: Bantu kami memastikan komuniti selamat dengan melaporkan kandungan atau isu yang tidak sesuai.
+view.report.reason.title: Sebab Laporan
+view.report.reason.select: Pilih sebab
+view.report.details.title: Butiran Tambahan
+view.report.details.placeholder: Sila berikan butiran khusus tentang isu tersebut...
+view.report.submit.button: Hantar Laporan
+view.report.submit.submitting: Menghantar...
+view.report.submit.success.title: Laporan Dihantar
+view.report.submit.success.message: Terima kasih atas laporan anda. Kami akan menyemaknya dan mengambil tindakan yang sesuai.
 view.report.submit.success.ok: OK
-view.report.validation.no_reason: Please select a reason for reporting.
-view.report.validation.no_details: Please provide additional details about the issue.
-#Loading and error states
-view.loading.bot_details: Loading bot details...
-view.error.bot_not_found: Bot not found.
-view.loading.categories: Loading categories...
-#Navigation headers
+view.report.validation.no_reason: Sila pilih sebab untuk melaporkan.
+view.report.validation.no_details: Sila berikan butiran tambahan tentang isu tersebut.
+
+# Loading and error states
+view.loading.bot_details: Memuatkan butiran bot...
+view.error.bot_not_found: Bot tidak dijumpai.
+view.loading.categories: Memuatkan kategori...
+
+# Navigation headers
 view.navigation.account: Akaun
 view.navigation.settings: Tetapan
-view.navigation.categories: Categories
-view.navigation.bot_details: Bot Details
-#Search suggestions
-view.search.suggestions.title: Suggested searches
-view.search.placeholder: Search for bots...
-#Support and ads
-view.support.server.description: Join the app's support server
-view.remove_ads.description: Permanently disable in-app ads
-#Bottom sheet
-view.bottom_sheet.select_reason: Select Reason
+view.navigation.categories: Kategori
+view.navigation.bot_details: Butiran Bot
+
+# Search suggestions
+view.search.suggestions.title: Cadangan carian
+view.search.placeholder: Cari bot...
+
+# Support and ads
+view.support.server.description: Sertai server sokongan aplikasi
+view.remove_ads.description: Lumpuhkan iklan dalam aplikasi secara kekal
+
+# Bottom sheet
+view.bottom_sheet.select_reason: Pilih Sebab
