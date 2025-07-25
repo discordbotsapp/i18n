@@ -77,8 +77,7 @@ view.top_charts.most_popular: Meest Populair
 view.top_charts.most_voted: Meest Gestemd
 view.submit_bot.error.title: Kan Botlijsten Niet Laden
 view.submit_bot.error.description: We konden de beschikbare botlijsten niet laden. Probeer het later opnieuw.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: Uitloggen
 view.alert.sign_out.message: Weet je zeker dat je wilt uitloggen?
 view.alert.sign_out.cancel: Annuleren
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} heeft geen uitnodigingslink."
 view.alert.error.open_invite_failed: Kan uitnodigingslink niet openen.
 view.alert.error.discord_not_installed: Kan Discord niet openen. Zorg ervoor dat Discord is geïnstalleerd op je apparaat.
 view.alert.error.open_support_failed: Kan support server link niet openen.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: Account Verwijderen
 view.alert.delete_account.message: Weet je zeker dat je je account wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt en zal al je gegevens permanent verwijderen.
 view.alert.delete_account.confirm: Verwijderen
 view.alert.delete_account.final.title: Account Verwijderen
 view.alert.delete_account.final.message: Dit zal je account en bijbehorende gegevens permanent wissen. Weet je het zeker?
-
-# Report bot screen
+#Report bot screen
 view.report.title: Bot Rapporteren
 view.report.header.title: Bot Rapporteren
 view.report.header.description: Help ons de community veilig te houden door ongepaste inhoud of problemen te rapporteren.
@@ -115,25 +112,20 @@ view.report.submit.success.message: Bedankt voor je rapportage. We zullen het be
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Selecteer een reden voor rapportage.
 view.report.validation.no_details: Geef aanvullende details over het probleem.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: Bot details laden...
 view.error.bot_not_found: Bot niet gevonden.
 view.loading.categories: Categorieën laden...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: Account
 view.navigation.settings: Instellingen
 view.navigation.categories: Categorieën
 view.navigation.bot_details: Bot Details
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: Aanbevolen zoekopdrachten
 view.search.placeholder: Zoek naar bots...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Doe mee met de support server van de app
 view.remove_ads.description: Schakel advertenties in de app permanent uit
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: Selecteer Reden
