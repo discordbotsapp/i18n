@@ -8,7 +8,7 @@ global.app_bar.top_charts: نمودارهای برتر
 global.app_bar.account: حساب کاربری
 global.app_bar.settings: تنظیمات
 global.app_bar.remove_ads: حذف تبلیغات
-global.footer.info: Bots for Discord App وابسته به Discord یا هیچ یک از Discord Bot Lists پشتیبانی شده نیست. # Keep "Bots for Discord App" and "Discord Bot Lists" as is
+global.footer.info: Bots for Discord App وابسته به Discord یا هیچ یک از Discord Bot Lists پشتیبانی شده نیست.
 global.button.cancel: لغو
 global.button.sign_in: ورود
 global.support_server.join: پیوستن به سرور پشتیبانی
@@ -77,8 +77,7 @@ view.top_charts.most_popular: محبوب‌ترین
 view.top_charts.most_voted: پررای‌ترین
 view.submit_bot.error.title: بارگذاری فهرست ربات‌ها ناموفق بود
 view.submit_bot.error.description: نتوانستیم فهرست ربات‌های موجود را بارگذاری کنیم. لطفاً بعداً دوباره تلاش کنید.
-
-# Alert dialogs and error messages
+#Alert dialogs and error messages
 view.alert.sign_out.title: خروج
 view.alert.sign_out.message: آیا مطمئن هستید که می‌خواهید خارج شوید؟
 view.alert.sign_out.cancel: لغو
@@ -92,15 +91,13 @@ view.alert.error.no_invite_link: "{} لینک دعوت ندارد."
 view.alert.error.open_invite_failed: باز کردن لینک دعوت ناموفق بود.
 view.alert.error.discord_not_installed: نمی‌توان Discord را باز کرد. لطفاً اطمینان حاصل کنید که Discord روی دستگاه شما نصب است.
 view.alert.error.open_support_failed: باز کردن لینک سرور پشتیبانی ناموفق بود.
-
-# Delete account dialogs
+#Delete account dialogs
 view.alert.delete_account.title: حذف حساب
 view.alert.delete_account.message: آیا مطمئن هستید که می‌خواهید حساب خود را حذف کنید؟ این عمل قابل بازگشت نیست و تمام داده‌های شما را برای همیشه حذف می‌کند.
 view.alert.delete_account.confirm: حذف
 view.alert.delete_account.final.title: حذف حساب
 view.alert.delete_account.final.message: این کار حساب و داده‌های مرتبط با آن را برای همیشه پاک می‌کند. آیا مطمئن هستید؟
-
-# Report bot screen
+#Report bot screen
 view.report.title: گزارش ربات
 view.report.header.title: گزارش ربات
 view.report.header.description: با گزارش محتوای نامناسب یا مشکلات، به ما کمک کنید تا جامعه را امن نگه داریم.
@@ -115,25 +112,20 @@ view.report.submit.success.message: متشکرم از گزارش شما. ما آ
 view.report.submit.success.ok: باشه
 view.report.validation.no_reason: لطفاً دلیلی برای گزارش انتخاب کنید.
 view.report.validation.no_details: لطفاً جزئیات اضافی در مورد مشکل ارائه دهید.
-
-# Loading and error states
+#Loading and error states
 view.loading.bot_details: بارگذاری جزئیات ربات...
 view.error.bot_not_found: ربات یافت نشد.
 view.loading.categories: بارگذاری دسته‌بندی‌ها...
-
-# Navigation headers
+#Navigation headers
 view.navigation.account: حساب کاربری
 view.navigation.settings: تنظیمات
 view.navigation.categories: دسته‌بندی‌ها
 view.navigation.bot_details: جزئیات ربات
-
-# Search suggestions
+#Search suggestions
 view.search.suggestions.title: جستجوهای پیشنهادی
 view.search.placeholder: جستجو برای ربات‌ها...
-
-# Support and ads
+#Support and ads
 view.support.server.description: به سرور پشتیبانی برنامه بپیوندید
 view.remove_ads.description: تبلیغات درون برنامه‌ای را برای همیشه غیرفعال کنید
-
-# Bottom sheet
+#Bottom sheet
 view.bottom_sheet.select_reason: انتخاب دلیل
