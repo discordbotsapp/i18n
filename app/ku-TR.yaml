@@ -123,9 +123,20 @@ view.navigation.categories: جۆرەکان
 view.navigation.bot_details: وردەکارییەکانی Bot
 #Search suggestions
 view.search.suggestions.title: گەڕانە پێشنیارکراوەکان
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: گەڕان بۆ bot ەکان...
 #Support and ads
 view.support.server.description: بەشداری لە سێرڤەری پشتگیری ئەپەکە
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: لەکارخستنی ڕیکلامەکانی ناو ئەپ بۆ هەمیشە
 #Bottom sheet
 view.bottom_sheet.select_reason: هەڵبژاردنی هۆکار
