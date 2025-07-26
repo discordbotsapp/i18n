@@ -123,9 +123,20 @@ view.navigation.categories: 카테고리
 view.navigation.bot_details: 봇 정보
 #Search suggestions
 view.search.suggestions.title: 추천 검색어
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: 봇 검색...
 #Support and ads
 view.support.server.description: 앱의 지원 서버에 참여하세요
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: 앱 내 광고를 영구적으로 비활성화
 #Bottom sheet
 view.bottom_sheet.select_reason: 사유 선택
