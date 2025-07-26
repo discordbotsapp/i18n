@@ -61,7 +61,7 @@ view.welcome.skip.button: Şimdilik Atla
 view.welcome.subtitle: Sunucunuz için mükemmel botu bulun
 view.explore.browse_categories.description: Kategoriye göre botları keşfedin
 view.explore.browse_categories.title: Kategorilere Göz Atın
-view.explore.category.subtitle: '{} kategorisindeki botlar'
+view.explore.category.subtitle: "{} kategorisindeki botlar"
 view.explore.discord_server.description: Bot önerileri, uygulama desteği veya çeviriler ve beta testlere katılım için Discord topluluğumuza katılın.
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: Yardıma mı İhtiyacınız Var veya Katkıda Bulunmak mı İstiyorsunuz?
@@ -123,9 +123,20 @@ view.navigation.categories: Kategoriler
 view.navigation.bot_details: Bot Detayları
 #Search suggestions
 view.search.suggestions.title: Önerilen aramalar
+view.search.suggestions.music: Müzik
+view.search.suggestions.moderation: Moderasyon
+view.search.suggestions.fun: Eğlence
+view.search.suggestions.utility: Yardımcı
+view.search.suggestions.economy: Ekonomi
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Oyun
+view.search.suggestions.social: Sosyal
 view.search.placeholder: Bot arayın...
 #Support and ads
 view.support.server.description: Uygulamanın destek sunucusuna katılın
+view.support.server.online_count: "{count} çevrimiçi"
+view.support.server.join_community: Topluluğa katıl
+view.support.server.join_button: KATIL
 view.remove_ads.description: Uygulama içi reklamları kalıcı olarak devre dışı bırakın
 #Bottom sheet
 view.bottom_sheet.select_reason: Neden Seçin

@@ -61,7 +61,7 @@ view.welcome.skip.button: 今すぐスキップ
 view.welcome.subtitle: サーバーにぴったりのBotを見つけましょう
 view.explore.browse_categories.description: カテゴリー別にBotを発見
 view.explore.browse_categories.title: カテゴリーを閲覧
-view.explore.category.subtitle: '{}カテゴリーのBot'
+view.explore.category.subtitle: "{}カテゴリーのBot"
 view.explore.discord_server.description: Bot推薦、アプリサポート、翻訳やベータテストへの参加については、Discordコミュニティにご参加ください。
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: ヘルプが必要ですか？または貢献したいですか？
@@ -123,9 +123,20 @@ view.navigation.categories: カテゴリー
 view.navigation.bot_details: Bot詳細
 #Search suggestions
 view.search.suggestions.title: 検索候補
+view.search.suggestions.music: 音楽
+view.search.suggestions.moderation: モデレート
+view.search.suggestions.fun: 楽しい
+view.search.suggestions.utility: ユーティリティ
+view.search.suggestions.economy: 経済
+view.search.suggestions.anime: アニメ
+view.search.suggestions.game: ゲーム
+view.search.suggestions.social: ソーシャル
 view.search.placeholder: Botを検索...
 #Support and ads
 view.support.server.description: アプリのサポートサーバーに参加
+view.support.server.online_count: "{count} オンライン"
+view.support.server.join_community: コミュニティに参加
+view.support.server.join_button: 参加
 view.remove_ads.description: アプリ内広告を完全に無効化
 #Bottom sheet
 view.bottom_sheet.select_reason: 理由を選択

@@ -123,6 +123,14 @@ view.navigation.categories: Kategorier
 view.navigation.bot_details: Bot Detaljer
 #Search suggestions
 view.search.suggestions.title: Foreslåtte søk
+view.search.suggestions.music: Musikk
+view.search.suggestions.moderation: Moderering
+view.search.suggestions.fun: Moro
+view.search.suggestions.utility: Verktøy
+view.search.suggestions.economy: Økonomi
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Spill
+view.search.suggestions.social: Sosial
 view.search.placeholder: Søk etter bots...
 #Support and ads
 view.support.server.description: Bli med i appens support server

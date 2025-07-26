@@ -129,6 +129,14 @@ view.navigation.bot_details: Detail Bot
 
 # Search suggestions
 view.search.suggestions.title: Pencarian yang disarankan
+view.search.suggestions.music: Musik
+view.search.suggestions.moderation: Moderasi
+view.search.suggestions.fun: Hiburan
+view.search.suggestions.utility: Utilitas
+view.search.suggestions.economy: Ekonomi
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Sosial
 view.search.placeholder: Cari bot...
 
 # Support and ads

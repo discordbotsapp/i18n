@@ -123,6 +123,14 @@ view.navigation.categories: Κατηγορίες
 view.navigation.bot_details: Λεπτομέρειες Bot
 #Search suggestions
 view.search.suggestions.title: Προτεινόμενες αναζητήσεις
+view.search.suggestions.music: Μουσική
+view.search.suggestions.moderation: Διαχείριση
+view.search.suggestions.fun: Διασκέδαση
+view.search.suggestions.utility: Βοηθητικά
+view.search.suggestions.economy: Οικονομία
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Παιχνίδια
+view.search.suggestions.social: Κοινωνικά
 view.search.placeholder: Αναζήτηση για bots...
 #Support and ads
 view.support.server.description: Συμμετάσχετε στον διακομιστή υποστήριξης της εφαρμογής

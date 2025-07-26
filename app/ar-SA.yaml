@@ -123,9 +123,20 @@ view.navigation.categories: الفئات
 view.navigation.bot_details: تفاصيل البوت
 #Search suggestions
 view.search.suggestions.title: عمليات بحث مقترحة
+view.search.suggestions.music: موسيقى
+view.search.suggestions.moderation: إشراف
+view.search.suggestions.fun: ترفيه
+view.search.suggestions.utility: مرافق
+view.search.suggestions.economy: اقتصاد
+view.search.suggestions.anime: أنمي
+view.search.suggestions.game: ألعاب
+view.search.suggestions.social: اجتماعي
 view.search.placeholder: البحث عن البوتات...
 #Support and ads
 view.support.server.description: انضم إلى خادم دعم التطبيق
+view.support.server.online_count: "{count} متصل"
+view.support.server.join_community: انضم إلى المجتمع
+view.support.server.join_button: انضم
 view.remove_ads.description: إيقاف الإعلانات داخل التطبيق نهائياً
 #Bottom sheet
 view.bottom_sheet.select_reason: اختيار السبب

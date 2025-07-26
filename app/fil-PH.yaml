@@ -123,6 +123,14 @@ view.navigation.categories: Mga Kategorya
 view.navigation.bot_details: Mga Detalye ng Bot
 #Search suggestions
 view.search.suggestions.title: Mga iminumungkahing paghahanap
+view.search.suggestions.music: Musika
+view.search.suggestions.moderation: Pagmomoderate
+view.search.suggestions.fun: Kasiyahan
+view.search.suggestions.utility: Kagamitan
+view.search.suggestions.economy: Ekonomiya
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Laro
+view.search.suggestions.social: Panlipunan
 view.search.placeholder: Maghanap ng mga bot...
 #Support and ads
 view.support.server.description: Sumali sa support server ng app

@@ -129,10 +129,21 @@ view.navigation.bot_details: Chi tiết Bot
 
 # Search suggestions
 view.search.suggestions.title: Gợi ý tìm kiếm
+view.search.suggestions.music: Âm nhạc
+view.search.suggestions.moderation: Kiểm duyệt
+view.search.suggestions.fun: Giải trí
+view.search.suggestions.utility: Tiện ích
+view.search.suggestions.economy: Kinh tế
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Trò chơi
+view.search.suggestions.social: Mạng xã hội
 view.search.placeholder: Tìm kiếm bot...
 
 # Support and ads
 view.support.server.description: Tham gia support server của ứng dụng
+view.support.server.online_count: "{count} trực tuyến"
+view.support.server.join_community: Tham gia cộng đồng
+view.support.server.join_button: THAM GIA
 view.remove_ads.description: Tắt vĩnh viễn quảng cáo trong ứng dụng
 
 # Bottom sheet

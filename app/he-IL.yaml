@@ -123,9 +123,20 @@ view.navigation.categories: קטגוריות
 view.navigation.bot_details: פרטי בוט
 #Search suggestions
 view.search.suggestions.title: חיפושים מוצעים
+view.search.suggestions.music: מוזיקה
+view.search.suggestions.moderation: ניהול
+view.search.suggestions.fun: כיף
+view.search.suggestions.utility: כלי עזר
+view.search.suggestions.economy: כלכלה
+view.search.suggestions.anime: אנימה
+view.search.suggestions.game: משחקים
+view.search.suggestions.social: חברתי
 view.search.placeholder: חפש בוטים...
 #Support and ads
 view.support.server.description: הצטרף לשרת התמיכה של האפליקציה
+view.support.server.online_count: "{count} מחוברים"
+view.support.server.join_community: הצטרף לקהילה
+view.support.server.join_button: הצטרף
 view.remove_ads.description: השבת פרסומות באפליקציה לצמיתות
 #Bottom sheet
 view.bottom_sheet.select_reason: בחר סיבה

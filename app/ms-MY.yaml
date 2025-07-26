@@ -123,6 +123,14 @@ view.navigation.categories: Kategori
 view.navigation.bot_details: Butiran Bot
 #Search suggestions
 view.search.suggestions.title: Cadangan carian
+view.search.suggestions.music: Muzik
+view.search.suggestions.moderation: Moderasi
+view.search.suggestions.fun: Hiburan
+view.search.suggestions.utility: Utiliti
+view.search.suggestions.economy: Ekonomi
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Permainan
+view.search.suggestions.social: Sosial
 view.search.placeholder: Cari bot...
 #Support and ads
 view.support.server.description: Sertai server sokongan aplikasi

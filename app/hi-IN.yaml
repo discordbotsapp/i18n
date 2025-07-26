@@ -61,7 +61,7 @@ view.welcome.skip.button: अभी छोड़ें
 view.welcome.subtitle: अपने सर्वर के लिए सही bot खोजें
 view.explore.browse_categories.description: श्रेणी के अनुसार bots खोजें
 view.explore.browse_categories.title: श्रेणियां ब्राउज़ करें
-view.explore.category.subtitle: '{} श्रेणी में Bots'
+view.explore.category.subtitle: "{} श्रेणी में Bots"
 view.explore.discord_server.description: Bot सिफारिशों, ऐप समर्थन, या अनुवाद और बीटा परीक्षण में शामिल होने के लिए हमारे Discord समुदाय से जुड़ें।
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: सहायता चाहिए या योगदान देना चाहते हैं?
@@ -123,9 +123,20 @@ view.navigation.categories: श्रेणियां
 view.navigation.bot_details: Bot विवरण
 #Search suggestions
 view.search.suggestions.title: सुझावित खोजें
+view.search.suggestions.music: संगीत
+view.search.suggestions.moderation: मॉडरेशन
+view.search.suggestions.fun: मज़ा
+view.search.suggestions.utility: उपयोगिता
+view.search.suggestions.economy: अर्थव्यवस्था
+view.search.suggestions.anime: एनीमे
+view.search.suggestions.game: खेल
+view.search.suggestions.social: सामाजिक
 view.search.placeholder: Bots के लिए खोजें...
 #Support and ads
 view.support.server.description: ऐप के सपोर्ट सर्वर से जुड़ें
+view.support.server.online_count: "{count} ऑनलाइन"
+view.support.server.join_community: समुदाय से जुड़ें
+view.support.server.join_button: जुड़ें
 view.remove_ads.description: इन-ऐप विज्ञापनों को स्थायी रूप से अक्षम करें
 #Bottom sheet
 view.bottom_sheet.select_reason: कारण चुनें

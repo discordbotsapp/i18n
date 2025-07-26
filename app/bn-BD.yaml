@@ -123,6 +123,14 @@ view.navigation.categories: ক্যাটেগরি
 view.navigation.bot_details: Bot বিবরণ
 #Search suggestions
 view.search.suggestions.title: প্রস্তাবিত অনুসন্ধান
+view.search.suggestions.music: সঙ্গীত
+view.search.suggestions.moderation: মডারেশন
+view.search.suggestions.fun: মজা
+view.search.suggestions.utility: ইউটিলিটি
+view.search.suggestions.economy: অর্থনীতি
+view.search.suggestions.anime: অ্যানিমে
+view.search.suggestions.game: গেম
+view.search.suggestions.social: সামাজিক
 view.search.placeholder: Bot এর জন্য অনুসন্ধান করুন...
 #Support and ads
 view.support.server.description: অ্যাপের সাপোর্ট সার্ভারে যোগ দিন

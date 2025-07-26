@@ -129,6 +129,14 @@ view.navigation.bot_details: Bot വിശദാംശങ്ങൾ
 
 # Search suggestions
 view.search.suggestions.title: നിർദ്ദേശിത തിരയലുകൾ
+view.search.suggestions.music: സംഗീതം
+view.search.suggestions.moderation: മോഡറേഷൻ
+view.search.suggestions.fun: വിനോദം
+view.search.suggestions.utility: യൂട്ടിലിറ്റി
+view.search.suggestions.economy: സമ്പദ്‌വ്യവസ്ഥ
+view.search.suggestions.anime: ആനിമേ
+view.search.suggestions.game: ഗെയിം
+view.search.suggestions.social: സോഷ്യൽ
 view.search.placeholder: Bots തിരയുക...
 
 # Support and ads

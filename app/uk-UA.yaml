@@ -123,6 +123,14 @@ view.navigation.categories: Категорії
 view.navigation.bot_details: Деталі бота
 #Search suggestions
 view.search.suggestions.title: Пропоновані пошуки
+view.search.suggestions.music: Музика
+view.search.suggestions.moderation: Модерація
+view.search.suggestions.fun: Розваги
+view.search.suggestions.utility: Утиліти
+view.search.suggestions.economy: Економіка
+view.search.suggestions.anime: Аніме
+view.search.suggestions.game: Ігри
+view.search.suggestions.social: Соціальні
 view.search.placeholder: Шукати ботів...
 #Support and ads
 view.support.server.description: Приєднайтеся до сервера підтримки додатку

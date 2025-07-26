@@ -123,6 +123,14 @@ view.navigation.categories: Kategórie
 view.navigation.bot_details: Podrobnosti bota
 #Search suggestions
 view.search.suggestions.title: Navrhované vyhľadávania
+view.search.suggestions.music: Hudba
+view.search.suggestions.moderation: Moderovanie
+view.search.suggestions.fun: Zábava
+view.search.suggestions.utility: Nástroje
+view.search.suggestions.economy: Ekonomika
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Hry
+view.search.suggestions.social: Sociálne
 view.search.placeholder: Hľadať botov...
 #Support and ads
 view.support.server.description: Pripojte sa k podpornému serveru aplikácie

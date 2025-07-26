@@ -129,6 +129,14 @@ view.navigation.bot_details: รายละเอียดบอท
 
 # Search suggestions
 view.search.suggestions.title: การค้นหาที่แนะนำ
+view.search.suggestions.music: เพลง
+view.search.suggestions.moderation: การดูแล
+view.search.suggestions.fun: ความสนุก
+view.search.suggestions.utility: เครื่องมือ
+view.search.suggestions.economy: เศรษฐกิจ
+view.search.suggestions.anime: อนิเมะ
+view.search.suggestions.game: เกม
+view.search.suggestions.social: สังคม
 view.search.placeholder: ค้นหาบอท...
 
 # Support and ads

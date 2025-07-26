@@ -61,7 +61,7 @@ view.welcome.skip.button: 건너뛰기
 view.welcome.subtitle: 서버에 완벽한 봇을 찾아보세요
 view.explore.browse_categories.description: 카테고리별로 봇을 발견하세요
 view.explore.browse_categories.title: 카테고리 둘러보기
-view.explore.category.subtitle: '{} 카테고리에 속한 봇을 만나보세요'
+view.explore.category.subtitle: "{} 카테고리에 속한 봇을 만나보세요"
 view.explore.discord_server.description: 봇 추천, 앱 지원을 받거나 번역 및 베타 테스트에 참여하려면 Discord 커뮤니티에 참여하세요.
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: 도움이 필요하거나 기여하고 싶으신가요?
@@ -123,9 +123,20 @@ view.navigation.categories: 카테고리
 view.navigation.bot_details: 봇 정보
 #Search suggestions
 view.search.suggestions.title: 추천 검색어
+view.search.suggestions.music: 음악
+view.search.suggestions.moderation: 관리
+view.search.suggestions.fun: 재미
+view.search.suggestions.utility: 유틸리티
+view.search.suggestions.economy: 경제
+view.search.suggestions.anime: 애니메이션
+view.search.suggestions.game: 게임
+view.search.suggestions.social: 소셜
 view.search.placeholder: 봇 검색...
 #Support and ads
 view.support.server.description: 앱의 지원 서버에 참여하세요
+view.support.server.online_count: "{count} 온라인"
+view.support.server.join_community: 커뮤니티에 참여
+view.support.server.join_button: 참여
 view.remove_ads.description: 앱 내 광고를 영구적으로 비활성화
 #Bottom sheet
 view.bottom_sheet.select_reason: 사유 선택

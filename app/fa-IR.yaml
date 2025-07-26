@@ -123,9 +123,20 @@ view.navigation.categories: دسته‌بندی‌ها
 view.navigation.bot_details: جزئیات ربات
 #Search suggestions
 view.search.suggestions.title: جستجوهای پیشنهادی
+view.search.suggestions.music: موسیقی
+view.search.suggestions.moderation: نظارت
+view.search.suggestions.fun: سرگرمی
+view.search.suggestions.utility: ابزاری
+view.search.suggestions.economy: اقتصاد
+view.search.suggestions.anime: انیمه
+view.search.suggestions.game: بازی
+view.search.suggestions.social: اجتماعی
 view.search.placeholder: جستجو برای ربات‌ها...
 #Support and ads
 view.support.server.description: به سرور پشتیبانی برنامه بپیوندید
+view.support.server.online_count: "{count} آنلاین"
+view.support.server.join_community: به جامعه بپیوندید
+view.support.server.join_button: پیوستن
 view.remove_ads.description: تبلیغات درون برنامه‌ای را برای همیشه غیرفعال کنید
 #Bottom sheet
 view.bottom_sheet.select_reason: انتخاب دلیل

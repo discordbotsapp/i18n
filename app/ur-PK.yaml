@@ -61,7 +61,7 @@ view.welcome.skip.button: فی الوقت چھوڑیں
 view.welcome.subtitle: اپنے سرور کے لیے بہترین بوٹ تلاش کریں
 view.explore.browse_categories.description: کیٹگری کے ذریعے بوٹس دریافت کریں
 view.explore.browse_categories.title: کیٹگریز براؤز کریں
-view.explore.category.subtitle: '{} کیٹگری میں بوٹس'
+view.explore.category.subtitle: "{} کیٹگری میں بوٹس"
 view.explore.discord_server.description: بوٹ کی تجاویز، ایپ سپورٹ، یا ترجمے اور بیٹا ٹیسٹنگ میں شامل ہونے کے لیے ہماری Discord کمیونٹی میں شامل ہوں۔
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: مدد چاہیے یا تعاون کرنا چاہتے ہیں؟
@@ -123,6 +123,14 @@ view.navigation.categories: کیٹگریز
 view.navigation.bot_details: بوٹ کی تفصیلات
 #Search suggestions
 view.search.suggestions.title: تجویز کردہ تلاش
+view.search.suggestions.music: موسیقی
+view.search.suggestions.moderation: اعتدال
+view.search.suggestions.fun: تفریح
+view.search.suggestions.utility: یوٹیلٹی
+view.search.suggestions.economy: اقتصادیات
+view.search.suggestions.anime: انیمے
+view.search.suggestions.game: گیم
+view.search.suggestions.social: سماجی
 view.search.placeholder: بوٹس تلاش کریں...
 #Support and ads
 view.support.server.description: ایپ کے سپورٹ سرور میں شامل ہوں

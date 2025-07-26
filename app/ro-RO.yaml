@@ -123,6 +123,14 @@ view.navigation.categories: Categorii
 view.navigation.bot_details: Detalii Bot
 #Search suggestions
 view.search.suggestions.title: Căutări sugerate
+view.search.suggestions.music: Muzică
+view.search.suggestions.moderation: Moderare
+view.search.suggestions.fun: Divertisment
+view.search.suggestions.utility: Utilitate
+view.search.suggestions.economy: Economie
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Jocuri
+view.search.suggestions.social: Social
 view.search.placeholder: Caută bot-uri...
 #Support and ads
 view.support.server.description: Alătură-te serverului de suport al aplicației

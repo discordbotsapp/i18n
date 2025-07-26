@@ -123,6 +123,14 @@ view.navigation.categories: جۆرەکان
 view.navigation.bot_details: وردەکارییەکانی Bot
 #Search suggestions
 view.search.suggestions.title: گەڕانە پێشنیارکراوەکان
+view.search.suggestions.music: مۆسیقا
+view.search.suggestions.moderation: بەڕێوەبردن
+view.search.suggestions.fun: خۆشی
+view.search.suggestions.utility: بەکارهێنان
+view.search.suggestions.economy: ئابووری
+view.search.suggestions.anime: ئانیمە
+view.search.suggestions.game: یاری
+view.search.suggestions.social: کۆمەڵایەتی
 view.search.placeholder: گەڕان بۆ bot ەکان...
 #Support and ads
 view.support.server.description: بەشداری لە سێرڤەری پشتگیری ئەپەکە

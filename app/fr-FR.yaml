@@ -123,9 +123,20 @@ view.navigation.categories: Catégories
 view.navigation.bot_details: Détails du Bot
 #Search suggestions
 view.search.suggestions.title: Recherches suggérées
+view.search.suggestions.music: Musique
+view.search.suggestions.moderation: Modération
+view.search.suggestions.fun: Amusement
+view.search.suggestions.utility: Utilitaire
+view.search.suggestions.economy: Économie
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Jeux
+view.search.suggestions.social: Social
 view.search.placeholder: Rechercher des bots...
 #Support and ads
 view.support.server.description: Rejoindre le serveur de support de l'application
+view.support.server.online_count: "{count} en ligne"
+view.support.server.join_community: Rejoindre la communauté
+view.support.server.join_button: REJOINDRE
 view.remove_ads.description: Désactiver définitivement les publicités dans l'application
 #Bottom sheet
 view.bottom_sheet.select_reason: Sélectionner une raison
