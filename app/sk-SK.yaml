@@ -123,9 +123,20 @@ view.navigation.categories: Kategórie
 view.navigation.bot_details: Podrobnosti bota
 #Search suggestions
 view.search.suggestions.title: Navrhované vyhľadávania
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: Hľadať botov...
 #Support and ads
 view.support.server.description: Pripojte sa k podpornému serveru aplikácie
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: Natrvalo zakázať reklamy v aplikácii
 #Bottom sheet
 view.bottom_sheet.select_reason: Vybrať dôvod
