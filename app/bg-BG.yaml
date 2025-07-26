@@ -123,9 +123,20 @@ view.navigation.categories: Категории
 view.navigation.bot_details: Детайли за bot
 #Search suggestions
 view.search.suggestions.title: Предложени търсения
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: Търсете botове...
 #Support and ads
 view.support.server.description: Присъединете се към сървъра за поддръжка на приложението
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: Деактивирайте завинаги рекламите в приложението
 #Bottom sheet
 view.bottom_sheet.select_reason: Изберете причина
