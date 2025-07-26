@@ -123,9 +123,20 @@ view.navigation.categories: 类别
 view.navigation.bot_details: Bot 详情
 #Search suggestions
 view.search.suggestions.title: 推荐搜索
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: 搜索 bot...
 #Support and ads
 view.support.server.description: 加入应用的支持服务器
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: 永久禁用应用内广告
 #Bottom sheet
 view.bottom_sheet.select_reason: 选择原因
