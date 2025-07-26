@@ -123,9 +123,20 @@ view.navigation.categories: Categorieën
 view.navigation.bot_details: Bot Details
 #Search suggestions
 view.search.suggestions.title: Aanbevolen zoekopdrachten
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: Zoek naar bots...
 #Support and ads
 view.support.server.description: Doe mee met de support server van de app
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: Schakel advertenties in de app permanent uit
 #Bottom sheet
 view.bottom_sheet.select_reason: Selecteer Reden
