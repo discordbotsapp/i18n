@@ -123,9 +123,20 @@ view.navigation.categories: کیٹگریز
 view.navigation.bot_details: بوٹ کی تفصیلات
 #Search suggestions
 view.search.suggestions.title: تجویز کردہ تلاش
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: بوٹس تلاش کریں...
 #Support and ads
 view.support.server.description: ایپ کے سپورٹ سرور میں شامل ہوں
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: ایپ کے اندر اشتہارات کو مستقل طور پر غیر فعال کریں
 #Bottom sheet
 view.bottom_sheet.select_reason: وجہ منتخب کریں
