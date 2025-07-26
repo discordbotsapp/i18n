@@ -123,9 +123,20 @@ view.navigation.categories: Kategoriler
 view.navigation.bot_details: Bot Detayları
 #Search suggestions
 view.search.suggestions.title: Önerilen aramalar
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: Bot arayın...
 #Support and ads
 view.support.server.description: Uygulamanın destek sunucusuna katılın
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: Uygulama içi reklamları kalıcı olarak devre dışı bırakın
 #Bottom sheet
 view.bottom_sheet.select_reason: Neden Seçin
