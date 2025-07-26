@@ -123,9 +123,20 @@ view.navigation.categories: Κατηγορίες
 view.navigation.bot_details: Λεπτομέρειες Bot
 #Search suggestions
 view.search.suggestions.title: Προτεινόμενες αναζητήσεις
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: Αναζήτηση για bots...
 #Support and ads
 view.support.server.description: Συμμετάσχετε στον διακομιστή υποστήριξης της εφαρμογής
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: Μόνιμη απενεργοποίηση διαφημίσεων εντός εφαρμογής
 #Bottom sheet
 view.bottom_sheet.select_reason: Επιλέξτε Λόγο
