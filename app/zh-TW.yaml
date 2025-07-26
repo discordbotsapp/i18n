@@ -123,9 +123,20 @@ view.navigation.categories: 類別
 view.navigation.bot_details: 機器人詳情
 #Search suggestions
 view.search.suggestions.title: 建議的搜尋
+view.search.suggestions.music: Music
+view.search.suggestions.moderation: Moderation
+view.search.suggestions.fun: Fun
+view.search.suggestions.utility: Utility
+view.search.suggestions.economy: Economy
+view.search.suggestions.anime: Anime
+view.search.suggestions.game: Game
+view.search.suggestions.social: Social
 view.search.placeholder: 搜尋機器人...
 #Support and ads
 view.support.server.description: 加入應用程式的支援伺服器
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Join the community
+view.support.server.join_button: JOIN
 view.remove_ads.description: 永久停用應用程式內廣告
 #Bottom sheet
 view.bottom_sheet.select_reason: 選擇原因
