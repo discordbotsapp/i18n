@@ -123,20 +123,20 @@ view.navigation.categories: Kategóriák
 view.navigation.bot_details: Bot Részletek
 #Search suggestions
 view.search.suggestions.title: Javasolt keresések
-view.search.suggestions.music: Music
-view.search.suggestions.moderation: Moderation
-view.search.suggestions.fun: Fun
-view.search.suggestions.utility: Utility
-view.search.suggestions.economy: Economy
+view.search.suggestions.music: Zene
+view.search.suggestions.moderation: Moderációs
+view.search.suggestions.fun: Szórakozás
+view.search.suggestions.utility: Eszközök
+view.search.suggestions.economy: Gazdaság
 view.search.suggestions.anime: Anime
-view.search.suggestions.game: Game
-view.search.suggestions.social: Social
+view.search.suggestions.game: Játék
+view.search.suggestions.social: Közösségi
 view.search.placeholder: Keresés botokra...
 #Support and ads
 view.support.server.description: Csatlakozás az alkalmazás támogatási szerveréhez
 view.support.server.online_count: "{count} online"
-view.support.server.join_community: Join the community
-view.support.server.join_button: JOIN
+view.support.server.join_community: Csatlakozz a közösséghez
+view.support.server.join_button: CSATLAKOZÁS
 view.remove_ads.description: Alkalmazáson belüli hirdetések végleges letiltása
 #Bottom sheet
 view.bottom_sheet.select_reason: Ok Kiválasztása
