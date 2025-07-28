@@ -11,16 +11,16 @@ global.app_bar.remove_ads: 광고 제거
 global.footer.info: Discord Bots App은 Discord 또는 다른 Discord 봇 사이트와 관련이 없습니다.
 global.button.cancel: 취소
 global.button.sign_in: 로그인
-global.support_server.join: 지원 서버 참여
+global.support_server.join: 지원 서버 참가
 view.bot.add.button: 추가
 view.bot.hide.button: 봇 숨기기
 view.bot.hide.title: 봇 숨기기
-view.bot.hide.message: 정말로 이 봇을 숨기시겠습니까?
+view.bot.hide.message: 정말로 이 봇을 숨길까요?
 view.bot.hide.login_required.title: 로그인 필요
-view.bot.hide.login_required.message: 봇을 숨기려면 로그인이 필요합니다.
+view.bot.hide.login_required.message: 봇을 숨기려면 로그인이 필요해요.
 view.bot.unhide.button: 봇 숨김 해제
 view.bot.unhide.title: 봇 숨김 해제
-view.bot.unhide.message: 정말로 이 봇의 숨김을 해제하시겠습니까?
+view.bot.unhide.message: 정말로 이 봇의 숨김을 해제할까요?
 view.bot.stats.ratings: 평점
 view.bot.stats.server_count: 서버 수
 view.bot.stats.vote_count: 투표 수
@@ -36,33 +36,33 @@ view.account.settings.description: 설정 및 환경설정
 view.account.profile.fallback_username: Discord 사용자
 view.account.profile.fallback_email: 이메일 없음
 view.my_bots.subtitle: Discord 봇을 관리하세요
-view.add_bot.subtitle: 봇 리스트에 봇을 제출하세요
-view.settings.appearance.title: 모양
-view.settings.appearance.dark: 다크
-view.settings.appearance.light: 라이트
+view.add_bot.subtitle: 봇 목록에 봇을 제출하세요
+view.settings.appearance.title: 외관
+view.settings.appearance.dark: 어둡게
+view.settings.appearance.light: 밝게
 view.settings.language.title: 언어
-view.settings.hidden_bots.title: 숨겨진 봇
-view.settings.hidden_bots.description: 숨겨진 봇 관리
+view.settings.hidden_bots.title: 숨긴 봇
+view.settings.hidden_bots.description: 숨긴 봇을 관리해요
 view.settings.privacy.title: 개인정보
-view.settings.privacy.description: 개인정보 설정
+view.settings.privacy.description: 개인정보 보호 설정
 view.settings.coming_soon.title: 곧 출시 예정
-view.settings.coming_soon.privacy: 개인정보 설정이 곧 출시됩니다!
+view.settings.coming_soon.privacy: 개인정보 보호 설정이 곧 출시돼요!
 view.settings.sign_in_required.title: 로그인 필요
-view.settings.sign_in_required.message: 설정에 접근하려면 로그인이 필요합니다.
+view.settings.sign_in_required.message: 설정에 접근하려면 로그인이 필요해요.
 view.settings.sign_out.title: 로그아웃
-view.settings.sign_out.description: 계정에서 로그아웃
+view.settings.sign_out.description: 계정에서 로그아웃해요
 view.theme.title: 테마
 view.languages.title: 언어
-view.welcome.title: Bots for Discord에 오신 것을 환영합니다
-view.welcome.discover.title: "{} Discord 봇 발견하기"
+view.welcome.title: Bots for Discord에 오신 것을 환영해요
+view.welcome.discover.title: "{} 개 이상의 Discord 봇을 살펴보세요"
 view.welcome.discover.subtitle: 서버에 완벽한 봇을 찾아보세요
 view.welcome.login.button: Discord로 로그인
 view.welcome.skip.button: 건너뛰기
 view.welcome.subtitle: 서버에 완벽한 봇을 찾아보세요
-view.explore.browse_categories.description: 카테고리별로 봇을 발견하세요
-view.explore.browse_categories.title: 카테고리 둘러보기
-view.explore.category.subtitle: '{} 카테고리에 속한 봇을 만나보세요'
-view.explore.discord_server.description: 봇 추천, 앱 지원을 받거나 번역 및 베타 테스트에 참여하려면 Discord 커뮤니티에 참여하세요.
+view.explore.browse_categories.description: 분류된 봇을 살펴보세요
+view.explore.browse_categories.title: 분류 둘러보기
+view.explore.category.subtitle: '{} 분류의 봇이에요'
+view.explore.discord_server.description: 봇 추천, 앱 지원, 번역, 베타 테스트에 참여하려면 저희의 Discord 커뮤니티에 참가해 주세요.
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: 도움이 필요하거나 기여하고 싶으신가요?
 view.explore.featured.description: Discord에서 인증한 최고 품질의 봇
@@ -75,68 +75,68 @@ view.explore.most_voted.description: 이번 달 가장 많은 투표를 받은 �
 view.explore.most_voted.title: 최다 득표
 view.top_charts.most_popular: 최다 인기
 view.top_charts.most_voted: 최다 득표
-view.submit_bot.error.title: 봇 리스트 로드 실패
-view.submit_bot.error.description: 사용 가능한 봇 리스트를 로드할 수 없습니다. 나중에 다시 시도해 주세요.
+view.submit_bot.error.title: 봇 목록을 불러오지 못함
+view.submit_bot.error.description: 사용 가능한 봇 목록을 불러올 수 없었어요. 나중에 다시 시도해 주세요.
 #Alert dialogs and error messages
 view.alert.sign_out.title: 로그아웃
-view.alert.sign_out.message: 정말로 로그아웃하시겠습니까?
+view.alert.sign_out.message: 정말로 로그아웃할까요?
 view.alert.sign_out.cancel: 취소
 view.alert.sign_out.confirm: 로그아웃
 view.alert.error.title: 오류
-view.alert.error.sign_out_failed: 로그아웃에 실패했습니다. 다시 시도해 주세요.
-view.alert.error.sign_in_failed: 로그인에 실패했습니다. 다시 시도해 주세요.
-view.alert.error.delete_account_failed: 계정 삭제에 실패했습니다. 다시 시도해 주세요.
-view.alert.error.submit_report_failed: 신고 제출에 실패했습니다. 다시 시도해 주세요.
-view.alert.error.no_invite_link: "{} 초대 링크가 없습니다."
-view.alert.error.open_invite_failed: 초대 링크 열기에 실패했습니다.
-view.alert.error.discord_not_installed: Discord를 열 수 없습니다. 기기에 Discord가 설치되어 있는지 확인해 주세요.
-view.alert.error.open_support_failed: 지원 서버 링크 열기에 실패했습니다.
+view.alert.error.sign_out_failed: 로그아웃하지 못했어요. 나중에 다시 시도해 주세요.
+view.alert.error.sign_in_failed: 로그인하지 못했어요. 나중에 다시 시도해 주세요.
+view.alert.error.delete_account_failed: 계정을 삭제하지 못했어요. 나중에 다시 시도해 주세요.
+view.alert.error.submit_report_failed: 신고를 제출하지 못했어요. 나중에 다시 시도해 주세요.
+view.alert.error.no_invite_link: "{} 서버는 초대 링크가 없어요."
+view.alert.error.open_invite_failed: 초대 링크를 열지 못했어요.
+view.alert.error.discord_not_installed: Discord를 열지 못했어요. 장치에 Discord가 설치됐는지 확인해 주세요.
+view.alert.error.open_support_failed: 지원 서버의 링크를 열지 못했어요.
 #Delete account dialogs
 view.alert.delete_account.title: 계정 삭제
-view.alert.delete_account.message: 정말로 계정을 삭제하시겠습니까? 이 작업은 되돌릴 수 없으며 모든 데이터가 영구적으로 삭제됩니다.
+view.alert.delete_account.message: 정말로 계정을 삭제할까요? 이 작업은 되돌릴 수 없으며 모든 데이터가 영구적으로 삭제돼요.
 view.alert.delete_account.confirm: 삭제
 view.alert.delete_account.final.title: 계정 삭제
-view.alert.delete_account.final.message: 계정과 관련 데이터가 영구적으로 삭제됩니다. 정말로 진행하시겠습니까?
+view.alert.delete_account.final.message: 확실한가요? 이렇게 하면 계정 및 관련 데이터가 영구적으로 지워져요.
 #Report bot screen
 view.report.title: 봇 신고
 view.report.header.title: 봇 신고
 view.report.header.description: 부적절한 콘텐츠나 문제를 신고하여 커뮤니티를 안전하게 유지하는 데 도움을 주세요.
 view.report.reason.title: 신고 사유
 view.report.reason.select: 사유를 선택하세요
-view.report.details.title: 추가 세부사항
-view.report.details.placeholder: 문제에 대한 구체적인 세부사항을 입력해 주세요...
+view.report.details.title: 추가 정보
+view.report.details.placeholder: 문제에 관한 구체적인 정보를 제공해 주세요...
 view.report.submit.button: 신고 제출
 view.report.submit.submitting: 제출 중...
 view.report.submit.success.title: 신고 제출 완료
-view.report.submit.success.message: 신고해 주셔서 감사합니다. 검토 후 적절한 조치를 취하겠습니다.
+view.report.submit.success.message: 신고해 주셔서 감사드려요. 저희가 검토 후 적절한 조치를 취할게요.
 view.report.submit.success.ok: 확인
 view.report.validation.no_reason: 신고 사유를 선택해 주세요.
-view.report.validation.no_details: 문제에 대한 추가 세부사항을 입력해 주세요.
+view.report.validation.no_details: 문제에 관한 추가 정보를 제공해 주세요.
 #Loading and error states
-view.loading.bot_details: 봇 정보 로딩 중...
-view.error.bot_not_found: 봇을 찾을 수 없습니다.
-view.loading.categories: 카테고리 로딩 중...
+view.loading.bot_details: 봇 정보를 불러오는 중...
+view.error.bot_not_found: 봇을 찾지 못했어요.
+view.loading.categories: 분류 불러오는 중...
 #Navigation headers
 view.navigation.account: 계정
 view.navigation.settings: 설정
-view.navigation.categories: 카테고리
+view.navigation.categories: 분류
 view.navigation.bot_details: 봇 정보
 #Search suggestions
 view.search.suggestions.title: 추천 검색어
-view.search.suggestions.music: Music
-view.search.suggestions.moderation: Moderation
-view.search.suggestions.fun: Fun
-view.search.suggestions.utility: Utility
-view.search.suggestions.economy: Economy
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Game
-view.search.suggestions.social: Social
+view.search.suggestions.music: 음악
+view.search.suggestions.moderation: 관리
+view.search.suggestions.fun: 재미
+view.search.suggestions.utility: 유용
+view.search.suggestions.economy: 경제
+view.search.suggestions.anime: 애니메이션
+view.search.suggestions.game: 게임
+view.search.suggestions.social: 소셜
 view.search.placeholder: 봇 검색...
 #Support and ads
-view.support.server.description: 앱의 지원 서버에 참여하세요
-view.support.server.online_count: "{count} online"
-view.support.server.join_community: Join the community
-view.support.server.join_button: JOIN
-view.remove_ads.description: 앱 내 광고를 영구적으로 비활성화
+view.support.server.description: 앱의 지원 서버에 참가하세요
+view.support.server.online_count: "{count} 명 온라인"
+view.support.server.join_community: 커뮤니티에 참가하세요
+view.support.server.join_button: 참가하기
+view.remove_ads.description: 앱 내 광고를 영구적으로 비활성화해요
 #Bottom sheet
 view.bottom_sheet.select_reason: 사유 선택
