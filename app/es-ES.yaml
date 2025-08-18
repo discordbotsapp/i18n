@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App no está afiliado con Discord o ninguna
 global.button.cancel: Cancelar
 global.button.sign_in: Iniciar Sesión
 global.support_server.join: Unirse al Servidor de Soporte
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Añadir
 view.bot.hide.button: Ocultar Bot
 view.bot.hide.title: Ocultar Bot
