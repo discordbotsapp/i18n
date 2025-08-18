@@ -12,6 +12,28 @@ global.footer.info: Discord Bots App은 Discord 또는 다른 Discord 봇 사이
 global.button.cancel: 취소
 global.button.sign_in: 로그인
 global.support_server.join: 지원 서버 참가
+global.tag.music: 음악
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: 관리
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: 소셜
+global.tag.fun: 재미
+global.tag.economy: 경제
+global.tag.anime: 애니메이션
+global.tag.game: 게임
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: 유용
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: 추가
 view.bot.hide.button: 봇 숨기기
 view.bot.hide.title: 봇 숨기기
