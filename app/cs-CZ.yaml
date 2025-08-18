@@ -145,14 +145,16 @@ view.navigation.categories: Kategorie
 view.navigation.bot_details: Podrobnosti bota
 #Search suggestions
 view.search.suggestions.title: Navrhovaná vyhledávání
-view.search.suggestions.music: Music
-view.search.suggestions.moderation: Moderation
-view.search.suggestions.fun: Fun
-view.search.suggestions.utility: Utility
-view.search.suggestions.economy: Economy
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Game
-view.search.suggestions.social: Social
+view.search.suggestions.music: Music Bots
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Auto Moderation
+view.search.suggestions.tickets: Ticket Systems
+view.search.suggestions.reaction_roles: Reaction Roles
+view.search.suggestions.welcome: Welcome Messages
+view.search.suggestions.games: Gaming Bots
+view.search.suggestions.stats: Server Stats
+view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Hledat boty...
 #Support and ads
 view.support.server.description: Připojte se k support serveru aplikace
