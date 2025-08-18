@@ -12,6 +12,28 @@ global.footer.info: A Bots for Discord App nem áll kapcsolatban a Discorddal va
 global.button.cancel: Mégse
 global.button.sign_in: Bejelentkezés
 global.support_server.join: Csatlakozás a Támogatási Szerverhez
+global.tag.music: Zene
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderációs
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Közösségi
+global.tag.fun: Szórakozás
+global.tag.economy: Gazdaság
+global.tag.anime: Anime
+global.tag.game: Játék
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Eszközök
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Hozzáadás
 view.bot.hide.button: Bot Elrejtése
 view.bot.hide.title: Bot Elrejtése
