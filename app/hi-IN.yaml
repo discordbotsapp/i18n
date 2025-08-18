@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App का Discord या किसी भ�
 global.button.cancel: रद्द करें
 global.button.sign_in: साइन इन करें
 global.support_server.join: सपोर्ट सर्वर से जुड़ें
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: जोड़ें
 view.bot.hide.button: Bot छुपाएं
 view.bot.hide.title: Bot छुपाएं
