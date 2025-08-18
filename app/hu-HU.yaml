@@ -145,14 +145,16 @@ view.navigation.categories: Kategóriák
 view.navigation.bot_details: Bot Részletek
 #Search suggestions
 view.search.suggestions.title: Javasolt keresések
-view.search.suggestions.music: Zene
-view.search.suggestions.moderation: Moderációs
-view.search.suggestions.fun: Szórakozás
-view.search.suggestions.utility: Eszközök
-view.search.suggestions.economy: Gazdaság
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Játék
-view.search.suggestions.social: Közösségi
+view.search.suggestions.music: Music Bots
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Auto Moderation
+view.search.suggestions.tickets: Ticket Systems
+view.search.suggestions.reaction_roles: Reaction Roles
+view.search.suggestions.welcome: Welcome Messages
+view.search.suggestions.games: Gaming Bots
+view.search.suggestions.stats: Server Stats
+view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Keresés botokra...
 #Support and ads
 view.support.server.description: Csatlakozás az alkalmazás támogatási szerveréhez
