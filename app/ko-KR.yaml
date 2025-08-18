@@ -145,14 +145,16 @@ view.navigation.categories: 분류
 view.navigation.bot_details: 봇 정보
 #Search suggestions
 view.search.suggestions.title: 추천 검색어
-view.search.suggestions.music: 음악
-view.search.suggestions.moderation: 관리
-view.search.suggestions.fun: 재미
-view.search.suggestions.utility: 유용
-view.search.suggestions.economy: 경제
-view.search.suggestions.anime: 애니메이션
-view.search.suggestions.game: 게임
-view.search.suggestions.social: 소셜
+view.search.suggestions.music: Music Bots
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Auto Moderation
+view.search.suggestions.tickets: Ticket Systems
+view.search.suggestions.reaction_roles: Reaction Roles
+view.search.suggestions.welcome: Welcome Messages
+view.search.suggestions.games: Gaming Bots
+view.search.suggestions.stats: Server Stats
+view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: 봇 검색...
 #Support and ads
 view.support.server.description: 앱의 지원 서버에 참가하세요
