@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App پەیوەندی نییە بە Discord 
 global.button.cancel: هەڵوەشاندنەوە
 global.button.sign_in: چوونە ژوورەوە
 global.support_server.join: بەشداری لە سێرڤەری پشتگیری
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: زیادکردن
 view.bot.hide.button: شاردنەوەی Bot
 view.bot.hide.title: شاردنەوەی Bot
