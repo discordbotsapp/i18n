@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: 需要登入
 view.settings.sign_in_required.message: 您需要登入才能存取設定。
 view.settings.sign_out.title: 登出
 view.settings.sign_out.description: 登出您的帳戶
+view.settings.delete_account.title: 刪除帳戶
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: 主題
 view.languages.title: 語言
 view.welcome.title: 歡迎使用 Bots for Discord
