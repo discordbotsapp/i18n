@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: يتطلب تسجيل الدخول
 view.settings.sign_in_required.message: تحتاج إلى تسجيل الدخول للوصول إلى الإعدادات.
 view.settings.sign_out.title: تسجيل الخروج
 view.settings.sign_out.description: تسجيل الخروج من حسابك
+view.settings.delete_account.title: حذف الحساب
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: المظهر
 view.languages.title: اللغة
 view.welcome.title: مرحباً بك في Bots for Discord
