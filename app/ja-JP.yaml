@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: サインインが必要です
 view.settings.sign_in_required.message: 設定にアクセスするにはサインインが必要です。
 view.settings.sign_out.title: サインアウト
 view.settings.sign_out.description: アカウントからサインアウト
+view.settings.delete_account.title: アカウントを削除
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: テーマ
 view.languages.title: 言語
 view.welcome.title: Bots for Discordへようこそ
