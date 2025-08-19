@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: چوونە ژوورەوە پێویستە
 view.settings.sign_in_required.message: پێویستە بچیتە ژوورەوە بۆ دەستڕاگەیشتن بە رێکخستنەکان.
 view.settings.sign_out.title: چوونە دەرەوە
 view.settings.sign_out.description: چوونە دەرەوە لە هەژمارەکەت
+view.settings.delete_account.title: سڕینەوەی هەژمار
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: ڕووکار
 view.languages.title: زمان
 view.welcome.title: بەخێرهاتن بۆ Bots for Discord
