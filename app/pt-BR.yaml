@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Login Necessário
 view.settings.sign_in_required.message: Você precisa fazer login para acessar as configurações.
 view.settings.sign_out.title: Sair
 view.settings.sign_out.description: Sair da sua conta
+view.settings.delete_account.title: Excluir Conta
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Tema
 view.languages.title: Idioma
 view.welcome.title: Bem-vindo ao Bots for Discord
