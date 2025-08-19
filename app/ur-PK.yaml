@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: سائن ان درکار
 view.settings.sign_in_required.message: سیٹنگز تک رسائی کے لیے آپ کو سائن ان کرنا ضروری ہے۔
 view.settings.sign_out.title: سائن آؤٹ
 view.settings.sign_out.description: اپنے اکاؤنٹ سے سائن آؤٹ کریں
+view.settings.delete_account.title: اکاؤنٹ ڈیلیٹ کریں
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: تھیم
 view.languages.title: زبان
 view.welcome.title: Bots for Discord میں خوش آمدید
