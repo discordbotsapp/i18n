@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: נדרשת התחברות
 view.settings.sign_in_required.message: עליך להתחבר כדי לגשת להגדרות.
 view.settings.sign_out.title: התנתק
 view.settings.sign_out.description: התנתק מהחשבון שלך
+view.settings.delete_account.title: מחק חשבון
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: ערכת נושא
 view.languages.title: שפה
 view.welcome.title: ברוך הבא ל-Bots for Discord
