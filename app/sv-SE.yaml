@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Inloggning krävs
 view.settings.sign_in_required.message: Du måste logga in för att komma åt inställningar.
 view.settings.sign_out.title: Logga ut
 view.settings.sign_out.description: Logga ut från ditt konto
+view.settings.delete_account.title: Ta bort konto
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Tema
 view.languages.title: Språk
 view.welcome.title: Välkommen till Bots for Discord
