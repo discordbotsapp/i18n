@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: ورود الزامی است
 view.settings.sign_in_required.message: برای دسترسی به تنظیمات باید وارد شوید.
 view.settings.sign_out.title: خروج
 view.settings.sign_out.description: خروج از حساب کاربری
+view.settings.delete_account.title: حذف حساب
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: پوسته
 view.languages.title: زبان
 view.welcome.title: به Bots for Discord خوش آمدید
