@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: সাইন ইন প্রয়োজ�
 view.settings.sign_in_required.message: সেটিংস অ্যাক্সেস করার জন্য আপনাকে সাইন ইন করতে হবে।
 view.settings.sign_out.title: সাইন আউট
 view.settings.sign_out.description: আপনার অ্যাকাউন্ট থেকে সাইন আউট করুন
+view.settings.delete_account.title: অ্যাকাউন্ট মুছুন
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: থিম
 view.languages.title: ভাষা
 view.welcome.title: Bots for Discord এ স্বাগতম
