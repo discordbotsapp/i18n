@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Inloggen Vereist
 view.settings.sign_in_required.message: Je moet inloggen om toegang te krijgen tot de instellingen.
 view.settings.sign_out.title: Uitloggen
 view.settings.sign_out.description: Uitloggen van je account
+view.settings.delete_account.title: Account Verwijderen
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Thema
 view.languages.title: Taal
 view.welcome.title: Welkom bij Bots for Discord
