@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: 로그인 필요
 view.settings.sign_in_required.message: 설정에 접근하려면 로그인이 필요해요.
 view.settings.sign_out.title: 로그아웃
 view.settings.sign_out.description: 계정에서 로그아웃해요
+view.settings.delete_account.title: 계정 삭제
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: 테마
 view.languages.title: 언어
 view.welcome.title: Bots for Discord에 오신 것을 환영해요
