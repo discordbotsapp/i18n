@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Conectare necesară
 view.settings.sign_in_required.message: Trebuie să vă conectați pentru a accesa setările.
 view.settings.sign_out.title: Deconectare
 view.settings.sign_out.description: Deconectați-vă din cont
+view.settings.delete_account.title: Șterge contul
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Temă
 view.languages.title: Limbă
 view.welcome.title: Bun venit la Bots for Discord
