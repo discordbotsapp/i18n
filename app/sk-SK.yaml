@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Vyžaduje sa prihlásenie
 view.settings.sign_in_required.message: Musíte sa prihlásiť pre prístup k nastaveniam.
 view.settings.sign_out.title: Odhlásiť sa
 view.settings.sign_out.description: Odhlásiť sa z vášho účtu
+view.settings.delete_account.title: Vymazať účet
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Téma
 view.languages.title: Jazyk
 view.welcome.title: Vitajte v Bots for Discord
