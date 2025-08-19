@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Anmeldung erforderlich
 view.settings.sign_in_required.message: Sie müssen sich anmelden, um auf die Einstellungen zuzugreifen.
 view.settings.sign_out.title: Abmelden
 view.settings.sign_out.description: Von Ihrem Konto abmelden
+view.settings.delete_account.title: Konto löschen
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Design
 view.languages.title: Sprache
 view.welcome.title: Willkommen bei Bots for Discord
