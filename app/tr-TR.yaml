@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Giriş Gerekli
 view.settings.sign_in_required.message: Ayarlara erişmek için giriş yapmanız gerekiyor.
 view.settings.sign_out.title: Çıkış Yap
 view.settings.sign_out.description: Hesabınızdan çıkış yapın
+view.settings.delete_account.title: Hesabı Sil
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Tema
 view.languages.title: Dil
 view.welcome.title: Bots for Discord'a Hoş Geldiniz
