@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Kailangan ng Sign In
 view.settings.sign_in_required.message: Kailangan mong mag-sign in para ma-access ang mga setting.
 view.settings.sign_out.title: Mag-sign Out
 view.settings.sign_out.description: Mag-sign out sa inyong account
+view.settings.delete_account.title: I-delete ang Account
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Theme
 view.languages.title: Wika
 view.welcome.title: Maligayang pagdating sa Bots for Discord
