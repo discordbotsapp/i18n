@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Bejelentkezés Szükséges
 view.settings.sign_in_required.message: Be kell jelentkeznie a beállítások eléréséhez.
 view.settings.sign_out.title: Kijelentkezés
 view.settings.sign_out.description: Kijelentkezés a fiókból
+view.settings.delete_account.title: Fiók Törlése
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Téma
 view.languages.title: Nyelv
 view.welcome.title: Üdvözöljük a Bots for Discord alkalmazásban
