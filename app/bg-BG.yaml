@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Необходимо е влизане
 view.settings.sign_in_required.message: Трябва да влезете, за да получите достъп до настройките.
 view.settings.sign_out.title: Излизане
 view.settings.sign_out.description: Излезте от вашия профил
+view.settings.delete_account.title: Изтриване на профил
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Тема
 view.languages.title: Език
 view.welcome.title: Добре дошли в Bots for Discord
