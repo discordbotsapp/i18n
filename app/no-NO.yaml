@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Pålogging Påkrevd
 view.settings.sign_in_required.message: Du må logge inn for å få tilgang til innstillinger.
 view.settings.sign_out.title: Logg Ut
 view.settings.sign_out.description: Logg ut av kontoen din
+view.settings.delete_account.title: Slett Konto
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Tema
 view.languages.title: Språk
 view.welcome.title: Velkommen til Bots for Discord
