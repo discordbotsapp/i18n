@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: 需要登录
 view.settings.sign_in_required.message: 您需要登录才能访问设置。
 view.settings.sign_out.title: 退出登录
 view.settings.sign_out.description: 退出您的账户
+view.settings.delete_account.title: 删除账户
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: 主题
 view.languages.title: 语言
 view.welcome.title: 欢迎来到 Bots for Discord
