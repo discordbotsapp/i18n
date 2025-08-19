@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Απαιτείται Σύνδεση
 view.settings.sign_in_required.message: Πρέπει να συνδεθείτε για να αποκτήσετε πρόσβαση στις ρυθμίσεις.
 view.settings.sign_out.title: Αποσύνδεση
 view.settings.sign_out.description: Αποσύνδεση από τον λογαριασμό σας
+view.settings.delete_account.title: Διαγραφή Λογαριασμού
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Θέμα
 view.languages.title: Γλώσσα
 view.welcome.title: Καλώς ήρθατε στο Bots for Discord
