@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Sign In Required
 view.settings.sign_in_required.message: You need to sign in to access settings.
 view.settings.sign_out.title: Sign Out
 view.settings.sign_out.description: Sign out of your account
+view.settings.delete_account.title: Delete Account
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Theme
 view.languages.title: Language
 view.welcome.title: Welcome to Bots for Discord
