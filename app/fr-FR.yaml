@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Connexion requise
 view.settings.sign_in_required.message: Vous devez vous connecter pour accéder aux réglages.
 view.settings.sign_out.title: Se déconnecter
 view.settings.sign_out.description: Se déconnecter de votre compte
+view.settings.delete_account.title: Supprimer le compte
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Thème
 view.languages.title: Langue
 view.welcome.title: Bienvenue sur Bots for Discord
