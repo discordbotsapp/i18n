@@ -73,6 +73,8 @@ view.settings.sign_in_required.title: Log Masuk Diperlukan
 view.settings.sign_in_required.message: Anda perlu log masuk untuk mengakses tetapan.
 view.settings.sign_out.title: Log Keluar
 view.settings.sign_out.description: Log keluar dari akaun anda
+view.settings.delete_account.title: Padam Akaun
+view.settings.delete_account.description: Permanently delete your account and all data
 view.theme.title: Tema
 view.languages.title: Bahasa
 view.welcome.title: Selamat Datang ke Bots for Discord
