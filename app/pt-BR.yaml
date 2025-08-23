@@ -1,34 +1,34 @@
 ---
 global.navbar.explore: Explorar
-global.navbar.top_charts: Mais Populares
+global.navbar.top_charts: Melhores gráficos
 global.navbar.account: Perfil
 global.navbar.search: Buscar
 global.app_bar.explore: Explorar
-global.app_bar.top_charts: Mais Populares
+global.app_bar.top_charts: Melhores gráficos
 global.app_bar.account: Perfil
 global.app_bar.settings: Definições
 global.app_bar.remove_ads: Remover Anúncios
-global.footer.info: Bots for Discord App não é afiliado ao Discord ou a qualquer uma das Discord Bot Lists suportadas.
+global.footer.info: O aplicativo Bots for Discord não é afiliado ao Discord nem a nenhuma das listas de bots do Discord suportadas.
 global.button.cancel: Cancelar
 global.button.sign_in: Entrar
 global.support_server.join: Entrar no Servidor de Suporte
-global.tag.music: Music
-global.tag.pokemon: Pokemon
+global.tag.music: Música
+global.tag.pokemon: Pokémon
 global.tag.soundboard: Mesa de som
-global.tag.moderation: Moderation
+global.tag.moderation: Moderação
 global.tag.minecraft: Minecraft
 global.tag.trivia: Trivia
 global.tag.fortnite: Fortnite
 global.tag.spotify: Spotify
 global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.fun: Diversão
+global.tag.economy: Economia
 global.tag.anime: Anime
-global.tag.game: Game
+global.tag.game: Jogo
 global.tag.meme: Meme
-global.tag.leveling: Leveling
+global.tag.leveling: Nível
 global.tag.roleplay: Jogo de papéis
-global.tag.logging: Logging
+global.tag.logging: Registro
 global.tag.utility: Utilidade
 global.tag.reddit: Reddit
 global.tag.multipurpose: Multi uso
@@ -147,22 +147,22 @@ view.navigation.categories: Categorias
 view.navigation.bot_details: Detalhes do Bot
 #Search suggestions
 view.search.suggestions.title: Pesquisas sugeridas
-view.search.suggestions.music: Music Bots
-view.search.suggestions.leveling: Leveling & XP
-view.search.suggestions.ai_chatbot: AI Chatbots
-view.search.suggestions.moderation: Auto Moderation
-view.search.suggestions.tickets: Ticket Systems
-view.search.suggestions.reaction_roles: Reaction Roles
-view.search.suggestions.welcome: Welcome Messages
-view.search.suggestions.games: Gaming Bots
-view.search.suggestions.stats: Server Stats
-view.search.suggestions.memes: Memes & Fun
+view.search.suggestions.music: Bots de música
+view.search.suggestions.leveling: Nivel & XP
+view.search.suggestions.ai_chatbot: Chatbots de IA
+view.search.suggestions.moderation: Moderação automática
+view.search.suggestions.tickets: Sistema de tickets
+view.search.suggestions.reaction_roles: Cargos por reação
+view.search.suggestions.welcome: Mensagens de boas-vindas
+view.search.suggestions.games: Bots de jogo
+view.search.suggestions.stats: Estatísticas do servidor
+view.search.suggestions.memes: Memes & Diversão
 view.search.placeholder: Pesquisar por bots...
 #Support and ads
 view.support.server.description: Junte-se ao servidor de suporte do app
 view.support.server.online_count: "{count} online"
-view.support.server.join_community: Join the community
-view.support.server.join_button: JOIN
+view.support.server.join_community: Junte-se à comunidade
+view.support.server.join_button: JUNTE-SE
 view.remove_ads.description: Desabilitar permanentemente anúncios no app
 #Bottom sheet
 view.bottom_sheet.select_reason: Selecionar Motivo
