@@ -14,10 +14,10 @@ global.button.sign_in: 로그인
 global.support_server.join: 지원 서버 참가
 global.tag.music: 음악
 global.tag.pokemon: Pokemon
-global.tag.soundboard: Soundboard
+global.tag.soundboard: 사운드보드
 global.tag.moderation: 관리
 global.tag.minecraft: Minecraft
-global.tag.trivia: Trivia
+global.tag.trivia: 트리비아
 global.tag.fortnite: Fortnite
 global.tag.spotify: Spotify
 global.tag.social: 소셜
@@ -25,15 +25,15 @@ global.tag.fun: 재미
 global.tag.economy: 경제
 global.tag.anime: 애니메이션
 global.tag.game: 게임
-global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
+global.tag.meme: 밈
+global.tag.leveling: 레벨링
+global.tag.roleplay: 롤플레잉
+global.tag.logging: 기록
 global.tag.utility: 유용
 global.tag.reddit: Reddit
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: 다목적
 global.tag.twitch: Twitch
-global.tag.crypto: Crypto
+global.tag.crypto: 암호화폐
 view.bot.add.button: 추가
 view.bot.hide.button: 봇 숨기기
 view.bot.hide.title: 봇 숨기기
@@ -74,7 +74,7 @@ view.settings.sign_in_required.message: 설정에 접근하려면 로그인이 �
 view.settings.sign_out.title: 로그아웃
 view.settings.sign_out.description: 계정에서 로그아웃해요
 view.settings.delete_account.title: 계정 삭제
-view.settings.delete_account.description: Permanently delete your account and all data
+view.settings.delete_account.description: 계정과 모든 데이터를 영구적으로 삭제해요
 view.theme.title: 테마
 view.languages.title: 언어
 view.welcome.title: Bots for Discord에 오신 것을 환영해요
@@ -147,16 +147,16 @@ view.navigation.categories: 분류
 view.navigation.bot_details: 봇 정보
 #Search suggestions
 view.search.suggestions.title: 추천 검색어
-view.search.suggestions.music: Music Bots
-view.search.suggestions.leveling: Leveling & XP
-view.search.suggestions.ai_chatbot: AI Chatbots
-view.search.suggestions.moderation: Auto Moderation
-view.search.suggestions.tickets: Ticket Systems
-view.search.suggestions.reaction_roles: Reaction Roles
-view.search.suggestions.welcome: Welcome Messages
-view.search.suggestions.games: Gaming Bots
-view.search.suggestions.stats: Server Stats
-view.search.suggestions.memes: Memes & Fun
+view.search.suggestions.music: 음악 봇
+view.search.suggestions.leveling: 레벨링 및 경험치
+view.search.suggestions.ai_chatbot: AI 대화 봇
+view.search.suggestions.moderation: 자동 관리
+view.search.suggestions.tickets: 티켓 체계
+view.search.suggestions.reaction_roles: 반응 역할
+view.search.suggestions.welcome: 환영 메시지
+view.search.suggestions.games: 게이밍 봇
+view.search.suggestions.stats: 서버 통계
+view.search.suggestions.memes: 밈 및 재미
 view.search.placeholder: 봇 검색...
 #Support and ads
 view.support.server.description: 앱의 지원 서버에 참가하세요
