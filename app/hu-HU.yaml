@@ -1,10 +1,10 @@
 ---
 global.navbar.explore: Felfedezés
-global.navbar.top_charts: Legjobb Charts
+global.navbar.top_charts: Legjobb Chartok
 global.navbar.account: Fiók
 global.navbar.search: Keresés
 global.app_bar.explore: Felfedezés
-global.app_bar.top_charts: Legjobb Charts
+global.app_bar.top_charts: Legjobb Chartok
 global.app_bar.account: Fiók
 global.app_bar.settings: Beállítások
 global.app_bar.remove_ads: Hirdetések Eltávolítása
@@ -13,11 +13,11 @@ global.button.cancel: Mégse
 global.button.sign_in: Bejelentkezés
 global.support_server.join: Csatlakozás a Támogatási Szerverhez
 global.tag.music: Zene
-global.tag.pokemon: Pokemon
+global.tag.pokemon: Pokémon
 global.tag.soundboard: Soundboard
 global.tag.moderation: Moderációs
 global.tag.minecraft: Minecraft
-global.tag.trivia: Trivia
+global.tag.trivia: Apróságok
 global.tag.fortnite: Fortnite
 global.tag.spotify: Spotify
 global.tag.social: Közösségi
@@ -25,15 +25,15 @@ global.tag.fun: Szórakozás
 global.tag.economy: Gazdaság
 global.tag.anime: Anime
 global.tag.game: Játék
-global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
+global.tag.meme: Mém
+global.tag.leveling: Szintező
+global.tag.roleplay: Szerepjáték
+global.tag.logging: Logolás
 global.tag.utility: Eszközök
 global.tag.reddit: Reddit
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Többcélú
 global.tag.twitch: Twitch
-global.tag.crypto: Crypto
+global.tag.crypto: Kriptovaluta
 view.bot.add.button: Hozzáadás
 view.bot.hide.button: Bot Elrejtése
 view.bot.hide.title: Bot Elrejtése
@@ -74,7 +74,7 @@ view.settings.sign_in_required.message: Be kell jelentkeznie a beállítások el
 view.settings.sign_out.title: Kijelentkezés
 view.settings.sign_out.description: Kijelentkezés a fiókból
 view.settings.delete_account.title: Fiók Törlése
-view.settings.delete_account.description: Permanently delete your account and all data
+view.settings.delete_account.description: Fiókjának és az összes adatának végleges törlése
 view.theme.title: Téma
 view.languages.title: Nyelv
 view.welcome.title: Üdvözöljük a Bots for Discord alkalmazásban
@@ -147,16 +147,16 @@ view.navigation.categories: Kategóriák
 view.navigation.bot_details: Bot Részletek
 #Search suggestions
 view.search.suggestions.title: Javasolt keresések
-view.search.suggestions.music: Music Bots
-view.search.suggestions.leveling: Leveling & XP
-view.search.suggestions.ai_chatbot: AI Chatbots
-view.search.suggestions.moderation: Auto Moderation
-view.search.suggestions.tickets: Ticket Systems
-view.search.suggestions.reaction_roles: Reaction Roles
-view.search.suggestions.welcome: Welcome Messages
-view.search.suggestions.games: Gaming Bots
-view.search.suggestions.stats: Server Stats
-view.search.suggestions.memes: Memes & Fun
+view.search.suggestions.music: Zene Botok
+view.search.suggestions.leveling: Szintezés & XP
+view.search.suggestions.ai_chatbot: AI Chatbotok
+view.search.suggestions.moderation: Automatikus moderáció
+view.search.suggestions.tickets: Hibajegy Rendszerek
+view.search.suggestions.reaction_roles: Reakció Rangok
+view.search.suggestions.welcome: Üdvözlő üzenetek
+view.search.suggestions.games: Játszó botok
+view.search.suggestions.stats: Szerver Statisztika
+view.search.suggestions.memes: Mémek & Szórakozás
 view.search.placeholder: Keresés botokra...
 #Support and ads
 view.support.server.description: Csatlakozás az alkalmazás támogatási szerveréhez
