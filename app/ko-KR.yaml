@@ -179,7 +179,7 @@ view.error.go_to_explore: 탐색으로 이동
 view.error.try_again: 다시 시도
 view.error.something_went_wrong: 문제가 발생했습니다
 #Loading states
-view.loading.loading_title: {title} 로딩 중...
+view.loading.loading_title: "{title} 로딩 중..."
 #Theme settings
 view.settings.dark_mode: 다크 모드
 #Alert messages
