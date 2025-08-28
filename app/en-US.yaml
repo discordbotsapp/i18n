@@ -50,6 +50,8 @@ view.bot.stats.servers: Servers
 view.bot.stats.votes: Votes
 view.bot.promoted: Promoted
 view.bot.see_all: See All
+view.bot.copy_id: Copy ID
+view.bot.copy_url: Copy Add Bot URL
 view.account.login.button: Login with Discord
 view.account.my_bots.button: My Bots
 view.account.add_bot.button: Add Bot
@@ -101,7 +103,6 @@ view.top_charts.most_popular: Most Popular
 view.top_charts.most_voted: Most Voted
 view.submit_bot.error.title: Failed to Load Bot Lists
 view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-
 # Alert dialogs and error messages
 view.alert.sign_out.title: Sign Out
 view.alert.sign_out.message: Are you sure you want to sign out?
@@ -116,14 +117,12 @@ view.alert.error.no_invite_link: "{} doesn't have an invite link."
 view.alert.error.open_invite_failed: Failed to open invite link.
 view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
 view.alert.error.open_support_failed: Failed to open support server link.
-
 # Delete account dialogs
 view.alert.delete_account.title: Delete Account
 view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
 view.alert.delete_account.confirm: Delete
 view.alert.delete_account.final.title: Delete Account
 view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-
 # Report bot screen
 view.report.title: Report Bot
 view.report.header.title: Report Bot
@@ -139,18 +138,15 @@ view.report.submit.success.message: Thank you for your report. We will review it
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Please select a reason for reporting.
 view.report.validation.no_details: Please provide additional details about the issue.
-
 # Loading and error states
 view.loading.bot_details: Loading bot details...
 view.error.bot_not_found: Bot not found.
 view.loading.categories: Loading categories...
-
 # Navigation headers
 view.navigation.account: Account
 view.navigation.settings: Settings
 view.navigation.categories: Categories
 view.navigation.bot_details: Bot Details
-
 # Search suggestions
 view.search.suggestions.title: Suggested searches
 view.search.suggestions.music: Music Bots
@@ -164,13 +160,45 @@ view.search.suggestions.games: Gaming Bots
 view.search.suggestions.stats: Server Stats
 view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Search for bots...
-
 # Support and ads
 view.support.server.description: Join the app's support server
 view.support.server.online_count: "{count} online"
 view.support.server.join_community: Join the community
 view.support.server.join_button: JOIN
 view.remove_ads.description: Permanently disable in-app ads
-
 # Bottom sheet
 view.bottom_sheet.select_reason: Select Reason
+view.bottom_sheet.choose_platform: Choose a platform to upvote on
+view.bottom_sheet.more_options: More Options
+#Error states
+view.error.no_bots_found: No bots found
+view.error.no_categories_found: No categories found
+view.error.oops: Oops!
+view.error.screen_not_exist: This screen does not exist.
+view.error.go_to_explore: Go to Explore
+view.error.try_again: Try Again
+view.error.something_went_wrong: Something went wrong
+#Loading states
+view.loading.loading_title: Loading {title}...
+#Theme settings
+view.settings.dark_mode: Dark Mode
+#Alert messages
+view.alert.copied: Copied
+view.alert.bot_id_copied: "Bot ID {botId} copied to clipboard"
+view.alert.add_bot_url_copied: Add bot URL copied to clipboard
+view.alert.no_invite_url: No invite URL available for this bot
+view.alert.success: Success
+view.alert.ads_removed: Ads have been removed. Thank you!
+view.alert.purchase_failed: Purchase failed. Please try again.
+view.alert.restored: Restored
+view.alert.purchase_restored: Your purchase has been restored.
+view.alert.no_purchase: No Purchase
+view.alert.no_past_purchase: No past purchase found.
+view.alert.restore_failed: Failed to restore.
+view.alert.products_load_failed: Failed to load products
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote
+view.bot.link.more: More
