@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App Discord-നോടോ പിന്തു
 global.button.cancel: റദ്ദാക്കുക
 global.button.sign_in: സൈൻ ഇൻ ചെയ്യുക
 global.support_server.join: സപ്പോർട്ട് സെർവറിൽ ചേരുക
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: ചേർക്കുക
 view.bot.hide.button: Bot മറയ്ക്കുക
 view.bot.hide.title: Bot മറയ്ക്കുക
@@ -28,6 +50,8 @@ view.bot.stats.servers: സെർവറുകൾ
 view.bot.stats.votes: വോട്ടുകൾ
 view.bot.promoted: പ്രമോട്ട് ചെയ്യപ്പെട്ടത്
 view.bot.see_all: എല്ലാം കാണുക
+view.bot.copy_id: ID കോപ്പി ചെയ്യുക
+view.bot.copy_url: Bot ചേർക്കാനുള്ള URL കോപ്പി ചെയ്യുക
 view.account.login.button: Discord ഉപയോഗിച്ച് ലോഗിൻ ചെയ്യുക
 view.account.my_bots.button: എന്റെ Bots
 view.account.add_bot.button: Bot ചേർക്കുക
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: സൈൻ ഇൻ ആവശ്യമാണ�
 view.settings.sign_in_required.message: ക്രമീകരണങ്ങൾ ആക്സസ് ചെയ്യാൻ നിങ്ങൾ സൈൻ ഇൻ ചെയ്യേണ്ടതുണ്ട്.
 view.settings.sign_out.title: സൈൻ ഔട്ട്
 view.settings.sign_out.description: നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് സൈൻ ഔട്ട് ചെയ്യുക
+view.settings.delete_account.title: അക്കൗണ്ട് ഇല്ലാതാക്കുക
+view.settings.delete_account.description: നിങ്ങളുടെ അക്കൗണ്ടും എല്ലാ ഡാറ്റയും ശാശ്വതമായി ഇല്ലാതാക്കുക
 view.theme.title: തീം
 view.languages.title: ഭാഷ
 view.welcome.title: Bots for Discord-ലേക്ക് സ്വാഗതം
@@ -145,3 +171,36 @@ view.remove_ads.description: ആപ്പിലെ പരസ്യങ്ങൾ �
 
 # Bottom sheet
 view.bottom_sheet.select_reason: കാരണം തിരഞ്ഞെടുക്കുക
+view.bottom_sheet.choose_platform: വോട്ട് ചെയ്യാന് ഒരു പ്ലാറ്റ്ഫോം തിരഞ്ഞെടുക്കുക
+view.bottom_sheet.more_options: കൂടുതല് ഓപ്ഷനുകൾ
+#Error states
+view.error.no_bots_found: ബോട്ടുകൾ കണ്ടെത്തിയില്ല
+view.error.no_categories_found: വിഭാഗങ്ങൾ കണ്ടെത്തിയില്ല
+view.error.oops: ഓയ്!
+view.error.screen_not_exist: ഈ സ്ക്രീൻ അസ്തിത്വം ഇല്ല.
+view.error.go_to_explore: പര്യവേക്ഷണത്തിലേക്ക് പോകുക
+view.error.try_again: വീണ്ടും ശ്രമിക്കുക
+view.error.something_went_wrong: എന്തോ തെറ്റു നടന്നു
+#Loading states
+view.loading.loading_title: {title} ലോഡ് ചെയ്യുന്നു...
+#Theme settings
+view.settings.dark_mode: ഡാർക് മോഡ്
+#Alert messages
+view.alert.copied: കോപ്പി ചെയ്തു
+view.alert.bot_id_copied: "Bot ID {botId} ക്ലിപ്പ്ബോർഡിലേക്ക് കോപ്പി ചെയ്തു"
+view.alert.add_bot_url_copied: Bot ചേർക്കാനുള്ള URL ക്ലിപ്പ്ബോർഡിലേക്ക് കോപ്പി ചെയ്തു
+view.alert.no_invite_url: ഈ bot-ന് ആമന്ത്രണ URL ലഭ്യമല്ല
+view.alert.success: വിജയം
+view.alert.ads_removed: പരസ്യങ്ങൾ നീക്കം ചെയ്തു. നന്ദി!
+view.alert.purchase_failed: വാങ്ങല് പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+view.alert.restored: പുനരുദ്ധരിച്ചു
+view.alert.purchase_restored: നിങ്ങളുടെ വാങ്ങല് പുനരുദ്ധരിച്ചു.
+view.alert.no_purchase: വാങ്ങലില്ല
+view.alert.no_past_purchase: മുൻപത്തെ വാങ്ങല് കണ്ടെത്തിയില്ല.
+view.alert.restore_failed: പുനരുദ്ധരണം പരാജയപ്പെട്ടു.
+view.alert.products_load_failed: ഉത്പാദങ്ങൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയം
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

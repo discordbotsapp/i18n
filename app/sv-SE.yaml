@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord-appen är inte anslutna till Discord eller 
 global.button.cancel: Avbryt
 global.button.sign_in: Logga in
 global.support_server.join: Gå med i supportserver
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Lägg till
 view.bot.hide.button: Dölj Bot
 view.bot.hide.title: Dölj Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: Servrar
 view.bot.stats.votes: Röster
 view.bot.promoted: Framhävd
 view.bot.see_all: Se alla
+view.bot.copy_id: Kopiera ID
+view.bot.copy_url: Kopiera Lägg Till Bot URL
 view.account.login.button: Logga in med Discord
 view.account.my_bots.button: Mina botar
 view.account.add_bot.button: Lägg till bot
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Inloggning krävs
 view.settings.sign_in_required.message: Du måste logga in för att komma åt inställningar.
 view.settings.sign_out.title: Logga ut
 view.settings.sign_out.description: Logga ut från ditt konto
+view.settings.delete_account.title: Ta bort konto
+view.settings.delete_account.description: Ta bort ditt konto och all data permanent
 view.theme.title: Tema
 view.languages.title: Språk
 view.welcome.title: Välkommen till Bots for Discord
@@ -137,3 +163,36 @@ view.support.server.description: Gå med i appens supportserver
 view.remove_ads.description: Inaktivera reklam i appen permanent
 #Bottom sheet
 view.bottom_sheet.select_reason: Välj anledning
+view.bottom_sheet.choose_platform: Välj en plattform för att rösta
+view.bottom_sheet.more_options: Fler Alternativ
+#Error states
+view.error.no_bots_found: Inga botar hittades
+view.error.no_categories_found: Inga kategorier hittades
+view.error.oops: Oj!
+view.error.screen_not_exist: Den här skärmen finns inte.
+view.error.go_to_explore: Gå till Upptäck
+view.error.try_again: Försök Igen
+view.error.something_went_wrong: Något gick fel
+#Loading states
+view.loading.loading_title: Laddar {title}...
+#Theme settings
+view.settings.dark_mode: Mörkt Läge
+#Alert messages
+view.alert.copied: Kopierat
+view.alert.bot_id_copied: "Bot ID {botId} kopierat till urklipp"
+view.alert.add_bot_url_copied: Lägg till bot URL kopierat till urklipp
+view.alert.no_invite_url: Ingen inbjudnings-URL tillgänglig för denna bot
+view.alert.success: Framgång
+view.alert.ads_removed: Annonser har tagits bort. Tack!
+view.alert.purchase_failed: Köp misslyckades. Vänligen försök igen.
+view.alert.restored: Återställd
+view.alert.purchase_restored: Ditt köp har återställts.
+view.alert.no_purchase: Inget Köp
+view.alert.no_past_purchase: Inget tidigare köp hittades.
+view.alert.restore_failed: Återställning misslyckades.
+view.alert.products_load_failed: Laddning av produkter misslyckades
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

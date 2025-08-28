@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App n'est pas affilié à Discord ou à l'u
 global.button.cancel: Annuler
 global.button.sign_in: Se connecter
 global.support_server.join: Rejoindre le serveur de support
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Ajouter
 view.bot.hide.button: Masquer le Bot
 view.bot.hide.title: Masquer le Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: Serveurs
 view.bot.stats.votes: Votes
 view.bot.promoted: Promu
 view.bot.see_all: Voir tout
+view.bot.copy_id: Copier l'ID
+view.bot.copy_url: Copier l'URL d'ajout du bot
 view.account.login.button: Se connecter avec Discord
 view.account.my_bots.button: Mes Bots
 view.account.add_bot.button: Ajouter un Bot
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Connexion requise
 view.settings.sign_in_required.message: Vous devez vous connecter pour accéder aux réglages.
 view.settings.sign_out.title: Se déconnecter
 view.settings.sign_out.description: Se déconnecter de votre compte
+view.settings.delete_account.title: Supprimer le compte
+view.settings.delete_account.description: Supprimer définitivement votre compte et toutes les données
 view.theme.title: Thème
 view.languages.title: Langue
 view.welcome.title: Bienvenue sur Bots for Discord
@@ -140,3 +166,17 @@ view.support.server.join_button: REJOINDRE
 view.remove_ads.description: Désactiver définitivement les publicités dans l'application
 #Bottom sheet
 view.bottom_sheet.select_reason: Sélectionner une raison
+view.bottom_sheet.choose_platform: Choisir une plateforme pour voter
+view.bottom_sheet.more_options: Plus d'options
+#Error states
+view.error.no_bots_found: Aucun bot trouvé
+view.error.no_categories_found: Aucune catégorie trouvée
+view.error.oops: Oups !
+view.error.screen_not_exist: Cet écran n'existe pas.
+view.error.go_to_explore: Aller à Explorer
+view.error.try_again: Réessayer
+view.error.something_went_wrong: Quelque chose s'est mal passé
+#Loading states
+view.loading.loading_title: Chargement de {title}...
+#Theme settings
+view.settings.dark_mode: Mode sombre

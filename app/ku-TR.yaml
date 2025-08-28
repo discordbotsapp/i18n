@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App پەیوەندی نییە بە Discord 
 global.button.cancel: هەڵوەشاندنەوە
 global.button.sign_in: چوونە ژوورەوە
 global.support_server.join: بەشداری لە سێرڤەری پشتگیری
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: زیادکردن
 view.bot.hide.button: شاردنەوەی Bot
 view.bot.hide.title: شاردنەوەی Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: سێرڤەرەکان
 view.bot.stats.votes: دەنگەکان
 view.bot.promoted: پێشخستراو
 view.bot.see_all: تەماشای هەموو
+view.bot.copy_id: کۆپی ID
+view.bot.copy_url: کۆپی URL ی زیادکردنی bot
 view.account.login.button: چوونە ژوورەوە لەڕێگەی دیسکۆردوە
 view.account.my_bots.button: بۆتەکانم
 view.account.add_bot.button: زیادکردنی بۆت
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: چوونە ژوورەوە پێویستە
 view.settings.sign_in_required.message: پێویستە بچیتە ژوورەوە بۆ دەستڕاگەیشتن بە رێکخستنەکان.
 view.settings.sign_out.title: چوونە دەرەوە
 view.settings.sign_out.description: چوونە دەرەوە لە هەژمارەکەت
+view.settings.delete_account.title: سڕینەوەی هەژمار
+view.settings.delete_account.description: سڕینەوەی هەژمار و هەموو داتاکان بۆ هەمیشە
 view.theme.title: ڕووکار
 view.languages.title: زمان
 view.welcome.title: بەخێرهاتن بۆ Bots for Discord
@@ -137,3 +163,36 @@ view.support.server.description: بەشداری لە سێرڤەری پشتگیر
 view.remove_ads.description: لەکارخستنی ڕیکلامەکانی ناو ئەپ بۆ هەمیشە
 #Bottom sheet
 view.bottom_sheet.select_reason: هەڵبژاردنی هۆکار
+view.bottom_sheet.choose_platform: پلاتفۆرمێک هەڵبژێرە بۆ دەنگ دان
+view.bottom_sheet.more_options: هەڵبژاردهی زیاتر
+#Error states
+view.error.no_bots_found: هیچ bot ێک نەدۆزرایەوە
+view.error.no_categories_found: هیچ جۆرێک نەدۆزرایەوە
+view.error.oops: ئێش!
+view.error.screen_not_exist: ئەم شاشەیە بوونی نییە.
+view.error.go_to_explore: بچۆ گەڕان
+view.error.try_again: دوبارە هەوڵ بدەوە
+view.error.something_went_wrong: شتێک هەڵە بوو
+#Loading states
+view.loading.loading_title: بارکردنی {title}...
+#Theme settings
+view.settings.dark_mode: مۆدی تاریک
+#Alert messages
+view.alert.copied: کۆپی کرا
+view.alert.bot_id_copied: "Bot ID {botId} کۆپی کرا بۆ clipboard"
+view.alert.add_bot_url_copied: URL ی زیادکردنی bot کۆپی کرا بۆ clipboard
+view.alert.no_invite_url: هیچ URL ی بانگهێشتی بەردەست نییە بۆ ئەم bot ە
+view.alert.success: سەرکەوتوو
+view.alert.ads_removed: ڕیکلامەکان لابردران. سپاس!
+view.alert.purchase_failed: کڕین سەرکەوتوو نەبوو. تکایە دوبارە هەوڵ بدەوە.
+view.alert.restored: گەڕاندرایەوە
+view.alert.purchase_restored: کڕینەکەت گەڕاندرایەوە.
+view.alert.no_purchase: هیچ کڕینێک
+view.alert.no_past_purchase: هیچ کڕینێکی پێشوو نەدۆزرایەوە.
+view.alert.restore_failed: گەڕاندنەوە سەرکەوتوو نەبوو.
+view.alert.products_load_failed: بارکردنی بەرهەمەکان سەرکەوتوو نەبوو
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

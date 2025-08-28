@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App 與 Discord 或任何支援的 Discord 
 global.button.cancel: 取消
 global.button.sign_in: 登入
 global.support_server.join: 加入支援伺服器
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: 新增
 view.bot.hide.button: 隱藏機器人
 view.bot.hide.title: 隱藏機器人
@@ -28,6 +50,8 @@ view.bot.stats.servers: 伺服器
 view.bot.stats.votes: 投票
 view.bot.promoted: 推廣
 view.bot.see_all: 查看全部
+view.bot.copy_id: 複製 ID
+view.bot.copy_url: 複製添加機器人 URL
 view.account.login.button: 用 Discord 帳號登入
 view.account.my_bots.button: 我的機器人
 view.account.add_bot.button: 添加機器人
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: 需要登入
 view.settings.sign_in_required.message: 您需要登入才能存取設定。
 view.settings.sign_out.title: 登出
 view.settings.sign_out.description: 登出您的帳戶
+view.settings.delete_account.title: 刪除帳戶
+view.settings.delete_account.description: 永久刪除您的帳戶和所有資料
 view.theme.title: 主題
 view.languages.title: 語言
 view.welcome.title: 歡迎使用 Bots for Discord
@@ -140,3 +166,36 @@ view.support.server.join_button: 加入
 view.remove_ads.description: 永久停用應用程式內廣告
 #Bottom sheet
 view.bottom_sheet.select_reason: 選擇原因
+view.bottom_sheet.choose_platform: 選擇一個平台來投票
+view.bottom_sheet.more_options: 更多選項
+#Error states
+view.error.no_bots_found: 找不到機器人
+view.error.no_categories_found: 找不到類別
+view.error.oops: 糟糕！
+view.error.screen_not_exist: 這個畫面不存在。
+view.error.go_to_explore: 前往探索
+view.error.try_again: 再試一次
+view.error.something_went_wrong: 出了一些問題
+#Loading states
+view.loading.loading_title: 正在載入 {title}...
+#Theme settings
+view.settings.dark_mode: 深色模式
+#Alert messages
+view.alert.copied: 已複製
+view.alert.bot_id_copied: "Bot ID {botId} 已複製到剪貼簿"
+view.alert.add_bot_url_copied: 添加機器人 URL 已複製到剪貼簿
+view.alert.no_invite_url: 此機器人沒有可用的邀請 URL
+view.alert.success: 成功
+view.alert.ads_removed: 廣告已被移除。謝謝！
+view.alert.purchase_failed: 購買失敗。請再試一次。
+view.alert.restored: 已復原
+view.alert.purchase_restored: 您的購買已復原。
+view.alert.no_purchase: 無購買
+view.alert.no_past_purchase: 找不到過往購買。
+view.alert.restore_failed: 復原失敗。
+view.alert.products_load_failed: 產品載入失敗
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

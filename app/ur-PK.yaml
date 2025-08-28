@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App کا Discord یا کسی بھی تعا�
 global.button.cancel: منسوخ
 global.button.sign_in: سائن ان
 global.support_server.join: سپورٹ سرور میں شامل ہوں
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: شامل کریں
 view.bot.hide.button: بوٹ چھپائیں
 view.bot.hide.title: بوٹ چھپائیں
@@ -28,6 +50,8 @@ view.bot.stats.servers: سرورز
 view.bot.stats.votes: ووٹس
 view.bot.promoted: فروغ دیا گیا
 view.bot.see_all: سب دیکھیں
+view.bot.copy_id: ID کاپی کریں
+view.bot.copy_url: بوٹ شامل کرنے کا URL کاپی کریں
 view.account.login.button: Discord کے ساتھ لاگ ان کریں
 view.account.my_bots.button: میرے بوٹس
 view.account.add_bot.button: بوٹ شامل کریں
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: سائن ان درکار
 view.settings.sign_in_required.message: سیٹنگز تک رسائی کے لیے آپ کو سائن ان کرنا ضروری ہے۔
 view.settings.sign_out.title: سائن آؤٹ
 view.settings.sign_out.description: اپنے اکاؤنٹ سے سائن آؤٹ کریں
+view.settings.delete_account.title: اکاؤنٹ ڈیلیٹ کریں
+view.settings.delete_account.description: اپنا اکاؤنٹ اور تمام ڈیٹا مستقل طور پر ڈیلیٹ کریں
 view.theme.title: تھیم
 view.languages.title: زبان
 view.welcome.title: Bots for Discord میں خوش آمدید
@@ -137,3 +163,36 @@ view.support.server.description: ایپ کے سپورٹ سرور میں شامل
 view.remove_ads.description: ایپ کے اندر اشتہارات کو مستقل طور پر غیر فعال کریں
 #Bottom sheet
 view.bottom_sheet.select_reason: وجہ منتخب کریں
+view.bottom_sheet.choose_platform: ووٹ کرنے کے لیے پلیٹ فارم منتخب کریں
+view.bottom_sheet.more_options: مزید اوپشنز
+#Error states
+view.error.no_bots_found: کوئی بوٹ نہیں ملا
+view.error.no_categories_found: کوئی کیٹگری نہیں ملی
+view.error.oops: اوہ!
+view.error.screen_not_exist: یہ سکرین موجود نہیں۔
+view.error.go_to_explore: دریافت کریں پر جائیں
+view.error.try_again: دوبارہ کوشش کریں
+view.error.something_went_wrong: کچھ غلط ہوا
+#Loading states
+view.loading.loading_title: {title} لوڈ ہو رہا ہے...
+#Theme settings
+view.settings.dark_mode: ڈارک موڈ
+#Alert messages
+view.alert.copied: کاپی ہو گیا
+view.alert.bot_id_copied: "Bot ID {botId} clipboard میں کاپی ہو گیا"
+view.alert.add_bot_url_copied: بوٹ شامل کرنے کا URL clipboard میں کاپی ہو گیا
+view.alert.no_invite_url: اس بوٹ کے لیے کوئی invite URL دستیاب نہیں
+view.alert.success: کامیابی
+view.alert.ads_removed: اشتہارات ہٹا دیے گئے۔ شکریہ!
+view.alert.purchase_failed: خریداری ناکام۔ براہ کرم دوبارہ کوشش کریں۔
+view.alert.restored: بحال ہو گیا
+view.alert.purchase_restored: آپ کی خریداری بحال ہو گئی۔
+view.alert.no_purchase: کوئی خریداری نہیں
+view.alert.no_past_purchase: کوئی پرانی خریداری نہیں ملی۔
+view.alert.restore_failed: بحالی ناکام۔
+view.alert.products_load_failed: پروڈکٹس لوڈ کرنے میں ناکام
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

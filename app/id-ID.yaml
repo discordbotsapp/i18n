@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App tidak berafiliasi dengan Discord atau D
 global.button.cancel: Batal
 global.button.sign_in: Masuk
 global.support_server.join: Bergabung dengan Server Dukungan
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Tambah
 view.bot.hide.button: Sembunyikan Bot
 view.bot.hide.title: Sembunyikan Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: Server
 view.bot.stats.votes: Suara
 view.bot.promoted: Dipromosikan
 view.bot.see_all: Lihat Semua
+view.bot.copy_id: Salin ID
+view.bot.copy_url: Salin URL Tambah Bot
 view.account.login.button: Masuk dengan Discord
 view.account.my_bots.button: Bot Saya
 view.account.add_bot.button: Tambah Bot
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Perlu Masuk
 view.settings.sign_in_required.message: Anda perlu masuk untuk mengakses pengaturan.
 view.settings.sign_out.title: Keluar
 view.settings.sign_out.description: Keluar dari akun Anda
+view.settings.delete_account.title: Hapus Akun
+view.settings.delete_account.description: Hapus akun dan semua data secara permanen
 view.theme.title: Tema
 view.languages.title: Bahasa
 view.welcome.title: Selamat Datang di Bots for Discord
@@ -145,3 +171,36 @@ view.remove_ads.description: Nonaktifkan iklan dalam aplikasi secara permanen
 
 # Bottom sheet
 view.bottom_sheet.select_reason: Pilih Alasan
+view.bottom_sheet.choose_platform: Pilih platform untuk memberikan suara
+view.bottom_sheet.more_options: Opsi Lainnya
+#Error states
+view.error.no_bots_found: Bot tidak ditemukan
+view.error.no_categories_found: Kategori tidak ditemukan
+view.error.oops: Ups!
+view.error.screen_not_exist: Layar ini tidak ada.
+view.error.go_to_explore: Pergi ke Jelajahi
+view.error.try_again: Coba Lagi
+view.error.something_went_wrong: Terjadi kesalahan
+#Loading states
+view.loading.loading_title: Memuat {title}...
+#Theme settings
+view.settings.dark_mode: Mode Gelap
+#Alert messages
+view.alert.copied: Disalin
+view.alert.bot_id_copied: "ID Bot {botId} disalin ke clipboard"
+view.alert.add_bot_url_copied: URL tambah bot disalin ke clipboard
+view.alert.no_invite_url: Tidak ada URL undangan untuk bot ini
+view.alert.success: Berhasil
+view.alert.ads_removed: Iklan telah dihapus. Terima kasih!
+view.alert.purchase_failed: Pembelian gagal. Silakan coba lagi.
+view.alert.restored: Dipulihkan
+view.alert.purchase_restored: Pembelian Anda telah dipulihkan.
+view.alert.no_purchase: Tidak Ada Pembelian
+view.alert.no_past_purchase: Tidak ditemukan pembelian sebelumnya.
+view.alert.restore_failed: Gagal memulihkan.
+view.alert.products_load_failed: Gagal memuat produk
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

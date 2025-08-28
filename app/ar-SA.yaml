@@ -12,6 +12,28 @@ global.footer.info: تطبيق Bots for Discord غير مرتبط بـ Discord �
 global.button.cancel: إلغاء
 global.button.sign_in: تسجيل الدخول
 global.support_server.join: انضم إلى خادم الدعم
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: إضافة
 view.bot.hide.button: إخفاء البوت
 view.bot.hide.title: إخفاء البوت
@@ -28,6 +50,8 @@ view.bot.stats.servers: خوادم
 view.bot.stats.votes: أصوات
 view.bot.promoted: مروج
 view.bot.see_all: عرض الكل
+view.bot.copy_id: نسخ المعرف
+view.bot.copy_url: نسخ رابط إضافة البوت
 view.account.login.button: تسجيل الدخول باستخدام ديسكورد
 view.account.my_bots.button: البوت الخاص بي
 view.account.add_bot.button: إضافة بوت
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: يتطلب تسجيل الدخول
 view.settings.sign_in_required.message: تحتاج إلى تسجيل الدخول للوصول إلى الإعدادات.
 view.settings.sign_out.title: تسجيل الخروج
 view.settings.sign_out.description: تسجيل الخروج من حسابك
+view.settings.delete_account.title: حذف الحساب
+view.settings.delete_account.description: حذف حسابك وجميع البيانات نهائياً
 view.theme.title: المظهر
 view.languages.title: اللغة
 view.welcome.title: مرحباً بك في Bots for Discord
@@ -140,3 +166,17 @@ view.support.server.join_button: انضم
 view.remove_ads.description: إيقاف الإعلانات داخل التطبيق نهائياً
 #Bottom sheet
 view.bottom_sheet.select_reason: اختيار السبب
+view.bottom_sheet.choose_platform: اختر منصة للتصويت
+view.bottom_sheet.more_options: خيارات أكثر
+#Error states
+view.error.no_bots_found: لم يتم العثور على بوتات
+view.error.no_categories_found: لم يتم العثور على فئات
+view.error.oops: عذراً!
+view.error.screen_not_exist: هذه الشاشة غير موجودة.
+view.error.go_to_explore: الذهاب إلى الاستكشاف
+view.error.try_again: حاول مرة أخرى
+view.error.something_went_wrong: حدث خطأ ما
+#Loading states
+view.loading.loading_title: جارٍ تحميل {title}...
+#Theme settings
+view.settings.dark_mode: الوضع المظلم

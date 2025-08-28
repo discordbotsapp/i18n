@@ -12,15 +12,37 @@ global.footer.info: Bots for Discord App no está afiliado con Discord o ninguna
 global.button.cancel: Cancelar
 global.button.sign_in: Iniciar Sesión
 global.support_server.join: Unirse al Servidor de Soporte
+global.tag.music: Música
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderación
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Diversión
+global.tag.economy: Economía
+global.tag.anime: Anime
+global.tag.game: Juegos
+global.tag.meme: Meme
+global.tag.leveling: Nivelación
+global.tag.roleplay: Juego de Rol
+global.tag.logging: Registro
+global.tag.utility: Utilidad
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multiusos
+global.tag.twitch: Twitch
+global.tag.crypto: Cripto
 view.bot.add.button: Añadir
 view.bot.hide.button: Ocultar Bot
 view.bot.hide.title: Ocultar Bot
-view.bot.hide.message: '¿Estás seguro de que quieres ocultar este bot?'
+view.bot.hide.message: "¿Estás seguro de que quieres ocultar este bot?"
 view.bot.hide.login_required.title: Inicio de Sesión Requerido
 view.bot.hide.login_required.message: Necesitas iniciar sesión para ocultar bots.
 view.bot.unhide.button: Mostrar Bot
 view.bot.unhide.title: Mostrar Bot
-view.bot.unhide.message: '¿Estás seguro de que quieres mostrar este bot?'
+view.bot.unhide.message: "¿Estás seguro de que quieres mostrar este bot?"
 view.bot.stats.ratings: CALIFICACIONES
 view.bot.stats.server_count: NÚMERO DE SERVIDORES
 view.bot.stats.vote_count: NÚMERO DE VOTOS
@@ -28,6 +50,8 @@ view.bot.stats.servers: Servidores
 view.bot.stats.votes: Votos
 view.bot.promoted: Promocionado
 view.bot.see_all: Ver Todo
+view.bot.copy_id: Copiar ID
+view.bot.copy_url: Copiar URL de Añadir Bot
 view.account.login.button: Iniciar sesión con Discord
 view.account.my_bots.button: Mis Bots
 view.account.add_bot.button: Añadir Bot
@@ -46,11 +70,13 @@ view.settings.hidden_bots.description: Gestionar bots ocultos
 view.settings.privacy.title: Privacidad
 view.settings.privacy.description: Configuración de privacidad
 view.settings.coming_soon.title: Próximamente
-view.settings.coming_soon.privacy: '¡Configuración de privacidad próximamente!'
+view.settings.coming_soon.privacy: "¡Configuración de privacidad próximamente!"
 view.settings.sign_in_required.title: Inicio de Sesión Requerido
 view.settings.sign_in_required.message: Necesitas iniciar sesión para acceder a los ajustes.
 view.settings.sign_out.title: Cerrar Sesión
 view.settings.sign_out.description: Cerrar sesión de tu cuenta
+view.settings.delete_account.title: Eliminar Cuenta
+view.settings.delete_account.description: Eliminar permanentemente tu cuenta y todos los datos
 view.theme.title: Tema
 view.languages.title: Idioma
 view.welcome.title: Bienvenido a Bots for Discord
@@ -64,7 +90,7 @@ view.explore.browse_categories.title: Explorar Categorías
 view.explore.category.subtitle: Bots en la categoría de {}
 view.explore.discord_server.description: Únete a nuestra comunidad de Discord para recomendaciones de bots, soporte de la aplicación, o para participar en traducciones y pruebas beta.
 view.explore.discord_server.fallback_name: Bots for Discord
-view.explore.discord_server.title: '¿Necesitas Ayuda o Quieres Contribuir?'
+view.explore.discord_server.title: "¿Necesitas Ayuda o Quieres Contribuir?"
 view.explore.featured.description: Bots de primera calidad verificados por Discord
 view.explore.featured.title: Destacados
 view.explore.highest_rated.description: Bots con las calificaciones más altas de los usuarios
@@ -79,7 +105,7 @@ view.submit_bot.error.title: Error al Cargar Listas de Bots
 view.submit_bot.error.description: No pudimos cargar las listas de bots disponibles. Por favor, inténtalo de nuevo más tarde.
 #Alert dialogs and error messages
 view.alert.sign_out.title: Cerrar Sesión
-view.alert.sign_out.message: '¿Estás seguro de que quieres cerrar sesión?'
+view.alert.sign_out.message: "¿Estás seguro de que quieres cerrar sesión?"
 view.alert.sign_out.cancel: Cancelar
 view.alert.sign_out.confirm: Cerrar Sesión
 view.alert.error.title: Error
@@ -93,7 +119,7 @@ view.alert.error.discord_not_installed: No se puede abrir Discord. Por favor, as
 view.alert.error.open_support_failed: Error al abrir el enlace del servidor de soporte.
 #Delete account dialogs
 view.alert.delete_account.title: Eliminar Cuenta
-view.alert.delete_account.message: '¿Estás seguro de que quieres eliminar tu cuenta? Esta acción no se puede deshacer y eliminará permanentemente todos tus datos.'
+view.alert.delete_account.message: "¿Estás seguro de que quieres eliminar tu cuenta? Esta acción no se puede deshacer y eliminará permanentemente todos tus datos."
 view.alert.delete_account.confirm: Eliminar
 view.alert.delete_account.final.title: Eliminar Cuenta
 view.alert.delete_account.final.message: Esto eliminará permanentemente tu cuenta y datos asociados. ¿Estás seguro?
@@ -123,14 +149,16 @@ view.navigation.categories: Categorías
 view.navigation.bot_details: Detalles del Bot
 #Search suggestions
 view.search.suggestions.title: Búsquedas sugeridas
-view.search.suggestions.music: Música
-view.search.suggestions.moderation: Moderación
-view.search.suggestions.fun: Diversión
-view.search.suggestions.utility: Utilidad
-view.search.suggestions.economy: Economía
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Juegos
-view.search.suggestions.social: Social
+view.search.suggestions.music: Music Bots
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Auto Moderation
+view.search.suggestions.tickets: Ticket Systems
+view.search.suggestions.reaction_roles: Reaction Roles
+view.search.suggestions.welcome: Welcome Messages
+view.search.suggestions.games: Gaming Bots
+view.search.suggestions.stats: Server Stats
+view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Buscar bots...
 #Support and ads
 view.support.server.description: Únete al servidor de soporte de la aplicación
@@ -140,3 +168,37 @@ view.support.server.join_button: UNIRSE
 view.remove_ads.description: Desactivar permanentemente los anuncios en la aplicación
 #Bottom sheet
 view.bottom_sheet.select_reason: Seleccionar Motivo
+view.bottom_sheet.choose_platform: Elige una plataforma para votar
+view.bottom_sheet.more_options: Más Opciones
+#Error states
+view.error.no_bots_found: No se encontraron bots
+view.error.no_categories_found: No se encontraron categorías
+view.error.oops: ¡Ups!
+view.error.screen_not_exist: Esta pantalla no existe.
+view.error.go_to_explore: Ir a Explorar
+view.error.try_again: Intentar de Nuevo
+view.error.something_went_wrong: Algo salió mal
+#Loading states
+view.loading.loading_title: Cargando {title}...
+#Theme settings
+view.settings.dark_mode: Modo Oscuro
+#Alert messages
+view.alert.copied: Copiado
+view.alert.bot_id_copied: "ID del Bot {botId} copiado al portapapeles"
+view.alert.add_bot_url_copied: URL de añadir bot copiado al portapapeles
+view.alert.no_invite_url: No hay URL de invitación disponible para este bot
+view.alert.success: Éxito
+view.alert.ads_removed: ¡Los anuncios han sido eliminados. ¡Gracias!
+view.alert.purchase_failed: Compra fallida. Por favor, inténtalo de nuevo.
+view.alert.restored: Restaurado
+view.alert.purchase_restored: Tu compra ha sido restaurada.
+view.alert.no_purchase: Sin Compra
+view.alert.no_past_purchase: No se encontró ninguna compra pasada.
+view.alert.restore_failed: Error al restaurar.
+view.alert.products_load_failed: Error al cargar productos
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote
+view.bot.link.more: Más

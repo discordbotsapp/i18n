@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App ay hindi kaakibat ng Discord o anumang 
 global.button.cancel: Kanselahin
 global.button.sign_in: Mag-sign In
 global.support_server.join: Sumali sa Support Server
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Idagdag
 view.bot.hide.button: Itago ang Bot
 view.bot.hide.title: Itago ang Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: Mga Server
 view.bot.stats.votes: Mga Boto
 view.bot.promoted: Na-promote
 view.bot.see_all: Tingnan Lahat
+view.bot.copy_id: I-copy ang ID
+view.bot.copy_url: I-copy ang URL ng Pagdagdag ng Bot
 view.account.login.button: Mag-login gamit ang Discord
 view.account.my_bots.button: Aking mga Bot
 view.account.add_bot.button: Magdagdag ng Bot
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Kailangan ng Sign In
 view.settings.sign_in_required.message: Kailangan mong mag-sign in para ma-access ang mga setting.
 view.settings.sign_out.title: Mag-sign Out
 view.settings.sign_out.description: Mag-sign out sa inyong account
+view.settings.delete_account.title: I-delete ang Account
+view.settings.delete_account.description: Permanenteng i-delete ang inyong account at lahat ng data
 view.theme.title: Theme
 view.languages.title: Wika
 view.welcome.title: Maligayang pagdating sa Bots for Discord
@@ -137,3 +163,36 @@ view.support.server.description: Sumali sa support server ng app
 view.remove_ads.description: Permanenteng i-disable ang mga in-app ad
 #Bottom sheet
 view.bottom_sheet.select_reason: Pumili ng Dahilan
+view.bottom_sheet.choose_platform: Pumili ng platform para mag-upvote
+view.bottom_sheet.more_options: Maraming Pagpipilian
+#Error states
+view.error.no_bots_found: Walang nakitang bot
+view.error.no_categories_found: Walang nakitang kategorya
+view.error.oops: Ay!
+view.error.screen_not_exist: Hindi umiiral ang screen na ito.
+view.error.go_to_explore: Pumunta sa Tuklasin
+view.error.try_again: Subukan Muli
+view.error.something_went_wrong: May nagkaproblema
+#Loading states
+view.loading.loading_title: Nilo-load ang {title}...
+#Theme settings
+view.settings.dark_mode: Dark Mode
+#Alert messages
+view.alert.copied: Na-copy
+view.alert.bot_id_copied: "Bot ID {botId} na-copy sa clipboard"
+view.alert.add_bot_url_copied: URL ng pagdagdag ng bot na-copy sa clipboard
+view.alert.no_invite_url: Walang available na invite URL para sa bot na ito
+view.alert.success: Tagumpay
+view.alert.ads_removed: Naalis na ang mga ad. Salamat!
+view.alert.purchase_failed: Nabigo ang pagbili. Pakisubukan ulit.
+view.alert.restored: Na-restore
+view.alert.purchase_restored: Na-restore ang inyong pagbili.
+view.alert.no_purchase: Walang Pagbili
+view.alert.no_past_purchase: Walang nahanap na nakaraang pagbili.
+view.alert.restore_failed: Nabigo ang pag-restore.
+view.alert.products_load_failed: Nabigo ang pag-load ng mga produkto
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

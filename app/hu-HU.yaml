@@ -12,6 +12,28 @@ global.footer.info: A Bots for Discord App nem áll kapcsolatban a Discorddal va
 global.button.cancel: Mégse
 global.button.sign_in: Bejelentkezés
 global.support_server.join: Csatlakozás a Támogatási Szerverhez
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Hozzáadás
 view.bot.hide.button: Bot Elrejtése
 view.bot.hide.title: Bot Elrejtése
@@ -28,6 +50,8 @@ view.bot.stats.servers: Szerverek
 view.bot.stats.votes: Szavazatok
 view.bot.promoted: Promótált
 view.bot.see_all: Összes Megtekintése
+view.bot.copy_id: ID Másolása
+view.bot.copy_url: Bot Hozzáadás URL Másolása
 view.account.login.button: Bejelentkezés Discorddal
 view.account.my_bots.button: A botjaim
 view.account.add_bot.button: Bot Hozzáadása
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Bejelentkezés Szükséges
 view.settings.sign_in_required.message: Be kell jelentkeznie a beállítások eléréséhez.
 view.settings.sign_out.title: Kijelentkezés
 view.settings.sign_out.description: Kijelentkezés a fiókból
+view.settings.delete_account.title: Fiók Törlése
+view.settings.delete_account.description: Fiók és összes adat végleges törlése
 view.theme.title: Téma
 view.languages.title: Nyelv
 view.welcome.title: Üdvözöljük a Bots for Discord alkalmazásban
@@ -137,3 +163,36 @@ view.support.server.description: Csatlakozás az alkalmazás támogatási szerve
 view.remove_ads.description: Alkalmazáson belüli hirdetések végleges letiltása
 #Bottom sheet
 view.bottom_sheet.select_reason: Ok Kiválasztása
+view.bottom_sheet.choose_platform: Válasszon platformot a szavazáshoz
+view.bottom_sheet.more_options: További Lehetőségek
+#Error states
+view.error.no_bots_found: Nem találhatók botok
+view.error.no_categories_found: Nem találhatók kategóriák
+view.error.oops: Hoppá!
+view.error.screen_not_exist: Ez a képernyő nem létezik.
+view.error.go_to_explore: Menj a Felfedezéshez
+view.error.try_again: Próbáld Újra
+view.error.something_went_wrong: Valami elromlott
+#Loading states
+view.loading.loading_title: {title} betöltése...
+#Theme settings
+view.settings.dark_mode: Sötét Mód
+#Alert messages
+view.alert.copied: Másolva
+view.alert.bot_id_copied: "Bot ID {botId} vágólapra másolva"
+view.alert.add_bot_url_copied: Bot hozzáadás URL vágólapra másolva
+view.alert.no_invite_url: Nincs elérhető meghívó URL ehhez a bothoz
+view.alert.success: Siker
+view.alert.ads_removed: A hirdetések el lettek távolítva. Köszönjük!
+view.alert.purchase_failed: Vásárlás sikertelen. Kérjük próbálja újra.
+view.alert.restored: Helyreállítva
+view.alert.purchase_restored: Az Ön vásárlása helyreállítva.
+view.alert.no_purchase: Nincs Vásárlás
+view.alert.no_past_purchase: Nem található korábbi vásárlás.
+view.alert.restore_failed: Helyreállítás sikertelen.
+view.alert.products_load_failed: Termékek betöltése sikertelen
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

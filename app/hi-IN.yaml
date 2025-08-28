@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App का Discord या किसी भ�
 global.button.cancel: रद्द करें
 global.button.sign_in: साइन इन करें
 global.support_server.join: सपोर्ट सर्वर से जुड़ें
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: जोड़ें
 view.bot.hide.button: Bot छुपाएं
 view.bot.hide.title: Bot छुपाएं
@@ -28,6 +50,8 @@ view.bot.stats.servers: सर्वर्स
 view.bot.stats.votes: वोट्स
 view.bot.promoted: प्रमोटेड
 view.bot.see_all: सभी देखें
+view.bot.copy_id: ID कॉपी करें
+view.bot.copy_url: Bot जोड़ने का URL कॉपी करें
 view.account.login.button: Discord के साथ लॉगिन करें
 view.account.my_bots.button: मेरे Bots
 view.account.add_bot.button: Bot जोड़ें
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: साइन इन आवश्यक
 view.settings.sign_in_required.message: सेटिंग्स एक्सेस करने के लिए आपको साइन इन करना होगा।
 view.settings.sign_out.title: साइन आउट
 view.settings.sign_out.description: अपने खाते से साइन आउट करें
+view.settings.delete_account.title: खाता हटाएं
+view.settings.delete_account.description: अपना खाता और सभी डेटा स्थायी रूप से हटाएं
 view.theme.title: थीम
 view.languages.title: भाषा
 view.welcome.title: Bots for Discord में आपका स्वागत है
@@ -140,3 +166,36 @@ view.support.server.join_button: जुड़ें
 view.remove_ads.description: इन-ऐप विज्ञापनों को स्थायी रूप से अक्षम करें
 #Bottom sheet
 view.bottom_sheet.select_reason: कारण चुनें
+view.bottom_sheet.choose_platform: वोट करने के लिए एक प्लेटफॉर्म चुनें
+view.bottom_sheet.more_options: अधिक विकल्प
+#Error states
+view.error.no_bots_found: कोई बॉट नहीं मिला
+view.error.no_categories_found: कोई श्रेणी नहीं मिली
+view.error.oops: ओप्स!
+view.error.screen_not_exist: यह स्क्रीन मौजूद नहीं है।
+view.error.go_to_explore: एक्सप्लोर पर जाएं
+view.error.try_again: फिर से कोशिश करें
+view.error.something_went_wrong: कुछ गलत हुआ
+#Loading states
+view.loading.loading_title: {title} लोड हो रहा है...
+#Theme settings
+view.settings.dark_mode: डार्क मोड
+#Alert messages
+view.alert.copied: कॉपी हो गया
+view.alert.bot_id_copied: "Bot ID {botId} क्लिपबोर्ड में कॉपी हो गया"
+view.alert.add_bot_url_copied: Bot जोड़ने का URL क्लिपबोर्ड में कॉपी हो गया
+view.alert.no_invite_url: इस बॉट के लिए कोई आमंत्रण URL उपलब्ध नहीं है
+view.alert.success: सफलता
+view.alert.ads_removed: विज्ञापन हटा दिए गए हैं। धन्यवाद!
+view.alert.purchase_failed: खरीदारी विफल। कृपया पुनः प्रयास करें।
+view.alert.restored: बहाल हो गया
+view.alert.purchase_restored: आपकी खरीदारी बहाल हो गई है।
+view.alert.no_purchase: कोई खरीदारी नहीं
+view.alert.no_past_purchase: कोई पिछली खरीदारी नहीं मिली।
+view.alert.restore_failed: बहाली विफल।
+view.alert.products_load_failed: उत्पाद लोड करने में विफल
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

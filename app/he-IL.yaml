@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App אינו קשור ל-Discord או לכ�
 global.button.cancel: ביטול
 global.button.sign_in: התחבר
 global.support_server.join: הצטרף לשרת התמיכה
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: הוסף
 view.bot.hide.button: הסתר בוט
 view.bot.hide.title: הסתר בוט
@@ -28,6 +50,8 @@ view.bot.stats.servers: שרתים
 view.bot.stats.votes: הצבעות
 view.bot.promoted: מקודם
 view.bot.see_all: ראה הכל
+view.bot.copy_id: העתק ID
+view.bot.copy_url: העתק URL הוספת בוט
 view.account.login.button: התחבר עם Discord
 view.account.my_bots.button: הבוטים שלי
 view.account.add_bot.button: הוסף בוט
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: נדרשת התחברות
 view.settings.sign_in_required.message: עליך להתחבר כדי לגשת להגדרות.
 view.settings.sign_out.title: התנתק
 view.settings.sign_out.description: התנתק מהחשבון שלך
+view.settings.delete_account.title: מחק חשבון
+view.settings.delete_account.description: מחק לצמיתות את החשבון וכל הנתונים
 view.theme.title: ערכת נושא
 view.languages.title: שפה
 view.welcome.title: ברוך הבא ל-Bots for Discord
@@ -140,3 +166,36 @@ view.support.server.join_button: הצטרף
 view.remove_ads.description: השבת פרסומות באפליקציה לצמיתות
 #Bottom sheet
 view.bottom_sheet.select_reason: בחר סיבה
+view.bottom_sheet.choose_platform: בחר פלטפורמה להצבעה
+view.bottom_sheet.more_options: עוד אפשרויות
+#Error states
+view.error.no_bots_found: לא נמצאו בוטים
+view.error.no_categories_found: לא נמצאו קטגוריות
+view.error.oops: אופס!
+view.error.screen_not_exist: המסך הזה לא קיים.
+view.error.go_to_explore: לך לחקירה
+view.error.try_again: נסה שוב
+view.error.something_went_wrong: משהו השתבש
+#Loading states
+view.loading.loading_title: טוען {title}...
+#Theme settings
+view.settings.dark_mode: מצב כהה
+#Alert messages
+view.alert.copied: הועתק
+view.alert.bot_id_copied: "Bot ID {botId} הועתק ללוח ההעתקה"
+view.alert.add_bot_url_copied: URL הוספת bot הועתק ללוח ההעתקה
+view.alert.no_invite_url: אין URL הזמנה זמין עבור הבוט הזה
+view.alert.success: הצלחה
+view.alert.ads_removed: הפרסומות הוסרו. תודה!
+view.alert.purchase_failed: הרכישה נכשלה. אנא נסה שוב.
+view.alert.restored: שוחזר
+view.alert.purchase_restored: הרכישה שלך שוחזרה.
+view.alert.no_purchase: אין רכישה
+view.alert.no_past_purchase: לא נמצאה רכישה קודמת.
+view.alert.restore_failed: שיחזור נכשל.
+view.alert.products_load_failed: טעינת מוצרים נכשלה
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

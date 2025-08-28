@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App er ikke tilknyttet Discord eller noen a
 global.button.cancel: Avbryt
 global.button.sign_in: Logg Inn
 global.support_server.join: Bli med i Support Server
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Legg til
 view.bot.hide.button: Skjul Bot
 view.bot.hide.title: Skjul Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: Servere
 view.bot.stats.votes: Stemmer
 view.bot.promoted: Promotert
 view.bot.see_all: Se Alle
+view.bot.copy_id: Kopier ID
+view.bot.copy_url: Kopier Legg Til Bot URL
 view.account.login.button: Logg inn med Discord
 view.account.my_bots.button: Mine Bots
 view.account.add_bot.button: Legg Til Bot
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Pålogging Påkrevd
 view.settings.sign_in_required.message: Du må logge inn for å få tilgang til innstillinger.
 view.settings.sign_out.title: Logg Ut
 view.settings.sign_out.description: Logg ut av kontoen din
+view.settings.delete_account.title: Slett Konto
+view.settings.delete_account.description: Slett kontoen din og alle data permanent
 view.theme.title: Tema
 view.languages.title: Språk
 view.welcome.title: Velkommen til Bots for Discord
@@ -137,3 +163,36 @@ view.support.server.description: Bli med i appens support server
 view.remove_ads.description: Deaktiver reklamer i appen permanent
 #Bottom sheet
 view.bottom_sheet.select_reason: Velg Årsak
+view.bottom_sheet.choose_platform: Velg en plattform for å stemme
+view.bottom_sheet.more_options: Flere Alternativer
+#Error states
+view.error.no_bots_found: Ingen bots funnet
+view.error.no_categories_found: Ingen kategorier funnet
+view.error.oops: Oops!
+view.error.screen_not_exist: Denne skjermen eksisterer ikke.
+view.error.go_to_explore: Gå til Utforske
+view.error.try_again: Prøv Igjen
+view.error.something_went_wrong: Noe gikk galt
+#Loading states
+view.loading.loading_title: Laster {title}...
+#Theme settings
+view.settings.dark_mode: Mørk Modus
+#Alert messages
+view.alert.copied: Kopiert
+view.alert.bot_id_copied: "Bot ID {botId} kopiert til utklippstavle"
+view.alert.add_bot_url_copied: Legg til bot URL kopiert til utklippstavle
+view.alert.no_invite_url: Ingen invitasjons-URL tilgjengelig for denne boten
+view.alert.success: Suksess
+view.alert.ads_removed: Annonser har blitt fjernet. Takk!
+view.alert.purchase_failed: Kjøp mislyktes. Vennligst prøv igjen.
+view.alert.restored: Gjenopprettet
+view.alert.purchase_restored: Kjøpet ditt har blitt gjenopprettet.
+view.alert.no_purchase: Ingen Kjøp
+view.alert.no_past_purchase: Ingen tidligere kjøp funnet.
+view.alert.restore_failed: Gjenoppretting mislyktes.
+view.alert.products_load_failed: Lasting av produkter mislyktes
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App is niet gelieerd aan Discord of een van
 global.button.cancel: Annuleren
 global.button.sign_in: Inloggen
 global.support_server.join: Doe Mee met Support Server
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Toevoegen
 view.bot.hide.button: Bot Verbergen
 view.bot.hide.title: Bot Verbergen
@@ -28,6 +50,8 @@ view.bot.stats.servers: Servers
 view.bot.stats.votes: Stemmen
 view.bot.promoted: Gesponsord
 view.bot.see_all: Alles Bekijken
+view.bot.copy_id: ID Kopiëren
+view.bot.copy_url: Bot Toevoegen URL Kopiëren
 view.account.login.button: Inloggen met Discord
 view.account.my_bots.button: Mijn Bots
 view.account.add_bot.button: Bot Toevoegen
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Inloggen Vereist
 view.settings.sign_in_required.message: Je moet inloggen om toegang te krijgen tot de instellingen.
 view.settings.sign_out.title: Uitloggen
 view.settings.sign_out.description: Uitloggen van je account
+view.settings.delete_account.title: Account Verwijderen
+view.settings.delete_account.description: Je account en alle gegevens permanent verwijderen
 view.theme.title: Thema
 view.languages.title: Taal
 view.welcome.title: Welkom bij Bots for Discord
@@ -140,3 +166,36 @@ view.support.server.join_button: DEELNEMEN
 view.remove_ads.description: Schakel advertenties in de app permanent uit
 #Bottom sheet
 view.bottom_sheet.select_reason: Selecteer Reden
+view.bottom_sheet.choose_platform: Kies een platform om te stemmen
+view.bottom_sheet.more_options: Meer Opties
+#Error states
+view.error.no_bots_found: Geen bots gevonden
+view.error.no_categories_found: Geen categorieën gevonden
+view.error.oops: Oeps!
+view.error.screen_not_exist: Dit scherm bestaat niet.
+view.error.go_to_explore: Ga naar Verkennen
+view.error.try_again: Opnieuw Proberen
+view.error.something_went_wrong: Er is iets misgegaan
+#Loading states
+view.loading.loading_title: {title} laden...
+#Theme settings
+view.settings.dark_mode: Donkere Modus
+#Alert messages
+view.alert.copied: Gekopieerd
+view.alert.bot_id_copied: "Bot ID {botId} gekopieerd naar klembord"
+view.alert.add_bot_url_copied: Bot toevoegen URL gekopieerd naar klembord
+view.alert.no_invite_url: Geen uitnodigings-URL beschikbaar voor deze bot
+view.alert.success: Succes
+view.alert.ads_removed: Advertenties zijn verwijderd. Bedankt!
+view.alert.purchase_failed: Aankoop mislukt. Probeer opnieuw.
+view.alert.restored: Hersteld
+view.alert.purchase_restored: Je aankoop is hersteld.
+view.alert.no_purchase: Geen Aankoop
+view.alert.no_past_purchase: Geen eerdere aankoop gevonden.
+view.alert.restore_failed: Herstel mislukt.
+view.alert.products_load_failed: Producten laden mislukt
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

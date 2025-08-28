@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App وابسته به Discord یا هیچ �
 global.button.cancel: لغو
 global.button.sign_in: ورود
 global.support_server.join: پیوستن به سرور پشتیبانی
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: اضافه کردن
 view.bot.hide.button: مخفی کردن ربات
 view.bot.hide.title: مخفی کردن ربات
@@ -28,6 +50,8 @@ view.bot.stats.servers: سرورها
 view.bot.stats.votes: رای‌ها
 view.bot.promoted: ترویج شده
 view.bot.see_all: مشاهده همه
+view.bot.copy_id: کپی ID
+view.bot.copy_url: کپی URL افزودن ربات
 view.account.login.button: ورود با Discord
 view.account.my_bots.button: ربات‌های من
 view.account.add_bot.button: اضافه کردن ربات
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: ورود الزامی است
 view.settings.sign_in_required.message: برای دسترسی به تنظیمات باید وارد شوید.
 view.settings.sign_out.title: خروج
 view.settings.sign_out.description: خروج از حساب کاربری
+view.settings.delete_account.title: حذف حساب
+view.settings.delete_account.description: حذف دائمی حساب و تمام داده‌ها
 view.theme.title: پوسته
 view.languages.title: زبان
 view.welcome.title: به Bots for Discord خوش آمدید
@@ -140,3 +166,36 @@ view.support.server.join_button: پیوستن
 view.remove_ads.description: تبلیغات درون برنامه‌ای را برای همیشه غیرفعال کنید
 #Bottom sheet
 view.bottom_sheet.select_reason: انتخاب دلیل
+view.bottom_sheet.choose_platform: یک پلتفرم برای رأی دادن انتخاب کنید
+view.bottom_sheet.more_options: گزینه‌های بیشتر
+#Error states
+view.error.no_bots_found: هیچ رباتی پیدا نشد
+view.error.no_categories_found: هیچ دسته‌بندی‌ای پیدا نشد
+view.error.oops: اوه!
+view.error.screen_not_exist: این صفحه وجود ندارد.
+view.error.go_to_explore: به کاوش بروید
+view.error.try_again: دوباره تلاش کنید
+view.error.something_went_wrong: مشکلی پیش آمد
+#Loading states
+view.loading.loading_title: بارگذاری {title}...
+#Theme settings
+view.settings.dark_mode: حالت تیره
+#Alert messages
+view.alert.copied: کپی شد
+view.alert.bot_id_copied: "ID ربات {botId} در کلیپبورد کپی شد"
+view.alert.add_bot_url_copied: URL افزودن ربات در کلیپبورد کپی شد
+view.alert.no_invite_url: هیچ URL دعوتی برای این ربات موجود نیست
+view.alert.success: موفقیت
+view.alert.ads_removed: تبلیغات حذف شدند. متشکریم!
+view.alert.purchase_failed: خرید ناموفق بود. لطفاً دوباره تلاش کنید.
+view.alert.restored: بازیابی شد
+view.alert.purchase_restored: خرید شما بازیابی شد.
+view.alert.no_purchase: هیچ خریدی
+view.alert.no_past_purchase: هیچ خرید قبلی پیدا نشد.
+view.alert.restore_failed: بازیابی ناموفق بود.
+view.alert.products_load_failed: بارگذاری محصولات ناموفق بود
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

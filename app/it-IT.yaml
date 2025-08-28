@@ -12,6 +12,28 @@ global.footer.info: L'app Bots for Discord non è affiliata con Discord o con ne
 global.button.cancel: Annulla
 global.button.sign_in: Accedi
 global.support_server.join: Unisciti al Server di Supporto
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Aggiungi
 view.bot.hide.button: Nascondi Bot
 view.bot.hide.title: Nascondi Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: Server
 view.bot.stats.votes: Voti
 view.bot.promoted: Promosso
 view.bot.see_all: Vedi Tutti
+view.bot.copy_id: Copia ID
+view.bot.copy_url: Copia URL Aggiungi Bot
 view.account.login.button: Accedi con Discord
 view.account.my_bots.button: I Miei Bot
 view.account.add_bot.button: Aggiungi Bot
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Accesso Richiesto
 view.settings.sign_in_required.message: Devi accedere per accedere alle impostazioni.
 view.settings.sign_out.title: Disconnetti
 view.settings.sign_out.description: Disconnettiti dal tuo account
+view.settings.delete_account.title: Elimina Account
+view.settings.delete_account.description: Elimina permanentemente il tuo account e tutti i dati
 view.theme.title: Tema
 view.languages.title: Lingua
 view.welcome.title: Benvenuto in Bots for Discord
@@ -140,3 +166,36 @@ view.support.server.join_button: UNISCITI
 view.remove_ads.description: Disabilita permanentemente gli annunci nell'app
 #Bottom sheet
 view.bottom_sheet.select_reason: Seleziona Motivo
+view.bottom_sheet.choose_platform: Scegli una piattaforma per votare
+view.bottom_sheet.more_options: Altre Opzioni
+#Error states
+view.error.no_bots_found: Nessun bot trovato
+view.error.no_categories_found: Nessuna categoria trovata
+view.error.oops: Ops!
+view.error.screen_not_exist: Questa schermata non esiste.
+view.error.go_to_explore: Vai a Esplora
+view.error.try_again: Riprova
+view.error.something_went_wrong: Qualcosa è andato storto
+#Loading states
+view.loading.loading_title: Caricamento {title}...
+#Theme settings
+view.settings.dark_mode: Modalità Scura
+#Alert messages
+view.alert.copied: Copiato
+view.alert.bot_id_copied: "ID Bot {botId} copiato negli appunti"
+view.alert.add_bot_url_copied: URL aggiungi bot copiato negli appunti
+view.alert.no_invite_url: Nessun URL di invito disponibile per questo bot
+view.alert.success: Successo
+view.alert.ads_removed: Gli annunci sono stati rimossi. Grazie!
+view.alert.purchase_failed: Acquisto fallito. Riprova.
+view.alert.restored: Ripristinato
+view.alert.purchase_restored: Il tuo acquisto è stato ripristinato.
+view.alert.no_purchase: Nessun Acquisto
+view.alert.no_past_purchase: Nessun acquisto passato trovato.
+view.alert.restore_failed: Ripristino fallito.
+view.alert.products_load_failed: Caricamento prodotti fallito
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

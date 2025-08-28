@@ -12,6 +12,28 @@ global.footer.info: Discord Bots App은 Discord 또는 다른 Discord 봇 사이
 global.button.cancel: 취소
 global.button.sign_in: 로그인
 global.support_server.join: 지원 서버 참여
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: 추가
 view.bot.hide.button: 봇 숨기기
 view.bot.hide.title: 봇 숨기기
@@ -28,6 +50,8 @@ view.bot.stats.servers: 서버
 view.bot.stats.votes: 투표
 view.bot.promoted: 프로모션
 view.bot.see_all: 모두 보기
+view.bot.copy_id: ID 복사
+view.bot.copy_url: 봇 추가 URL 복사
 view.account.login.button: Discord로 로그인
 view.account.my_bots.button: 내 봇
 view.account.add_bot.button: 봇 추가
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: 로그인 필요
 view.settings.sign_in_required.message: 설정에 접근하려면 로그인이 필요합니다.
 view.settings.sign_out.title: 로그아웃
 view.settings.sign_out.description: 계정에서 로그아웃
+view.settings.delete_account.title: 계정 삭제
+view.settings.delete_account.description: 계정과 모든 데이터를 영구적으로 삭제
 view.theme.title: 테마
 view.languages.title: 언어
 view.welcome.title: Bots for Discord에 오신 것을 환영합니다
@@ -140,3 +166,17 @@ view.support.server.join_button: 참여
 view.remove_ads.description: 앱 내 광고를 영구적으로 비활성화
 #Bottom sheet
 view.bottom_sheet.select_reason: 사유 선택
+view.bottom_sheet.choose_platform: 투표할 플랫폼 선택
+view.bottom_sheet.more_options: 더 많은 옵션
+#Error states
+view.error.no_bots_found: 봇을 찾을 수 없습니다
+view.error.no_categories_found: 카테고리를 찾을 수 없습니다
+view.error.oops: 엇!
+view.error.screen_not_exist: 이 화면은 존재하지 않습니다.
+view.error.go_to_explore: 탐색으로 이동
+view.error.try_again: 다시 시도
+view.error.something_went_wrong: 문제가 발생했습니다
+#Loading states
+view.loading.loading_title: {title} 로딩 중...
+#Theme settings
+view.settings.dark_mode: 다크 모드

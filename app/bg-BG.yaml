@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App не е свързано с Discord и�
 global.button.cancel: Отмени
 global.button.sign_in: Влизане
 global.support_server.join: Присъедини се към сървъра за поддръжка
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Добави
 view.bot.hide.button: Скрий Bot
 view.bot.hide.title: Скрий Bot
@@ -28,6 +50,8 @@ view.bot.stats.servers: Сървъри
 view.bot.stats.votes: Гласове
 view.bot.promoted: Промотиран
 view.bot.see_all: Виж всички
+view.bot.copy_id: Копирай ID
+view.bot.copy_url: Копирай URL за добавяне на бот
 view.account.login.button: Влез със Discord
 view.account.my_bots.button: Мойте ботове
 view.account.add_bot.button: Добави бот
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Необходимо е влизане
 view.settings.sign_in_required.message: Трябва да влезете, за да получите достъп до настройките.
 view.settings.sign_out.title: Излизане
 view.settings.sign_out.description: Излезте от вашия профил
+view.settings.delete_account.title: Изтрий профил
+view.settings.delete_account.description: Изтрий трайно вашия профил и всички данни
 view.theme.title: Тема
 view.languages.title: Език
 view.welcome.title: Добре дошли в Bots for Discord
@@ -140,3 +166,36 @@ view.support.server.join_button: ПРИСЪЕДИНИ
 view.remove_ads.description: Деактивирайте завинаги рекламите в приложението
 #Bottom sheet
 view.bottom_sheet.select_reason: Изберете причина
+view.bottom_sheet.choose_platform: Изберете платформа за гласуване
+view.bottom_sheet.more_options: Повече опции
+#Error states
+view.error.no_bots_found: Не са намерени ботове
+view.error.no_categories_found: Не са намерени категории
+view.error.oops: Опс!
+view.error.screen_not_exist: Този екран не съществува.
+view.error.go_to_explore: Отиди на Изследване
+view.error.try_again: Опитай отново
+view.error.something_went_wrong: Нещо се обърка
+#Loading states
+view.loading.loading_title: Зареждане на {title}...
+#Theme settings
+view.settings.dark_mode: Тъмен режим
+#Alert messages
+view.alert.copied: Копирано
+view.alert.bot_id_copied: "ID на бота {botId} копирано в клипборда"
+view.alert.add_bot_url_copied: URL за добавяне на бот копиран в клипборда
+view.alert.no_invite_url: Няма налично URL за покана за този бот
+view.alert.success: Успех
+view.alert.ads_removed: Рекламите бяха п removed. Благодаря!
+view.alert.purchase_failed: Покупката се провали. Моля опитайте отново.
+view.alert.restored: Възстановено
+view.alert.purchase_restored: Вашата покупка беше възстановена.
+view.alert.no_purchase: Няма покупка
+view.alert.no_past_purchase: Не бе намерена минала покупка.
+view.alert.restore_failed: Възстановяването се провали.
+view.alert.products_load_failed: Зареждането на продукти се провали
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

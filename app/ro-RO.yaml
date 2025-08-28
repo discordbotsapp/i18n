@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App nu este afiliat cu Discord sau cu orica
 global.button.cancel: Anulează
 global.button.sign_in: Conectează-te
 global.support_server.join: Alătură-te serverului de suport
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Adaugă
 view.bot.hide.button: Ascunde Bot-ul
 view.bot.hide.title: Ascunde Bot-ul
@@ -28,6 +50,8 @@ view.bot.stats.servers: Servere
 view.bot.stats.votes: Voturi
 view.bot.promoted: Promovat
 view.bot.see_all: Vezi toate
+view.bot.copy_id: Copiază ID
+view.bot.copy_url: Copiază URL Adăugare Bot
 view.account.login.button: Conectează-te cu Discord
 view.account.my_bots.button: Bot-urile mele
 view.account.add_bot.button: Adaugă Bot
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Conectare necesară
 view.settings.sign_in_required.message: Trebuie să vă conectați pentru a accesa setările.
 view.settings.sign_out.title: Deconectare
 view.settings.sign_out.description: Deconectați-vă din cont
+view.settings.delete_account.title: Șterge contul
+view.settings.delete_account.description: Șterge permanent contul și toate datele
 view.theme.title: Temă
 view.languages.title: Limbă
 view.welcome.title: Bun venit la Bots for Discord
@@ -137,3 +163,41 @@ view.support.server.description: Alătură-te serverului de suport al aplicație
 view.remove_ads.description: Dezactivează permanent reclamele din aplicație
 #Bottom sheet
 view.bottom_sheet.select_reason: Selectează motivul
+view.bottom_sheet.choose_platform: Alegeți o platformă pentru vot
+view.bottom_sheet.more_options: Mai Multe Opțiuni
+#Additional translations
+view.bot.copy_id: Copiază ID
+view.bot.copy_url: Copiază URL Adăugare Bot
+view.settings.delete_account.title: Șterge contul
+view.settings.delete_account.description: Șterge permanent contul și toate datele
+#Error states
+view.error.no_bots_found: Nu s-au găsit bot-uri
+view.error.no_categories_found: Nu s-au găsit categorii
+view.error.oops: Ups!
+view.error.screen_not_exist: Acest ecran nu există.
+view.error.go_to_explore: Mergi la Explorează
+view.error.try_again: Încearcă Din Nou
+view.error.something_went_wrong: Ceva a mers prost
+#Loading states
+view.loading.loading_title: Se încarcă {title}...
+#Theme settings
+view.settings.dark_mode: Modul Întunecat
+#Alert messages
+view.alert.copied: Copiat
+view.alert.bot_id_copied: "ID Bot {botId} copiat în clipboard"
+view.alert.add_bot_url_copied: URL adăugare bot copiat în clipboard
+view.alert.no_invite_url: Nu există URL de invitație disponibil pentru acest bot
+view.alert.success: Succes
+view.alert.ads_removed: Reclamele au fost eliminate. Mulțumim!
+view.alert.purchase_failed: Cumpărătura a eșuat. Vă rugăm să încercați din nou.
+view.alert.restored: Restaurat
+view.alert.purchase_restored: Cumpărătura dumneavoastră a fost restaurată.
+view.alert.no_purchase: Fără Cumpărătură
+view.alert.no_past_purchase: Nu s-a găsit nicio cumpărătură trecută.
+view.alert.restore_failed: Restaurarea a eșuat.
+view.alert.products_load_failed: Încărcarea produselor a eșuat
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

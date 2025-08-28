@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App steht nicht mit Discord oder einer der 
 global.button.cancel: Abbrechen
 global.button.sign_in: Anmelden
 global.support_server.join: Support Server beitreten
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Hinzufügen
 view.bot.hide.button: Bot ausblenden
 view.bot.hide.title: Bot ausblenden
@@ -28,6 +50,8 @@ view.bot.stats.servers: Server
 view.bot.stats.votes: Stimmen
 view.bot.promoted: Beworben
 view.bot.see_all: Alle anzeigen
+view.bot.copy_id: ID kopieren
+view.bot.copy_url: Bot-Hinzufügen-URL kopieren
 view.account.login.button: Mit Discord anmelden
 view.account.my_bots.button: Meine Bots
 view.account.add_bot.button: Bot hinzufügen
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Anmeldung erforderlich
 view.settings.sign_in_required.message: Sie müssen sich anmelden, um auf die Einstellungen zuzugreifen.
 view.settings.sign_out.title: Abmelden
 view.settings.sign_out.description: Von Ihrem Konto abmelden
+view.settings.delete_account.title: Konto löschen
+view.settings.delete_account.description: Ihr Konto und alle Daten dauerhaft löschen
 view.theme.title: Design
 view.languages.title: Sprache
 view.welcome.title: Willkommen bei Bots for Discord
@@ -140,3 +166,17 @@ view.support.server.join_button: BEITRETEN
 view.remove_ads.description: In-App-Werbung dauerhaft deaktivieren
 #Bottom sheet
 view.bottom_sheet.select_reason: Grund auswählen
+view.bottom_sheet.choose_platform: Plattform zum Abstimmen wählen
+view.bottom_sheet.more_options: Weitere Optionen
+#Error states
+view.error.no_bots_found: Keine Bots gefunden
+view.error.no_categories_found: Keine Kategorien gefunden
+view.error.oops: Ups!
+view.error.screen_not_exist: Dieser Bildschirm existiert nicht.
+view.error.go_to_explore: Zu Entdecken gehen
+view.error.try_again: Erneut versuchen
+view.error.something_went_wrong: Etwas ist schief gelaufen
+#Loading states
+view.loading.loading_title: Lade {title}...
+#Theme settings
+view.settings.dark_mode: Dunkler Modus

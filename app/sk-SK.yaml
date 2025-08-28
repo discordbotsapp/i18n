@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App nie je pridružená k Discord alebo k �
 global.button.cancel: Zrušiť
 global.button.sign_in: Prihlásiť sa
 global.support_server.join: Pripojiť sa k podpornému serveru
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Pridať
 view.bot.hide.button: Skryť bota
 view.bot.hide.title: Skryť bota
@@ -28,6 +50,8 @@ view.bot.stats.servers: Servery
 view.bot.stats.votes: Hlasy
 view.bot.promoted: Propagované
 view.bot.see_all: Zobraziť všetko
+view.bot.copy_id: Kopírovať ID
+view.bot.copy_url: Kopírovať URL pridať bota
 view.account.login.button: Prihlásiť sa cez Discord
 view.account.my_bots.button: Moji boti
 view.account.add_bot.button: Pridať bota
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Vyžaduje sa prihlásenie
 view.settings.sign_in_required.message: Musíte sa prihlásiť pre prístup k nastaveniam.
 view.settings.sign_out.title: Odhlásiť sa
 view.settings.sign_out.description: Odhlásiť sa z vášho účtu
+view.settings.delete_account.title: Vymazať účet
+view.settings.delete_account.description: Trvalo vymazať váš účet a všetky údaje
 view.theme.title: Téma
 view.languages.title: Jazyk
 view.welcome.title: Vitajte v Bots for Discord
@@ -137,3 +163,36 @@ view.support.server.description: Pripojte sa k podpornému serveru aplikácie
 view.remove_ads.description: Natrvalo zakázať reklamy v aplikácii
 #Bottom sheet
 view.bottom_sheet.select_reason: Vybrať dôvod
+view.bottom_sheet.choose_platform: Vyberte platformu na hlasovanie
+view.bottom_sheet.more_options: Viac Možnosťí
+#Error states
+view.error.no_bots_found: Neboli nájdení žiadni boti
+view.error.no_categories_found: Neboli nájdené žiadne kategórie
+view.error.oops: Ups!
+view.error.screen_not_exist: Táto obrazovka neexistuje.
+view.error.go_to_explore: Ísť na Preskumať
+view.error.try_again: Skúsiť Znovu
+view.error.something_went_wrong: Niečo sa pokazilo
+#Loading states
+view.loading.loading_title: Načítava sa {title}...
+#Theme settings
+view.settings.dark_mode: Tmavý režim
+#Alert messages
+view.alert.copied: Skopírované
+view.alert.bot_id_copied: "Bot ID {botId} skopírované do schránky"
+view.alert.add_bot_url_copied: URL pridať bota skopírované do schránky
+view.alert.no_invite_url: Pre tohto bota nie je k dispozícii žiadna URL pozvánky
+view.alert.success: Úspech
+view.alert.ads_removed: Reklamy boli odstránené. Ďakujeme!
+view.alert.purchase_failed: Nákup zlyhal. Skúste to znovu.
+view.alert.restored: Obnovené
+view.alert.purchase_restored: Váš nákup bol obnovený.
+view.alert.no_purchase: Žiadny Nákup
+view.alert.no_past_purchase: Nebol nájdený žiadny minulý nákup.
+view.alert.restore_failed: Obnovenie zlyhalo.
+view.alert.products_load_failed: Načítanie produktov zlyhalo
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

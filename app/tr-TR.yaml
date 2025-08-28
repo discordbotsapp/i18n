@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord uygulaması, Discord veya desteklenen Disco
 global.button.cancel: İptal
 global.button.sign_in: Giriş Yap
 global.support_server.join: Destek Sunucusuna Katıl
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Ekle
 view.bot.hide.button: Botu Gizle
 view.bot.hide.title: Botu Gizle
@@ -28,6 +50,8 @@ view.bot.stats.servers: Sunucular
 view.bot.stats.votes: Oylar
 view.bot.promoted: Sponsorlu
 view.bot.see_all: Tümünü Gör
+view.bot.copy_id: ID'yi Kopyala
+view.bot.copy_url: Bot Ekleme URL'sini Kopyala
 view.account.login.button: Discord ile Giriş Yap
 view.account.my_bots.button: Botlarım
 view.account.add_bot.button: Bot Ekle
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Giriş Gerekli
 view.settings.sign_in_required.message: Ayarlara erişmek için giriş yapmanız gerekiyor.
 view.settings.sign_out.title: Çıkış Yap
 view.settings.sign_out.description: Hesabınızdan çıkış yapın
+view.settings.delete_account.title: Hesabı Sil
+view.settings.delete_account.description: Hesabınızı ve tüm verileri kalıcı olarak silin
 view.theme.title: Tema
 view.languages.title: Dil
 view.welcome.title: Bots for Discord'a Hoş Geldiniz
@@ -140,3 +166,36 @@ view.support.server.join_button: KATIL
 view.remove_ads.description: Uygulama içi reklamları kalıcı olarak devre dışı bırakın
 #Bottom sheet
 view.bottom_sheet.select_reason: Neden Seçin
+view.bottom_sheet.choose_platform: Oy vermek için bir platform seçin
+view.bottom_sheet.more_options: Daha Fazla Seçenek
+#Error states
+view.error.no_bots_found: Bot bulunamadı
+view.error.no_categories_found: Kategori bulunamadı
+view.error.oops: Hay aksi!
+view.error.screen_not_exist: Bu ekran mevcut değil.
+view.error.go_to_explore: Keşfet'e git
+view.error.try_again: Tekrar Dene
+view.error.something_went_wrong: Bir şeyler ters gitti
+#Loading states
+view.loading.loading_title: {title} yükleniyor...
+#Theme settings
+view.settings.dark_mode: Karanlık Mod
+#Alert messages
+view.alert.copied: Kopyalandı
+view.alert.bot_id_copied: "Bot ID {botId} panoya kopyalandı"
+view.alert.add_bot_url_copied: Bot ekleme URL'si panoya kopyalandı
+view.alert.no_invite_url: Bu bot için davet URL'si mevcut değil
+view.alert.success: Başarılı
+view.alert.ads_removed: Reklamlar kaldırıldı. Teşekkürler!
+view.alert.purchase_failed: Satın alma başarısız. Tekrar deneyin.
+view.alert.restored: Geri Yüklendi
+view.alert.purchase_restored: Satın alımınız geri yüklendi.
+view.alert.no_purchase: Satın Alma Yok
+view.alert.no_past_purchase: Geçmiş satın alma bulunamadı.
+view.alert.restore_failed: Geri yükleme başarısız.
+view.alert.products_load_failed: Ürünleri yüklemede hata
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

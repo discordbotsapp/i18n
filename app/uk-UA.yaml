@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App не пов'язаний з Discord а�
 global.button.cancel: Скасувати
 global.button.sign_in: Увійти
 global.support_server.join: Приєднатися до сервера підтримки
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Додати
 view.bot.hide.button: Приховати бота
 view.bot.hide.title: Приховати бота
@@ -28,6 +50,8 @@ view.bot.stats.servers: Сервери
 view.bot.stats.votes: Голоси
 view.bot.promoted: Просувається
 view.bot.see_all: Переглянути все
+view.bot.copy_id: Копіювати ID
+view.bot.copy_url: Копіювати URL додавання бота
 view.account.login.button: Увійти через Discord
 view.account.my_bots.button: Мої боти
 view.account.add_bot.button: Додати бота
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Потрібен вхід
 view.settings.sign_in_required.message: Вам потрібно увійти для доступу до налаштувань.
 view.settings.sign_out.title: Вийти
 view.settings.sign_out.description: Вийти з вашого акаунта
+view.settings.delete_account.title: Видалити акаунт
+view.settings.delete_account.description: Назавжди видалити ваш акаунт і всі дані
 view.theme.title: Тема
 view.languages.title: Мова
 view.welcome.title: Ласкаво просимо до Bots for Discord
@@ -137,3 +163,36 @@ view.support.server.description: Приєднайтеся до сервера п
 view.remove_ads.description: Назавжди відключити рекламу в додатку
 #Bottom sheet
 view.bottom_sheet.select_reason: Вибрати причину
+view.bottom_sheet.choose_platform: Виберіть платформу для голосування
+view.bottom_sheet.more_options: Більше Опцій
+#Error states
+view.error.no_bots_found: Боти не знайдені
+view.error.no_categories_found: Категорії не знайдено
+view.error.oops: Ой!
+view.error.screen_not_exist: Цей екран не існує.
+view.error.go_to_explore: Перейти до Дослідження
+view.error.try_again: Спробувати Знову
+view.error.something_went_wrong: Щось пішло не так
+#Loading states
+view.loading.loading_title: Завантаження {title}...
+#Theme settings
+view.settings.dark_mode: Темна Тема
+#Alert messages
+view.alert.copied: Скопійовано
+view.alert.bot_id_copied: "Bot ID {botId} скопійовано в буфер обміну"
+view.alert.add_bot_url_copied: URL додавання бота скопійовано в буфер обміну
+view.alert.no_invite_url: Немає доступного URL запрошення для цього бота
+view.alert.success: Успіх
+view.alert.ads_removed: Рекламу видалено. Дякуємо!
+view.alert.purchase_failed: Покупка не вдалася. Будь ласка, спробуйте знову.
+view.alert.restored: Відновлено
+view.alert.purchase_restored: Вашу покупку відновлено.
+view.alert.no_purchase: Немає Покупки
+view.alert.no_past_purchase: Минулу покупку не знайдено.
+view.alert.restore_failed: Відновлення не вдалося.
+view.alert.products_load_failed: Завантаження продуктів не вдалося
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

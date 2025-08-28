@@ -12,6 +12,28 @@ global.footer.info: Bots for Discord App ไม่ได้เกี่ยวข
 global.button.cancel: ยกเลิก
 global.button.sign_in: เข้าสู่ระบบ
 global.support_server.join: เข้าร่วมเซิร์ฟเวอร์สนับสนุน
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: เพิ่ม
 view.bot.hide.button: ซ่อนบอท
 view.bot.hide.title: ซ่อนบอท
@@ -28,6 +50,8 @@ view.bot.stats.servers: เซิร์ฟเวอร์
 view.bot.stats.votes: โหวต
 view.bot.promoted: เลื่อนตำแหน่ง
 view.bot.see_all: ดูทั้งหมด
+view.bot.copy_id: คัดลอก ID
+view.bot.copy_url: คัดลอก URL เพิ่มบอท
 view.account.login.button: เข้าสู่ระบบด้วย Discord
 view.account.my_bots.button: บอทของฉัน
 view.account.add_bot.button: เพิ่มบอท
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: ต้องเข้าสู่ระบ
 view.settings.sign_in_required.message: คุณต้องเข้าสู่ระบบเพื่อเข้าถึงการตั้งค่า
 view.settings.sign_out.title: ออกจากระบบ
 view.settings.sign_out.description: ออกจากระบบบัญชีของคุณ
+view.settings.delete_account.title: ลบบัญชี
+view.settings.delete_account.description: ลบบัญชีและข้อมูลทั้งหมดอย่างถาวร
 view.theme.title: ธีม
 view.languages.title: ภาษา
 view.welcome.title: ยินดีต้อนรับสู่ Bots for Discord
@@ -145,3 +171,36 @@ view.remove_ads.description: ปิดใช้งานโฆษณาในแ
 
 # Bottom sheet
 view.bottom_sheet.select_reason: เลือกเหตุผล
+view.bottom_sheet.choose_platform: เลือกแพลตฟอร์มเพื่อโหวต
+view.bottom_sheet.more_options: ตัวเลือกเพิ่มเติม
+#Error states
+view.error.no_bots_found: ไม่พบบอท
+view.error.no_categories_found: ไม่พบหมวดหมู่
+view.error.oops: โอ้ย!
+view.error.screen_not_exist: หน้าจอนี้ไม่มีอยู่
+view.error.go_to_explore: ไปที่สำรวจ
+view.error.try_again: ลองอีกครั้ง
+view.error.something_went_wrong: มีบางอย่างผิดพลาด
+#Loading states
+view.loading.loading_title: กำลังโหลด {title}...
+#Theme settings
+view.settings.dark_mode: โหมดมืด
+#Alert messages
+view.alert.copied: คัดลอกแล้ว
+view.alert.bot_id_copied: "ID บอท {botId} คัดลอกไปยัง clipboard แล้ว"
+view.alert.add_bot_url_copied: URL เพิ่มบอทคัดลอกไปยัง clipboard แล้ว
+view.alert.no_invite_url: ไม่มี URL เชิญสำหรับบอทนี้
+view.alert.success: สำเร็จ
+view.alert.ads_removed: โฆษณาถูกลบแล้ว ขอบคุณ!
+view.alert.purchase_failed: การซื้อล้มเหลว กรุณาลองอีกครั้ง
+view.alert.restored: คืนค่าแล้ว
+view.alert.purchase_restored: การซื้อของคุณถูกคืนค่าแล้ว
+view.alert.no_purchase: ไม่มีการซื้อ
+view.alert.no_past_purchase: ไม่พบการซื้อก่อนหน้า
+view.alert.restore_failed: การคืนค่าล้มเหลว
+view.alert.products_load_failed: โหลดผลิตภัณฑ์ล้มเหลว
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote

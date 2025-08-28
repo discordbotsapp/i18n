@@ -12,6 +12,28 @@ global.footer.info: Приложение Bots for Discord не связано с
 global.button.cancel: Отмена
 global.button.sign_in: Войти
 global.support_server.join: Присоединиться к серверу поддержки
+global.tag.music: Music
+global.tag.pokemon: Pokemon
+global.tag.soundboard: Soundboard
+global.tag.moderation: Moderation
+global.tag.minecraft: Minecraft
+global.tag.trivia: Trivia
+global.tag.fortnite: Fortnite
+global.tag.spotify: Spotify
+global.tag.social: Social
+global.tag.fun: Fun
+global.tag.economy: Economy
+global.tag.anime: Anime
+global.tag.game: Game
+global.tag.meme: Meme
+global.tag.leveling: Leveling
+global.tag.roleplay: Roleplay
+global.tag.logging: Logging
+global.tag.utility: Utility
+global.tag.reddit: Reddit
+global.tag.multipurpose: Multipurpose
+global.tag.twitch: Twitch
+global.tag.crypto: Crypto
 view.bot.add.button: Добавить
 view.bot.hide.button: Скрыть бота
 view.bot.hide.title: Скрыть бота
@@ -28,6 +50,8 @@ view.bot.stats.servers: Серверы
 view.bot.stats.votes: Голоса
 view.bot.promoted: Продвигаемый
 view.bot.see_all: Посмотреть все
+view.bot.copy_id: Скопировать ID
+view.bot.copy_url: Скопировать URL добавления бота
 view.account.login.button: Войти через Discord
 view.account.my_bots.button: Мои боты
 view.account.add_bot.button: Добавить бота
@@ -51,6 +75,8 @@ view.settings.sign_in_required.title: Требуется вход
 view.settings.sign_in_required.message: Вам необходимо войти в систему для доступа к настройкам.
 view.settings.sign_out.title: Выйти
 view.settings.sign_out.description: Выйти из вашего аккаунта
+view.settings.delete_account.title: Удалить аккаунт
+view.settings.delete_account.description: Навсегда удалить ваш аккаунт и все данные
 view.theme.title: Тема
 view.languages.title: Язык
 view.welcome.title: Добро пожаловать в Bots for Discord
@@ -140,3 +166,17 @@ view.support.server.join_button: ПРИСОЕДИНИТЬСЯ
 view.remove_ads.description: Навсегда отключить рекламу в приложении
 #Bottom sheet
 view.bottom_sheet.select_reason: Выберите причину
+view.bottom_sheet.choose_platform: Выберите платформу для голосования
+view.bottom_sheet.more_options: Больше опций
+#Error states
+view.error.no_bots_found: Боты не найдены
+view.error.no_categories_found: Категории не найдены
+view.error.oops: Опс!
+view.error.screen_not_exist: Этот экран не существует.
+view.error.go_to_explore: Перейти к исследованию
+view.error.try_again: Попробовать снова
+view.error.something_went_wrong: Что-то пошло не так
+#Loading states
+view.loading.loading_title: Загрузка {title}...
+#Theme settings
+view.settings.dark_mode: Тёмная тема
