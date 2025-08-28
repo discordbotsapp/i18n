@@ -148,30 +148,32 @@ view.navigation.settings: 설정
 view.navigation.categories: 카테고리
 view.navigation.bot_details: 봇 정보
 #Search suggestions
-view.search.suggestions.title: 추천 검색어
-view.search.suggestions.music: 음악
-view.search.suggestions.moderation: 관리
-view.search.suggestions.fun: 재미
-view.search.suggestions.utility: 유틸리티
-view.search.suggestions.economy: 경제
-view.search.suggestions.anime: 애니메이션
-view.search.suggestions.game: 게임
-view.search.suggestions.social: 소셜
+view.search.suggestions.title: 추천 검색
+view.search.suggestions.music: 음악 봇
+view.search.suggestions.leveling: 레벨링 및 XP
+view.search.suggestions.ai_chatbot: AI 챗봇
+view.search.suggestions.moderation: 자동 모더레이션
+view.search.suggestions.tickets: 티켓 시스템
+view.search.suggestions.reaction_roles: 반응 역할
+view.search.suggestions.welcome: 환영 메시지
+view.search.suggestions.games: 게임 봇
+view.search.suggestions.stats: 서버 통계
+view.search.suggestions.memes: 밈과 재미
 view.search.placeholder: 봇 검색...
 #Support and ads
-view.support.server.description: 앱의 지원 서버에 참여하세요
+view.support.server.description: 앱 지원 서버에 참여
 view.support.server.online_count: "{count} 온라인"
 view.support.server.join_community: 커뮤니티에 참여
 view.support.server.join_button: 참여
 view.remove_ads.description: 앱 내 광고를 영구적으로 비활성화
 #Bottom sheet
-view.bottom_sheet.select_reason: 사유 선택
+view.bottom_sheet.select_reason: 이유 선택
 view.bottom_sheet.choose_platform: 투표할 플랫폼 선택
 view.bottom_sheet.more_options: 더 많은 옵션
 #Error states
 view.error.no_bots_found: 봇을 찾을 수 없습니다
 view.error.no_categories_found: 카테고리를 찾을 수 없습니다
-view.error.oops: 엇!
+view.error.oops: 이런!
 view.error.screen_not_exist: 이 화면은 존재하지 않습니다.
 view.error.go_to_explore: 탐색으로 이동
 view.error.try_again: 다시 시도
@@ -180,3 +182,23 @@ view.error.something_went_wrong: 문제가 발생했습니다
 view.loading.loading_title: {title} 로딩 중...
 #Theme settings
 view.settings.dark_mode: 다크 모드
+#Alert messages
+view.alert.copied: 복사됨
+view.alert.bot_id_copied: "봇 ID {botId}가 클립보드에 복사되었습니다"
+view.alert.add_bot_url_copied: 봇 추가 URL이 클립보드에 복사되었습니다
+view.alert.no_invite_url: 이 봇에 대한 초대 URL을 사용할 수 없습니다
+view.alert.success: 성공
+view.alert.ads_removed: 광고가 제거되었습니다. 감사합니다!
+view.alert.purchase_failed: 구매에 실패했습니다. 다시 시도해 주세요.
+view.alert.restored: 복원됨
+view.alert.purchase_restored: 구매가 복원되었습니다.
+view.alert.no_purchase: 구매 없음
+view.alert.no_past_purchase: 과거 구매를 찾을 수 없습니다.
+view.alert.restore_failed: 복원에 실패했습니다.
+view.alert.products_load_failed: 제품 로드에 실패했습니다
+#Link titles
+view.bot.link.website: 웹사이트
+view.bot.link.support: 지원
+view.bot.link.github: GitHub
+view.bot.link.upvote: 투표
+view.bot.link.more: 더보기

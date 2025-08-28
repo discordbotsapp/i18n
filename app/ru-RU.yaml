@@ -148,15 +148,17 @@ view.navigation.settings: Настройки
 view.navigation.categories: Категории
 view.navigation.bot_details: Информация о боте
 #Search suggestions
-view.search.suggestions.title: Предлагаемые поисковые запросы
-view.search.suggestions.music: Музыка
-view.search.suggestions.moderation: Модерация
-view.search.suggestions.fun: Развлечения
-view.search.suggestions.utility: Утилиты
-view.search.suggestions.economy: Экономика
-view.search.suggestions.anime: Аниме
-view.search.suggestions.game: Игры
-view.search.suggestions.social: Социальные
+view.search.suggestions.title: Рекомендуемые поисковые запросы
+view.search.suggestions.music: Музыкальные боты
+view.search.suggestions.leveling: Уровни и XP
+view.search.suggestions.ai_chatbot: AI Чат-боты
+view.search.suggestions.moderation: Автомодерация
+view.search.suggestions.tickets: Системы тикетов
+view.search.suggestions.reaction_roles: Роли по реакциям
+view.search.suggestions.welcome: Приветственные сообщения
+view.search.suggestions.games: Игровые боты
+view.search.suggestions.stats: Статистика сервера
+view.search.suggestions.memes: Мемы и развлечения
 view.search.placeholder: Поиск ботов...
 #Support and ads
 view.support.server.description: Присоединиться к серверу поддержки приложения
@@ -180,3 +182,23 @@ view.error.something_went_wrong: Что-то пошло не так
 view.loading.loading_title: Загрузка {title}...
 #Theme settings
 view.settings.dark_mode: Тёмная тема
+#Alert messages
+view.alert.copied: Скопировано
+view.alert.bot_id_copied: "ID бота {botId} скопирован в буфер обмена"
+view.alert.add_bot_url_copied: URL добавления бота скопирован в буфер обмена
+view.alert.no_invite_url: Для этого бота нет доступной ссылки приглашения
+view.alert.success: Успех
+view.alert.ads_removed: Реклама была удалена. Спасибо!
+view.alert.purchase_failed: Покупка не удалась. Пожалуйста, попробуйте снова.
+view.alert.restored: Восстановлено
+view.alert.purchase_restored: Ваша покупка была восстановлена.
+view.alert.no_purchase: Нет покупки
+view.alert.no_past_purchase: Предыдущая покупка не найдена.
+view.alert.restore_failed: Восстановление не удалось.
+view.alert.products_load_failed: Загрузка продуктов не удалась
+#Link titles
+view.bot.link.website: Веб-сайт
+view.bot.link.support: Поддержка
+view.bot.link.github: GitHub
+view.bot.link.upvote: Голосовать
+view.bot.link.more: Больше

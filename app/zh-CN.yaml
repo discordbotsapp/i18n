@@ -149,15 +149,17 @@ view.navigation.categories: 类别
 view.navigation.bot_details: Bot 详情
 #Search suggestions
 view.search.suggestions.title: 推荐搜索
-view.search.suggestions.music: 音乐
-view.search.suggestions.moderation: 管理
-view.search.suggestions.fun: 娱乐
-view.search.suggestions.utility: 实用工具
-view.search.suggestions.economy: 经济
-view.search.suggestions.anime: 动漫
-view.search.suggestions.game: 游戏
-view.search.suggestions.social: 社交
-view.search.placeholder: 搜索 bot...
+view.search.suggestions.music: 音乐机器人
+view.search.suggestions.leveling: 等级和 XP
+view.search.suggestions.ai_chatbot: AI 聊天机器人
+view.search.suggestions.moderation: 自动管理
+view.search.suggestions.tickets: 票务系统
+view.search.suggestions.reaction_roles: 反应角色
+view.search.suggestions.welcome: 欢迎消息
+view.search.suggestions.games: 游戏机器人
+view.search.suggestions.stats: 服务器统计
+view.search.suggestions.memes: 表情包和娱乐
+view.search.placeholder: 搜索机器人...
 #Support and ads
 view.support.server.description: 加入应用的支持服务器
 view.support.server.online_count: "{count} 在线"
@@ -180,3 +182,23 @@ view.error.something_went_wrong: 出了点问题
 view.loading.loading_title: 正在加载 {title}...
 #Theme settings
 view.settings.dark_mode: 深色模式
+#Alert messages
+view.alert.copied: 已复制
+view.alert.bot_id_copied: "机器人 ID {botId} 已复制到剪贴板"
+view.alert.add_bot_url_copied: 添加机器人 URL 已复制到剪贴板
+view.alert.no_invite_url: 此机器人没有可用的邀请 URL
+view.alert.success: 成功
+view.alert.ads_removed: 广告已被移除。谢谢！
+view.alert.purchase_failed: 购买失败。请重试。
+view.alert.restored: 已恢复
+view.alert.purchase_restored: 您的购买已恢复。
+view.alert.no_purchase: 无购买
+view.alert.no_past_purchase: 未找到过往购买。
+view.alert.restore_failed: 恢复失败。
+view.alert.products_load_failed: 产品加载失败
+#Link titles
+view.bot.link.website: 网站
+view.bot.link.support: 支持
+view.bot.link.github: GitHub
+view.bot.link.upvote: 投票
+view.bot.link.more: 更多

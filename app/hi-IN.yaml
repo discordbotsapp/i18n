@@ -149,15 +149,17 @@ view.navigation.categories: श्रेणियां
 view.navigation.bot_details: Bot विवरण
 #Search suggestions
 view.search.suggestions.title: सुझावित खोजें
-view.search.suggestions.music: संगीत
-view.search.suggestions.moderation: मॉडरेशन
-view.search.suggestions.fun: मज़ा
-view.search.suggestions.utility: उपयोगिता
-view.search.suggestions.economy: अर्थव्यवस्था
-view.search.suggestions.anime: एनीमे
-view.search.suggestions.game: खेल
-view.search.suggestions.social: सामाजिक
-view.search.placeholder: Bots के लिए खोजें...
+view.search.suggestions.music: संगीत बॉट
+view.search.suggestions.leveling: लेवलिंग और XP
+view.search.suggestions.ai_chatbot: AI चैटबॉट
+view.search.suggestions.moderation: स्वचालित मॉडरेशन
+view.search.suggestions.tickets: टिकट सिस्टम
+view.search.suggestions.reaction_roles: रिएक्शन रोल
+view.search.suggestions.welcome: स्वागत संदेश
+view.search.suggestions.games: गेमिंग बॉट
+view.search.suggestions.stats: सर्वर स्टैट्स
+view.search.suggestions.memes: मीम और मज़ा
+view.search.placeholder: बॉट के लिए खोजें...
 #Support and ads
 view.support.server.description: ऐप के सपोर्ट सर्वर से जुड़ें
 view.support.server.online_count: "{count} ऑनलाइन"
@@ -177,7 +179,7 @@ view.error.go_to_explore: एक्सप्लोर पर जाएं
 view.error.try_again: फिर से कोशिश करें
 view.error.something_went_wrong: कुछ गलत हुआ
 #Loading states
-view.loading.loading_title: {title} लोड हो रहा है...
+view.loading.loading_title: "{title} लोड हो रहा है..."
 #Theme settings
 view.settings.dark_mode: डार्क मोड
 #Alert messages
@@ -195,7 +197,8 @@ view.alert.no_past_purchase: कोई पिछली खरीदारी न
 view.alert.restore_failed: बहाली विफल।
 view.alert.products_load_failed: उत्पाद लोड करने में विफल
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: वेबसाइट
+view.bot.link.support: सहायता
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: वोट करें
+view.bot.link.more: अधिक

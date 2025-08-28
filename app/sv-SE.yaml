@@ -149,17 +149,22 @@ view.navigation.categories: Kategorier
 view.navigation.bot_details: Bot-detaljer
 #Search suggestions
 view.search.suggestions.title: Föreslagna sökningar
-view.search.suggestions.music: Musik
-view.search.suggestions.moderation: Moderering
-view.search.suggestions.fun: Kul
-view.search.suggestions.utility: Verktyg
-view.search.suggestions.economy: Ekonomi
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Spel
-view.search.suggestions.social: Social
+view.search.suggestions.music: Musik botar
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Automatisk moderering
+view.search.suggestions.tickets: Biljettsystem
+view.search.suggestions.reaction_roles: Reaktionsroller
+view.search.suggestions.welcome: Välkomstmeddelanden
+view.search.suggestions.games: Spel botar
+view.search.suggestions.stats: Server statistik
+view.search.suggestions.memes: Memes & kul
 view.search.placeholder: Sök efter botar...
 #Support and ads
 view.support.server.description: Gå med i appens supportserver
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Gå med i communityn
+view.support.server.join_button: GÅ MED
 view.remove_ads.description: Inaktivera reklam i appen permanent
 #Bottom sheet
 view.bottom_sheet.select_reason: Välj anledning
@@ -196,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: Mer

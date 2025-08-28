@@ -149,14 +149,16 @@ view.navigation.categories: 類別
 view.navigation.bot_details: 機器人詳情
 #Search suggestions
 view.search.suggestions.title: 建議的搜尋
-view.search.suggestions.music: 音樂
-view.search.suggestions.moderation: 管理
-view.search.suggestions.fun: 娛樂
-view.search.suggestions.utility: 實用工具
-view.search.suggestions.economy: 經濟
-view.search.suggestions.anime: 動漫
-view.search.suggestions.game: 遊戲
-view.search.suggestions.social: 社交
+view.search.suggestions.music: 音樂機器人
+view.search.suggestions.leveling: 等級和 XP
+view.search.suggestions.ai_chatbot: AI 聊天機器人
+view.search.suggestions.moderation: 自動管理
+view.search.suggestions.tickets: 票務系統
+view.search.suggestions.reaction_roles: 反應角色
+view.search.suggestions.welcome: 歡迎訊息
+view.search.suggestions.games: 遊戲機器人
+view.search.suggestions.stats: 伺服器統計
+view.search.suggestions.memes: 迷因和娛樂
 view.search.placeholder: 搜尋機器人...
 #Support and ads
 view.support.server.description: 加入應用程式的支援伺服器
@@ -195,7 +197,8 @@ view.alert.no_past_purchase: 找不到過往購買。
 view.alert.restore_failed: 復原失敗。
 view.alert.products_load_failed: 產品載入失敗
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: 網站
+view.bot.link.support: 支援
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: 投票
+view.bot.link.more: 更多

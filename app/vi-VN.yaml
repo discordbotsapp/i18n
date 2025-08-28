@@ -155,14 +155,16 @@ view.navigation.bot_details: Chi tiết Bot
 
 # Search suggestions
 view.search.suggestions.title: Gợi ý tìm kiếm
-view.search.suggestions.music: Âm nhạc
-view.search.suggestions.moderation: Kiểm duyệt
-view.search.suggestions.fun: Giải trí
-view.search.suggestions.utility: Tiện ích
-view.search.suggestions.economy: Kinh tế
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Trò chơi
-view.search.suggestions.social: Mạng xã hội
+view.search.suggestions.music: Bot âm nhạc
+view.search.suggestions.leveling: Cấp độ & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Kiểm duyệt tự động
+view.search.suggestions.tickets: Hệ thống vé
+view.search.suggestions.reaction_roles: Vai trò phản ứng
+view.search.suggestions.welcome: Tin nhắn chào mừng
+view.search.suggestions.games: Bot trò chơi
+view.search.suggestions.stats: Thống kê máy chủ
+view.search.suggestions.memes: Meme và giải trí
 view.search.placeholder: Tìm kiếm bot...
 
 # Support and ads
@@ -203,7 +205,8 @@ view.alert.no_past_purchase: Không tìm thấy giao dịch trước đó.
 view.alert.restore_failed: Khôi phục thất bại.
 view.alert.products_load_failed: Tải sản phẩm thất bại
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Trang Web
+view.bot.link.support: Hỗ Trợ
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: Bình Chọn
+view.bot.link.more: Thêm

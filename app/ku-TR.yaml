@@ -148,19 +148,24 @@ view.navigation.settings: رێکخستنەکان
 view.navigation.categories: جۆرەکان
 view.navigation.bot_details: وردەکارییەکانی Bot
 #Search suggestions
-view.search.suggestions.title: گەڕانە پێشنیارکراوەکان
-view.search.suggestions.music: مۆسیقا
-view.search.suggestions.moderation: بەڕێوەبردن
-view.search.suggestions.fun: خۆشی
-view.search.suggestions.utility: بەکارهێنان
-view.search.suggestions.economy: ئابووری
-view.search.suggestions.anime: ئانیمە
-view.search.suggestions.game: یاری
-view.search.suggestions.social: کۆمەڵایەتی
-view.search.placeholder: گەڕان بۆ bot ەکان...
+view.search.suggestions.title: Lêgerînên pêşniyar kirin
+view.search.suggestions.music: Botên Muzîkê
+view.search.suggestions.leveling: Ast û XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Moderationa Otomatîk
+view.search.suggestions.tickets: Sîstemên Tîketê
+view.search.suggestions.reaction_roles: Rolên Reaksiyonê
+view.search.suggestions.welcome: Peyamên Pêşwaziyê
+view.search.suggestions.games: Botên Lîstikê
+view.search.suggestions.stats: Statîstîkên Serverê
+view.search.suggestions.memes: Meme û Kêf
+view.search.placeholder: Bot bigerin...
 #Support and ads
-view.support.server.description: بەشداری لە سێرڤەری پشتگیری ئەپەکە
-view.remove_ads.description: لەکارخستنی ڕیکلامەکانی ناو ئەپ بۆ هەمیشە
+view.support.server.description: Beşdarî servera piştgiriya sepanê bibin
+view.support.server.online_count: "{count} serhêl"
+view.support.server.join_community: Beşdarî civakê bibin
+view.support.server.join_button: BEŞDARÎ BIBIN
+view.remove_ads.description: Reklamên nav-sepanê bi awayekî daîmî neçalak bikin
 #Bottom sheet
 view.bottom_sheet.select_reason: هەڵبژاردنی هۆکار
 view.bottom_sheet.choose_platform: پلاتفۆرمێک هەڵبژێرە بۆ دەنگ دان
@@ -196,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: زیاتر

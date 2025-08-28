@@ -149,14 +149,16 @@ view.navigation.categories: קטגוריות
 view.navigation.bot_details: פרטי בוט
 #Search suggestions
 view.search.suggestions.title: חיפושים מוצעים
-view.search.suggestions.music: מוזיקה
-view.search.suggestions.moderation: ניהול
-view.search.suggestions.fun: כיף
-view.search.suggestions.utility: כלי עזר
-view.search.suggestions.economy: כלכלה
-view.search.suggestions.anime: אנימה
-view.search.suggestions.game: משחקים
-view.search.suggestions.social: חברתי
+view.search.suggestions.music: בוטים למוזיקה
+view.search.suggestions.leveling: רמות ו-XP
+view.search.suggestions.ai_chatbot: בוטים לצ'אט AI
+view.search.suggestions.moderation: ניהול אוטומטי
+view.search.suggestions.tickets: מערכות כרטיסים
+view.search.suggestions.reaction_roles: תפקידי תגובה
+view.search.suggestions.welcome: הודעות ברוכים הבאים
+view.search.suggestions.games: בוטים למשחקים
+view.search.suggestions.stats: סטטיסטיקות שרת
+view.search.suggestions.memes: ממים וכיף
 view.search.placeholder: חפש בוטים...
 #Support and ads
 view.support.server.description: הצטרף לשרת התמיכה של האפליקציה
@@ -199,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: עוד

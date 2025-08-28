@@ -149,14 +149,16 @@ view.navigation.categories: Categorie
 view.navigation.bot_details: Dettagli Bot
 #Search suggestions
 view.search.suggestions.title: Ricerche suggerite
-view.search.suggestions.music: Musica
-view.search.suggestions.moderation: Moderazione
-view.search.suggestions.fun: Divertimento
-view.search.suggestions.utility: Utilità
-view.search.suggestions.economy: Economia
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Giochi
-view.search.suggestions.social: Social
+view.search.suggestions.music: Bot musicali
+view.search.suggestions.leveling: Livelli e XP
+view.search.suggestions.ai_chatbot: Chatbot AI
+view.search.suggestions.moderation: Moderazione automatica
+view.search.suggestions.tickets: Sistemi di ticket
+view.search.suggestions.reaction_roles: Ruoli di reazione
+view.search.suggestions.welcome: Messaggi di benvenuto
+view.search.suggestions.games: Bot per giochi
+view.search.suggestions.stats: Statistiche del server
+view.search.suggestions.memes: Meme e divertimento
 view.search.placeholder: Cerca bot...
 #Support and ads
 view.support.server.description: Unisciti al server di supporto dell'app
@@ -195,7 +197,8 @@ view.alert.no_past_purchase: Nessun acquisto passato trovato.
 view.alert.restore_failed: Ripristino fallito.
 view.alert.products_load_failed: Caricamento prodotti fallito
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Sito Web
+view.bot.link.support: Supporto
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: Vota
+view.bot.link.more: Altro

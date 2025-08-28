@@ -149,17 +149,22 @@ view.navigation.categories: Κατηγορίες
 view.navigation.bot_details: Λεπτομέρειες Bot
 #Search suggestions
 view.search.suggestions.title: Προτεινόμενες αναζητήσεις
-view.search.suggestions.music: Μουσική
-view.search.suggestions.moderation: Διαχείριση
-view.search.suggestions.fun: Διασκέδαση
-view.search.suggestions.utility: Βοηθητικά
-view.search.suggestions.economy: Οικονομία
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Παιχνίδια
-view.search.suggestions.social: Κοινωνικά
+view.search.suggestions.music: Μουσικά Bots
+view.search.suggestions.leveling: Επίπεδα και XP
+view.search.suggestions.ai_chatbot: AI Chat Bots
+view.search.suggestions.moderation: Αυτόματη Διαχείριση
+view.search.suggestions.tickets: Συστήματα Εισιτηρίων
+view.search.suggestions.reaction_roles: Ρόλοι Αντίδρασης
+view.search.suggestions.welcome: Μηνύματα Καλωσορίσματος
+view.search.suggestions.games: Bots Παιχνίδια
+view.search.suggestions.stats: Στατιστικά Διακομιστή
+view.search.suggestions.memes: Μέμ και Διασκέδαση
 view.search.placeholder: Αναζήτηση για bots...
 #Support and ads
 view.support.server.description: Συμμετάσχετε στον διακομιστή υποστήριξης της εφαρμογής
+view.support.server.online_count: "{count} συνδεδεμένοι"
+view.support.server.join_community: Συμμετάσχετε στην κοινότητα
+view.support.server.join_button: ΣΥΜΜΕΤΟΧΗ
 view.remove_ads.description: Μόνιμη απενεργοποίηση διαφημίσεων εντός εφαρμογής
 #Bottom sheet
 view.bottom_sheet.select_reason: Επιλέξτε Λόγο
@@ -192,7 +197,8 @@ view.alert.no_past_purchase: Δεν βρέθηκε προηγούμενη αγο
 view.alert.restore_failed: Η επαναφορά απέτυχε.
 view.alert.products_load_failed: Η φόρτωση προϊόντων απέτυχε
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Ιστότοπος
+view.bot.link.support: Υποστήριξη
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: Ψηφοφορία
+view.bot.link.more: Περισσότερα

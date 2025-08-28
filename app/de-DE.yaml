@@ -149,14 +149,16 @@ view.navigation.categories: Kategorien
 view.navigation.bot_details: Bot-Details
 #Search suggestions
 view.search.suggestions.title: Suchvorschläge
-view.search.suggestions.music: Musik
-view.search.suggestions.moderation: Moderation
-view.search.suggestions.fun: Spaß
-view.search.suggestions.utility: Nützlichkeit
-view.search.suggestions.economy: Wirtschaft
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Spiele
-view.search.suggestions.social: Sozial
+view.search.suggestions.music: Musik Bots
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Auto Moderation
+view.search.suggestions.tickets: Ticket Systems
+view.search.suggestions.reaction_roles: Reaction Roles
+view.search.suggestions.welcome: Welcome Messages
+view.search.suggestions.games: Gaming Bots
+view.search.suggestions.stats: Server Stats
+view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Nach Bots suchen...
 #Support and ads
 view.support.server.description: Treten Sie dem Support-Server der App bei
@@ -180,3 +182,23 @@ view.error.something_went_wrong: Etwas ist schief gelaufen
 view.loading.loading_title: Lade {title}...
 #Theme settings
 view.settings.dark_mode: Dunkler Modus
+#Alert messages
+view.alert.copied: Kopiert
+view.alert.bot_id_copied: "Bot ID {botId} in Zwischenablage kopiert"
+view.alert.add_bot_url_copied: Bot hinzufügen URL in Zwischenablage kopiert
+view.alert.no_invite_url: Keine Einladungs-URL für diesen Bot verfügbar
+view.alert.success: Erfolg
+view.alert.ads_removed: Werbung wurde entfernt. Danke!
+view.alert.purchase_failed: Kauf fehlgeschlagen. Bitte versuchen Sie es erneut.
+view.alert.restored: Wiederhergestellt
+view.alert.purchase_restored: Ihr Kauf wurde wiederhergestellt.
+view.alert.no_purchase: Kein Kauf
+view.alert.no_past_purchase: Kein vergangener Kauf gefunden.
+view.alert.restore_failed: Wiederherstellung fehlgeschlagen.
+view.alert.products_load_failed: Laden der Produkte fehlgeschlagen
+#Link titles
+view.bot.link.website: Webseite
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Abstimmen
+view.bot.link.more: Mehr

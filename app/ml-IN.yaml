@@ -155,18 +155,22 @@ view.navigation.bot_details: Bot വിശദാംശങ്ങൾ
 
 # Search suggestions
 view.search.suggestions.title: നിർദ്ദേശിത തിരയലുകൾ
-view.search.suggestions.music: സംഗീതം
-view.search.suggestions.moderation: മോഡറേഷൻ
-view.search.suggestions.fun: വിനോദം
-view.search.suggestions.utility: യൂട്ടിലിറ്റി
-view.search.suggestions.economy: സമ്പദ്‌വ്യവസ്ഥ
-view.search.suggestions.anime: ആനിമേ
-view.search.suggestions.game: ഗെയിം
-view.search.suggestions.social: സോഷ്യൽ
-view.search.placeholder: Bots തിരയുക...
-
-# Support and ads
+view.search.suggestions.music: സംഗീത ബോട്ടുകൾ
+view.search.suggestions.leveling: ലെവലിംഗ് & XP
+view.search.suggestions.ai_chatbot: AI ചാറ്റ്ബോട്ടുകൾ
+view.search.suggestions.moderation: ഓട്ടോ മോഡറേഷൻ
+view.search.suggestions.tickets: ടിക്കറ്റ് സിസ്റ്റങ്ങൾ
+view.search.suggestions.reaction_roles: റിയാക്ഷൻ റോളുകൾ
+view.search.suggestions.welcome: സ്വാഗത സന്ദേശങ്ങൾ
+view.search.suggestions.games: ഗെയിമിംഗ് ബോട്ടുകൾ
+view.search.suggestions.stats: സെർവർ സ്റ്റാറ്റ്സ്
+view.search.suggestions.memes: മീമുകൾ & വിനോദം
+view.search.placeholder: ബോട്ടുകൾ തിരയുക...
+#Support and ads
 view.support.server.description: ആപ്പിന്റെ സപ്പോർട്ട് സെർവറിൽ ചേരുക
+view.support.server.online_count: "{count} ഓൺലൈൻ"
+view.support.server.join_community: കമ്മ്യൂണിറ്റിയിൽ ചേരുക
+view.support.server.join_button: ചേരുക
 view.remove_ads.description: ആപ്പിലെ പരസ്യങ്ങൾ ശാശ്വതമായി പ്രവർത്തനരഹിതമാക്കുക
 
 # Bottom sheet
@@ -182,7 +186,7 @@ view.error.go_to_explore: പര്യവേക്ഷണത്തിലേക്
 view.error.try_again: വീണ്ടും ശ്രമിക്കുക
 view.error.something_went_wrong: എന്തോ തെറ്റു നടന്നു
 #Loading states
-view.loading.loading_title: {title} ലോഡ് ചെയ്യുന്നു...
+view.loading.loading_title: "{title} ലോഡ് ചെയ്യുന്നു..."
 #Theme settings
 view.settings.dark_mode: ഡാർക് മോഡ്
 #Alert messages
@@ -204,3 +208,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: കൂടുതൽ

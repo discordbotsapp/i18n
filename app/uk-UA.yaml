@@ -149,17 +149,22 @@ view.navigation.categories: Категорії
 view.navigation.bot_details: Деталі бота
 #Search suggestions
 view.search.suggestions.title: Пропоновані пошуки
-view.search.suggestions.music: Музика
-view.search.suggestions.moderation: Модерація
-view.search.suggestions.fun: Розваги
-view.search.suggestions.utility: Утиліти
-view.search.suggestions.economy: Економіка
-view.search.suggestions.anime: Аніме
-view.search.suggestions.game: Ігри
-view.search.suggestions.social: Соціальні
+view.search.suggestions.music: Музичні боти
+view.search.suggestions.leveling: Рівні та XP
+view.search.suggestions.ai_chatbot: AI Чат-боти
+view.search.suggestions.moderation: Автомодерація
+view.search.suggestions.tickets: Системи тікетів
+view.search.suggestions.reaction_roles: Ролі по реакціях
+view.search.suggestions.welcome: Привітальні повідомлення
+view.search.suggestions.games: Ігрові боти
+view.search.suggestions.stats: Статистика сервера
+view.search.suggestions.memes: Меми та розваги
 view.search.placeholder: Шукати ботів...
 #Support and ads
 view.support.server.description: Приєднайтеся до сервера підтримки додатку
+view.support.server.online_count: "{count} онлайн"
+view.support.server.join_community: Приєднайтесь до спільноти
+view.support.server.join_button: ПРИЄДНАТИСЯ
 view.remove_ads.description: Назавжди відключити рекламу в додатку
 #Bottom sheet
 view.bottom_sheet.select_reason: Вибрати причину
@@ -196,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: Більше

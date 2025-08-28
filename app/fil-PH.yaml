@@ -149,17 +149,22 @@ view.navigation.categories: Mga Kategorya
 view.navigation.bot_details: Mga Detalye ng Bot
 #Search suggestions
 view.search.suggestions.title: Mga iminumungkahing paghahanap
-view.search.suggestions.music: Musika
-view.search.suggestions.moderation: Pagmomoderate
-view.search.suggestions.fun: Kasiyahan
-view.search.suggestions.utility: Kagamitan
-view.search.suggestions.economy: Ekonomiya
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Laro
-view.search.suggestions.social: Panlipunan
+view.search.suggestions.music: Mga Music Bot
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Auto Moderation
+view.search.suggestions.tickets: Ticket Systems
+view.search.suggestions.reaction_roles: Reaction Roles
+view.search.suggestions.welcome: Welcome Messages
+view.search.suggestions.games: Gaming Bots
+view.search.suggestions.stats: Server Stats
+view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Maghanap ng mga bot...
 #Support and ads
 view.support.server.description: Sumali sa support server ng app
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Sumali sa komunidad
+view.support.server.join_button: SUMALI
 view.remove_ads.description: Permanenteng i-disable ang mga in-app ad
 #Bottom sheet
 view.bottom_sheet.select_reason: Pumili ng Dahilan
@@ -196,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: Higit Pa

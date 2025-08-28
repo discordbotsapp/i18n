@@ -149,14 +149,16 @@ view.navigation.categories: Kategoriler
 view.navigation.bot_details: Bot Detayları
 #Search suggestions
 view.search.suggestions.title: Önerilen aramalar
-view.search.suggestions.music: Müzik
-view.search.suggestions.moderation: Moderasyon
-view.search.suggestions.fun: Eğlence
-view.search.suggestions.utility: Yardımcı
-view.search.suggestions.economy: Ekonomi
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Oyun
-view.search.suggestions.social: Sosyal
+view.search.suggestions.music: Müzik botları
+view.search.suggestions.leveling: Seviye & XP
+view.search.suggestions.ai_chatbot: AI Chatbotlar
+view.search.suggestions.moderation: Otomatik moderasyon
+view.search.suggestions.tickets: Bilet sistemleri
+view.search.suggestions.reaction_roles: Tepki rolleri
+view.search.suggestions.welcome: Hoş geldin mesajları
+view.search.suggestions.games: Oyun botları
+view.search.suggestions.stats: Sunucu istatistikleri
+view.search.suggestions.memes: Meme ve eğlence
 view.search.placeholder: Bot arayın...
 #Support and ads
 view.support.server.description: Uygulamanın destek sunucusuna katılın
@@ -177,7 +179,7 @@ view.error.go_to_explore: Keşfet'e git
 view.error.try_again: Tekrar Dene
 view.error.something_went_wrong: Bir şeyler ters gitti
 #Loading states
-view.loading.loading_title: {title} yükleniyor...
+view.loading.loading_title: "{title} yükleniyor..."
 #Theme settings
 view.settings.dark_mode: Karanlık Mod
 #Alert messages
@@ -195,7 +197,8 @@ view.alert.no_past_purchase: Geçmiş satın alma bulunamadı.
 view.alert.restore_failed: Geri yükleme başarısız.
 view.alert.products_load_failed: Ürünleri yüklemede hata
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Web Sitesi
+view.bot.link.support: Destek
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: Oy Ver
+view.bot.link.more: Daha Fazla

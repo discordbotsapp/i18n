@@ -149,17 +149,22 @@ view.navigation.categories: کیٹگریز
 view.navigation.bot_details: بوٹ کی تفصیلات
 #Search suggestions
 view.search.suggestions.title: تجویز کردہ تلاش
-view.search.suggestions.music: موسیقی
-view.search.suggestions.moderation: اعتدال
-view.search.suggestions.fun: تفریح
-view.search.suggestions.utility: یوٹیلٹی
-view.search.suggestions.economy: اقتصادیات
-view.search.suggestions.anime: انیمے
-view.search.suggestions.game: گیم
-view.search.suggestions.social: سماجی
+view.search.suggestions.music: موسیقی کے بوٹس
+view.search.suggestions.leveling: لیولنگ اور XP
+view.search.suggestions.ai_chatbot: AI چیٹ بوٹس
+view.search.suggestions.moderation: خودکار اعتدال
+view.search.suggestions.tickets: ٹکٹ سسٹم
+view.search.suggestions.reaction_roles: رد عمل کے کردار
+view.search.suggestions.welcome: خوش آمدید پیغامات
+view.search.suggestions.games: گیمنگ بوٹس
+view.search.suggestions.stats: سرور کے اعداد و شمار
+view.search.suggestions.memes: میمز اور تفریح
 view.search.placeholder: بوٹس تلاش کریں...
 #Support and ads
 view.support.server.description: ایپ کے سپورٹ سرور میں شامل ہوں
+view.support.server.online_count: "{count} آن لائن"
+view.support.server.join_community: کمیونٹی میں شامل ہوں
+view.support.server.join_button: شامل ہوں
 view.remove_ads.description: ایپ کے اندر اشتہارات کو مستقل طور پر غیر فعال کریں
 #Bottom sheet
 view.bottom_sheet.select_reason: وجہ منتخب کریں
@@ -174,7 +179,7 @@ view.error.go_to_explore: دریافت کریں پر جائیں
 view.error.try_again: دوبارہ کوشش کریں
 view.error.something_went_wrong: کچھ غلط ہوا
 #Loading states
-view.loading.loading_title: {title} لوڈ ہو رہا ہے...
+view.loading.loading_title: "{title} لوڈ ہو رہا ہے..."
 #Theme settings
 view.settings.dark_mode: ڈارک موڈ
 #Alert messages
@@ -196,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: مزید

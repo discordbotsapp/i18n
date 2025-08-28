@@ -149,14 +149,16 @@ view.navigation.categories: Категории
 view.navigation.bot_details: Детайли за bot
 #Search suggestions
 view.search.suggestions.title: Предложени търсения
-view.search.suggestions.music: Музика
-view.search.suggestions.moderation: Модерация
-view.search.suggestions.fun: Забавление
-view.search.suggestions.utility: Полезности
-view.search.suggestions.economy: Икономика
-view.search.suggestions.anime: Аниме
-view.search.suggestions.game: Игри
-view.search.suggestions.social: Социални
+view.search.suggestions.music: Музикални ботове
+view.search.suggestions.leveling: Ниво и опит
+view.search.suggestions.ai_chatbot: AI Чат ботове
+view.search.suggestions.moderation: Автоматична модерация
+view.search.suggestions.tickets: Системи за билети
+view.search.suggestions.reaction_roles: Реакционни роли
+view.search.suggestions.welcome: Съобщения за добре дошли
+view.search.suggestions.games: Гейминг ботове
+view.search.suggestions.stats: Статистики на сървъра
+view.search.suggestions.memes: Мими и забавления
 view.search.placeholder: Търсете botове...
 #Support and ads
 view.support.server.description: Присъединете се към сървъра за поддръжка на приложението
@@ -195,7 +197,8 @@ view.alert.no_past_purchase: Не бе намерена минала покуп�
 view.alert.restore_failed: Възстановяването се провали.
 view.alert.products_load_failed: Зареждането на продукти се провали
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Уебсайт
+view.bot.link.support: Поддръжка
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: Гласувай
+view.bot.link.more: Повече

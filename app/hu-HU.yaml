@@ -149,17 +149,22 @@ view.navigation.categories: Kategóriák
 view.navigation.bot_details: Bot Részletek
 #Search suggestions
 view.search.suggestions.title: Javasolt keresések
-view.search.suggestions.music: Zene
-view.search.suggestions.moderation: Moderálás
-view.search.suggestions.fun: Szórakozás
-view.search.suggestions.utility: Segédprogram
-view.search.suggestions.economy: Gazdaság
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Játék
-view.search.suggestions.social: Közösségi
+view.search.suggestions.music: Zenei botok
+view.search.suggestions.leveling: Szintek és XP
+view.search.suggestions.ai_chatbot: AI Chatbotok
+view.search.suggestions.moderation: Automatikus moderálás
+view.search.suggestions.tickets: Jegyrendszerek
+view.search.suggestions.reaction_roles: Reakció szerepek
+view.search.suggestions.welcome: Üdvözlő üzenetek
+view.search.suggestions.games: Játék botok
+view.search.suggestions.stats: Szerver statisztikák
+view.search.suggestions.memes: Mémek és szórakozás
 view.search.placeholder: Keresés botokra...
 #Support and ads
 view.support.server.description: Csatlakozás az alkalmazás támogatási szerveréhez
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Csatlakozás a közösséghez
+view.support.server.join_button: CSATLAKOZÁS
 view.remove_ads.description: Alkalmazáson belüli hirdetések végleges letiltása
 #Bottom sheet
 view.bottom_sheet.select_reason: Ok Kiválasztása
@@ -174,7 +179,7 @@ view.error.go_to_explore: Menj a Felfedezéshez
 view.error.try_again: Próbáld Újra
 view.error.something_went_wrong: Valami elromlott
 #Loading states
-view.loading.loading_title: {title} betöltése...
+view.loading.loading_title: "{title} betöltése..."
 #Theme settings
 view.settings.dark_mode: Sötét Mód
 #Alert messages
@@ -196,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: Több

@@ -155,18 +155,22 @@ view.navigation.bot_details: Detail Bot
 
 # Search suggestions
 view.search.suggestions.title: Pencarian yang disarankan
-view.search.suggestions.music: Musik
-view.search.suggestions.moderation: Moderasi
-view.search.suggestions.fun: Hiburan
-view.search.suggestions.utility: Utilitas
-view.search.suggestions.economy: Ekonomi
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Game
-view.search.suggestions.social: Sosial
+view.search.suggestions.music: Bot Musik
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatbots
+view.search.suggestions.moderation: Moderasi Otomatis
+view.search.suggestions.tickets: Sistem Tiket
+view.search.suggestions.reaction_roles: Role Reaksi
+view.search.suggestions.welcome: Pesan Selamat Datang
+view.search.suggestions.games: Bot Gaming
+view.search.suggestions.stats: Statistik Server
+view.search.suggestions.memes: Meme & Hiburan
 view.search.placeholder: Cari bot...
-
-# Support and ads
+#Support and ads
 view.support.server.description: Bergabung dengan server dukungan aplikasi
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Bergabung dengan komunitas
+view.support.server.join_button: BERGABUNG
 view.remove_ads.description: Nonaktifkan iklan dalam aplikasi secara permanen
 
 # Bottom sheet
@@ -200,7 +204,8 @@ view.alert.no_past_purchase: Tidak ditemukan pembelian sebelumnya.
 view.alert.restore_failed: Gagal memulihkan.
 view.alert.products_load_failed: Gagal memuat produk
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Situs Web
+view.bot.link.support: Dukungan
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: Vote
+view.bot.link.more: Lebih Banyak

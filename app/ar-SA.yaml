@@ -149,14 +149,16 @@ view.navigation.categories: الفئات
 view.navigation.bot_details: تفاصيل البوت
 #Search suggestions
 view.search.suggestions.title: عمليات بحث مقترحة
-view.search.suggestions.music: موسيقى
-view.search.suggestions.moderation: إشراف
-view.search.suggestions.fun: ترفيه
-view.search.suggestions.utility: مرافق
-view.search.suggestions.economy: اقتصاد
-view.search.suggestions.anime: أنمي
-view.search.suggestions.game: ألعاب
-view.search.suggestions.social: اجتماعي
+view.search.suggestions.music: بوتات الموسيقى
+view.search.suggestions.leveling: التسوية والخبرة
+view.search.suggestions.ai_chatbot: روبوتات الدردشة الذكية
+view.search.suggestions.moderation: الإشراف التلقائي
+view.search.suggestions.tickets: أنظمة التذاكر
+view.search.suggestions.reaction_roles: أدوار التفاعل
+view.search.suggestions.welcome: رسائل الترحيب
+view.search.suggestions.games: بوتات الألعاب
+view.search.suggestions.stats: إحصائيات الخادم
+view.search.suggestions.memes: الميمات والمتعة
 view.search.placeholder: البحث عن البوتات...
 #Support and ads
 view.support.server.description: انضم إلى خادم دعم التطبيق
@@ -180,3 +182,23 @@ view.error.something_went_wrong: حدث خطأ ما
 view.loading.loading_title: جارٍ تحميل {title}...
 #Theme settings
 view.settings.dark_mode: الوضع المظلم
+#Alert messages
+view.alert.copied: تم النسخ
+view.alert.bot_id_copied: "تم نسخ معرف البوت {botId} إلى الحافظة"
+view.alert.add_bot_url_copied: تم نسخ رابط إضافة البوت إلى الحافظة
+view.alert.no_invite_url: لا يوجد رابط دعوة متاح لهذا البوت
+view.alert.success: نجح
+view.alert.ads_removed: تمت إزالة الإعلانات. شكراً لك!
+view.alert.purchase_failed: فشل الشراء. يرجى المحاولة مرة أخرى.
+view.alert.restored: تم الاستعادة
+view.alert.purchase_restored: تم استعادة شرائك.
+view.alert.no_purchase: لا يوجد شراء
+view.alert.no_past_purchase: لم يتم العثور على شراء سابق.
+view.alert.restore_failed: فشل في الاستعادة.
+view.alert.products_load_failed: فشل في تحميل المنتجات
+#Link titles
+view.bot.link.website: الموقع الإلكتروني
+view.bot.link.support: الدعم
+view.bot.link.github: GitHub
+view.bot.link.upvote: التصويت
+view.bot.link.more: المزيد

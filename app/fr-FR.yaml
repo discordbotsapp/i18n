@@ -149,14 +149,16 @@ view.navigation.categories: Catégories
 view.navigation.bot_details: Détails du Bot
 #Search suggestions
 view.search.suggestions.title: Recherches suggérées
-view.search.suggestions.music: Musique
-view.search.suggestions.moderation: Modération
-view.search.suggestions.fun: Amusement
-view.search.suggestions.utility: Utilitaire
-view.search.suggestions.economy: Économie
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Jeux
-view.search.suggestions.social: Social
+view.search.suggestions.music: Bots de musique
+view.search.suggestions.leveling: Niveaux et XP
+view.search.suggestions.ai_chatbot: Bots de chat IA
+view.search.suggestions.moderation: Modération automatique
+view.search.suggestions.tickets: Systèmes de tickets
+view.search.suggestions.reaction_roles: Rôles de réaction
+view.search.suggestions.welcome: Messages de bienvenue
+view.search.suggestions.games: Bots de jeux
+view.search.suggestions.stats: Statistiques du serveur
+view.search.suggestions.memes: Mèmes et divertissement
 view.search.placeholder: Rechercher des bots...
 #Support and ads
 view.support.server.description: Rejoindre le serveur de support de l'application
@@ -180,3 +182,23 @@ view.error.something_went_wrong: Quelque chose s'est mal passé
 view.loading.loading_title: Chargement de {title}...
 #Theme settings
 view.settings.dark_mode: Mode sombre
+#Alert messages
+view.alert.copied: Copié
+view.alert.bot_id_copied: "ID du Bot {botId} copié dans le presse-papiers"
+view.alert.add_bot_url_copied: URL d'ajout de bot copiée dans le presse-papiers
+view.alert.no_invite_url: Aucune URL d'invitation disponible pour ce bot
+view.alert.success: Succès
+view.alert.ads_removed: Les publicités ont été supprimées. Merci !
+view.alert.purchase_failed: Achat échoué. Veuillez réessayer.
+view.alert.restored: Restauré
+view.alert.purchase_restored: Votre achat a été restauré.
+view.alert.no_purchase: Aucun achat
+view.alert.no_past_purchase: Aucun achat passé trouvé.
+view.alert.restore_failed: Échec de la restauration.
+view.alert.products_load_failed: Échec du chargement des produits
+#Link titles
+view.bot.link.website: Site Web
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Voter
+view.bot.link.more: Plus

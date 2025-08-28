@@ -87,7 +87,7 @@ view.welcome.skip.button: এখনের জন্য এড়িয়ে য
 view.welcome.subtitle: আপনার সার্ভারের জন্য নিখুঁত bot খুঁজুন
 view.explore.browse_categories.description: ক্যাটেগরি অনুযায়ী bot আবিষ্কার করুন
 view.explore.browse_categories.title: ক্যাটেগরি ব্রাউজ করুন
-view.explore.category.subtitle: '{} ক্যাটেগরির Bot গুলি'
+view.explore.category.subtitle: "{} ক্যাটেগরির Bot গুলি"
 view.explore.discord_server.description: Bot সুপারিশ, অ্যাপ সাপোর্ট, অথবা অনুবাদ এবং বেটা টেস্টিং এ জড়িত হওয়ার জন্য আমাদের Discord কমিউনিটিতে যোগ দিন।
 view.explore.discord_server.fallback_name: Bots for Discord
 view.explore.discord_server.title: সাহায্য প্রয়োজন বা অবদান রাখতে চান?
@@ -149,17 +149,22 @@ view.navigation.categories: ক্যাটেগরি
 view.navigation.bot_details: Bot বিবরণ
 #Search suggestions
 view.search.suggestions.title: প্রস্তাবিত অনুসন্ধান
-view.search.suggestions.music: সঙ্গীত
-view.search.suggestions.moderation: মডারেশন
-view.search.suggestions.fun: মজা
-view.search.suggestions.utility: ইউটিলিটি
-view.search.suggestions.economy: অর্থনীতি
-view.search.suggestions.anime: অ্যানিমে
-view.search.suggestions.game: গেম
-view.search.suggestions.social: সামাজিক
+view.search.suggestions.music: সঙ্গীত বট
+view.search.suggestions.leveling: লেভেলিং এবং এক্সপি
+view.search.suggestions.ai_chatbot: AI চ্যাটবট
+view.search.suggestions.moderation: অটো মডারেশন
+view.search.suggestions.tickets: টিকেট সিস্টেম
+view.search.suggestions.reaction_roles: রিয়াকশন রোল
+view.search.suggestions.welcome: ওয়েলকাম মেসেজ
+view.search.suggestions.games: গেমিং বট
+view.search.suggestions.stats: সার্ভার স্ট্যাট
+view.search.suggestions.memes: মিম এবং ফান
 view.search.placeholder: Bot এর জন্য অনুসন্ধান করুন...
 #Support and ads
 view.support.server.description: অ্যাপের সাপোর্ট সার্ভারে যোগ দিন
+view.support.server.online_count: "{count} অনলাইন"
+view.support.server.join_community: কমিউনিটিতে যোগ দিন
+view.support.server.join_button: যোগ দিন
 view.remove_ads.description: স্থায়ীভাবে ইন-অ্যাপ বিজ্ঞাপন নিষ্ক্রিয় করুন
 #Bottom sheet
 view.bottom_sheet.select_reason: কারণ নির্বাচন করুন
@@ -174,7 +179,7 @@ view.error.go_to_explore: অন্বেষণে যান
 view.error.try_again: আবার চেষ্টা করুন
 view.error.something_went_wrong: কিছু ভুল হয়েছে
 #Loading states
-view.loading.loading_title: {title} লোড হচ্ছে...
+view.loading.loading_title: "{title} লোড হচ্ছে..."
 #Theme settings
 view.settings.dark_mode: অন্ধকার মোড
 #Alert messages
@@ -192,7 +197,8 @@ view.alert.no_past_purchase: কোনো আগের কেনাকাটা 
 view.alert.restore_failed: পুনরুদ্ধার ব্যর্থ।
 view.alert.products_load_failed: পণ্য লোড ব্যর্থ
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: ওয়েবসাইট
+view.bot.link.support: সহায়তা
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
+view.bot.link.upvote: ভোট করুন
+view.bot.link.more: আরো

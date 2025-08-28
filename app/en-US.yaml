@@ -103,7 +103,6 @@ view.top_charts.most_popular: Most Popular
 view.top_charts.most_voted: Most Voted
 view.submit_bot.error.title: Failed to Load Bot Lists
 view.submit_bot.error.description: We couldn't load the available bot lists. Please try again later.
-
 # Alert dialogs and error messages
 view.alert.sign_out.title: Sign Out
 view.alert.sign_out.message: Are you sure you want to sign out?
@@ -118,14 +117,12 @@ view.alert.error.no_invite_link: "{} doesn't have an invite link."
 view.alert.error.open_invite_failed: Failed to open invite link.
 view.alert.error.discord_not_installed: Unable to open Discord. Please make sure Discord is installed on your device.
 view.alert.error.open_support_failed: Failed to open support server link.
-
 # Delete account dialogs
 view.alert.delete_account.title: Delete Account
 view.alert.delete_account.message: Are you sure you want to delete your account? This action cannot be undone and will permanently remove all your data.
 view.alert.delete_account.confirm: Delete
 view.alert.delete_account.final.title: Delete Account
 view.alert.delete_account.final.message: This will permanently erase your account and associated data. Are you sure?
-
 # Report bot screen
 view.report.title: Report Bot
 view.report.header.title: Report Bot
@@ -141,18 +138,15 @@ view.report.submit.success.message: Thank you for your report. We will review it
 view.report.submit.success.ok: OK
 view.report.validation.no_reason: Please select a reason for reporting.
 view.report.validation.no_details: Please provide additional details about the issue.
-
 # Loading and error states
 view.loading.bot_details: Loading bot details...
 view.error.bot_not_found: Bot not found.
 view.loading.categories: Loading categories...
-
 # Navigation headers
 view.navigation.account: Account
 view.navigation.settings: Settings
 view.navigation.categories: Categories
 view.navigation.bot_details: Bot Details
-
 # Search suggestions
 view.search.suggestions.title: Suggested searches
 view.search.suggestions.music: Music Bots
@@ -166,14 +160,12 @@ view.search.suggestions.games: Gaming Bots
 view.search.suggestions.stats: Server Stats
 view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Search for bots...
-
 # Support and ads
 view.support.server.description: Join the app's support server
 view.support.server.online_count: "{count} online"
 view.support.server.join_community: Join the community
 view.support.server.join_button: JOIN
 view.remove_ads.description: Permanently disable in-app ads
-
 # Bottom sheet
 view.bottom_sheet.select_reason: Select Reason
 view.bottom_sheet.choose_platform: Choose a platform to upvote on

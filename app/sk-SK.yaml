@@ -149,17 +149,22 @@ view.navigation.categories: Kategórie
 view.navigation.bot_details: Podrobnosti bota
 #Search suggestions
 view.search.suggestions.title: Navrhované vyhľadávania
-view.search.suggestions.music: Hudba
-view.search.suggestions.moderation: Moderovanie
-view.search.suggestions.fun: Zábava
-view.search.suggestions.utility: Nástroje
-view.search.suggestions.economy: Ekonomika
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Hry
-view.search.suggestions.social: Sociálne
+view.search.suggestions.music: Hudobné boty
+view.search.suggestions.leveling: Leveling & XP
+view.search.suggestions.ai_chatbot: AI Chatboty
+view.search.suggestions.moderation: Automatické moderovanie
+view.search.suggestions.tickets: Systémy tiketov
+view.search.suggestions.reaction_roles: Reakčné role
+view.search.suggestions.welcome: Uvítacie správy
+view.search.suggestions.games: Herné boty
+view.search.suggestions.stats: Štatistiky servera
+view.search.suggestions.memes: Meme a zábava
 view.search.placeholder: Hľadať botov...
 #Support and ads
 view.support.server.description: Pripojte sa k podpornému serveru aplikácie
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Pripojte sa ku komunite
+view.support.server.join_button: PRIPOJIŤ SA
 view.remove_ads.description: Natrvalo zakázať reklamy v aplikácii
 #Bottom sheet
 view.bottom_sheet.select_reason: Vybrať dôvod
@@ -196,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: Więcej

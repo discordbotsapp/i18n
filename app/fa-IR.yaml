@@ -149,14 +149,16 @@ view.navigation.categories: دسته‌بندی‌ها
 view.navigation.bot_details: جزئیات ربات
 #Search suggestions
 view.search.suggestions.title: جستجوهای پیشنهادی
-view.search.suggestions.music: موسیقی
-view.search.suggestions.moderation: نظارت
-view.search.suggestions.fun: سرگرمی
-view.search.suggestions.utility: ابزاری
-view.search.suggestions.economy: اقتصاد
-view.search.suggestions.anime: انیمه
-view.search.suggestions.game: بازی
-view.search.suggestions.social: اجتماعی
+view.search.suggestions.music: ربات‌های موسیقی
+view.search.suggestions.leveling: سطح‌بندی و تجربه
+view.search.suggestions.ai_chatbot: ربات‌های چت هوشمند
+view.search.suggestions.moderation: نظارت خودکار
+view.search.suggestions.tickets: سیستم‌های تیکت
+view.search.suggestions.reaction_roles: نقش‌های واکنش
+view.search.suggestions.welcome: پیام‌های خوش‌آمدگویی
+view.search.suggestions.games: ربات‌های بازی
+view.search.suggestions.stats: آمار سرور
+view.search.suggestions.memes: میم و سرگرمی
 view.search.placeholder: جستجو برای ربات‌ها...
 #Support and ads
 view.support.server.description: به سرور پشتیبانی برنامه بپیوندید
@@ -199,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: بیشتر

@@ -149,27 +149,27 @@ view.navigation.categories: Categorii
 view.navigation.bot_details: Detalii Bot
 #Search suggestions
 view.search.suggestions.title: Căutări sugerate
-view.search.suggestions.music: Muzică
-view.search.suggestions.moderation: Moderare
-view.search.suggestions.fun: Divertisment
-view.search.suggestions.utility: Utilitate
-view.search.suggestions.economy: Economie
-view.search.suggestions.anime: Anime
-view.search.suggestions.game: Jocuri
-view.search.suggestions.social: Social
-view.search.placeholder: Caută bot-uri...
+view.search.suggestions.music: Boți de muzică
+view.search.suggestions.leveling: Nivele și XP
+view.search.suggestions.ai_chatbot: Chatboți AI
+view.search.suggestions.moderation: Moderare automată
+view.search.suggestions.tickets: Sisteme de tichete
+view.search.suggestions.reaction_roles: Roluri de reacție
+view.search.suggestions.welcome: Mesaje de bun venit
+view.search.suggestions.games: Boți de jocuri
+view.search.suggestions.stats: Statistici server
+view.search.suggestions.memes: Meme și distracție
+view.search.placeholder: Caută boți...
 #Support and ads
 view.support.server.description: Alătură-te serverului de suport al aplicației
+view.support.server.online_count: "{count} online"
+view.support.server.join_community: Alătură-te comunității
+view.support.server.join_button: ALĂTURĂ-TE
 view.remove_ads.description: Dezactivează permanent reclamele din aplicație
 #Bottom sheet
 view.bottom_sheet.select_reason: Selectează motivul
 view.bottom_sheet.choose_platform: Alegeți o platformă pentru vot
 view.bottom_sheet.more_options: Mai Multe Opțiuni
-#Additional translations
-view.bot.copy_id: Copiază ID
-view.bot.copy_url: Copiază URL Adăugare Bot
-view.settings.delete_account.title: Șterge contul
-view.settings.delete_account.description: Șterge permanent contul și toate datele
 #Error states
 view.error.no_bots_found: Nu s-au găsit bot-uri
 view.error.no_categories_found: Nu s-au găsit categorii
@@ -201,3 +201,4 @@ view.bot.link.website: Website
 view.bot.link.support: Support
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
+view.bot.link.more: Mai Mult
