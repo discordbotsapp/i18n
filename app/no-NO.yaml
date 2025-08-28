@@ -50,6 +50,8 @@ view.bot.stats.servers: Servere
 view.bot.stats.votes: Stemmer
 view.bot.promoted: Promotert
 view.bot.see_all: Se Alle
+view.bot.copy_id: Copy ID
+view.bot.copy_url: Copy Add Bot URL
 view.account.login.button: Logg inn med Discord
 view.account.my_bots.button: Mine Bots
 view.account.add_bot.button: Legg Til Bot
@@ -166,3 +168,37 @@ view.support.server.join_button: JOIN
 view.remove_ads.description: Deaktiver reklamer i appen permanent
 #Bottom sheet
 view.bottom_sheet.select_reason: Velg Årsak
+view.bottom_sheet.choose_platform: Choose a platform to upvote on
+view.bottom_sheet.more_options: More Options
+#Error states
+view.error.no_bots_found: No bots found
+view.error.no_categories_found: No categories found
+view.error.oops: Oops!
+view.error.screen_not_exist: This screen does not exist.
+view.error.go_to_explore: Go to Explore
+view.error.try_again: Try Again
+view.error.something_went_wrong: Something went wrong
+#Loading states
+view.loading.loading_title: Loading {title}...
+#Theme settings
+view.settings.dark_mode: Dark Mode
+#Alert messages
+view.alert.copied: Copied
+view.alert.bot_id_copied: "Bot ID {botId} copied to clipboard"
+view.alert.add_bot_url_copied: Add bot URL copied to clipboard
+view.alert.no_invite_url: No invite URL available for this bot
+view.alert.success: Success
+view.alert.ads_removed: Ads have been removed. Thank you!
+view.alert.purchase_failed: Purchase failed. Please try again.
+view.alert.restored: Restored
+view.alert.purchase_restored: Your purchase has been restored.
+view.alert.no_purchase: No Purchase
+view.alert.no_past_purchase: No past purchase found.
+view.alert.restore_failed: Failed to restore.
+view.alert.products_load_failed: Failed to load products
+#Link titles
+view.bot.link.website: Website
+view.bot.link.support: Support
+view.bot.link.github: GitHub
+view.bot.link.upvote: Upvote
+view.bot.link.more: More
