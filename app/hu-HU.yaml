@@ -50,7 +50,7 @@ view.bot.stats.servers: Szerverek
 view.bot.stats.votes: Szavazatok
 view.bot.promoted: Promótált
 view.bot.see_all: Összes Megtekintése
-view.bot.copy_id: Copy ID
+view.bot.copy_id: Azonosító másolása
 view.bot.copy_url: Copy Add Bot URL
 view.account.login.button: Bejelentkezés Discorddal
 view.account.my_bots.button: A botjaim
@@ -197,8 +197,8 @@ view.alert.no_past_purchase: No past purchase found.
 view.alert.restore_failed: Failed to restore.
 view.alert.products_load_failed: Failed to load products
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Weboldal
+view.bot.link.support: Támogatás
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
-view.bot.link.more: More
+view.bot.link.upvote: Szavazás
+view.bot.link.more: Több
