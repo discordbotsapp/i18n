@@ -51,7 +51,7 @@ view.bot.stats.votes: Stimmen
 view.bot.promoted: Beworben
 view.bot.see_all: Alle anzeigen
 view.bot.copy_id: ID kopieren
-view.bot.copy_url: Copy Add Bot URL
+view.bot.copy_url: Bot Einladungs URL kopieren
 view.account.login.button: Mit Discord anmelden
 view.account.my_bots.button: Meine Bots
 view.account.add_bot.button: Bot hinzufügen
@@ -76,7 +76,7 @@ view.settings.sign_in_required.message: Sie müssen sich anmelden, um auf die Ei
 view.settings.sign_out.title: Abmelden
 view.settings.sign_out.description: Von Ihrem Konto abmelden
 view.settings.delete_account.title: Konto löschen
-view.settings.delete_account.description: Permanently delete your account and all data
+view.settings.delete_account.description: Lösche dauerhaft dein Konto und alle Daten
 view.theme.title: Design
 view.languages.title: Sprache
 view.welcome.title: Willkommen bei Bots for Discord
@@ -149,56 +149,56 @@ view.navigation.categories: Kategorien
 view.navigation.bot_details: Bot-Details
 #Search suggestions
 view.search.suggestions.title: Suchvorschläge
-view.search.suggestions.music: Music Bots
+view.search.suggestions.music: Musik-Bots
 view.search.suggestions.leveling: Leveling & XP
-view.search.suggestions.ai_chatbot: AI Chatbots
-view.search.suggestions.moderation: Auto Moderation
-view.search.suggestions.tickets: Ticket Systems
-view.search.suggestions.reaction_roles: Reaction Roles
-view.search.suggestions.welcome: Welcome Messages
-view.search.suggestions.games: Gaming Bots
-view.search.suggestions.stats: Server Stats
+view.search.suggestions.ai_chatbot: KI-Chatbots
+view.search.suggestions.moderation: Automod
+view.search.suggestions.tickets: Ticket-Systeme
+view.search.suggestions.reaction_roles: Reaktionsrollen
+view.search.suggestions.welcome: Willkommens-Nachrichten
+view.search.suggestions.games: Spielbots
+view.search.suggestions.stats: Serverstatistik
 view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Nach Bots suchen...
 #Support and ads
 view.support.server.description: Treten Sie dem Support-Server der App bei
 view.support.server.online_count: "{count} online"
-view.support.server.join_community: Join the community
-view.support.server.join_button: JOIN
+view.support.server.join_community: Trete der Community bei
+view.support.server.join_button: BEITRETEN
 view.remove_ads.description: In-App-Werbung dauerhaft deaktivieren
 #Bottom sheet
 view.bottom_sheet.select_reason: Grund auswählen
-view.bottom_sheet.choose_platform: Choose a platform to upvote on
-view.bottom_sheet.more_options: More Options
+view.bottom_sheet.choose_platform: Wählen Sie eine Plattform für eine Bewertung
+view.bottom_sheet.more_options: Weitere Optionen
 #Error states
-view.error.no_bots_found: No bots found
-view.error.no_categories_found: No categories found
-view.error.oops: Oops!
-view.error.screen_not_exist: This screen does not exist.
-view.error.go_to_explore: Go to Explore
-view.error.try_again: Try Again
-view.error.something_went_wrong: Something went wrong
+view.error.no_bots_found: Keine Bots gefunden
+view.error.no_categories_found: Keine Kategorien gefunden
+view.error.oops: Hoppla!
+view.error.screen_not_exist: Dieser Bildschirm existiert nicht.
+view.error.go_to_explore: Jetzt entdecken
+view.error.try_again: Nochmals versuchen
+view.error.something_went_wrong: Irgendetwas ging schief
 #Loading states
-view.loading.loading_title: Loading {title}...
+view.loading.loading_title: Lade {title}...
 #Theme settings
-view.settings.dark_mode: Dark Mode
+view.settings.dark_mode: Dunkler Modus
 #Alert messages
-view.alert.copied: Copied
-view.alert.bot_id_copied: "Bot ID {botId} copied to clipboard"
-view.alert.add_bot_url_copied: Add bot URL copied to clipboard
-view.alert.no_invite_url: No invite URL available for this bot
-view.alert.success: Success
-view.alert.ads_removed: Ads have been removed. Thank you!
-view.alert.purchase_failed: Purchase failed. Please try again.
-view.alert.restored: Restored
-view.alert.purchase_restored: Your purchase has been restored.
-view.alert.no_purchase: No Purchase
-view.alert.no_past_purchase: No past purchase found.
-view.alert.restore_failed: Failed to restore.
-view.alert.products_load_failed: Failed to load products
+view.alert.copied: Erfolgreich kopiert
+view.alert.bot_id_copied: "Bot ID {botId} in Zwischenablage kopiert"
+view.alert.add_bot_url_copied: Bot Einladungs URL zur Zwischenablage kopiert
+view.alert.no_invite_url: Keine Einladungs-URL für diesen Bot verfügbar
+view.alert.success: Erfolgreich
+view.alert.ads_removed: Werbung wurde entfernt. Vielen Dank!
+view.alert.purchase_failed: Kauf gescheitert. Bitte versuche es noch mal.
+view.alert.restored: Wiederhergestellt
+view.alert.purchase_restored: Dein Kauf wurde wiederhergestellt.
+view.alert.no_purchase: Kein Kauf
+view.alert.no_past_purchase: Kein vergangener Kauf gefunden.
+view.alert.restore_failed: Wiederherstellung fehlgeschlagen.
+view.alert.products_load_failed: Produkte konnten nicht geladen werden
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Webseite
+view.bot.link.support: Kundendienst
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
-view.bot.link.more: More
+view.bot.link.upvote: Bewertung
+view.bot.link.more: Mehr
