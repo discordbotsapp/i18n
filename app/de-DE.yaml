@@ -12,28 +12,28 @@ global.footer.info: Bots for Discord App steht nicht mit Discord oder einer der 
 global.button.cancel: Abbrechen
 global.button.sign_in: Anmelden
 global.support_server.join: Support Server beitreten
-global.tag.music: Music
+global.tag.music: Musik
 global.tag.pokemon: Pokemon
-global.tag.soundboard: Soundboard
+global.tag.soundboard: Tonboard
 global.tag.moderation: Moderation
 global.tag.minecraft: Minecraft
-global.tag.trivia: Trivia
+global.tag.trivia: Quiz
 global.tag.fortnite: Fortnite
 global.tag.spotify: Spotify
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.social: Soziale Medien
+global.tag.fun: Spaß
+global.tag.economy: Wirtschaft
 global.tag.anime: Anime
-global.tag.game: Game
+global.tag.game: Spiel
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.leveling: Level
+global.tag.roleplay: Rollenspiel
+global.tag.logging: Protokollierung
+global.tag.utility: Nützlichkeit
 global.tag.reddit: Reddit
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Mehrzweck
 global.tag.twitch: Twitch
-global.tag.crypto: Crypto
+global.tag.crypto: Krypto
 view.bot.add.button: Hinzufügen
 view.bot.hide.button: Bot ausblenden
 view.bot.hide.title: Bot ausblenden
@@ -50,7 +50,7 @@ view.bot.stats.servers: Server
 view.bot.stats.votes: Stimmen
 view.bot.promoted: Beworben
 view.bot.see_all: Alle anzeigen
-view.bot.copy_id: Copy ID
+view.bot.copy_id: ID kopieren
 view.bot.copy_url: Copy Add Bot URL
 view.account.login.button: Mit Discord anmelden
 view.account.my_bots.button: Meine Bots
