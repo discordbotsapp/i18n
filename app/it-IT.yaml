@@ -12,26 +12,26 @@ global.footer.info: L'app Bots for Discord non è affiliata con Discord o con ne
 global.button.cancel: Annulla
 global.button.sign_in: Accedi
 global.support_server.join: Unisciti al Server di Supporto
-global.tag.music: Music
+global.tag.music: Musica
 global.tag.pokemon: Pokemon
 global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
+global.tag.moderation: Moderazione
 global.tag.minecraft: Minecraft
-global.tag.trivia: Trivia
+global.tag.trivia: Quiz
 global.tag.fortnite: Fortnite
 global.tag.spotify: Spotify
 global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.fun: Divertimento
+global.tag.economy: Economia
 global.tag.anime: Anime
-global.tag.game: Game
+global.tag.game: Gioco
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.leveling: Livelli
+global.tag.roleplay: Gioco di Ruolo
+global.tag.logging: Registro Attività
+global.tag.utility: Utilità
 global.tag.reddit: Reddit
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Multifunzione
 global.tag.twitch: Twitch
 global.tag.crypto: Crypto
 view.bot.add.button: Aggiungi
@@ -50,8 +50,8 @@ view.bot.stats.servers: Server
 view.bot.stats.votes: Voti
 view.bot.promoted: Promosso
 view.bot.see_all: Vedi Tutti
-view.bot.copy_id: Copy ID
-view.bot.copy_url: Copy Add Bot URL
+view.bot.copy_id: Copia ID
+view.bot.copy_url: Copia Aggiungi URL Bot
 view.account.login.button: Accedi con Discord
 view.account.my_bots.button: I Miei Bot
 view.account.add_bot.button: Aggiungi Bot
@@ -76,7 +76,7 @@ view.settings.sign_in_required.message: Devi accedere per accedere alle impostaz
 view.settings.sign_out.title: Disconnetti
 view.settings.sign_out.description: Disconnettiti dal tuo account
 view.settings.delete_account.title: Elimina Account
-view.settings.delete_account.description: Permanently delete your account and all data
+view.settings.delete_account.description: Elimina definitivamente il tuo account e tutti i dati
 view.theme.title: Tema
 view.languages.title: Lingua
 view.welcome.title: Benvenuto in Bots for Discord
@@ -149,56 +149,56 @@ view.navigation.categories: Categorie
 view.navigation.bot_details: Dettagli Bot
 #Search suggestions
 view.search.suggestions.title: Ricerche suggerite
-view.search.suggestions.music: Music Bots
-view.search.suggestions.leveling: Leveling & XP
-view.search.suggestions.ai_chatbot: AI Chatbots
-view.search.suggestions.moderation: Auto Moderation
-view.search.suggestions.tickets: Ticket Systems
-view.search.suggestions.reaction_roles: Reaction Roles
-view.search.suggestions.welcome: Welcome Messages
-view.search.suggestions.games: Gaming Bots
-view.search.suggestions.stats: Server Stats
+view.search.suggestions.music: Bot Musicali
+view.search.suggestions.leveling: Livello & XP
+view.search.suggestions.ai_chatbot: Chatbot con IA
+view.search.suggestions.moderation: Automoderazione
+view.search.suggestions.tickets: Sistemi Ticket
+view.search.suggestions.reaction_roles: Ruoli Reazione
+view.search.suggestions.welcome: Messaggi di benvenuto
+view.search.suggestions.games: Bot da Gioco
+view.search.suggestions.stats: Statistiche del Server
 view.search.suggestions.memes: Memes & Fun
 view.search.placeholder: Cerca bot...
 #Support and ads
 view.support.server.description: Unisciti al server di supporto dell'app
 view.support.server.online_count: "{count} online"
-view.support.server.join_community: Join the community
-view.support.server.join_button: JOIN
+view.support.server.join_community: Unisciti alla comunità
+view.support.server.join_button: UNISCITI
 view.remove_ads.description: Disabilita permanentemente gli annunci nell'app
 #Bottom sheet
 view.bottom_sheet.select_reason: Seleziona Motivo
-view.bottom_sheet.choose_platform: Choose a platform to upvote on
-view.bottom_sheet.more_options: More Options
+view.bottom_sheet.choose_platform: Scegli una piattaforma su cui votare
+view.bottom_sheet.more_options: Più Opzioni
 #Error states
-view.error.no_bots_found: No bots found
-view.error.no_categories_found: No categories found
+view.error.no_bots_found: Nessun bot trovato
+view.error.no_categories_found: Nessuna categoria trovata
 view.error.oops: Oops!
-view.error.screen_not_exist: This screen does not exist.
-view.error.go_to_explore: Go to Explore
-view.error.try_again: Try Again
-view.error.something_went_wrong: Something went wrong
+view.error.screen_not_exist: Questa schermata non esiste.
+view.error.go_to_explore: Vai ad Esplora
+view.error.try_again: Riprova
+view.error.something_went_wrong: Qualcosa è andato storto
 #Loading states
-view.loading.loading_title: Loading {title}...
+view.loading.loading_title: Caricamento {title}...
 #Theme settings
-view.settings.dark_mode: Dark Mode
+view.settings.dark_mode: Tema Scuro
 #Alert messages
-view.alert.copied: Copied
-view.alert.bot_id_copied: "Bot ID {botId} copied to clipboard"
-view.alert.add_bot_url_copied: Add bot URL copied to clipboard
-view.alert.no_invite_url: No invite URL available for this bot
-view.alert.success: Success
-view.alert.ads_removed: Ads have been removed. Thank you!
-view.alert.purchase_failed: Purchase failed. Please try again.
-view.alert.restored: Restored
-view.alert.purchase_restored: Your purchase has been restored.
-view.alert.no_purchase: No Purchase
-view.alert.no_past_purchase: No past purchase found.
-view.alert.restore_failed: Failed to restore.
-view.alert.products_load_failed: Failed to load products
+view.alert.copied: Copiato
+view.alert.bot_id_copied: "Bot ID {botId} copiato negli appunti"
+view.alert.add_bot_url_copied: Aggiungi URL del bot copiato negli appunti
+view.alert.no_invite_url: Nessun URL di invito disponibile per questo bot
+view.alert.success: Successo
+view.alert.ads_removed: Gli annunci sono stati rimossi. Grazie!
+view.alert.purchase_failed: Acquisto non effettuato. Riprova.
+view.alert.restored: Ripristinato
+view.alert.purchase_restored: Il tuo acquisto è stato ripristinato.
+view.alert.no_purchase: Nessun Acquisto
+view.alert.no_past_purchase: Nessun acquisto passato trovato.
+view.alert.restore_failed: Ripristino fallito.
+view.alert.products_load_failed: Impossibile caricare i prodotti
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Sito Web
+view.bot.link.support: Supporto
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
 view.bot.link.more: More
