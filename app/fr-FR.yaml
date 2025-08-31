@@ -28,10 +28,10 @@ global.tag.game: Jeu
 global.tag.meme: Même
 global.tag.leveling: Progression
 global.tag.roleplay: Rôleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.logging: Journalisation
+global.tag.utility: Utilitaire
 global.tag.reddit: Reddit
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Polyvalent
 global.tag.twitch: Twitch
 global.tag.crypto: Crypto
 view.bot.add.button: Ajouter
