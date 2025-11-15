@@ -12,28 +12,28 @@ global.footer.info: Bots for Discord uygulaması, Discord veya desteklenen Disco
 global.button.cancel: İptal
 global.button.sign_in: Giriş Yap
 global.support_server.join: Destek Sunucusuna Katıl
-global.tag.music: Music
+global.tag.music: Müzik
 global.tag.pokemon: Pokemon
 global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
+global.tag.moderation: Moderasyon
 global.tag.minecraft: Minecraft
-global.tag.trivia: Trivia
+global.tag.trivia: Bilgi Yarışması
 global.tag.fortnite: Fortnite
 global.tag.spotify: Spotify
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
+global.tag.social: Sosyal
+global.tag.fun: Eğlence
+global.tag.economy: Ekonomi
 global.tag.anime: Anime
-global.tag.game: Game
+global.tag.game: Oyun
 global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
+global.tag.leveling: Seviye Sistemi
+global.tag.roleplay: Rol Yapma
+global.tag.logging: Kayıt Tutma
+global.tag.utility: Yardımcı Araçlar
 global.tag.reddit: Reddit
-global.tag.multipurpose: Multipurpose
+global.tag.multipurpose: Çok Amaçlı
 global.tag.twitch: Twitch
-global.tag.crypto: Crypto
+global.tag.crypto: Kripto
 view.bot.add.button: Ekle
 view.bot.hide.button: Botu Gizle
 view.bot.hide.title: Botu Gizle
@@ -50,7 +50,7 @@ view.bot.stats.servers: Sunucular
 view.bot.stats.votes: Oylar
 view.bot.promoted: Sponsorlu
 view.bot.see_all: Tümünü Gör
-view.bot.copy_id: Copy ID
+view.bot.copy_id: Kimliği Kopyala
 view.bot.copy_url: Copy Add Bot URL
 view.account.login.button: Discord ile Giriş Yap
 view.account.my_bots.button: Botlarım
@@ -149,56 +149,56 @@ view.navigation.categories: Kategoriler
 view.navigation.bot_details: Bot Detayları
 #Search suggestions
 view.search.suggestions.title: Önerilen aramalar
-view.search.suggestions.music: Music Bots
-view.search.suggestions.leveling: Leveling & XP
-view.search.suggestions.ai_chatbot: AI Chatbots
-view.search.suggestions.moderation: Auto Moderation
-view.search.suggestions.tickets: Ticket Systems
-view.search.suggestions.reaction_roles: Reaction Roles
-view.search.suggestions.welcome: Welcome Messages
-view.search.suggestions.games: Gaming Bots
-view.search.suggestions.stats: Server Stats
-view.search.suggestions.memes: Memes & Fun
+view.search.suggestions.music: Müzik Botu
+view.search.suggestions.leveling: Seviye Atlama ve TP
+view.search.suggestions.ai_chatbot: YZ Sohbet Botu
+view.search.suggestions.moderation: Otomatik Moderasyon
+view.search.suggestions.tickets: Bilet Sistemi
+view.search.suggestions.reaction_roles: Tepki Rolleri
+view.search.suggestions.welcome: Hoş Geldiniz Mesajı
+view.search.suggestions.games: Oyun Botları
+view.search.suggestions.stats: Sunucu İstatistikleri
+view.search.suggestions.memes: Meme ve Eğlence
 view.search.placeholder: Bot arayın...
 #Support and ads
 view.support.server.description: Uygulamanın destek sunucusuna katılın
-view.support.server.online_count: "{count} online"
-view.support.server.join_community: Join the community
-view.support.server.join_button: JOIN
+view.support.server.online_count: "{count} çevrim içi"
+view.support.server.join_community: Topluluğa katılın
+view.support.server.join_button: KATIL
 view.remove_ads.description: Uygulama içi reklamları kalıcı olarak devre dışı bırakın
 #Bottom sheet
 view.bottom_sheet.select_reason: Neden Seçin
 view.bottom_sheet.choose_platform: Choose a platform to upvote on
-view.bottom_sheet.more_options: More Options
+view.bottom_sheet.more_options: Diğer Seçenekler
 #Error states
-view.error.no_bots_found: No bots found
-view.error.no_categories_found: No categories found
-view.error.oops: Oops!
+view.error.no_bots_found: Bot bulunamadı
+view.error.no_categories_found: Kategori bulunamadı
+view.error.oops: Hay aksi!
 view.error.screen_not_exist: This screen does not exist.
 view.error.go_to_explore: Go to Explore
-view.error.try_again: Try Again
+view.error.try_again: Tekrar Deneyin
 view.error.something_went_wrong: Something went wrong
 #Loading states
-view.loading.loading_title: Loading {title}...
+view.loading.loading_title: '{title} yükleniyor...'
 #Theme settings
-view.settings.dark_mode: Dark Mode
+view.settings.dark_mode: Koyu Mod
 #Alert messages
-view.alert.copied: Copied
-view.alert.bot_id_copied: "Bot ID {botId} copied to clipboard"
-view.alert.add_bot_url_copied: Add bot URL copied to clipboard
-view.alert.no_invite_url: No invite URL available for this bot
-view.alert.success: Success
+view.alert.copied: Kopyalandı
+view.alert.bot_id_copied: "Bot kimliği {botId} panoya kopyalandı"
+view.alert.add_bot_url_copied: Bot bağlantısı panoya kopyalandı
+view.alert.no_invite_url: Bu bot için davet bağlantısı mevcut değil
+view.alert.success: Başarılı
 view.alert.ads_removed: Ads have been removed. Thank you!
-view.alert.purchase_failed: Purchase failed. Please try again.
-view.alert.restored: Restored
-view.alert.purchase_restored: Your purchase has been restored.
-view.alert.no_purchase: No Purchase
-view.alert.no_past_purchase: No past purchase found.
-view.alert.restore_failed: Failed to restore.
-view.alert.products_load_failed: Failed to load products
+view.alert.purchase_failed: Satın alma işlemi başarısız oldu. Lütfen tekrar deneyin.
+view.alert.restored: Geri Yüklendi
+view.alert.purchase_restored: Satın alma işleminiz geri yüklendi.
+view.alert.no_purchase: Satın alma yok
+view.alert.no_past_purchase: Geçmiş satın alım bulunamadı.
+view.alert.restore_failed: Geri yükleme başarısız oldu.
+view.alert.products_load_failed: Ürünler yüklenemedi
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: Web Sitesi
+view.bot.link.support: Destek
 view.bot.link.github: GitHub
 view.bot.link.upvote: Upvote
-view.bot.link.more: More
+view.bot.link.more: Daha fazlası
