@@ -1,14 +1,14 @@
 ---
 global.navbar.explore: 탐색
-global.navbar.top_charts: 차트
+global.navbar.top_charts: 상위 차트
 global.navbar.account: 계정
 global.navbar.search: 검색
 global.app_bar.explore: 탐색
-global.app_bar.top_charts: 차트
+global.app_bar.top_charts: 상위 차트
 global.app_bar.account: 계정
 global.app_bar.settings: 설정
 global.app_bar.remove_ads: 광고 제거
-global.footer.info: Discord Bots App은 Discord 또는 다른 Discord 봇 사이트와 관련이 없습니다.
+global.footer.info: Bots for Discord App은 Discord나 지원하는 어떠한 Discord Bot Lists와도 관련이 없습니다.
 global.button.cancel: 취소
 global.button.sign_in: 로그인
 global.support_server.join: 지원 서버 참가
@@ -17,17 +17,17 @@ global.tag.pokemon: Pokemon
 global.tag.soundboard: 사운드보드
 global.tag.moderation: 관리
 global.tag.minecraft: Minecraft
-global.tag.trivia: 트리비아
+global.tag.trivia: 잡학
 global.tag.fortnite: Fortnite
 global.tag.spotify: Spotify
-global.tag.social: 소셜
+global.tag.social: 사회
 global.tag.fun: 재미
 global.tag.economy: 경제
 global.tag.anime: 애니메이션
 global.tag.game: 게임
 global.tag.meme: 밈
 global.tag.leveling: 레벨링
-global.tag.roleplay: 롤플레잉
+global.tag.roleplay: 역할놀이
 global.tag.logging: 기록
 global.tag.utility: 유용
 global.tag.reddit: Reddit
@@ -45,13 +45,13 @@ view.bot.unhide.title: 봇 숨김 해제
 view.bot.unhide.message: 정말로 이 봇의 숨김을 해제할까요?
 view.bot.stats.ratings: 평점
 view.bot.stats.server_count: 서버 수
-view.bot.stats.vote_count: 투표 수
+view.bot.stats.vote_count: 추천 수
 view.bot.stats.servers: 서버
-view.bot.stats.votes: 투표
-view.bot.promoted: 프로모션
+view.bot.stats.votes: 추천
+view.bot.promoted: 홍보
 view.bot.see_all: 모두 보기
-view.bot.copy_id: Copy ID
-view.bot.copy_url: Copy Add Bot URL
+view.bot.copy_id: ID 복사
+view.bot.copy_url: 봇 추가 URL 복사
 view.account.login.button: Discord로 로그인
 view.account.my_bots.button: 내 봇
 view.account.add_bot.button: 봇 추가
@@ -76,7 +76,7 @@ view.settings.sign_in_required.message: 설정에 접근하려면 로그인이 �
 view.settings.sign_out.title: 로그아웃
 view.settings.sign_out.description: 계정에서 로그아웃해요
 view.settings.delete_account.title: 계정 삭제
-view.settings.delete_account.description: 계정과 모든 데이터를 영구적으로 삭제해요
+view.settings.delete_account.description: 계정과 모든 자료를 영구적으로 삭제해요
 view.theme.title: 테마
 view.languages.title: 언어
 view.welcome.title: Bots for Discord에 오신 것을 환영해요
@@ -97,12 +97,12 @@ view.explore.highest_rated.description: 사용자로부터 가장 높은 평점�
 view.explore.highest_rated.title: 최고 평점
 view.explore.most_popular.description: 가장 많은 서버에 있는 봇
 view.explore.most_popular.title: 최다 인기
-view.explore.most_voted.description: 이번 달 가장 많은 투표를 받은 봇
-view.explore.most_voted.title: 최다 득표
+view.explore.most_voted.description: 이번 달 가장 많은 추천을 받은 봇
+view.explore.most_voted.title: 최다 추천
 view.top_charts.most_popular: 최다 인기
-view.top_charts.most_voted: 최다 득표
+view.top_charts.most_voted: 최다 추천
 view.submit_bot.error.title: 봇 목록을 불러오지 못함
-view.submit_bot.error.description: 사용 가능한 봇 목록을 불러올 수 없었어요. 나중에 다시 시도해 주세요.
+view.submit_bot.error.description: 사용 가능한 봇 목록을 불러오지 못했어요. 나중에 다시 시도해 주세요.
 #Alert dialogs and error messages
 view.alert.sign_out.title: 로그아웃
 view.alert.sign_out.message: 정말로 로그아웃할까요?
@@ -115,14 +115,14 @@ view.alert.error.delete_account_failed: 계정을 삭제하지 못했어요. 나
 view.alert.error.submit_report_failed: 신고를 제출하지 못했어요. 나중에 다시 시도해 주세요.
 view.alert.error.no_invite_link: "{} 서버는 초대 링크가 없어요."
 view.alert.error.open_invite_failed: 초대 링크를 열지 못했어요.
-view.alert.error.discord_not_installed: Discord를 열지 못했어요. 장치에 Discord가 설치됐는지 확인해 주세요.
+view.alert.error.discord_not_installed: Discord를 열지 못했어요. 기기에 Discord가 설치됐는지 확인해 주세요.
 view.alert.error.open_support_failed: 지원 서버의 링크를 열지 못했어요.
 #Delete account dialogs
 view.alert.delete_account.title: 계정 삭제
-view.alert.delete_account.message: 정말로 계정을 삭제할까요? 이 작업은 되돌릴 수 없으며 모든 데이터가 영구적으로 삭제돼요.
+view.alert.delete_account.message: 정말로 계정을 삭제할까요? 이 작업은 되돌릴 수 없으며 모든 자료가 영구적으로 삭제돼요.
 view.alert.delete_account.confirm: 삭제
 view.alert.delete_account.final.title: 계정 삭제
-view.alert.delete_account.final.message: 확실한가요? 이렇게 하면 계정 및 관련 데이터가 영구적으로 지워져요.
+view.alert.delete_account.final.message: 확실한가요? 이렇게 하면 계정 및 관련 자료가 영구적으로 지워져요.
 #Report bot screen
 view.report.title: 봇 신고
 view.report.header.title: 봇 신고
@@ -168,37 +168,37 @@ view.support.server.join_button: 참가하기
 view.remove_ads.description: 앱 내 광고를 영구적으로 비활성화해요
 #Bottom sheet
 view.bottom_sheet.select_reason: 사유 선택
-view.bottom_sheet.choose_platform: Choose a platform to upvote on
-view.bottom_sheet.more_options: More Options
+view.bottom_sheet.choose_platform: 추천할 플랫폼을 고르세요
+view.bottom_sheet.more_options: 더 많은 설정
 #Error states
-view.error.no_bots_found: No bots found
-view.error.no_categories_found: No categories found
-view.error.oops: Oops!
-view.error.screen_not_exist: This screen does not exist.
-view.error.go_to_explore: Go to Explore
-view.error.try_again: Try Again
-view.error.something_went_wrong: Something went wrong
+view.error.no_bots_found: 찾은 봇이 없어요
+view.error.no_categories_found: 찾은 분류가 없어요
+view.error.oops: 이런!
+view.error.screen_not_exist: 이 화면이 존재하지 않아요.
+view.error.go_to_explore: 탐색으로 이동
+view.error.try_again: 다시 시도
+view.error.something_went_wrong: 무언가 잘못됐어요
 #Loading states
-view.loading.loading_title: Loading {title}...
+view.loading.loading_title: '{title} 불러오는 중...'
 #Theme settings
-view.settings.dark_mode: Dark Mode
+view.settings.dark_mode: 어두운 모드
 #Alert messages
-view.alert.copied: Copied
-view.alert.bot_id_copied: "Bot ID {botId} copied to clipboard"
-view.alert.add_bot_url_copied: Add bot URL copied to clipboard
-view.alert.no_invite_url: No invite URL available for this bot
-view.alert.success: Success
-view.alert.ads_removed: Ads have been removed. Thank you!
-view.alert.purchase_failed: Purchase failed. Please try again.
-view.alert.restored: Restored
-view.alert.purchase_restored: Your purchase has been restored.
-view.alert.no_purchase: No Purchase
-view.alert.no_past_purchase: No past purchase found.
-view.alert.restore_failed: Failed to restore.
-view.alert.products_load_failed: Failed to load products
+view.alert.copied: 복사 완료
+view.alert.bot_id_copied: "봇 ID({botId})를 클립보드에 복사했어요"
+view.alert.add_bot_url_copied: 봇 URL을 클립보드에 복사했어요
+view.alert.no_invite_url: 이 봇의 초대 URL을 사용할 수 없어요
+view.alert.success: 성공
+view.alert.ads_removed: 광고를 제거했어요. 감사합니다!
+view.alert.purchase_failed: 구매에 실패했어요. 다시 시도해 주세요.
+view.alert.restored: 복원 완료
+view.alert.purchase_restored: 구매 복원을 완료했어요.
+view.alert.no_purchase: 구매하지 않음
+view.alert.no_past_purchase: 과거 구매를 찾지 못했어요.
+view.alert.restore_failed: 복원에 실패했어요.
+view.alert.products_load_failed: 제품을 불러오지 못했어요
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
+view.bot.link.website: 웹사이트
+view.bot.link.support: 지원
 view.bot.link.github: GitHub
-view.bot.link.upvote: Upvote
-view.bot.link.more: More
+view.bot.link.upvote: 추천
+view.bot.link.more: 더 보기
