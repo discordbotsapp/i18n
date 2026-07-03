@@ -12,28 +12,28 @@ global.footer.info: تطبيق Bots for Discord غير مرتبط بـ Discord �
 global.button.cancel: إلغاء
 global.button.sign_in: تسجيل الدخول
 global.support_server.join: انضم إلى خادم الدعم
-global.tag.music: Music
-global.tag.pokemon: Pokemon
-global.tag.soundboard: Soundboard
-global.tag.moderation: Moderation
-global.tag.minecraft: Minecraft
-global.tag.trivia: Trivia
-global.tag.fortnite: Fortnite
-global.tag.spotify: Spotify
-global.tag.social: Social
-global.tag.fun: Fun
-global.tag.economy: Economy
-global.tag.anime: Anime
-global.tag.game: Game
-global.tag.meme: Meme
-global.tag.leveling: Leveling
-global.tag.roleplay: Roleplay
-global.tag.logging: Logging
-global.tag.utility: Utility
-global.tag.reddit: Reddit
-global.tag.multipurpose: Multipurpose
-global.tag.twitch: Twitch
-global.tag.crypto: Crypto
+global.tag.music: الموسيقى
+global.tag.pokemon: بوكيمون
+global.tag.soundboard: لوحات الصوت
+global.tag.moderation: الإشراف
+global.tag.minecraft: ماينكرافت
+global.tag.trivia: تريفيا
+global.tag.fortnite: فورتنايت
+global.tag.spotify: سبوتيفاي
+global.tag.social: اجتماعي
+global.tag.fun: متعة
+global.tag.economy: الاقتصاد
+global.tag.anime: أنيمي
+global.tag.game: لعبة
+global.tag.meme: ميمات
+global.tag.leveling: المستوى
+global.tag.roleplay: دور اللعاب
+global.tag.logging: التسجيل
+global.tag.utility: الأدوات المساعدة
+global.tag.reddit: ريديت
+global.tag.multipurpose: متعددة الأغراض
+global.tag.twitch: تويتش
+global.tag.crypto: العملة المشفرة
 view.bot.add.button: إضافة
 view.bot.hide.button: إخفاء البوت
 view.bot.hide.title: إخفاء البوت
@@ -50,8 +50,8 @@ view.bot.stats.servers: خوادم
 view.bot.stats.votes: أصوات
 view.bot.promoted: مروج
 view.bot.see_all: عرض الكل
-view.bot.copy_id: Copy ID
-view.bot.copy_url: Copy Add Bot URL
+view.bot.copy_id: نسخ المعرف
+view.bot.copy_url: نسخ رابط إضافة بوت
 view.account.login.button: تسجيل الدخول باستخدام ديسكورد
 view.account.my_bots.button: البوت الخاص بي
 view.account.add_bot.button: إضافة بوت
@@ -76,7 +76,7 @@ view.settings.sign_in_required.message: تحتاج إلى تسجيل الدخو�
 view.settings.sign_out.title: تسجيل الخروج
 view.settings.sign_out.description: تسجيل الخروج من حسابك
 view.settings.delete_account.title: حذف الحساب
-view.settings.delete_account.description: Permanently delete your account and all data
+view.settings.delete_account.description: حذف حسابك و جميع البيانات بشكل دائم
 view.theme.title: المظهر
 view.languages.title: اللغة
 view.welcome.title: مرحباً بك في Bots for Discord
@@ -149,16 +149,16 @@ view.navigation.categories: الفئات
 view.navigation.bot_details: تفاصيل البوت
 #Search suggestions
 view.search.suggestions.title: عمليات بحث مقترحة
-view.search.suggestions.music: Music Bots
-view.search.suggestions.leveling: Leveling & XP
-view.search.suggestions.ai_chatbot: AI Chatbots
-view.search.suggestions.moderation: Auto Moderation
-view.search.suggestions.tickets: Ticket Systems
-view.search.suggestions.reaction_roles: Reaction Roles
-view.search.suggestions.welcome: Welcome Messages
-view.search.suggestions.games: Gaming Bots
-view.search.suggestions.stats: Server Stats
-view.search.suggestions.memes: Memes & Fun
+view.search.suggestions.music: بوتات الموسيقى
+view.search.suggestions.leveling: المستوى و XP
+view.search.suggestions.ai_chatbot: بوتات الدردشة بالذكاء الاصطناعي
+view.search.suggestions.moderation: الرقابة التلقائية
+view.search.suggestions.tickets: نظام التذاكر
+view.search.suggestions.reaction_roles: الأدوار التفاعلية
+view.search.suggestions.welcome: رسالة الترحيب
+view.search.suggestions.games: بوتات الألعاب
+view.search.suggestions.stats: إحصائيات السيرفر
+view.search.suggestions.memes: ميمات ومرح
 view.search.placeholder: البحث عن البوتات...
 #Support and ads
 view.support.server.description: انضم إلى خادم دعم التطبيق
