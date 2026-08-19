@@ -16,17 +16,17 @@ global.tag.music: संगीत
 global.tag.pokemon: Pokemon
 global.tag.soundboard: साउंडबोर्ड
 global.tag.moderation: संचालन
-global.tag.minecraft: Minecraft
+global.tag.minecraft: माइनक्राफ्ट
 global.tag.trivia: प्रश्नोत्तरी
 global.tag.fortnite: फोर्टनाइट
 global.tag.spotify: स्पॉटिफ़ाई
-global.tag.social: स्पॉटिफ़ाई
+global.tag.social: सामाजिक
 global.tag.fun: मनोरंजन
-global.tag.economy: Economy
-global.tag.anime: Anime
+global.tag.economy: अर्थशास्त्र
+global.tag.anime: एनीमे
 global.tag.game: खेल
 global.tag.meme: मीम
-global.tag.leveling: Leveling
+global.tag.leveling: स्तर बढ़ाना
 global.tag.roleplay: भूमिका निभाना
 global.tag.logging: रिकॉर्ड रखना
 global.tag.utility: उपयोगिता
@@ -188,17 +188,17 @@ view.alert.bot_id_copied: "\nक्लिपबोर्ड पर कॉपी 
 view.alert.add_bot_url_copied: बॉट जोड़ने का URL क्लिपबोर्ड पर कॉपी हो गया
 view.alert.no_invite_url: इस बॉट के लिए कोई इनवाइट URL उपलब्ध नहीं है
 view.alert.success: सफल
-view.alert.ads_removed: Ads have been removed. Thank you!
+view.alert.ads_removed: विज्ञापन हटा दिए गए हैं। धन्यवाद!
 view.alert.purchase_failed: Purchase failed. Please try again.
-view.alert.restored: Restored
-view.alert.purchase_restored: Your purchase has been restored.
-view.alert.no_purchase: No Purchase
-view.alert.no_past_purchase: No past purchase found.
+view.alert.restored: पुनर्स्थापित
+view.alert.purchase_restored: खरीदारी विफल रही। कृपया दोबारा प्रयास करें।
+view.alert.no_purchase: कोई खरीदारी नहीं
+view.alert.no_past_purchase: खरीदारी नहीं मिली।
 view.alert.restore_failed: Failed to restore.
-view.alert.products_load_failed: Failed to load products
+view.alert.products_load_failed: पुनर्स्थापित करने में विफल।
 #Link titles
-view.bot.link.website: Website
-view.bot.link.support: Support
-view.bot.link.github: GitHub
+view.bot.link.website: वेबसाइट
+view.bot.link.support: सहायता
+view.bot.link.github: गिटहब
 view.bot.link.upvote: Upvote
 view.bot.link.more: More
